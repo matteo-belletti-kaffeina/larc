@@ -1,0 +1,23 @@
+2018-10-31T14:36:51+00:00 CRITICAL Uncaught Error: Call to undefined function submit_button() in /var/www/vhosts/k00.it/larcdev.k00.it/wp-admin/includes/file.php:1767
+Stack trace:
+#0 /var/www/vhosts/k00.it/larcdev.k00.it/wp-content/plugins/trx_addons/includes/plugin.files.php(140): request_filesystem_credentials('http://larcdev....', 'ftpext', false, false, Array)
+#1 /var/www/vhosts/k00.it/larcdev.k00.it/wp-includes/class-wp-hook.php(286): trx_addons_init_filesystem('')
+#2 /var/www/vhosts/k00.it/larcdev.k00.it/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/vhosts/k00.it/larcdev.k00.it/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/vhosts/k00.it/larcdev.k00.it/wp-settings.php(434): do_action('after_setup_the...')
+#5 /var/www/vhosts/k00.it/larcdev.k00.it/wp-config.php(90): require_once('/var/www/vhosts...')
+#6 /var/www/vhosts/k00.it/larcdev.k00.it/wp-load.php(37): require_once('/var/www/vhosts...')
+#7 /var/www/vhosts/k00.it/larcdev.k00.it/wp-admin/admin-ajax.php(22): require_once('/var/www/v
+
+2018-10-31T17:21:58+00:00 CRITICAL Uncaught Error: Call to undefined function submit_button() in /var/www/vhosts/k00.it/larcdev.k00.it/wp-admin/includes/file.php:1767
+Stack trace:
+#0 /var/www/vhosts/k00.it/larcdev.k00.it/wp-content/themes/luxmed/includes/utils.php(689): request_filesystem_credentials('http://larcdev....', 'ftpext', false, false, Array)
+#1 /var/www/vhosts/k00.it/larcdev.k00.it/wp-includes/class-wp-hook.php(286): luxmed_init_filesystem('')
+#2 /var/www/vhosts/k00.it/larcdev.k00.it/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(true, Array)
+#3 /var/www/vhosts/k00.it/larcdev.k00.it/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/vhosts/k00.it/larcdev.k00.it/wp-settings.php(434): do_action('after_setup_the...')
+#5 /var/www/vhosts/k00.it/larcdev.k00.it/wp-config.php(90): require_once('/var/www/vhosts...')
+#6 /var/www/vhosts/k00.it/larcdev.k00.it/wp-load.php(37): require_once('/var/www/vhosts...')
+#7 /var/www/vhosts/k00.it/larcdev.k00.it/wp-admin/admin-ajax.php(22): require_once('/var/www/vhosts...')
+#8 
+

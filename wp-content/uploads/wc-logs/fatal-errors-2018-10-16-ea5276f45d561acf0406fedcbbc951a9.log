@@ -1,0 +1,10 @@
+2018-10-16T17:40:58+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /var/www/vhosts/k00.it/larcdev.k00.it/wp-content/plugins/ajax-search-in-a-table/ajax-search-backend.php:20
+Stack trace:
+#0 {main}
+  thrown
+
+2018-10-16T17:41:00+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /var/www/vhosts/k00.it/larcdev.k00.it/wp-content/plugins/ajax-search-in-a-table/ajax-search-backend.php:20
+Stack trace:
+#0 {main}
+  thrown
+

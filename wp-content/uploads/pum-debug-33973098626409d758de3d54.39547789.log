@@ -1,0 +1,4 @@
+Popup Maker Debug Logs:
+2023-3-09 13:55:52 - Log file initialized
+2023-3-09 13:55:52 - Cannot access cache file when tested. Tested file: https://larc.it/wp-content/uploads/pum/pum-site-styles.css Error given: cURL error 28: Operation timed out after 5001 milliseconds with 0 out of -1 bytes received
+2023-5-04 14:08:55 - Cannot access cache file when tested. Status code received was: 404

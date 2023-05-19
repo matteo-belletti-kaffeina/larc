@@ -1,0 +1,34 @@
+2018-10-19T11:25:58+00:00 CRITICAL Uncaught Error: Call to undefined function submit_button() in /var/www/vhosts/k00.it/larcdev.k00.it/wp-admin/includes/file.php:1767
+Stack trace:
+#0 /var/www/vhosts/k00.it/larcdev.k00.it/wp-content/plugins/trx_addons/includes/plugin.files.php(140): request_filesystem_credentials('http://larcdev....', 'ftpext', false, false, Array)
+#1 /var/www/vhosts/k00.it/larcdev.k00.it/wp-includes/class-wp-hook.php(286): trx_addons_init_filesystem('')
+#2 /var/www/vhosts/k00.it/larcdev.k00.it/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/vhosts/k00.it/larcdev.k00.it/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/vhosts/k00.it/larcdev.k00.it/wp-settings.php(434): do_action('after_setup_the...')
+#5 /var/www/vhosts/k00.it/larcdev.k00.it/wp-config.php(90): require_once('/var/www/vhosts...')
+#6 /var/www/vhosts/k00.it/larcdev.k00.it/wp-load.php(37): require_once('/var/www/vhosts...')
+#7 /var/www/vhosts/k00.it/larcdev.k00.it/wp-admin/admin-ajax.php(22): require_once('/var/www/v
+
+2018-10-19T11:56:05+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on null in /var/www/vhosts/k00.it/larcdev.k00.it/wp-content/themes/luxmed-child/functions.php:67
+Stack trace:
+#0 /var/www/vhosts/k00.it/larcdev.k00.it/wp-includes/class-wp-hook.php(286): generate_custom_title('')
+#1 /var/www/vhosts/k00.it/larcdev.k00.it/wp-includes/plugin.php(203): WP_Hook->apply_filters('', Array)
+#2 /var/www/vhosts/k00.it/larcdev.k00.it/wp-includes/general-template.php(959): apply_filters('pre_get_documen...', '')
+#3 /var/www/vhosts/k00.it/larcdev.k00.it/wp-includes/general-template.php(1076): wp_get_document_title()
+#4 /var/www/vhosts/k00.it/larcdev.k00.it/wp-includes/class-wp-hook.php(286): _wp_render_title_tag('')
+#5 /var/www/vhosts/k00.it/larcdev.k00.it/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /var/www/vhosts/k00.it/larcdev.k00.it/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /var/www/vhosts/k00.it/larcdev.k00.it/wp-includes/general-template.php(2614): do_action('wp_head')
+#8 /var/www/v
+
+2018-10-19T12:12:53+00:00 CRITICAL Uncaught Error: Call to undefined function submit_button() in /var/www/vhosts/k00.it/larcdev.k00.it/wp-admin/includes/file.php:1767
+Stack trace:
+#0 /var/www/vhosts/k00.it/larcdev.k00.it/wp-content/plugins/trx_addons/includes/plugin.files.php(140): request_filesystem_credentials('http://larcdev....', 'ftpext', false, false, Array)
+#1 /var/www/vhosts/k00.it/larcdev.k00.it/wp-includes/class-wp-hook.php(286): trx_addons_init_filesystem('')
+#2 /var/www/vhosts/k00.it/larcdev.k00.it/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/vhosts/k00.it/larcdev.k00.it/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/vhosts/k00.it/larcdev.k00.it/wp-settings.php(434): do_action('after_setup_the...')
+#5 /var/www/vhosts/k00.it/larcdev.k00.it/wp-config.php(90): require_once('/var/www/vhosts...')
+#6 /var/www/vhosts/k00.it/larcdev.k00.it/wp-load.php(37): require_once('/var/www/vhosts...')
+#7 /var/www/vhosts/k00.it/larcdev.k00.it/wp-admin/admin-ajax.php(22): require_once('/var/www/v
+
