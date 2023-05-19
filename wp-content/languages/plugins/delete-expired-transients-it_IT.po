@@ -1,0 +1,160 @@
+# Translation of Plugins - Delete Expired Transients - Stable (latest release) in Italian
+# This file is distributed under the same license as the Plugins - Delete Expired Transients - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-26 02:43:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: it\n"
+"Project-Id-Version: Plugins - Delete Expired Transients - Stable (latest release)\n"
+
+#: views/admin-tools-page.php:51
+msgctxt "tools page submit button"
+msgid "Delete"
+msgstr "Elimina"
+
+#: includes/class.DelxtransSite.php:67
+msgid "All obsolete WooCommerce sessions deleted."
+msgstr "Eliminate tutte le sessioni obsolete di WooCommerce."
+
+#: views/admin-tools-page.php:21
+msgid "Obsolete WooCommerce sessions: %s"
+msgstr "Sessioni obsolete di WooCommerce: %s"
+
+#: views/admin-tools-page.php:29
+msgid "Delete the selected items immediately"
+msgstr "Elimina immediatamente gli elementi selezionati."
+
+#: views/admin-tools-page.php:43
+msgid "obsolete sessions from WooCommerce version 2.4 and earlier"
+msgstr "sessioni obsolete di WooCommerce versione 2.4 e precedenti"
+
+#: includes/class.DelxtransSiteListTable.php:38
+msgid "Blog Name"
+msgstr "Nome Blog"
+
+#: includes/class.DelxtransSiteListTable.php:37
+msgid "Blog ID"
+msgstr "ID blog"
+
+#: includes/class.DelxtransSiteListTable.php:62
+#: includes/class.DelxtransSiteListTable.php:148
+msgid "Delete all"
+msgstr "Elimina tutto"
+
+#: includes/class.DelxtransPlugin.php:171
+msgctxt "plugin details links"
+msgid "Donate"
+msgstr "Fai una donazione"
+
+#. Plugin URI of the plugin/theme
+msgid "https://shop.webaware.com.au/downloads/delete-expired-transients/"
+msgstr "https://shop.webaware.com.au/downloads/delete-expired-transients/"
+
+#. Author URI of the plugin/theme
+msgid "https://shop.webaware.com.au/"
+msgstr "https://shop.webaware.com.au/"
+
+#. Author of the plugin/theme
+msgid "WebAware"
+msgstr "WebAware"
+
+#: includes/class.DelxtransSiteListTable.php:24
+msgctxt "a single site in network"
+msgid "Blog"
+msgstr "Blog"
+
+#: includes/class.DelxtransSiteListTable.php:25
+msgctxt "sites in network"
+msgid "Blogs"
+msgstr "Blog"
+
+#: includes/class.DelxtransPlugin.php:169
+msgctxt "plugin details links"
+msgid "Rating"
+msgstr "Valutazione"
+
+#: includes/class.DelxtransNetwork.php:60 includes/class.DelxtransSite.php:57
+msgid "Expired transients deleted."
+msgstr "Transient scaduti eliminati."
+
+#: includes/class.DelxtransNetwork.php:61 includes/class.DelxtransSite.php:62
+msgid "All transients deleted."
+msgstr "Tutti i transient eliminati."
+
+#: includes/class.DelxtransNetwork.php:62
+msgid "Expired site transients deleted."
+msgstr "Transient scaduti del sito eliminati."
+
+#: includes/class.DelxtransNetwork.php:63
+msgid "All site transients deleted."
+msgstr "Tutti i transient del sito eliminati."
+
+#: includes/class.DelxtransPlugin.php:168
+msgctxt "plugin details links"
+msgid "Get help"
+msgstr "Ottieni aiuto"
+
+#. #-#-#-#-#  delete-expired-transients-code.pot (Delete Expired Transients
+#. 2.0.7)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: views/admin-network-page.php:10 views/admin-tools-page.php:10
+msgid "Delete Expired Transients"
+msgstr "Delete Expired Transients"
+
+#: includes/class.DelxtransSiteListTable.php:39
+msgid "Expired transients"
+msgstr "Transient scaduti"
+
+#: includes/class.DelxtransSiteListTable.php:40
+msgid "Total transients"
+msgstr "Transient totali"
+
+#: views/admin-network-page.php:19
+msgid "Site Transients: %1$s expired, %2$s total"
+msgstr "Transient del sito: %1$s scaduti, %2$s totali"
+
+#: views/admin-network-page.php:26
+msgid "Delete expired site transients"
+msgstr "Elimina i transient del sito scaduti"
+
+#: views/admin-network-page.php:31
+msgid "Delete all site transients"
+msgstr "Elimina tutti i transient del sito"
+
+#: views/admin-tools-page.php:18
+msgid "Expired transients: %s"
+msgstr "Transient scaduti: %s"
+
+#: views/admin-tools-page.php:34
+msgid "expired transients"
+msgstr "Transient scaduti"
+
+#: views/admin-tools-page.php:38
+msgid "all transients -- use with caution!"
+msgstr "Tutti i transient -- Usare con cautela!"
+
+#: includes/class.DelxtransPlugin.php:170
+msgctxt "plugin details links"
+msgid "Translate"
+msgstr "Traduci"
+
+#: views/admin-tools-page.php:19
+msgid "Total transients: %s"
+msgstr "Transient totali: %s"
+
+#. Description of the plugin/theme
+msgid "delete old, expired transients from WordPress wp_options table"
+msgstr "Elimina i vecchi transient, scaduti, dalla tabella wp_options del database di WordPress."
+
+#: includes/class.DelxtransSiteListTable.php:61
+#: includes/class.DelxtransSiteListTable.php:144
+msgid "Delete expired"
+msgstr "Elimina scaduti"
+
+#: includes/class.DelxtransNetwork.php:30 includes/class.DelxtransSite.php:28
+msgid "Delete Transients"
+msgstr "Elimina transient"

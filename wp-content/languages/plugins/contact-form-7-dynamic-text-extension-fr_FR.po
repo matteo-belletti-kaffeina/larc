@@ -1,0 +1,60 @@
+# Translation of Plugins - Contact Form 7 &#8211; Dynamic Text Extension - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Contact Form 7 &#8211; Dynamic Text Extension - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-07 06:24:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Contact Form 7 &#8211; Dynamic Text Extension - Stable (latest release)\n"
+
+#. Plugin Name of the plugin
+msgid "Contact Form 7 - Dynamic Text Extension"
+msgstr "Contact Form 7 - Dynamic Text Extension"
+
+#: includes/admin.php:219
+msgid "Insert Tag"
+msgstr "Insérer Tag"
+
+#: includes/admin.php:190
+msgid "Class attribute"
+msgstr "Class attribute"
+
+#: includes/admin.php:177
+msgid "Id attribute"
+msgstr "Id attribute"
+
+#: includes/admin.php:134
+msgid "Dynamic value"
+msgstr "Dynamic value"
+
+#: includes/admin.php:121
+msgid "Name"
+msgstr "Name"
+
+#: includes/admin.php:113
+msgid "Required field"
+msgstr "Champ requis"
+
+#: includes/admin.php:107
+msgid "Field type"
+msgstr "Type de champ"
+
+#: includes/admin.php:81
+msgid "Generate a form-tag for a hidden input field, with a dynamically generated default value."
+msgstr "Générer une balise de formulaire pour une zone de saisie masquée, avec une valeur par défaut générée dynamiquement."
+
+#: includes/admin.php:62
+msgid "dynamic hidden"
+msgstr "dynamic hidden"
+
+#: includes/admin.php:54
+msgid "dynamic text"
+msgstr "Texte dynamique"
+
+#: includes/admin.php:84
+msgid "Generate a form-tag for a single-line plain text input field, with a dynamically generated default value."
+msgstr "Générez une balise de formulaire pour une zone de saisie de texte brut d’une seule ligne, avec une valeur par défaut générée dynamiquement."

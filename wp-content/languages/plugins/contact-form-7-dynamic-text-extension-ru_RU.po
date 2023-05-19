@@ -1,0 +1,60 @@
+# Translation of Plugins - Contact Form 7 &#8211; Dynamic Text Extension - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Contact Form 7 &#8211; Dynamic Text Extension - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-30 20:11:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Contact Form 7 &#8211; Dynamic Text Extension - Stable (latest release)\n"
+
+#. Plugin Name of the plugin
+msgid "Contact Form 7 - Dynamic Text Extension"
+msgstr "Contact Form 7 - Dynamic Text Extension"
+
+#: includes/admin.php:219
+msgid "Insert Tag"
+msgstr "Вставить тег"
+
+#: includes/admin.php:190
+msgid "Class attribute"
+msgstr "Атрибут Class"
+
+#: includes/admin.php:177
+msgid "Id attribute"
+msgstr "Атрибут Id"
+
+#: includes/admin.php:134
+msgid "Dynamic value"
+msgstr "Динамическое значение"
+
+#: includes/admin.php:121
+msgid "Name"
+msgstr "Имя"
+
+#: includes/admin.php:113
+msgid "Required field"
+msgstr "Обязательное поле"
+
+#: includes/admin.php:107
+msgid "Field type"
+msgstr "Тип поля"
+
+#: includes/admin.php:81
+msgid "Generate a form-tag for a hidden input field, with a dynamically generated default value."
+msgstr "Создание тега формы для скрытого поля с динамически генерируемым значением по умолчанию."
+
+#: includes/admin.php:84
+msgid "Generate a form-tag for a single-line plain text input field, with a dynamically generated default value."
+msgstr "Создание тега формы для однострочного поля ввода простого текста с динамически генерируемым значением по умолчанию."
+
+#: includes/admin.php:62
+msgid "dynamic hidden"
+msgstr "динамичное скрытое"
+
+#: includes/admin.php:54
+msgid "dynamic text"
+msgstr "динамичное текстовое"

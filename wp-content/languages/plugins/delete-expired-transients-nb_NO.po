@@ -1,0 +1,160 @@
+# Translation of Plugins - Delete Expired Transients - Stable (latest release) in Norwegian (Bokmål)
+# This file is distributed under the same license as the Plugins - Delete Expired Transients - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-18 09:28:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Plugins - Delete Expired Transients - Stable (latest release)\n"
+
+#: views/admin-tools-page.php:51
+msgctxt "tools page submit button"
+msgid "Delete"
+msgstr "Slett"
+
+#: views/admin-tools-page.php:43
+msgid "obsolete sessions from WooCommerce version 2.4 and earlier"
+msgstr "utgåtte økter fra WooCommerce versjon 2.4 eller eldre"
+
+#: views/admin-tools-page.php:29
+msgid "Delete the selected items immediately"
+msgstr "Slett de valgte elementene straks"
+
+#: views/admin-tools-page.php:21
+msgid "Obsolete WooCommerce sessions: %s"
+msgstr "Utgåtte WooCommerce-økter: %s"
+
+#: includes/class.DelxtransSite.php:67
+msgid "All obsolete WooCommerce sessions deleted."
+msgstr "Alle utgåtte WooCommerce-økter ble slettet."
+
+#. Author URI of the plugin/theme
+msgid "https://shop.webaware.com.au/"
+msgstr "https://shop.webaware.com.au/"
+
+#. Author of the plugin/theme
+msgid "WebAware"
+msgstr "WebAware"
+
+#. Description of the plugin/theme
+msgid "delete old, expired transients from WordPress wp_options table"
+msgstr "slett gamle, utgåtte transienter fra wp_options-tabellen i WordPress"
+
+#. Plugin URI of the plugin/theme
+msgid "https://shop.webaware.com.au/downloads/delete-expired-transients/"
+msgstr "https://shop.webaware.com.au/downloads/delete-expired-transients/"
+
+#: views/admin-tools-page.php:38
+msgid "all transients -- use with caution!"
+msgstr "alle transienter -- bruk med forsiktighet!"
+
+#: views/admin-tools-page.php:34
+msgid "expired transients"
+msgstr "utgåtte transienter"
+
+#: views/admin-tools-page.php:19
+msgid "Total transients: %s"
+msgstr "Totalt antall transienter: %s"
+
+#: views/admin-tools-page.php:18
+msgid "Expired transients: %s"
+msgstr "Utgåtte transienter: %s"
+
+#: views/admin-network-page.php:31
+msgid "Delete all site transients"
+msgstr "Slett alle nettsted-transienter"
+
+#: views/admin-network-page.php:26
+msgid "Delete expired site transients"
+msgstr "Slett utgåtte nettsted-transienter"
+
+#: views/admin-network-page.php:19
+msgid "Site Transients: %1$s expired, %2$s total"
+msgstr "Nettsted-transienter: %1$s utgåtte, %2$s totalt"
+
+#. #-#-#-#-#  delete-expired-transients-code.pot (Delete Expired Transients
+#. 2.0.7)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: views/admin-network-page.php:10 views/admin-tools-page.php:10
+msgid "Delete Expired Transients"
+msgstr "Slett utgåtte transienter"
+
+#: includes/class.DelxtransSiteListTable.php:62
+#: includes/class.DelxtransSiteListTable.php:148
+msgid "Delete all"
+msgstr "Slett alle"
+
+#: includes/class.DelxtransSiteListTable.php:61
+#: includes/class.DelxtransSiteListTable.php:144
+msgid "Delete expired"
+msgstr "Slett utgåtte"
+
+#: includes/class.DelxtransSiteListTable.php:40
+msgid "Total transients"
+msgstr "Totale transienter"
+
+#: includes/class.DelxtransSiteListTable.php:39
+msgid "Expired transients"
+msgstr "Utgåtte transienter"
+
+#: includes/class.DelxtransSiteListTable.php:38
+msgid "Blog Name"
+msgstr "Bloggnavn"
+
+#: includes/class.DelxtransSiteListTable.php:37
+msgid "Blog ID"
+msgstr "Blogg-ID"
+
+#: includes/class.DelxtransSiteListTable.php:25
+msgctxt "sites in network"
+msgid "Blogs"
+msgstr "Blogger"
+
+#: includes/class.DelxtransSiteListTable.php:24
+msgctxt "a single site in network"
+msgid "Blog"
+msgstr "Blogg"
+
+#: includes/class.DelxtransPlugin.php:171
+msgctxt "plugin details links"
+msgid "Donate"
+msgstr "Doner"
+
+#: includes/class.DelxtransPlugin.php:170
+msgctxt "plugin details links"
+msgid "Translate"
+msgstr "Oversett"
+
+#: includes/class.DelxtransPlugin.php:169
+msgctxt "plugin details links"
+msgid "Rating"
+msgstr "Rangering"
+
+#: includes/class.DelxtransPlugin.php:168
+msgctxt "plugin details links"
+msgid "Get help"
+msgstr "Få hjelp"
+
+#: includes/class.DelxtransNetwork.php:63
+msgid "All site transients deleted."
+msgstr "Alle nettsted-transienter slettet."
+
+#: includes/class.DelxtransNetwork.php:62
+msgid "Expired site transients deleted."
+msgstr "Utgåtte nettsted-transienter slettet."
+
+#: includes/class.DelxtransNetwork.php:61 includes/class.DelxtransSite.php:62
+msgid "All transients deleted."
+msgstr "Alle transienter slettet."
+
+#: includes/class.DelxtransNetwork.php:60 includes/class.DelxtransSite.php:57
+msgid "Expired transients deleted."
+msgstr "Utgåtte transienter slettet."
+
+#: includes/class.DelxtransNetwork.php:30 includes/class.DelxtransSite.php:28
+msgid "Delete Transients"
+msgstr "Slett transienter"

@@ -1,0 +1,1546 @@
+# Translation of Yoast - Yoast SEO Premium (for WordPress) in Dutch
+# This file is distributed under the same license as the Yoast - Yoast SEO Premium (for WordPress) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-11-08 17:42:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-rc.4\n"
+"Language: nl\n"
+"Project-Id-Version: Yoast - Yoast SEO Premium (for WordPress)\n"
+
+#: src/integrations/admin/crawl-settings-integration.php:149
+msgid "Redirect pretty URLs for search pages to raw format"
+msgstr "Zet mooie URL's voor zoekpagina's om naar onbewerkt format"
+
+#: src/integrations/admin/crawl-settings-integration.php:188
+msgid "WordPress loads lots of resources, some of which your site might not need. If you’re not using these, removing them can speed up your pages and save resources."
+msgstr "WordPress laadt een hoop gegevensbronnen in waarvan jouw site sommige misschien niet nodig heeft. Door ze te verwijderen wanneer je ze niet gebruikt, kun je jouw pagina's versnellen en middelen besparen."
+
+#: src/integrations/admin/crawl-settings-integration.php:188
+msgid "Remove unused resources"
+msgstr "Verwijder ongebruikte bronnen"
+
+#: src/integrations/admin/crawl-settings-integration.php:334
+msgid "This feature is not available for multisites."
+msgstr "Deze functie is niet beschikbaar voor multisites."
+
+#: src/integrations/admin/crawl-settings-integration.php:154
+msgid "Prevent search engines from crawling /wp-json/"
+msgstr "Voorkom dat zoekmachines /wp-json/ crawlen"
+
+#: src/integrations/admin/crawl-settings-integration.php:148
+msgid "Prevent search engines from crawling site search URLs"
+msgstr "Voorkom dat zoekmachines URL's van interne zoekopdrachten crawlen"
+
+#: src/integrations/frontend-inspector.php:72
+msgid "Beta"
+msgstr "Beta"
+
+#. Translators: %1$s expands to an opening anchor tag for a link leading to the
+#. Yoast SEO page of the Permalink Cleanup features, %2$s expands to a closing
+#. anchor tag.
+#: src/integrations/admin/crawl-settings-integration.php:216
+msgid "These are expert features, so make sure you know what you're doing before removing the parameters. %1$sRead more about how your site can be affected%2$s."
+msgstr "Dit zijn functies voor experts, dus zorg ervoor dat je weet wat je doet voordat je de parameters verwijdert. %1$sLees meer over hoe je site kan worden beïnvloed%2$s."
+
+#: src/integrations/admin/crawl-settings-integration.php:328
+msgid "This feature is disabled when your site is not using pretty permalinks."
+msgstr "Deze functie is uitgeschakeld wanneer je site geen pretty permalinks gebruikt."
+
+#. translators: 1: Link start tag to the Permalinks settings page, 2: Link
+#. closing tag.
+#: src/integrations/admin/crawl-settings-integration.php:322
+msgid "This feature is disabled when your site is not using %1$spretty permalinks%2$s."
+msgstr "Deze functie is uitgeschakeld wanneer je site geen gebruik maakt van %1$spretty permalinks%2$s."
+
+#: src/integrations/admin/crawl-settings-integration.php:231
+msgid "Please use a comma to separate multiple URL parameters."
+msgstr "Gebruik een komma om meerdere URL parameters van elkaar te scheiden."
+
+#: src/integrations/admin/crawl-settings-integration.php:229
+msgid "Additional URL parameters to allow"
+msgstr "Extra URL parameters om toe te staan"
+
+#: src/integrations/admin/crawl-settings-integration.php:225
+msgid "Remove unwanted URL parameters from your URLs."
+msgstr "Verwijder ongewenste URL parameters uit je URL's."
+
+#: src/integrations/admin/crawl-settings-integration.php:225
+msgid "Permalink cleanup settings"
+msgstr "Permalink opruim instellingen"
+
+#: src/integrations/admin/crawl-settings-integration.php:203
+msgid "Max number of characters to allow in searches"
+msgstr "Max. aantal karakters dat in zoekopdrachten is toegestaan"
+
+#: src/integrations/admin/crawl-settings-integration.php:197
+msgid "Clean up and filter searches to prevent search spam."
+msgstr "Opschonen en filteren van zoekopdrachten om zoekspam te voorkomen."
+
+#: src/integrations/admin/crawl-settings-integration.php:197
+msgid "Search cleanup settings"
+msgstr "Instellingen voor opruimen"
+
+#: src/integrations/admin/crawl-settings-integration.php:193
+msgid "Disabled"
+msgstr "Uitgeschakeld"
+
+#: src/integrations/admin/crawl-settings-integration.php:147
+msgid "Filter searches with common spam patterns"
+msgstr "Filter zoekopdrachten met veelvoorkomende spampatronen"
+
+#: src/integrations/admin/crawl-settings-integration.php:146
+msgid "Filter searches with emojis and other special characters"
+msgstr "Filter zoekopdrachten met emoji's en andere speciale tekens"
+
+#: src/integrations/admin/crawl-settings-integration.php:145
+msgid "Filter search terms"
+msgstr "Zoektermen filteren"
+
+#: src/integrations/admin/crawl-settings-integration.php:141
+msgid "Unregistered URL parameters"
+msgstr "Niet-geregistreerde URL parameters"
+
+#: src/integrations/admin/crawl-settings-integration.php:140
+msgid "Campaign tracking URL parameters"
+msgstr "Campagne tracking URL parameters"
+
+#. translators: %1$s: Yoast SEO Premium
+#: src/initializers/crawl-cleanup-permalinks.php:274
+msgid "%1$s: unregistered URL parameter removed"
+msgstr "%1$s: ongeregistreerde URL parameter verwijderd"
+
+#. translators: %1$s: Yoast SEO Premium
+#: src/initializers/crawl-cleanup-permalinks.php:132
+msgid "%1$s: redirect utm variables to #"
+msgstr "%1$s: omleiden utm variabelen naar #"
+
+#: src/integrations/admin/crawl-settings-integration.php:314
+msgid "By removing Global comments feed, Post comments feeds will be removed too."
+msgstr "Door de globale reacties feed te verwijderen, zullen de bericht reacties feeds ook verwijderd worden."
+
+#: src/integrations/admin/crawl-settings-integration.php:187
+msgid "Remove feed links added by WordPress that aren't needed for this site."
+msgstr "Verwijder feed links toegevoegd door WordPress die niet nodig zijn voor deze site."
+
+#: src/integrations/admin/crawl-settings-integration.php:187
+msgid "Feed crawl settings"
+msgstr "Feed crawl instellingen"
+
+#: src/integrations/admin/crawl-settings-integration.php:185
+msgid "Remove links added by WordPress to the header and &lt;head&gt;."
+msgstr "Verwijder links toegevoegd door WordPress aan de header en &lt;head&gt;."
+
+#: src/integrations/admin/crawl-settings-integration.php:185
+msgid "Basic crawl settings"
+msgstr "Basis crawl instellingen"
+
+#: src/integrations/admin/crawl-settings-integration.php:136
+msgid "Powered by HTTP header"
+msgstr "Aangedreven door HTTP header"
+
+#: src/integrations/admin/crawl-settings-integration.php:135
+msgid "Pingback HTTP header"
+msgstr "Pingback HTTP header"
+
+#: src/integrations/admin/crawl-settings-integration.php:153
+msgid "Emoji scripts"
+msgstr "Emoji scripts"
+
+#: src/integrations/admin/crawl-settings-integration.php:134
+msgid "Generator tag"
+msgstr "Generator tag"
+
+#: src/integrations/admin/crawl-settings-integration.php:133
+msgid "oEmbed links"
+msgstr "oEmbed links"
+
+#: src/integrations/admin/crawl-settings-integration.php:132
+msgid "RSD / WLW links"
+msgstr "RSD / WLW links"
+
+#: src/integrations/admin/crawl-settings-integration.php:131
+msgid "REST API links"
+msgstr "REST API links"
+
+#: src/integrations/admin/crawl-settings-integration.php:130
+msgid "Shortlinks"
+msgstr "Shortlinks"
+
+#: src/integrations/admin/crawl-settings-integration.php:126
+msgid "Atom/RDF feeds"
+msgstr "Atom/RDF feeds"
+
+#: src/integrations/admin/crawl-settings-integration.php:125
+msgid "Search results feeds"
+msgstr "Zoekresultaten feeds"
+
+#: src/integrations/admin/crawl-settings-integration.php:124
+msgid "Custom taxonomy feeds"
+msgstr "Aangepaste taxonomie feeds"
+
+#: src/integrations/admin/crawl-settings-integration.php:123
+msgid "Tag feeds"
+msgstr "Tag feeds"
+
+#: src/integrations/admin/crawl-settings-integration.php:122
+msgid "Category feeds"
+msgstr "Categorie feeds"
+
+#: src/integrations/admin/crawl-settings-integration.php:121
+msgid "Post type feeds"
+msgstr "Berichttype feeds"
+
+#: src/integrations/admin/crawl-settings-integration.php:120
+msgid "Post authors feeds"
+msgstr "Bericht auteurs feeds"
+
+#: src/integrations/admin/crawl-settings-integration.php:118
+msgid "Global comment feeds"
+msgstr "Globale reactie feeds"
+
+#: src/integrations/admin/crawl-settings-integration.php:117
+msgid "Global feed"
+msgstr "Globale feed"
+
+#: src/integrations/admin/crawl-settings-integration.php:119
+msgid "Post comments feeds"
+msgstr "Bericht reacties feeds"
+
+#: src/integrations/admin/crawl-settings-integration.php:269
+msgid "Keep"
+msgstr "Behouden"
+
+#: classes/redirect/views/redirects-tab-settings.php:84
+msgid "Read more about why web server redirect methods have been disabled on a multisite."
+msgstr "Lees meer over waarom web server redirect methodes zijn uitgeschakeld op een multisite."
+
+#: classes/redirect/views/redirects-tab-settings.php:82
+msgid "Since this site is a multisite, web server redirect methods have been disabled to prevent issues."
+msgstr "Aangezien deze site een multisite is, zijn de web server redirect methodes uitgeschakeld om problemen te voorkomen."
+
+#: src/schema-templates/job-salary.block.php:12
+msgid "Job base salary"
+msgstr "Vacature basissalaris"
+
+#: src/schema-templates/job-requirements.block.php:12
+msgid "Job requirements"
+msgstr "Vacature vereisten"
+
+#: src/schema-templates/job-location.block.php:12
+msgid "Job location"
+msgstr "Vacature locatie"
+
+#: src/schema-templates/job-location-region.block.php:12
+msgid "Job state/province/region"
+msgstr "Vacature provincie/regio"
+
+#: src/schema-templates/job-location-postal-code.block.php:12
+msgid "Job postal code"
+msgstr "Vacature postcode"
+
+#: src/schema-templates/job-location-country.block.php:12
+msgid "Job country"
+msgstr "Vacature land"
+
+#: src/schema-templates/job-location-city.block.php:12
+msgid "Job city"
+msgstr "Vacature plaats"
+
+#: src/schema-templates/job-location-address.block.php:12
+msgid "Job address"
+msgstr "Vacature adres"
+
+#: src/schema-templates/job-employment-type.block.php:32
+msgid "Job employment type"
+msgstr "Vacature soort dienstverband"
+
+#: src/schema-templates/job-benefits.block.php:12
+msgid "Job benefits"
+msgstr "Vacature voordelen"
+
+#: src/schema-templates/job-apply-button.block.php:12
+msgid "Job apply button"
+msgstr "Vacature solliciteerknop"
+
+#: src/schema-templates/job-application-closing-date.block.php:14
+msgid "Apply before"
+msgstr "Solliciteer voor"
+
+#: src/schema-templates/job-application-closing-date.block.php:12
+msgid "Job application closing date"
+msgstr "Einddatum vacature"
+
+#: src/integrations/admin/thank-you-page-integration.php:80
+msgid "Installation Successful"
+msgstr "Installatie succesvol"
+
+#: classes/views/thank-you.php:104
+msgid "Browse our courses"
+msgstr "Bekijk onze cursussen"
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: <strong>, %3$s: Yoast SEO, %4$s:
+#. </strong>
+#: classes/views/thank-you.php:91
+msgid "%1$s grants you direct access to %2$sall premium %3$s academy courses%4$s. Learn all the ins and outs of holistic SEO from industry experts."
+msgstr "%1$s geeft je directe toegang tot %2$salle premium%3$s academy cursussen%4$s. Leer alle ins en outs van holistische SEO van experts uit de branche."
+
+#: classes/views/thank-you.php:84
+msgid "Master vital SEO skills with our online courses"
+msgstr "Beheers essentiële SEO-vaardigheden met onze online cursussen"
+
+#: classes/views/thank-you.php:79
+msgid "Check out the Redirect Manager"
+msgstr "Bekijk de redirect manager"
+
+#. translators: %1$s: Yoast SEO, %2$s: <strong>, %3$s: </strong>
+#: classes/views/thank-you.php:68
+msgid "The %1$s %2$sRedirect Manager%3$s automatically prevents visitors from reaching a dead end whenever you move or delete content. It also makes managing your existing redirects easy."
+msgstr "De %1$s %2$sredirect manager%3$s voorkomt automatisch dat bezoekers een doodlopend eind bereiken wanneer je inhoud verplaatst of verwijdert. Het maakt het ook gemakkelijk om je bestaande redirects te beheren."
+
+#: classes/views/thank-you.php:61
+msgid "Keep your site well-organised so people won't get lost"
+msgstr "Houd je site overzichtelijk zodat bezoekers niet verdwalen"
+
+#: classes/views/thank-you.php:56
+msgid "Score some more green bullets"
+msgstr "Scoor nog wat groene scores"
+
+#. translators: %1$s: <strong>, %2$s: </strong>
+#: classes/views/thank-you.php:46
+msgid "Different people search with different search terms. With our %1$spremium analysis%2$s, you are free to use variations and synonyms of your keywords in your content, which will make your writing style far more natural."
+msgstr "Verschillende mensen zoeken met verschillende zoektermen. Met onze %1$spremium-analyse%2$s kan je variaties en synoniemen van je zoekwoorden in je inhoud gebruiken, waardoor je schrijfstijl veel natuurlijker wordt."
+
+#: classes/views/thank-you.php:39
+msgid "Optimize your content further with our smart analysis"
+msgstr "Optimaliseer je inhoud verder met onze slimme analyse"
+
+#: classes/views/thank-you.php:34
+msgid "Do the cornerstone workout!"
+msgstr "Doe de cornerstone workout!"
+
+#. translators: %1$s: <strong>, %2$s: </strong>
+#: classes/views/thank-you.php:24
+msgid "%1$sCornerstone content%2$s is the content on your site that’s most important. You want to rank highest in Google with these articles. Make sure your internal linking structure reflects what pages are most important. Want to know how?"
+msgstr "%1$sCornerstone-inhoud%2$s is de inhoud op je site die het belangrijkst is. Met deze artikelen wil je het hoogst scoren in Google. Zorg ervoor dat je interne linkstructuur weerspiegelt welke pagina's het belangrijkst zijn. Wil je weten hoe?"
+
+#: classes/views/thank-you.php:17
+#: assets/js/src/workouts/components/CornerstoneWorkout.js:106
+msgid "Rank with articles you want to rank with"
+msgstr "Rank met artikelen waarmee je wilt ranken"
+
+#: classes/views/thank-you.php:12
+msgid "So, what's next?"
+msgstr "Wat is het volgende?"
+
+#: classes/views/thank-you.php:10
+msgid "Installation successful!"
+msgstr "Installatie voltooid!"
+
+#: src/schema-templates/job-location-city.block.php:12
+msgid "The city in which the street address is, and which is in the region. For example, Los Angeles."
+msgstr "De plaats waar het straat adres zich bevindt, en in welke regio, Bijvoorbeeld, Amsterdam"
+
+#: src/schema-templates/job-location-region.block.php:14
+msgid "Enter state/province/region"
+msgstr "Vul staat/provincie/regio in"
+
+#: src/schema-templates/job-location-region.block.php:12
+msgid "The state, province or region in which the city is, and which is in the country. For example, California."
+msgstr "De staat, provincie of regio waar de plaats zich bevindt, en in welk land. Bijvoorbeeld, Gelderland."
+
+#: src/schema-templates/job-location-country.block.php:12
+msgid "The country. For example, USA."
+msgstr "Het land. Bijvoorbeeld, Nederland."
+
+#: src/schema-templates/job-location-address.block.php:12
+msgid "The street address. For example, 111 South Grand Avenue."
+msgstr "De straatnaam. Bijvoorbeeld, Dorpsstraat 111."
+
+#: src/schema-templates/job-location-postal-code.block.php:12
+msgid "The postal code. For example, 90012."
+msgstr "De postcode. Bijvoorbeeld, 1234AB"
+
+#: src/schema-templates/job-office-location.block.php:30
+msgid "Add additional information to your location details..."
+msgstr "Voeg extra informatie toe aan je locatie details..."
+
+#: src/integrations/blocks/block-patterns.php:71
+msgid "Yoast Job Posting"
+msgstr "Yoast Vacature Bericht"
+
+#: src/schema-templates/job-salary-range.block.php:36
+msgid "The salary range of the job, depending on a variety of factors (e.g. education level or level of experience)."
+msgstr "Het salarisbereik van de vacature, afhankelijk van verschillende factoren (bijvoorbeeld het opleidingsniveau of ervaringsniveau van een kandidaat)."
+
+#: src/schema-templates/job-apply-button.block.php:14
+msgid "Apply button (add a link)"
+msgstr "Knop toepassen (voeg een link toe)"
+
+#: src/schema-templates/job-apply-button.block.php:12
+msgid "A button through which visitors can apply for the job. (Make sure to add a link.)"
+msgstr "Een knop waarmee bezoekers kunnen solliciteren. (Zorg ervoor dat u een link toevoegt.)"
+
+#: src/integrations/admin/user-profile-integration.php:144
+msgid "The info you add below is added to the data Yoast SEO outputs in its schema.org output, for instance when you're the author of a page. Please only add the info you feel good sharing publicly."
+msgstr "De informatie die u hieronder toevoegt, wordt toegevoegd aan de gegevens die Yoast SEO uitvoert in de uitvoer van schema.org, bijvoorbeeld wanneer u de auteur van een pagina bent. Voeg alstublieft alleen de informatie toe waarmee u zich goed voelt als u deze openbaar deelt."
+
+#: src/integrations/admin/user-profile-integration.php:143
+msgid "Yoast SEO Schema enhancements"
+msgstr "Yoast SEO verbeteringen in het schema"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:127
+msgid "E.g. %1$sAcme inc%2$s"
+msgstr "Bijv. %1$sAcme inc%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:125
+msgid "Employer name"
+msgstr "Naam werkgever"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:121
+msgid "E.g. %1$ssoftware engineer%2$s"
+msgstr "Bijv. %1$ssoftware ingenieur%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:115
+msgid "Employer information"
+msgstr "Informatie van de werkgever"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:111
+msgid "Comma separated, e.g. %1$sEnglish, French, Dutch%2$s"
+msgstr "Door komma's gescheiden, bijv. %1$sEngels, Frans, Nederlands%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:109
+msgid "Language(s) spoken"
+msgstr "Talen gesproken"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:105
+msgid "Comma separated, e.g. %1$sPHP, JavaScript, 90's rock music%2$s"
+msgstr "Door komma's gescheiden, bijv. %1$sPHP, JavaScript, '90er rockmuziek%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:103
+msgid "Expertise in"
+msgstr "Expertise in"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:99
+msgid "Comma separated, e.g. %1$sMost likely to succeed - 1991, Smartest in class - 1990%2$s"
+msgstr "Comma separated, e.g. %1$sDe meeste kans van slagen - 1991, De slimste van de klas - 1990%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:97
+msgid "Awards"
+msgstr "Onderscheidingen"
+
+#: src/integrations/admin/user-profile-integration.php:93
+msgid "Extra information"
+msgstr "Extra informatie"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:89
+msgid "E.g. %1$sfemale%2$s, %1$smale%2$s, %1$snon-binary%2$s"
+msgstr "Bijv. %1$svrouwelijk%2$s, %1$smannelijk%2$s, %1$snon-binary%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:87
+msgid "Gender"
+msgstr "Geslacht"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:83
+msgid "Use format: %1$sYYYY-MM-DD%2$s"
+msgstr "Gebruik formaat: %1$sYYYY-MM-DD%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:81
+msgid "Birth date"
+msgstr "Geboortedatum"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:77
+msgid "E.g. %1$sMD%2$s, %1$sPhD%2$s"
+msgstr "Bijv. %1$sDr.%2$s, %1$sDrs.%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:75
+msgid "Honorific suffix"
+msgstr "Eretitel achtervoegsel"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:71
+msgid "E.g. %1$sDr%2$s, %1$sMs%2$s, %1$sMr%2$s"
+msgstr "Bijv. %1$sDr.%2$s, %1$sMevr.%2$s, %1$sHeer%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:69
+msgid "Honorific prefix"
+msgstr "Eretitel voorvoegsel"
+
+#: src/integrations/admin/user-profile-integration.php:65
+msgid "Basic information"
+msgstr "Basis informatie"
+
+#: premium.php:312
+msgid "Custom fields to include in page analysis"
+msgstr "Aangepaste velden om op te nemen in de pagina-analyse"
+
+#: premium.php:305
+msgid "Learn more about including custom fields in the page analysis"
+msgstr "Meer informatie over het opnemen van aangepaste velden in de pagina-analyse"
+
+#: src/schema-templates/job-benefits.block.php:12
+msgid "The description of benefits associated with the job."
+msgstr "De beschrijving van de arbeidsvoorwaarden die aan de vacature zijn verbonden."
+
+#: src/schema-templates/job-description.block.php:12
+msgid "The description of the job."
+msgstr "De beschrijving van de vacature."
+
+#: src/schema-templates/job-employment-type.block.php:32
+msgid "The type of employment (e.g. full-time, part-time, contract, temporary, seasonal, internship)."
+msgstr "Het soort dienstverband (bv. fulltime, parttime, contract, tijdelijk, seizoensgebonden, stage)."
+
+#: src/schema-templates/job-application-closing-date.block.php:12
+msgid "The date after which the job posting is not valid anymore."
+msgstr "De datum waarna de vacature niet meer geldig is."
+
+#: src/schema-templates/job-location.block.php:12
+msgid "The (typically single) geographic location associated with the job."
+msgstr "De (doorgaans enkele) geografische locatie die aan de vacature is gekoppeld."
+
+#: src/schema-templates/job-location-address.block.php:12
+#: src/schema-templates/job-office-location.block.php:28
+msgid "The address where the office is located."
+msgstr "Het adres waar het kantoor is gevestigd."
+
+#: src/schema-templates/job-requirements.block.php:12
+msgid "The description of skills and experience needed for the position."
+msgstr "De beschrijving van vaardigheden en ervaring die nodig zijn voor de vacature."
+
+#: src/schema-templates/job-base-salary.block.php:17
+#: src/schema-templates/job-salary-range.block.php:17
+msgid "day"
+msgstr "dag"
+
+#: src/schema-templates/job-base-salary.block.php:13
+#: src/schema-templates/job-salary-range.block.php:13
+msgid "hour"
+msgstr "uur"
+
+#: src/schema-templates/job-base-salary.block.php:21
+#: src/schema-templates/job-salary-range.block.php:21
+msgid "week"
+msgstr "week"
+
+#: src/schema-templates/job-base-salary.block.php:25
+#: src/schema-templates/job-salary-range.block.php:25
+msgid "month"
+msgstr "maand"
+
+#: src/schema-templates/job-base-salary.block.php:29
+#: src/schema-templates/job-salary-range.block.php:29
+msgid "year"
+msgstr "jaar"
+
+#: src/schema-templates/job-base-salary.block.php:36
+#: src/schema-templates/job-salary.block.php:14
+msgid "Base salary"
+msgstr "Basissalaris"
+
+#: src/schema-templates/job-base-salary.block.php:39
+#: src/schema-templates/job-salary-range.block.php:39
+msgid "Currency"
+msgstr "Valuta"
+
+#: src/schema-templates/job-base-salary.block.php:40
+#: src/schema-templates/job-salary-range.block.php:40
+#: src/schema-templates/job-salary-range.block.php:42
+msgid "Enter amount"
+msgstr "Voer een bedrag in"
+
+#: src/schema-templates/job-base-salary.block.php:40
+msgid "Value"
+msgstr "Waarde"
+
+#: src/schema-templates/job-base-salary.block.php:41
+#: src/schema-templates/job-salary-range.block.php:44
+msgid "Unit"
+msgstr "Eenheid"
+
+#: src/schema-templates/job-benefits.block.php:13
+msgid "Benefits"
+msgstr "Secondaire arbeidsvoorwaarden"
+
+#: src/schema-templates/job-benefits.block.php:15
+msgid "Enter benefit"
+msgstr "Voer secondaire arbeidsvoorwaarden in"
+
+#: src/schema-templates/job-description.block.php:12
+msgid "Job description"
+msgstr "Functieomschrijving"
+
+#: src/schema-templates/job-description.block.php:14
+msgid "Enter a job description..."
+msgstr "Voer een functieomschrijving in ..."
+
+#: src/schema-templates/job-employment-type.block.php:13
+msgid "Full time"
+msgstr "Fulltime"
+
+#: src/schema-templates/job-employment-type.block.php:17
+msgid "Part time"
+msgstr "Parttime"
+
+#: src/schema-templates/job-employment-type.block.php:21
+msgid "Contractor"
+msgstr "Aannemer"
+
+#: src/schema-templates/job-employment-type.block.php:25
+msgid "Temporary"
+msgstr "Tijdelijk"
+
+#: src/schema-templates/job-employment-type.block.php:35
+msgid "Employment"
+msgstr "Werk"
+
+#: src/schema-templates/job-employment-type.block.php:36
+msgid "This is an internship"
+msgstr "Dit is een stage"
+
+#: src/schema-templates/job-employment-type.block.php:36
+msgid "this is an internship"
+msgstr "dit is een stage"
+
+#: src/schema-templates/job-employment-type.block.php:37
+msgid "This is a volunteer role"
+msgstr "Dit is vrijwilligerswerk"
+
+#: src/schema-templates/job-employment-type.block.php:37
+msgid "this is a volunteer role"
+msgstr "dit is vrijwilligerswerk"
+
+#: src/schema-templates/job-location.block.php:14
+#: src/schema-templates/job-office-location.block.php:28
+msgid "Office location"
+msgstr "Bedrijfslocatie"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "Address where the office is located"
+msgstr "Adres waar het kantoor is gevestigd"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "Address"
+msgstr "Adres"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "Postal code"
+msgstr "Postcode"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "City"
+msgstr "Plaats"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "Region"
+msgstr "Regio"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "Country"
+msgstr "Land"
+
+#: src/schema-templates/job-location.block.php:15
+#: src/schema-templates/job-remote-location.block.php:12
+msgid "Remote job"
+msgstr "Job op afstand"
+
+#: src/schema-templates/job-location.block.php:15
+msgid "This job is 100% remote"
+msgstr "Deze vacature is 100% remote"
+
+#: src/schema-templates/job-location-address.block.php:14
+msgid "Enter street address"
+msgstr "Voer adres in"
+
+#: src/schema-templates/job-location-postal-code.block.php:14
+msgid "Enter postal code"
+msgstr "Voer postcode in"
+
+#: src/schema-templates/job-location-city.block.php:14
+msgid "Enter city"
+msgstr "Voer plaats in"
+
+#: src/schema-templates/job-location-country.block.php:14
+msgid "Enter country"
+msgstr "Voer land in"
+
+#: src/schema-templates/job-remote-location.block.php:12
+#: src/schema-templates/job-remote-location.block.php:14
+msgid "This job is 100% remote."
+msgstr "Deze vacature is 100% remote."
+
+#: src/schema-templates/job-requirements.block.php:13
+msgid "Requirements"
+msgstr "Vereisten"
+
+#: src/schema-templates/job-requirements.block.php:15
+msgid "Enter requirement"
+msgstr "Voer vereiste in"
+
+#: src/schema-templates/job-salary-range.block.php:36
+#: src/schema-templates/job-salary.block.php:15
+msgid "Salary range"
+msgstr "Salarisbereik"
+
+#: src/schema-templates/job-salary-range.block.php:40
+msgid "Min value"
+msgstr "Min waarde"
+
+#: src/schema-templates/job-salary-range.block.php:42
+msgid "Max value"
+msgstr "Max waarde"
+
+#: src/schema-templates/job-base-salary.block.php:36
+#: src/schema-templates/job-salary.block.php:12
+#: src/schema-templates/job-salary.block.php:14
+msgid "The base salary of the job."
+msgstr "Het basissalaris van de vacature."
+
+#: src/schema-templates/job-salary.block.php:15
+msgid "The salary range of the job, depending on a variety of factors (e.g. a candidate's education level or level of experience)."
+msgstr "Het salarisbereik van de vacature, afhankelijk van verschillende factoren (bijvoorbeeld het opleidingsniveau of ervaringsniveau van een kandidaat)."
+
+#: src/integrations/admin/user-profile-integration.php:119
+msgid "Job title"
+msgstr "Functienaam"
+
+#. translators: %1$s: Yoast SEO, %2$s: Link start tag, %3$s: Link end tag.
+#: src/addon-installer.php:163
+msgid "%2$sActivate %1$s now%3$s"
+msgstr "%2$sActiveer %1$s nu%3$s"
+
+#. translators: %1$s: Yoast SEO, %2$s: Link start tag, %3$s: Link end tag.
+#: src/addon-installer.php:170
+msgid "%2$sUpgrade %1$s now%3$s"
+msgstr "%2$sUpgrade %1$s nu%3$s"
+
+#. translators: %1$s: Yoast SEO, %2$s: Link start tag, %3$s: Link end tag.
+#: src/addon-installer.php:175
+msgid "%2$sInstall %1$s now%3$s"
+msgstr "%2$sInstalleer %1$s nu%3$s"
+
+#. translators: %1$s: Yoast SEO, %2$s: The minimum Yoast SEO version required,
+#. %3$s: Yoast SEO Premium.
+#: src/addon-installer.php:114
+msgid "%1$s %2$s must be installed and activated in order to use %3$s."
+msgstr "%1$s %2$s moet geïnstalleerd en geactiveerd zijn om %3$s te gebruiken."
+
+#. translators: %1$s: Yoast SEO, %2$s: Link start tag, %3$s: Link end tag.
+#: src/addon-installer.php:158
+msgid "%2$sNetwork Activate %1$s now%3$s"
+msgstr "%2$sNetwerk activeer %1$s nu%3$s"
+
+#. translators: %1$s: Yoast SEO, %2$s: The minimum Yoast SEO version required.
+#: src/addon-installer.php:188
+msgid "Please contact a network administrator to install %1$s %2$s."
+msgstr "Neem contact op met een netwerkbeheerder om %1$s %2$s te installeren."
+
+#. translators: %1$s: Yoast SEO, %2$s: The minimum Yoast SEO version required.
+#: src/addon-installer.php:192
+msgid "Please contact an administrator to install %1$s %2$s."
+msgstr "Neem contact op met een beheerder om %1$s %2$s te installeren."
+
+#: src/integrations/blocks/job-posting-block.php:68
+msgid "Required Job Posting Blocks"
+msgstr "Vereiste blokken voor het plaatsen van vacatures"
+
+#: src/integrations/blocks/job-posting-block.php:73
+msgid "Recommended Job Posting Blocks"
+msgstr "Aanbevolen blokken voor vacatures"
+
+#: src/integrations/blocks/estimated-reading-time-block.php:57
+#: assets/js/src/blocks/estimated-reading-time/block.js:179
+msgid "Estimated reading time:"
+msgstr "Geschatte leestijd:"
+
+#: src/integrations/blocks/estimated-reading-time-block.php:84
+#: assets/js/src/blocks/estimated-reading-time/block.js:64
+#: assets/js/src/blocks/estimated-reading-time/legacy/15.6.js:58
+#: assets/js/src/blocks/estimated-reading-time/legacy/15.6.non-admin.js:28
+#: assets/js/src/blocks/estimated-reading-time/legacy/15.8.js:22
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "minuut"
+msgstr[1] "minuten"
+
+#: classes/redirect/presenters/redirect-page-presenter.php:69
+msgid "Settings"
+msgstr "Instellingen"
+
+#: classes/redirect/redirect-table.php:100
+msgid "Filter"
+msgstr "Filteren"
+
+#: classes/premium-javascript-strings.php:61
+#: classes/redirect/redirect-table.php:411
+msgid "Edit"
+msgstr "Bewerken"
+
+#: classes/premium-javascript-strings.php:53
+#: assets/js/src/components/RedirectNotification.js:123
+#: assets/js/src/elementor/components/RedirectNotification.js:127
+#: assets/js/src/frontend-inspector/components/frontend-inspector.js:61
+msgid "OK"
+msgstr "OK"
+
+#: classes/export/export-keywords-csv.php:67
+msgid "title"
+msgstr "titel"
+
+#: classes/export/export-keywords-csv.php:73
+msgid "meta description"
+msgstr "meta beschrijving"
+
+#: premium.php:272
+msgid "Create Redirect"
+msgstr "Redirect aanmaken"
+
+#: classes/redirect/redirect-formats.php:23 premium.php:336
+msgid "Redirects"
+msgstr "Redirects"
+
+#: classes/redirect/views/redirects-form.php:59
+msgid "URL"
+msgstr "URL"
+
+#: classes/premium-import-manager.php:241
+msgid "Redirect import failed: the Redirection plugin is not installed or activated."
+msgstr "Importeren van redirects mislukt: de Redirection plugin is niet geïnstalleerd of niet geactiveerd."
+
+#: classes/premium-import-manager.php:317
+msgid "Redirect import failed: no redirects found."
+msgstr "Importeren van redirects mislukt: geen redirects gevonden."
+
+#: classes/premium-javascript-strings.php:31
+msgid "You have unsaved redirects, are you sure you want to leave?"
+msgstr "Er zijn niet opgeslagen redirects, weet je zeker dat je dit scherm wilt verlaten?"
+
+#: classes/redirect/redirect-table.php:115
+msgid "New URL"
+msgstr "Nieuwe URL"
+
+#: classes/premium-javascript-strings.php:62
+#: classes/redirect/redirect-table.php:308
+#: classes/redirect/redirect-table.php:412
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: classes/redirect/views/redirects-tab-plain.php:61
+#: classes/redirect/views/redirects-tab-regex.php:72
+msgid "Search"
+msgstr "Zoeken"
+
+#: classes/redirect/views/redirects-tab-settings.php:122
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: classes/redirect/redirect-formats.php:24
+msgid "Regex Redirects"
+msgstr "Regex Redirects"
+
+#: classes/redirect/presenters/redirect-table-presenter.php:68
+msgid "Old URL"
+msgstr "Oude URL"
+
+#: classes/redirect/views/redirects-tab-plain.php:41
+#: classes/redirect/views/redirects-tab-regex.php:52
+msgid "Add Redirect"
+msgstr "Redirect toevoegen"
+
+#: classes/redirect/views/redirects-tab-settings.php:50
+msgid "As you're on Nginx, you should add the following include to the Nginx config file:"
+msgstr "Omdat je website op Nginx draait, moet je het volgende toevoegen aan je Nginx config-bestand:"
+
+#: classes/redirect/views/redirects-tab-settings.php:24
+msgid "As you're on Apache, you should add the following include to the website httpd config file:"
+msgstr "Aangezien jij op Apache zit, moet je het volgende toevoegen aan je website httpd config-bestand:"
+
+#. Description of the plugin
+msgid "The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more."
+msgstr "De eerste echte alles-in-één SEO-oplossing voor WordPress, inclusief inhoudsanalyse per pagina, XML-sitemaps en veel meer."
+
+#: classes/redirect/exporters/redirect-csv-exporter.php:76
+#: assets/js/src/workouts/components/CornerstoneWorkout/MostLinked.js:98
+msgid "Type"
+msgstr "Type"
+
+#. translators: %s: '.htaccess' file name.
+#: classes/redirect/views/redirects-tab-settings.php:37
+msgid "We're unable to save the redirects to your %s file. Please make the file writable."
+msgstr "Het was niet mogelijk om de redirects op te slaan in je %s bestand. Zorg ervoor dat het bestand schrijfbaar is."
+
+#: classes/redirect/views/redirects-tab-settings.php:111
+msgid "Generate a separate redirect file"
+msgstr "Een separaat redirect-bestand aanmaken"
+
+#: classes/redirect/redirect-page.php:140
+msgid "Redirects per page"
+msgstr "Redirects per pagina"
+
+#: classes/views/import-redirects.php:74
+msgid "Import .htaccess"
+msgstr ".htaccess importeren"
+
+#: classes/premium-javascript-strings.php:26
+msgid "The old URL field can't be empty."
+msgstr "Het oude URL-veld kan niet leeg zijn."
+
+#: classes/premium-javascript-strings.php:28
+msgid "The new URL field can't be empty."
+msgstr "Het nieuwe URL-veld kan niet leeg zijn."
+
+#: classes/premium-javascript-strings.php:29
+msgid "Error while saving this redirect"
+msgstr "Foutmelding tijdens opslaan van deze redirect"
+
+#: classes/premium-javascript-strings.php:30
+msgid "New type can't be empty."
+msgstr "Nieuwe type kan niet leeg zijn."
+
+#. Author of the plugin
+msgid "Team Yoast"
+msgstr "Team Yoast"
+
+#: classes/premium-javascript-strings.php:25
+msgid "You can't redirect a URL to itself."
+msgstr "Je kan een URL niet naar zichzelf laten redirecten."
+
+#. translators: %s: '.htaccess' file name
+#: classes/redirect/views/redirects-tab-settings.php:114
+msgid "By default we write the redirects to your %s file, check this if you want the redirects written to a separate file. Only check this option if you know what you are doing!"
+msgstr "Standaard schrijven we de redirect weg naar je %s bestand. Dit aanvinken indien je wenst dat de redirects weggeschreven worden naar een afzonderlijk bestand. Deze optie niet aanvinken als je niet precies weet wat je aan het doen bent!"
+
+#: classes/redirect/presenters/redirect-table-presenter.php:65
+msgid "Regular Expression"
+msgstr "Reguliere expressie"
+
+#. translators: 1: '.htaccess' file name
+#: classes/redirect/views/redirects-tab-settings.php:109
+msgid "Write redirects to the %1$s file. Make sure the %1$s file is writable."
+msgstr "Schrijf redirects naar het %1$s-bestand. Zorg ervoor dat het %1$s-bestand schrijfbaar is."
+
+#. translators: %s: '.htaccess' file name
+#: classes/views/import-redirects.php:12
+msgid "Import redirects from %s"
+msgstr "Voeg redirects toe vanuit %s-bestand."
+
+#: classes/premium-javascript-strings.php:27
+msgid "The Regular Expression field can't be empty."
+msgstr "Het Reguliere expressies veld mag niet leeg zijn."
+
+#. translators: %s is replaced with the URL that will be deleted.
+#: classes/premium-javascript-strings.php:34
+msgid "Please enter the new URL for %s"
+msgstr "Vul een nieuwe URL in voor %s"
+
+#. translators: variables will be replaced with from and to URLs.
+#: classes/premium-javascript-strings.php:36
+msgid "Redirect created from %1$s to %2$s!"
+msgstr "Redirect van %1$s naar %2$s aangemaakt!"
+
+#: classes/redirect/redirect-table.php:113
+#: classes/redirect/views/redirects-form.php:22
+msgctxt "noun"
+msgid "Type"
+msgstr "Type"
+
+#. translators: %1$s: '.htaccess' file name, %2$s: plugin name
+#: classes/views/import-redirects.php:18
+msgid "You can copy the contents of any %1$s file in here, and it will import the redirects into %2$s."
+msgstr "Je kan de inhoud van elk %1$s-bestand hier in kopiëren, daarna worden de redirects geïmporteerd in %2$s."
+
+#: classes/premium-javascript-strings.php:41
+msgid "Redirect added."
+msgstr "Redirect toegevoegd."
+
+#: classes/premium-javascript-strings.php:42
+msgid "The redirect was added successfully."
+msgstr "De redirect is succesvol toegevoegd."
+
+#: classes/premium-javascript-strings.php:45
+msgid "Redirect updated."
+msgstr "Redirect vernieuwd."
+
+#: classes/premium-javascript-strings.php:46
+msgid "The redirect was updated successfully."
+msgstr "De redirect is succesvol vernieuwd."
+
+#: classes/premium-javascript-strings.php:49
+#: classes/premium-redirect-service.php:51
+#: classes/redirect-undo-endpoint.php:94
+msgid "Redirect deleted."
+msgstr "Redirect verwijderd."
+
+#: classes/premium-javascript-strings.php:50
+#: classes/premium-redirect-service.php:52
+#: classes/redirect-undo-endpoint.php:95
+msgid "The redirect was deleted successfully."
+msgstr "De redirect is succesvol verwijderd."
+
+#: classes/premium-javascript-strings.php:54
+#: classes/redirect/views/redirects-quick-edit.php:43
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: classes/premium-javascript-strings.php:55
+msgid "Save"
+msgstr "Opslaan"
+
+#: classes/premium-javascript-strings.php:56
+msgid "Save anyway"
+msgstr "Toch opslaan"
+
+#: classes/premium-javascript-strings.php:58
+#: classes/redirect/views/redirects-quick-edit.php:22
+msgid "Edit redirect"
+msgstr "Redirect bewerken"
+
+#: classes/premium-javascript-strings.php:59
+msgid "You are already editing a redirect, please finish this one first"
+msgstr "Je bent al een redirect aan het bewerken, sla deze eerst op"
+
+#: classes/redirect/validation/redirect-accessible-validation.php:29
+msgid "The URL you entered could not be resolved."
+msgstr "De URL die je hebt ingevoerd kon niet worden opgehaald."
+
+#. translators: %1$s expands to the returned http code
+#: classes/redirect/validation/redirect-accessible-validation.php:40
+msgid "The URL you are redirecting to seems to return a %1$s status. You might want to check if the target can be reached manually before saving."
+msgstr "De URL waar je naar redirect lijkt status %1$s terug te geven. Controleer handmatig of de URL bereikt kan worden voor je hem opslaat."
+
+#: classes/redirect/validation/redirect-accessible-validation.php:49
+msgid "You're redirecting to a target that returns a 301 HTTP code (permanently moved). Make sure the target you specify is directly reachable."
+msgstr "Je redirect naar een doel dat een 301 HTTP status code (definitief verwijderd) terug geeft. Zorg ervoor dat het doel dat je kiest bereikbaar is."
+
+#. translators: %1$s expands to the returned http code
+#: classes/redirect/validation/redirect-accessible-validation.php:57
+msgid "The URL you entered returned a HTTP code different than 200(OK). The received HTTP code is %1$s."
+msgstr "De URL die je hebt ingevoerd geeft een status code terug die anders is dan 200(OK). De ontvangen HTTP status code is %1$s."
+
+#: classes/redirect/redirect-ajax.php:65
+msgid "Unknown error. Failed to create redirect."
+msgstr "Onbekende fout. Niet gelukt redirect te creëren."
+
+#: classes/redirect/redirect-ajax.php:99
+msgid "Unknown error. Failed to update redirect."
+msgstr "Onbekende fout. Niet gelukt om de redirect bij te werken."
+
+#: classes/redirect/validation/redirect-endpoint-validation.php:40
+msgid "The redirect you are trying to save will create a redirect loop. This means there probably already exists a redirect that points to the origin of the redirect you are trying to save"
+msgstr "De redirect die je op probeert te slaan veroorzaakt een redirect loop. Dit betekent dat er waarschijnlijk al een redirect is die verwijst naar de bron van de redirect die je toe probeert te voegen."
+
+#. translators: %1$s: will be the target, %2$s: will be the found endpoint.
+#: classes/redirect/validation/redirect-endpoint-validation.php:48
+msgid "%1$s will be redirected to %2$s. Maybe it's worth considering to create a direct redirect to %2$s."
+msgstr "%1$s wordt geredirect naar %2$s. Het is verstandig te overwegen om direct naar %2$s te redirecten."
+
+#. translators: %s expands to the file path that we tried to write to
+#: classes/redirect/redirect-file-util.php:86
+msgid "We're unable to write data to the file %s"
+msgstr "Er kan geen data naar het bestand %s worden geschreven."
+
+#: classes/redirect/redirect-types.php:26
+msgid "301 Moved Permanently"
+msgstr "301 Permanent verhuisd"
+
+#: classes/redirect/redirect-types.php:27
+msgid "302 Found"
+msgstr "302 Gevonden"
+
+#: classes/redirect/redirect-types.php:28
+msgid "307 Temporary Redirect"
+msgstr "307 Tijdelijke redirect"
+
+#: classes/redirect/redirect-types.php:29
+msgid "410 Content Deleted"
+msgstr "410 Inhoud verwijderd"
+
+#: classes/redirect/redirect-types.php:30
+msgid "451 Unavailable For Legal Reasons"
+msgstr "451 Niet beschikbaar vanwege juridische redenen"
+
+#: classes/redirect/validation/redirect-presence-validation.php:34
+msgid "Not all the required fields are filled."
+msgstr "Niet alle vereiste velden zijn gevuld."
+
+#: classes/redirect/validation/redirect-uniqueness-validation.php:32
+msgid "The old URL already exists as a redirect."
+msgstr "De oude URL bestaat al als redirect."
+
+#: classes/redirect/views/redirects-quick-edit.php:42
+msgid "Update Redirect"
+msgstr "Redirect bijwerken"
+
+#. translators: %s expands to the folder location where the redirects fill will
+#. be saved.
+#: classes/redirect/views/redirects-tab-settings.php:63
+msgid "We're unable to save the redirect file to %s"
+msgstr "Het redirect-bestand kan niet worden opgeslagen in %s"
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: List with actions, %3$s: <a
+#. href=''>, %4$s: </a>, %5$s: Slug to post
+#: classes/post-watcher.php:268
+msgid "%1$s detected that you moved a post (%5$s) to the trash. You can either: %2$s Don't know what to do? %3$sRead this post%4$s."
+msgstr "%1$s heeft gedetecteerd dat je een bericht (%5$s) hebt verwijderd. Je kan: %2$s Weet je niet wat te doen? %3$sLees dit bericht%4$s."
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: List with actions, %3$s: <a
+#. href='{post_with_explaination.}'>, %4$s: </a>, %5%s: The removed url.
+#: classes/post-watcher.php:484
+msgid "%1$s detected that you deleted a post (%5$s). You can either: %2$s Don't know what to do? %3$sRead this post %4$s."
+msgstr "%1$s heeft gedetecteerd dat je een bericht (%5$s) hebt verwijderd. Je kan: %2$s Weet je niet wat te doen? %3$sLees dit bericht%4$s."
+
+#. translators: %1$s will be replaced with the from URL.
+#: classes/premium-javascript-strings.php:38
+msgid "410 Redirect created from %1$s!"
+msgstr "410 Redirect gemaakt van %1$s."
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: List with actions, %3$s: <a
+#. href='{post_with_explaination.}'>, %4$s: </a>, %5%s: The removed url.
+#: classes/term-watcher.php:288
+msgid "%1$s detected that you deleted a term (%5$s). You can either: %2$s Don't know what to do? %3$sRead this post %4$s."
+msgstr "%1$s heeft gedetecteerd dat je een term (%5$s) hebt verwijderd. Je kan: %2$s Weet je niet wat te doen? %3$sLees dit bericht%4$s."
+
+#: classes/watcher.php:265
+msgid "Redirect it to another URL"
+msgstr "Deze URL verwijzen naar een andere URL"
+
+#: classes/watcher.php:266
+msgid "Make it serve a 410 Content Deleted header"
+msgstr "Zorg dat er een 410 Content Deleted header verstuurd wordt"
+
+#: classes/redirect/views/redirects-tab-settings.php:101
+msgid "Web server"
+msgstr "Webserver"
+
+#: classes/redirect/views/redirects-tab-settings.php:103
+msgid "Redirect method"
+msgstr "Redirectmethode"
+
+#. translators: %s: 'Yoast SEO Premium'
+#: classes/redirect/views/redirects-tab-settings.php:118
+msgid "%s can generate redirect files that can be included in your website web server configuration. If you choose this option the PHP redirects will be disabled. Only check this option if you know what you are doing!"
+msgstr "%s kan redirect bestanden genereren die opgenomen kunnen worden in de configuratie van je website's webserver. Als je kiest voor deze optie worden de PHP redirects uitgeschakeld. Gebruik deze optie alleen als je weet wat je doet!"
+
+#. translators: %s expands to the file path that we tried to write to
+#: classes/redirect/redirect-file-util.php:44
+msgid "We're unable to create the directory %s"
+msgstr "We kunnen de map %s niet aanmaken"
+
+#: classes/redirect/validation/redirect-self-redirect-validation.php:25
+msgid "You are attempting to redirect to the same URL as the origin. Please choose a different URL to redirect to."
+msgstr ""
+"Je probeert dezelfde URL te redirecten als het origineel.\n"
+"\t\t\t\t\tKies een andere URL om naar te redirecten."
+
+#. translators: 1: opens a link to a related help center article. 2: closes the
+#. link.
+#: classes/redirect/views/redirects-form.php:42
+msgid "The redirect type is the HTTP response code sent to the browser telling the browser what type of redirect is served. %1$sLearn more about redirect types%2$s."
+msgstr "Het redirect type is de HTTP response code welke verzonden wordt naar de browser om te vertellen welke redirect wordt gebruikt. %1$sLees meer over redirect types%2$s."
+
+#. translators: 1: opens a link to a related help center article. 2: closes the
+#. link.
+#: classes/redirect/views/redirects-tab-regex.php:30
+msgid "Regular Expression (regex) Redirects are extremely powerful redirects. You should only use them if you know what you are doing. %1$sRead more about regex redirects on our help center%2$s."
+msgstr "Regular Expressions (regex) Redirects zijn extreem krachtige redirects. Je zou deze optie alleen moeten gebruiken als je weet wat je doet. %1$sLees meer over regex redirects in onze kennisbank%2$s."
+
+#: premium.php:372 src/integrations/admin/crawl-settings-integration.php:194
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#: classes/views/import-redirects.php:72
+msgid "Enter redirects to import"
+msgstr "Voer de redirects in die geïmporteerd moeten worden"
+
+#. translators: %1$s expands to the subdirectory WordPress is installed.
+#: classes/redirect/validation/redirect-subdirectory-validation.php:37
+msgid "Your redirect is missing the subdirectory where WordPress is installed in. This will result in a redirect that won't work. Make sure the redirect starts with %1$s"
+msgstr "Je verwijzing mist de subdirectory waar WordPress is geïnstalleerd. Dit zal resulteren in een verwijzing die niet werkt. Zorg ervoor dat de verwijzing start met %1$s"
+
+#: classes/redirect/redirect-table.php:249
+msgid "Select this redirect"
+msgstr "Deze redirect selecteren"
+
+#. translators: %s expands to Yoast
+#: classes/metabox-link-suggestions.php:101
+msgid "%s internal linking"
+msgstr "%s intern linken"
+
+#. translators: %s: '.htaccess' file name
+#: classes/premium-import-manager.php:67 classes/views/import-redirects.php:45
+msgid "Import redirects"
+msgstr "Redirects importeren"
+
+#: classes/views/import-redirects.php:25
+msgid "Redirection"
+msgstr "Redirection"
+
+#: classes/views/import-redirects.php:26
+msgid "Safe Redirect Manager"
+msgstr "Safe Redirect Manager"
+
+#: classes/views/import-redirects.php:27
+msgid "Simple 301 Redirects"
+msgstr "Simple 301 Redirects"
+
+#: classes/views/import-redirects.php:38
+msgid "Import from other redirect plugins"
+msgstr "Uit andere redirectplugins importeren"
+
+#: classes/views/import-redirects.php:42
+msgid "Import from:"
+msgstr "Importeer uit:"
+
+#: classes/watcher.php:236
+msgid "New URL:"
+msgstr "Nieuwe URL:"
+
+#: classes/watcher.php:234
+msgid "Old URL:"
+msgstr "Oude URL:"
+
+#: classes/premium-redirect-export-manager.php:31
+#: classes/views/export-redirects.php:15
+msgid "Export redirects"
+msgstr "Redirects exporteren"
+
+#: classes/redirect/exporters/redirect-csv-exporter.php:74
+msgid "Origin"
+msgstr "Herkomst"
+
+#: classes/redirect/exporters/redirect-csv-exporter.php:75
+msgid "Target"
+msgstr "Doel"
+
+#: classes/redirect/exporters/redirect-csv-exporter.php:77
+msgid "Format"
+msgstr "Formaat"
+
+#: classes/views/export-redirects.php:10
+msgid "Export redirects to a CSV file"
+msgstr "Exporteer redirects naar een CSV-bestand"
+
+#: classes/views/export-redirects.php:11
+msgid "If you need to have a list of all redirects, you can generate a CSV file using the button below."
+msgstr "Als je een lijst wil hebben van alle redirects, kun je een CSV bestand maken met de onderstaande button."
+
+#: classes/views/export-redirects.php:12
+msgid "Please note that the first row in this file is a header. This row should be ignored when parsing or importing the data from the export."
+msgstr "Houd er rekening mee dat de eerste rij in dit bestand een header is. Deze rij moet worden genegeerd bij het verwerken of importeren van de gegevens van de export."
+
+#: classes/premium-import-manager.php:275
+msgid "CSV import failed: the provided file could not be parsed using a CSV parser."
+msgstr "CSV-import mislukt: Het aangeleverde bestand kon niet worden verwerkt met behulp van de CSV-verwerker."
+
+#: classes/views/import-redirects.php:52
+msgid "Import from a CSV file"
+msgstr "Importeer vanuit een CSV-bestand"
+
+#: classes/views/import-redirects.php:59
+msgid "Import CSV file"
+msgstr "Importeer CSV-bestand"
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: <a href='{undo_redirect_url}'>,
+#. %3$s: </a>, %4$s: Slug to post
+#: classes/post-watcher.php:295
+msgid "%1$s detected that you restored a post (%4$s) from the trash, for which a redirect was created. %2$sClick here to remove the redirect%3$s"
+msgstr "%1$s heeft gedetecteerd dat je een bericht hebt hersteld (%4$s) uit de prullenbak, waarvoor een redirect was gemaakt. %2$sKlik hier om de redirect te verwijderen%3$s"
+
+#. translators: %1$s expands to the link to an article to read more about
+#. orphaned content, %2$s expands to </a>
+#: classes/premium-orphaned-post-filter.php:54
+msgid "%1$sLearn more about orphaned content%2$s."
+msgstr "%1$sLeer meer over verweesde content%2$s."
+
+#. translators: %1$s: plural form of the current post type, %2$s: a Learn more
+#. about link
+#: classes/premium-orphaned-post-filter.php:62
+msgid "Ask your SEO Manager or Site Administrator to count links in all texts, so we can identify orphaned %1$s. %2$s"
+msgstr "Vraag je SEO Manager of Site Administrator om in alle teksten de links te tellen zodat we verweesde inhoud kunnen identificeren %1$s. %2$s"
+
+#. translators: %1$s expands to link to the recalculation option, %2$s: anchor
+#. closing, %3$s: plural form of the current post type, %4$s: a Learn more
+#. about link
+#: classes/premium-orphaned-post-filter.php:71
+msgid "%1$sClick here%2$s to index your links, so we can identify orphaned %3$s. %4$s"
+msgstr "%1$sKlik hier%2$s om je links te indexeren, zodat we verweesde inhoud kunnen identificeren %3$s. %4$s"
+
+#. translators: %1$s: plural form of the current post type, %2$s: a Learn more
+#. about link
+#: classes/premium-orphaned-post-filter.php:81
+msgid "'Orphaned content' refers to %1$s that have no inbound links, consider adding links towards these %1$s. %2$s"
+msgstr "'Verweesde content' verwijst naar %1$s die geen inkomende links hebben, overweeg om links toe te voegen naar deze %1$s. %2$s"
+
+#: classes/premium-orphaned-post-filter.php:140
+#: assets/js/src/workouts/components/OrphanedWorkout.js:88
+msgid "Orphaned content"
+msgstr "Verweesde content"
+
+#: classes/export/export-keywords-csv.php:68
+msgid "url"
+msgstr "url"
+
+#: classes/export/export-keywords-csv.php:69
+msgid "readability score"
+msgstr "Leesbaarheidsscore"
+
+#: classes/export/export-keywords-csv.php:76
+msgid "ID"
+msgstr "ID"
+
+#: classes/redirect/redirect-table.php:84
+msgid "Filter by redirect type"
+msgstr "Filter op redirect type"
+
+#: classes/redirect/redirect-table.php:86
+msgid "All redirect types"
+msgstr "Alle redirect-types"
+
+#. translators: %s resolves to the button label translation.
+#: classes/views/export-keywords.php:12
+msgid "If you need a list of all public posts, terms and related keyphrases, you can generate a CSV file using the %s button below."
+msgstr "Als je een lijst nodig hebt van alle publieke berichten, termen en gerelateerde keyphrases, dan kun je een CSV-bestand maken met de %s-knop hieronder."
+
+#: classes/views/export-keywords.php:21
+msgid "Export keyphrases to a CSV file"
+msgstr "Exporteer keyphrases naar een CSV-bestand"
+
+#: classes/views/export-keywords.php:23
+msgid "You can add or remove columns to be included in the export using the checkboxes below."
+msgstr "Je kunt kolommen toevoegen of verwijderen in de export door het gebruik van de keuzevakjes hieronder."
+
+#: classes/views/export-keywords.php:31
+msgid "Export URL"
+msgstr "Exporteer URL"
+
+#: classes/views/export-keywords.php:32
+msgid "Export title"
+msgstr "Exporteer titel"
+
+#: classes/views/export-keywords.php:35
+msgid "Export readability score"
+msgstr "Exporteer leesbaarheidsscore"
+
+#: classes/views/export-keywords.php:49
+msgid "Please note:"
+msgstr "Let op:"
+
+#: classes/views/export-keywords.php:51
+msgid "The first row in this file is the header row. This row should be ignored when parsing or importing the data from the export."
+msgstr "De eerste rij in dit bestand is de zogenaamde \"header row\". Deze rij moet worden genegeerd bij het parsen of importeren van de data uit de export. "
+
+#: classes/views/export-keywords.php:52
+msgid "Exporting data can take a long time when there are many posts, pages, public custom post types or terms."
+msgstr "Het exporteren van data kan lang duren als er veel berichten, pagina's, publieke custom bericht types of termen zijn."
+
+#: classes/redirect/views/redirects-tab-plain.php:25
+msgid "Plain redirects"
+msgstr "Normale redirects"
+
+#: classes/redirect/views/redirects-tab-regex.php:25
+msgid "Regular Expression redirects"
+msgstr "Reguliere Expressie redirects"
+
+#: classes/redirect/views/redirects-tab-settings.php:76
+msgid "Redirects settings"
+msgstr "Redirectinstellingen"
+
+#: classes/export/export-keywords-csv.php:77
+msgctxt "post_type of a post or the taxonomy of a term"
+msgid "type"
+msgstr "type"
+
+#: classes/export/export-keywords-csv.php:72
+msgid "seo title"
+msgstr "seo titel"
+
+#: classes/views/export-keywords.php:33
+msgid "Export SEO title"
+msgstr "Exporteer SEO titel"
+
+#: classes/views/export-keywords.php:34
+msgid "Export meta description"
+msgstr "Exporteer meta beschrijving"
+
+#: classes/export/export-keywords-csv.php:70
+msgid "keyphrase"
+msgstr "keyphrase"
+
+#: classes/export/export-keywords-csv.php:71
+msgid "keyphrase score"
+msgstr "keyphrase score"
+
+#: classes/premium-keyword-export-manager.php:40
+#: classes/views/export-keywords.php:8
+msgid "Export keyphrases"
+msgstr "Exporteer keyphrases"
+
+#: classes/views/export-keywords.php:30
+msgid "Export keyphrase scores"
+msgstr "Exporteer keyphrase scores"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://yoa.st/2jc"
+msgstr "https://yoa.st/2jc"
+
+#. Plugin Name of the plugin
+msgid "Yoast SEO Premium"
+msgstr "Yoast SEO Premium"
+
+#. translators: 1: link to redirects overview, 2: closing link tag
+#: classes/premium-import-manager.php:192
+msgid "All redirects have been imported successfully. Go to the %1$sredirects overview%2$s to see the imported redirects."
+msgstr "Alle redirects zijn succesvol geïmporteerd. Ga naar het %1$sredirects overzicht%2$s om de geïmporteerde redirects te zien."
+
+#. translators: 1: link to redirects overview, 2: closing link tag
+#: classes/premium-import-manager.php:201
+msgid "No redirects have been imported. Probably they already exist as a redirect. Go to the %1$sredirects overview%2$s to see the existing redirects."
+msgstr "Er zijn geen redirects geïmporteerd. Waarschijnlijk bestaan ze al als redirect. Ga naar het  %1$sredirects overzicht%2$s om de bestaande redirects te bekijken."
+
+#. translators: 1: amount of imported redirects, 2: total amount of redirects,
+#. 3: link to redirects overview, 4: closing link tag
+#: classes/premium-import-manager.php:209
+msgid "Imported %1$s/%2$s redirects successfully. Go to the %3$sredirects overview%4$s to see the imported redirect."
+msgid_plural "Imported %1$s/%2$s redirects successfully. Go to the %3$sredirects overview%4$s to see the imported redirects."
+msgstr[0] "Succesvol %1$s/%2$s redirect geïmporteerd. Ga naar het %3$sredirects overzicht%4$s om de geïmporteerde redirect te zien."
+msgstr[1] "Succesvol %1$s/%2$s redirects geïmporteerd. Ga naar het %3$sredirects overzicht%4$s om de geïmporteerde redirects te zien."
+
+#: classes/premium-import-manager.php:251
+msgid "Redirect import failed: the selected redirect plugin is not installed or activated."
+msgstr "Redirect import mislukt: de geselecteerde redirect plugin is niet geïnstalleerd of geactiveerd."
+
+#: classes/premium-import-manager.php:269
+msgid "CSV import failed: No file selected."
+msgstr "CSV import mislukt: Geen bestand geselecteerd."
+
+#. translators: 1: The maximum file size
+#: classes/premium-import-manager.php:283
+msgid "CSV import failed: the provided file is larger than %1$s."
+msgstr "CSV import mislukt: het opgegeven bestand is groter dan %1$s."
+
+#: classes/premium-import-manager.php:290
+msgid "CSV import failed: the provided file is not a CSV file."
+msgstr "CSV import mislukt: het opgegeven bestand is geen CSV bestand."
+
+#: classes/premium-import-manager.php:309
+msgid "Redirect import failed: we can't recognize this type of import."
+msgstr "Redirect import mislukt: we kunnen dit type import niet herkennen."
+
+#: classes/premium-stale-cornerstone-content-filter.php:51
+msgid "Stale cornerstone content"
+msgstr "Verouderde cornerstone content"
+
+#. translators: %s expands to the posttype label, %2$s expands anchor to blog
+#. post about cornerstone content, %3$s expands to </a>
+#: classes/premium-stale-cornerstone-content-filter.php:68
+msgid "Stale cornerstone content refers to cornerstone content that hasn’t been updated in the last 6 months. Make sure to keep these %1$s up-to-date. %2$sLearn more about cornerstone content%3$s."
+msgstr "Verouderde cornerstone content verwijst naar cornerstone content die de laatste 6 maanden niet is voorzien van een update. Zorg ervoor dat je deze %1$s up-to-date houdt. %2$sLeer meer over cornerstone content%3$s."
+
+#: classes/views/import-redirects.php:56
+msgid "Choose a CSV file from your computer:"
+msgstr "Kies een CSV bestand op je computer:"
+
+#: classes/watcher.php:247 assets/js/src/components/RedirectNotification.js:133
+#: assets/js/src/elementor/components/RedirectNotification.js:133
+msgid "Undo"
+msgstr "Ongedaan maken"
+
+#: classes/premium-redirect-service.php:60
+#: classes/redirect-undo-endpoint.php:83 classes/redirect-undo-endpoint.php:103
+msgid "Redirect not deleted."
+msgstr "Redirect niet verwijderd."
+
+#: classes/premium-redirect-service.php:61
+#: classes/redirect-undo-endpoint.php:84 classes/redirect-undo-endpoint.php:104
+msgid "Something went wrong when deleting this redirect."
+msgstr "Er ging iets fout bij het verwijderen van deze redirect."
+
+#: classes/redirect/validation/redirect-relative-origin-validation.php:27
+msgid "The old URL for your redirect is not relative. Only the new URL is allowed to be absolute. Make sure to provide a relative old URL."
+msgstr "De oude URL van je redirect is niet relatief. Alleen de nieuwe URL mag absoluut zijn. Zorg er voor dat je een relatieve oude URL opgeeft."
+
+#. translators: %1$s: Yoast SEO Premium, %2$s and %3$s expand to a link to the
+#. admin page.
+#: classes/post-watcher.php:471
+msgid "%1$s created a %2$sredirect%3$s from the old post URL to the new post URL."
+msgstr "%1$s heeft een %2$sredirect%3$s aangemaakt van het oude bericht URL naar de nieuwe bericht URL."
+
+#. translators: %1$s: Yoast SEO Premium, %2$s and %3$s expand to a link to the
+#. admin page.
+#: classes/term-watcher.php:275
+msgid "%1$s created a %2$sredirect%3$s from the old term URL to the new term URL."
+msgstr "%1$s heeft een %2$sredirect%3$s aangemaakt van de oude URL naar de nieuwe URL."
+
+#: classes/watcher.php:241
+msgid "Ok"
+msgstr "Ok"
+
+#: src/integrations/admin/crawl-settings-integration.php:270
+#: assets/js/src/components/semrush/SEMrushRemoveRelatedKeyphraseLink.js:19
+#: assets/js/src/workouts/components/OrphanedWorkout/RedirectModal.js:87
+msgid "Remove"
+msgstr "Verwijderen"
+
+#. translators: %s: Zapier.
+#: src/integrations/third-party/zapier.php:128
+msgid "Go to your %s Dashboard"
+msgstr "Ga naar je %s-dashboard"
+
+#. translators: 1: Zapier, 2: The Zapier API Key.
+#: src/integrations/third-party/zapier.php:133
+msgid "%1$s uses this API Key: %2$s"
+msgstr "%1$s gebruikt deze API-key: %2$s"
+
+#: src/integrations/third-party/zapier.php:137
+msgid "Reset API Key"
+msgstr "API-Key resetten"
+
+#. translators: %s: Zapier.
+#: src/integrations/third-party/zapier.php:176
+msgid "%s will ask for an API key. Use this one:"
+msgstr "%s vraagt om een API-key. Gebruik deze:"
+
+#: src/integrations/third-party/zapier.php:182
+msgid "Copy to clipboard"
+msgstr "Naar klembord kopiëren "
+
+#. translators: 1: Link start tag, 2: Yoast SEO, 3: Zapier, 4: Link closing
+#. tag.
+#: src/integrations/third-party/zapier-classic-editor.php:86
+#: assets/js/src/components/ZapierPostPublishContent.js:23
+msgid "%1$sConnect %2$s with %3$s%4$s to instantly share your published posts with 2000+ destinations such as Twitter, Facebook and more."
+msgstr "%1$sVerbind %2$s met %3$s%4$s om rechtstreeks je gepubliceerde berichten te delen met meer dan 2000 bestemmingen zoals Twitter, Facebook."
+
+#. translators: 1: Yoast SEO, 2: Zapier.
+#: src/integrations/third-party/zapier.php:117
+msgid "%1$s is successfully connected to %2$s!"
+msgstr "%1$s is succesvol verbonden met %2$s!"
+
+#. translators: 1: Yoast SEO, 2: Zapier, 3: Emphasis open tag, 4: Emphasis
+#. close tag.
+#: src/integrations/third-party/zapier.php:151
+msgid "%1$s is not connected to %2$s. To set up a connection, make sure you click %3$sSave changes%4$s first, then copy the given API key below and use it to %3$screate%4$s and %3$sturn on%4$s a Zap within your %2$s account."
+msgstr "%1$s is niet verbonden met %2$s. Om een verbinding te maken, klik je eerst op %3$sWijzigingen opslaan%4$s, daarna kopieer je de API-sleutel hieronder en gebruik die %3$som een Zap te maken%4$s en te %3$sactiveren%4$s in je %2$s-account."
+
+#. translators: 1: Yoast SEO.
+#: src/integrations/third-party/zapier.php:161
+msgid "Please note that you can only create 1 Zap with a trigger event from %1$s. Within this Zap you can choose one or more actions."
+msgstr "Let op dat je slechts 1 Zap kunt maken met een triggeractie van %1$s. Binnen deze Zap kun je één of meerdere acties kiezen."
+
+#. translators: %s: Zapier.
+#. translators: 1: Zapier
+#: src/integrations/third-party/zapier.php:187
+#: assets/js/src/components/ZapierModal.js:217
+msgid "Create a Zap in %s"
+msgstr "Maak een Zap in %s"

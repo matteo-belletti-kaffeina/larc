@@ -1,0 +1,53 @@
+/* Login form */
+#booked-page-form .login-remember input {
+	display: inline;
+	vertical-align:middle;
+}
+
+#booked-profile-page i.fa {
+	color: inherit;
+}
+
+/* User profile header */
+#booked-profile-page div.booked-profile-header {
+	padding: 0 0 2em;
+}
+#booked-profile-page div.booked-user-avatar {
+	width: 50px;
+	height:50px;
+}
+#booked-profile-page div.booked-user-avatar img {
+	-webkit-border-radius: 50%;
+	    -ms-border-radius: 50%;
+			border-radius: 50%;
+}
+#booked-profile-page .booked-user h3 strong {
+	font-weight:400;
+}
+body .booked-form .field .checkbox-radio-block label {
+	padding-left: 20px;
+}
+/* User profile content */
+#booked-profile-page div.booked-tab-content {
+	-webkit-border-radius: 0;
+	    -ms-border-radius: 0;
+			border-radius: 0;
+}
+body .booked-modal button,
+body table.booked-calendar button,
+.booked-calendar-wrap .booked-appt-list .timeslot .timeslot-people button,
+body #booked-profile-page input[type=submit].button-primary, body table.booked-calendar input[type=submit].button-primary, body .booked-list-view input[type=submit].button-primary, body .booked-modal input[type=submit].button-primary {
+	-webkit-border-radius: 2em;
+	-moz-border-radius: 2em;
+	border-radius: 2em;
+}
+.booked-calendar-wrap .booked-appt-list .timeslot .timeslot-people button, body #booked-profile-page input[type="submit"], body #booked-profile-page button, body .booked-list-view input[type="submit"], body .booked-list-view button, body table.booked-calendar input[type="submit"], body table.booked-calendar button, body .booked-modal input[type="submit"], body .booked-modal button {
+	font-family: Rubik,sans-serif;
+	font-size: 11px;
+	font-weight: 400;
+	font-style: normal;
+	line-height: 1.4em;
+	text-decoration: none;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}

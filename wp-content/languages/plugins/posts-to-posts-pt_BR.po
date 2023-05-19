@@ -1,0 +1,170 @@
+# Translation of Plugins - Posts 2 Posts - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Posts 2 Posts - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-25 15:25:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Posts 2 Posts - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://scribu.net/"
+msgstr "http://scribu.net/"
+
+#. Author of the plugin/theme
+msgid "scribu"
+msgstr "scribu"
+
+#. Description of the plugin/theme
+msgid "Create many-to-many relationships between all types of posts."
+msgstr "Crie relacionamentos muitos-para-muitos entre todos os tipos de posts."
+
+#. Plugin URI of the plugin/theme
+msgid "http://scribu.net/wordpress/posts-to-posts"
+msgstr "http://scribu.net/wordpress/posts-to-posts"
+
+#: vendor/scribu/scb-framework/AdminPage.php:519
+msgid "Settings"
+msgstr "Configurações"
+
+#: vendor/scribu/scb-framework/AdminPage.php:261
+msgid "Settings <strong>saved</strong>."
+msgstr "Configurações <strong>salvas</strong>."
+
+#: vendor/scribu/lib-posts-to-posts/widget.php:56
+msgid "related"
+msgstr "relacionado"
+
+#: vendor/scribu/lib-posts-to-posts/widget.php:55
+msgid "connected"
+msgstr "conectado"
+
+#: vendor/scribu/lib-posts-to-posts/widget.php:49
+msgid "Connection listing:"
+msgstr "Lista de conexão:"
+
+#: vendor/scribu/lib-posts-to-posts/widget.php:44
+msgid "Connection type:"
+msgstr "Tipo de conexão:"
+
+#: vendor/scribu/lib-posts-to-posts/widget.php:37
+msgid "Title:"
+msgstr "Título:"
+
+#: vendor/scribu/lib-posts-to-posts/widget.php:20
+msgid "A list of posts connected to the current post"
+msgstr "Uma lista de posts conectados ao post atual"
+
+#. #-#-#-#-#  tmp-posts-to-posts.pot (Posts 2 Posts 1.6.5)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: vendor/scribu/lib-posts-to-posts/widget.php:19
+msgid "Posts 2 Posts"
+msgstr "Posts 2 Posts"
+
+#: vendor/scribu/lib-posts-to-posts/side-user.php:27
+msgid "No users found."
+msgstr "Nenhum usuário foi encontrado."
+
+#: vendor/scribu/lib-posts-to-posts/side-user.php:26
+msgid "Search Users"
+msgstr "Pesquisar usuários"
+
+#: vendor/scribu/lib-posts-to-posts/side-user.php:25
+msgid "User"
+msgstr "Usuário"
+
+#: vendor/scribu/lib-posts-to-posts/side-user.php:16
+msgid "Users"
+msgstr "Usuários"
+
+#: vendor/scribu/lib-posts-to-posts/connection-type.php:109
+msgid "Connected %s"
+msgstr "%s conectado"
+
+#: vendor/scribu/lib-posts-to-posts/connection-type.php:91
+msgid "Create connections"
+msgstr "Criar conexões"
+
+#: admin/tools-page.php:129
+msgid "Go"
+msgstr "Ir"
+
+#: admin/tools-page.php:93
+msgid "Convert to registered connection type:"
+msgstr "Converter para tipo de conexão registado:"
+
+#: admin/tools-page.php:76
+msgid "To register a connection type, see <a href=\"%s\">the wiki</a>."
+msgstr "Para registrar um tipo de conexão, veja <a href=\"%s\">o wiki</a>."
+
+#: admin/tools-page.php:74
+msgid "No connection types registered."
+msgstr "Nenhum tipo de conexão foi registrado."
+
+#: admin/tools-page.php:66
+msgid "Connections"
+msgstr "Conexões"
+
+#: admin/tools-page.php:65
+msgid "Information"
+msgstr "Informação"
+
+#: admin/tools-page.php:64
+msgid "Name"
+msgstr "Nome"
+
+#: admin/tools-page.php:50
+msgid "Converted %1$s connections from <em>%2$s</em> to <em>%3$s</em>."
+msgstr "Conexões %1$s convertidas de <em>%2$s</em> para <em>%3$s</em>."
+
+#: admin/tools-page.php:41
+msgid "<em>%s</em> is not a registered connection type."
+msgstr "<em>%s</em> não é um tipo de conexão registrada."
+
+#: admin/tools-page.php:7
+msgid "Connection Types"
+msgstr "Tipos de conexão"
+
+#: admin/field-delete.php:16
+msgid "Delete connection"
+msgstr "Excluir conexão"
+
+#: admin/field-delete.php:7
+msgid "Delete all connections"
+msgstr "Excluir todas as conexões"
+
+#: admin/factory.php:89
+msgid " (to)"
+msgstr " (para)"
+
+#: admin/factory.php:88
+msgid " (from)"
+msgstr " (de)"
+
+#: admin/dropdown-user.php:32
+msgid "Filter"
+msgstr "Filtro"
+
+#: admin/box.php:232
+msgid "of"
+msgstr "de"
+
+#: admin/box.php:231
+msgid "next"
+msgstr "seguinte"
+
+#: admin/box.php:230
+msgid "previous"
+msgstr "anterior"
+
+#: admin/box.php:140
+msgid "Search"
+msgstr "Pesquisar"
+
+#: admin/box.php:48
+msgid "Are you sure you want to delete all connections?"
+msgstr "Você tem certeza que quer apagar todas as relações?"

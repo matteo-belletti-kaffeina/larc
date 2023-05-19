@@ -1,0 +1,1320 @@
+# Translation of Yoast - Yoast SEO Premium (for WordPress) in Swedish
+# This file is distributed under the same license as the Yoast - Yoast SEO Premium (for WordPress) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-10-05 13:30:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Yoast - Yoast SEO Premium (for WordPress)\n"
+
+#: src/schema-templates/job-salary.block.php:12
+msgid "Job base salary"
+msgstr "Jobbets grundlön"
+
+#: src/schema-templates/job-requirements.block.php:12
+msgid "Job requirements"
+msgstr "Jobbets krav"
+
+#: src/schema-templates/job-location.block.php:12
+msgid "Job location"
+msgstr "Jobbets plats"
+
+#: src/schema-templates/job-location-region.block.php:12
+msgid "Job state/province/region"
+msgstr "Jobbets delstat/provins/region"
+
+#: src/schema-templates/job-location-postal-code.block.php:12
+msgid "Job postal code"
+msgstr "Jobbets postnummer"
+
+#: src/schema-templates/job-location-country.block.php:12
+msgid "Job country"
+msgstr "Jobbets land"
+
+#: src/schema-templates/job-location-city.block.php:12
+msgid "Job city"
+msgstr "Jobbets stad"
+
+#: src/schema-templates/job-location-address.block.php:12
+msgid "Job address"
+msgstr "Jobbets adress"
+
+#: src/schema-templates/job-employment-type.block.php:32
+msgid "Job employment type"
+msgstr "Typ av anställning"
+
+#: src/schema-templates/job-benefits.block.php:12
+msgid "Job benefits"
+msgstr "Jobbets förmåner"
+
+#: src/schema-templates/job-apply-button.block.php:12
+msgid "Job apply button"
+msgstr "Knapp för platsansökan"
+
+#: src/schema-templates/job-application-closing-date.block.php:14
+msgid "Apply before"
+msgstr "Ansök före"
+
+#: src/schema-templates/job-application-closing-date.block.php:12
+msgid "Job application closing date"
+msgstr "Sista ansökningsdag för platsannonsen"
+
+#: src/integrations/admin/workouts-integration.php:128
+msgid "Workouts"
+msgstr "Träningspass"
+
+#: src/integrations/admin/thank-you-page-integration.php:79
+msgid "Installation Successful"
+msgstr "Installationen är klar"
+
+#: classes/views/thank-you.php:104
+msgid "Browse our courses"
+msgstr "Bläddra bland våra kurser"
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: <strong>, %3$s: Yoast SEO, %4$s:
+#. </strong>
+#: classes/views/thank-you.php:91
+msgid "%1$s grants you direct access to %2$sall premium %3$s academy courses%4$s. Learn all the ins and outs of holistic SEO from industry experts."
+msgstr "%1$s ger dig automatiskt full tillgång till %2$salla kurser hos %3$s%4$s. Lär dig allt om holistisk SEO från verkliga branschexperter."
+
+#: classes/views/thank-you.php:84
+msgid "Master vital SEO skills with our online courses"
+msgstr "Bemästra vitala SEO-färdigheter med hjälp av våra onlinekurser"
+
+#: classes/views/thank-you.php:79
+msgid "Check out the Redirect Manager"
+msgstr "Kolla in omdirigeringshanteraren"
+
+#. translators: %1$s: Yoast SEO, %2$s: <strong>, %3$s: </strong>
+#: classes/views/thank-you.php:68
+msgid "The %1$s %2$sRedirect Manager%3$s automatically prevents visitors from reaching a dead end whenever you move or delete content. It also makes managing your existing redirects easy."
+msgstr "%2$sOmdirigeringshanteraren%3$s i %1$s förhindrar automatiskt att besökare fastnar i återvändsgränder om du skulle flytta eller ta bort något innehåll. Verktyget underlättar även hanteringen av dina befintliga omdirigeringar."
+
+#: classes/views/thank-you.php:61
+msgid "Keep your site well-organised so people won't get lost"
+msgstr "Se till att webbplatsen är välorganiserad så att besökarna inte tappar bort sig"
+
+#: classes/views/thank-you.php:56
+msgid "Score some more green bullets"
+msgstr "Skaffa fler gröna punkter"
+
+#. translators: %1$s: <strong>, %2$s: </strong>
+#: classes/views/thank-you.php:46
+msgid "Different people search with different search terms. With our %1$spremium analysis%2$s, you are free to use variations and synonyms of your keywords in your content, which will make your writing style far more natural."
+msgstr "Olika personer söker på olika söktermer. Med vår %1$spremiumanalys%2$s kan du utan problem använda ordvarianter och synonymer till dina nyckelord i innehållet så att ditt skrivande känns mycket naturligare."
+
+#: classes/views/thank-you.php:39
+msgid "Optimize your content further with our smart analysis"
+msgstr "Optimera ditt innehåll ännu mer med hjälp av vår smarta analys"
+
+#: classes/views/thank-you.php:34
+msgid "Do the cornerstone workout!"
+msgstr "Träna på grundstensinnehåll!"
+
+#. translators: %1$s: <strong>, %2$s: </strong>
+#: classes/views/thank-you.php:24
+msgid "%1$sCornerstone content%2$s is the content on your site that’s most important. You want to rank highest in Google with these articles. Make sure your internal linking structure reflects what pages are most important. Want to know how?"
+msgstr "%1$sGrundstensinnehåll%2$s är det innehåll på din webbplats som är viktigast. Det är för dessa artiklar du vill rankas bäst hos Google. Se till att strukturen för dina interna länkar återspeglar vilka sidor som är viktigast. Vill du veta hur?"
+
+#: classes/views/thank-you.php:17
+#: assets/js/src/workouts/components/CornerstoneWorkout.js:96
+#: assets/js/src/workouts/components/WorkoutsPage.js:100
+msgid "Rank with articles you want to rank with"
+msgstr "Få bra rangordning på de artiklar du vill synas bäst med"
+
+#: classes/views/thank-you.php:12
+msgid "So, what's next?"
+msgstr "Vad är nästa steg?"
+
+#: classes/views/thank-you.php:10
+msgid "Installation successful!"
+msgstr "Installationen lyckades!"
+
+#: src/schema-templates/job-location-city.block.php:12
+msgid "The city in which the street address is, and which is in the region. For example, Los Angeles."
+msgstr "Den stad, i vilken gatuadressen ligger, som i sin tur ligger i angiven region. Exempelvis Los Angeles."
+
+#: src/schema-templates/job-location-region.block.php:14
+msgid "Enter state/province/region"
+msgstr "Ange delstat/provins/region"
+
+#: src/schema-templates/job-location-region.block.php:12
+msgid "The state, province or region in which the city is, and which is in the country. For example, California."
+msgstr "Den delstat, provins eller region där staden ligger, och som finns i landet. Till exempel Kalifornien. Kan eventuellt användas för svenska län."
+
+#: src/schema-templates/job-location-country.block.php:12
+msgid "The country. For example, USA."
+msgstr "Landet. Till exempel USA."
+
+#: src/schema-templates/job-location-address.block.php:12
+msgid "The street address. For example, 111 South Grand Avenue."
+msgstr "Gatuadressen. Till exempel Storgatan 11."
+
+#: src/schema-templates/job-location-postal-code.block.php:12
+msgid "The postal code. For example, 90012."
+msgstr "Postnumret. Till exempel 90012."
+
+#: src/schema-templates/job-office-location.block.php:30
+msgid "Add additional information to your location details..."
+msgstr "Lägg till extrainformation i dina platsuppgifter …"
+
+#: src/integrations/blocks/block-patterns.php:71
+msgid "Yoast Job Posting"
+msgstr "Yoast platsannonsering"
+
+#: src/schema-templates/job-salary-range.block.php:36
+msgid "The salary range of the job, depending on a variety of factors (e.g. education level or level of experience)."
+msgstr "Jobbets löneintervall, beroende på en rad olika faktorer (t.ex. utbildningsnivå eller erfarenhetsnivå)."
+
+#: src/schema-templates/job-apply-button.block.php:14
+msgid "Apply button (add a link)"
+msgstr "Ansökningsknapp (lägg in länk)"
+
+#: src/schema-templates/job-apply-button.block.php:12
+msgid "A button through which visitors can apply for the job. (Make sure to add a link.)"
+msgstr "En knapp som låter besökaren söka till jobbet. (Se till att lägga in en länk.)"
+
+#: src/integrations/admin/user-profile-integration.php:144
+msgid "The info you add below is added to the data Yoast SEO outputs in its schema.org output, for instance when you're the author of a page. Please only add the info you feel good sharing publicly."
+msgstr "Informationen du lägger in nedan läggs till i de data Yoast SEO inkluderar i data enligt schema.org, till exempel när du är författare för en sida. Lägg bara till sådan information som du vill ska spridas offentligt."
+
+#: src/integrations/admin/user-profile-integration.php:143
+msgid "Yoast SEO Schema enhancements"
+msgstr "Förbättringar i Yoast SEO-scheman"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:127
+msgid "E.g. %1$sAcme inc%2$s"
+msgstr "T.ex. %1$sAcme inc%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:125
+msgid "Employer name"
+msgstr "Arbetsgivarens namn"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:121
+msgid "E.g. %1$ssoftware engineer%2$s"
+msgstr "T.ex. %1$sProgramvaruingenjör%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:115
+msgid "Employer information"
+msgstr "Uppgifter om arbetsgivaren"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:111
+msgid "Comma separated, e.g. %1$sEnglish, French, Dutch%2$s"
+msgstr "Kommaseparerad, t.ex. %1$sEngelska, Franska, Nederländska%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:109
+msgid "Language(s) spoken"
+msgstr "Talade språk"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:105
+msgid "Comma separated, e.g. %1$sPHP, JavaScript, 90's rock music%2$s"
+msgstr "Separerat med kommatecken, t.ex. %1$sPHP, JavaScript, 90-talets rockmusik%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:103
+msgid "Expertise in"
+msgstr "Expertkunskaper inom"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:99
+msgid "Comma separated, e.g. %1$sMost likely to succeed - 1991, Smartest in class - 1990%2$s"
+msgstr "Separerat med kommatecken, t.ex. %1$sHedersomnämnande – 1991, Bäst i sin klass – 1990%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:97
+msgid "Awards"
+msgstr "Utmärkelser"
+
+#: src/integrations/admin/user-profile-integration.php:93
+msgid "Extra information"
+msgstr "Extra information"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:89
+msgid "E.g. %1$sfemale%2$s, %1$smale%2$s, %1$snon-binary%2$s"
+msgstr "T.ex. %1$skvinna%2$s, %1$sman%2$s, %1$sickebinär%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:87
+msgid "Gender"
+msgstr "Kön"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:83
+msgid "Use format: %1$sYYYY-MM-DD%2$s"
+msgstr "Använd format: %1$sYYYY-MM-DD%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:81
+msgid "Birth date"
+msgstr "Födelsedatum"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:77
+msgid "E.g. %1$sMD%2$s, %1$sPhD%2$s"
+msgstr "T.ex. %1$sMD%2$s, %1$sPhD%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:75
+msgid "Honorific suffix"
+msgstr "Hederssuffix"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:71
+msgid "E.g. %1$sDr%2$s, %1$sMs%2$s, %1$sMr%2$s"
+msgstr "T.ex. %1$sDr%2$s, %1$sMs%2$s, %1$sMr%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:69
+msgid "Honorific prefix"
+msgstr "Hedersprefix"
+
+#: src/integrations/admin/user-profile-integration.php:65
+msgid "Basic information"
+msgstr "Grundläggande information"
+
+#: premium.php:337
+msgid "Custom fields to include in page analysis"
+msgstr "Anpassade fält att inkludera i sidanalys"
+
+#: premium.php:330
+msgid "Learn more about including custom fields in the page analysis"
+msgstr "Lär dig mer om att inkludera anpassade fält i sidanalysen"
+
+#: src/schema-templates/job-benefits.block.php:12
+msgid "The description of benefits associated with the job."
+msgstr "Beskrivning av de förmåner som är kopplade till jobbet."
+
+#: src/schema-templates/job-description.block.php:12
+msgid "The description of the job."
+msgstr "Beskrivning av jobbet."
+
+#: src/schema-templates/job-employment-type.block.php:32
+msgid "The type of employment (e.g. full-time, part-time, contract, temporary, seasonal, internship)."
+msgstr "Anställningstyp (t.ex. heltid, deltid, kontraktsanställning, tillfälligt, säsongsanställning, praktikplats)."
+
+#: src/schema-templates/job-application-closing-date.block.php:12
+msgid "The date after which the job posting is not valid anymore."
+msgstr "Efter detta datum är platsannonsen inte längre giltig."
+
+#: src/schema-templates/job-location.block.php:12
+msgid "The (typically single) geographic location associated with the job."
+msgstr "Den geografisk plats som jobbet hör till (vanligtvis en plats)."
+
+#: src/schema-templates/job-location-address.block.php:12
+#: src/schema-templates/job-office-location.block.php:28
+msgid "The address where the office is located."
+msgstr "Adressen där kontoret finns."
+
+#: src/schema-templates/job-requirements.block.php:12
+msgid "The description of skills and experience needed for the position."
+msgstr "Beskrivning av den kompetens och erfarenhet som krävs för tjänsten."
+
+#: src/schema-templates/job-base-salary.block.php:17
+#: src/schema-templates/job-salary-range.block.php:17
+msgid "day"
+msgstr "dag"
+
+#: src/schema-templates/job-base-salary.block.php:13
+#: src/schema-templates/job-salary-range.block.php:13
+msgid "hour"
+msgstr "timme"
+
+#: src/schema-templates/job-base-salary.block.php:21
+#: src/schema-templates/job-salary-range.block.php:21
+msgid "week"
+msgstr "vecka"
+
+#: src/schema-templates/job-base-salary.block.php:25
+#: src/schema-templates/job-salary-range.block.php:25
+msgid "month"
+msgstr "månad"
+
+#: src/schema-templates/job-base-salary.block.php:29
+#: src/schema-templates/job-salary-range.block.php:29
+msgid "year"
+msgstr "år"
+
+#: src/schema-templates/job-base-salary.block.php:36
+#: src/schema-templates/job-salary.block.php:14
+msgid "Base salary"
+msgstr "Grundlön"
+
+#: src/schema-templates/job-base-salary.block.php:39
+#: src/schema-templates/job-salary-range.block.php:39
+msgid "Currency"
+msgstr "Valuta"
+
+#: src/schema-templates/job-base-salary.block.php:40
+#: src/schema-templates/job-salary-range.block.php:40
+#: src/schema-templates/job-salary-range.block.php:42
+msgid "Enter amount"
+msgstr "Ange belopp"
+
+#: src/schema-templates/job-base-salary.block.php:40
+msgid "Value"
+msgstr "Värde"
+
+#: src/schema-templates/job-base-salary.block.php:41
+#: src/schema-templates/job-salary-range.block.php:44
+msgid "Unit"
+msgstr "Enhet"
+
+#: src/schema-templates/job-benefits.block.php:13
+msgid "Benefits"
+msgstr "Förmåner"
+
+#: src/schema-templates/job-benefits.block.php:15
+msgid "Enter benefit"
+msgstr "Ange förmån"
+
+#: src/schema-templates/job-description.block.php:12
+msgid "Job description"
+msgstr "Arbetsbeskrivning"
+
+#: src/schema-templates/job-description.block.php:14
+msgid "Enter a job description..."
+msgstr "Ange en arbetsbeskrivning …"
+
+#: src/schema-templates/job-employment-type.block.php:13
+msgid "Full time"
+msgstr "Heltid"
+
+#: src/schema-templates/job-employment-type.block.php:17
+msgid "Part time"
+msgstr "Deltid"
+
+#: src/schema-templates/job-employment-type.block.php:21
+msgid "Contractor"
+msgstr "Kontraktsuppdrag"
+
+#: src/schema-templates/job-employment-type.block.php:25
+msgid "Temporary"
+msgstr "Tillfälligt"
+
+#: src/schema-templates/job-employment-type.block.php:35
+msgid "Employment"
+msgstr "Anställning"
+
+#: src/schema-templates/job-employment-type.block.php:36
+msgid "This is an internship"
+msgstr "Detta är en praktikplats"
+
+#: src/schema-templates/job-employment-type.block.php:36
+msgid "this is an internship"
+msgstr "detta är en praktikplats"
+
+#: src/schema-templates/job-employment-type.block.php:37
+msgid "This is a volunteer role"
+msgstr "Detta är en volontärroll"
+
+#: src/schema-templates/job-employment-type.block.php:37
+msgid "this is a volunteer role"
+msgstr "detta är en volontärroll"
+
+#: src/schema-templates/job-location.block.php:14
+#: src/schema-templates/job-office-location.block.php:28
+msgid "Office location"
+msgstr "Kontorets placering"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "Address where the office is located"
+msgstr "Kontorets adress"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "Address"
+msgstr "Adress"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "Postal code"
+msgstr "Postnummer"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "City"
+msgstr "Stad"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "Region"
+msgstr "Region"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "Country"
+msgstr "Land"
+
+#: src/schema-templates/job-location.block.php:15
+#: src/schema-templates/job-remote-location.block.php:12
+msgid "Remote job"
+msgstr "Distansarbete"
+
+#: src/schema-templates/job-location.block.php:15
+msgid "This job is 100% remote"
+msgstr "Detta jobb är helt och hållet på distans"
+
+#: src/schema-templates/job-location-address.block.php:14
+msgid "Enter street address"
+msgstr "Ange gatuadress"
+
+#: src/schema-templates/job-location-postal-code.block.php:14
+msgid "Enter postal code"
+msgstr "Ange postnummer"
+
+#: src/schema-templates/job-location-city.block.php:14
+msgid "Enter city"
+msgstr "Ange ort"
+
+#: src/schema-templates/job-location-country.block.php:14
+msgid "Enter country"
+msgstr "Ange land"
+
+#: src/schema-templates/job-remote-location.block.php:12
+#: src/schema-templates/job-remote-location.block.php:14
+msgid "This job is 100% remote."
+msgstr "Detta jobb är helt och hållet på distans."
+
+#: src/schema-templates/job-requirements.block.php:13
+msgid "Requirements"
+msgstr "Krav"
+
+#: src/schema-templates/job-requirements.block.php:15
+msgid "Enter requirement"
+msgstr "Ange krav"
+
+#: src/schema-templates/job-salary-range.block.php:36
+#: src/schema-templates/job-salary.block.php:15
+msgid "Salary range"
+msgstr "Löneintervall"
+
+#: src/schema-templates/job-salary-range.block.php:40
+msgid "Min value"
+msgstr "Minsta värde"
+
+#: src/schema-templates/job-salary-range.block.php:42
+msgid "Max value"
+msgstr "Maxvärde"
+
+#: src/schema-templates/job-base-salary.block.php:36
+#: src/schema-templates/job-salary.block.php:12
+#: src/schema-templates/job-salary.block.php:14
+msgid "The base salary of the job."
+msgstr "Jobbets grundlön"
+
+#: src/schema-templates/job-salary.block.php:15
+msgid "The salary range of the job, depending on a variety of factors (e.g. a candidate's education level or level of experience)."
+msgstr "Jobbets löneintervall, beror på en rad olika faktorer (t.ex. kandidatens utbildning och erfarenhet)"
+
+#: src/integrations/admin/user-profile-integration.php:119
+msgid "Job title"
+msgstr "Jobbtitel"
+
+#. translators: %1$s: Yoast SEO, %2$s: Link start tag, %3$s: Link end tag.
+#: src/addon-installer.php:163
+msgid "%2$sActivate %1$s now%3$s"
+msgstr "%2$sAktivera %1$s nu%3$s"
+
+#. translators: %1$s: Yoast SEO, %2$s: Link start tag, %3$s: Link end tag.
+#: src/addon-installer.php:170
+msgid "%2$sUpgrade %1$s now%3$s"
+msgstr "%2$sUppgradera %1$s nu%3$s"
+
+#. translators: %1$s: Yoast SEO, %2$s: Link start tag, %3$s: Link end tag.
+#: src/addon-installer.php:175
+msgid "%2$sInstall %1$s now%3$s"
+msgstr "%2$sInstallera %1$s nu%3$s"
+
+#. translators: %1$s: Yoast SEO, %2$s: The minimum Yoast SEO version required,
+#. %3$s: Yoast SEO Premium.
+#: src/addon-installer.php:114
+msgid "%1$s %2$s must be installed and activated in order to use %3$s."
+msgstr "%1$s version %2$s måste vara installerat och aktiverat för användning av %3$s."
+
+#. translators: %1$s: Yoast SEO, %2$s: Link start tag, %3$s: Link end tag.
+#: src/addon-installer.php:158
+msgid "%2$sNetwork Activate %1$s now%3$s"
+msgstr "%2$sNätverksaktivera %1$s nu%3$s"
+
+#. translators: %1$s: Yoast SEO, %2$s: The minimum Yoast SEO version required.
+#: src/addon-installer.php:188
+msgid "Please contact a network administrator to install %1$s %2$s."
+msgstr "Kontakta en nätverksadministratör för installation av %1$s %2$s."
+
+#. translators: %1$s: Yoast SEO, %2$s: The minimum Yoast SEO version required.
+#: src/addon-installer.php:192
+msgid "Please contact an administrator to install %1$s %2$s."
+msgstr "Kontakta en administratör för installation av %1$s %2$s."
+
+#: src/integrations/blocks/job-posting-block.php:68
+msgid "Required Job Posting Blocks"
+msgstr "Obligatoriska block för platsannonser"
+
+#: src/integrations/blocks/job-posting-block.php:73
+msgid "Recommended Job Posting Blocks"
+msgstr "Rekommenderade block för platsannonser"
+
+#: src/integrations/blocks/estimated-reading-time-block.php:55
+#: assets/js/src/blocks/estimated-reading-time/block.js:179
+msgid "Estimated reading time:"
+msgstr "Beräknad läsningstid:"
+
+#: classes/redirect/presenters/redirect-page-presenter.php:69
+msgid "Settings"
+msgstr "Inställningar"
+
+#: classes/redirect/redirect-table.php:100
+msgid "Filter"
+msgstr "Filtrera"
+
+#: classes/premium-javascript-strings.php:61
+#: classes/redirect/redirect-table.php:411
+msgid "Edit"
+msgstr "Redigera"
+
+#: classes/premium-javascript-strings.php:53
+#: assets/js/src/components/RedirectNotification.js:123
+#: assets/js/src/elementor/components/RedirectNotification.js:127
+msgid "OK"
+msgstr "OK"
+
+#: classes/export/export-keywords-csv.php:67
+msgid "title"
+msgstr "rubrik"
+
+#: classes/export/export-keywords-csv.php:73
+msgid "meta description"
+msgstr "metabeskrivning"
+
+#: premium.php:297
+msgid "Create Redirect"
+msgstr "Skapa omdirigering"
+
+#: classes/redirect/redirect-formats.php:23 premium.php:361
+msgid "Redirects"
+msgstr "Omdirigeringar"
+
+#: classes/redirect/views/redirects-form.php:59
+msgid "URL"
+msgstr "URL"
+
+#: classes/premium-import-manager.php:241
+msgid "Redirect import failed: the Redirection plugin is not installed or activated."
+msgstr "Omdirigeringsimport misslyckades: Omdirigeringstillägget är inte installerad eller aktiverad."
+
+#: classes/premium-import-manager.php:317
+msgid "Redirect import failed: no redirects found."
+msgstr "Omdirigeringsimport misslyckades: inga omdirigeringar hittades."
+
+#: classes/premium-javascript-strings.php:31
+msgid "You have unsaved redirects, are you sure you want to leave?"
+msgstr "Du har osparade omdirigeringar, är du säker på att du vill avsluta?"
+
+#: classes/redirect/redirect-table.php:115
+msgid "New URL"
+msgstr "Ny URL"
+
+#: classes/premium-javascript-strings.php:62
+#: classes/redirect/redirect-table.php:308
+#: classes/redirect/redirect-table.php:412
+msgid "Delete"
+msgstr "Ta bort"
+
+#: classes/redirect/views/redirects-tab-plain.php:61
+#: classes/redirect/views/redirects-tab-regex.php:72
+msgid "Search"
+msgstr "Sök"
+
+#: classes/redirect/views/redirects-tab-settings.php:104
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: classes/redirect/redirect-formats.php:24
+msgid "Regex Redirects"
+msgstr "Regex omdirigering"
+
+#: classes/redirect/presenters/redirect-table-presenter.php:68
+msgid "Old URL"
+msgstr "Gammal URL"
+
+#: classes/redirect/views/redirects-tab-plain.php:41
+#: classes/redirect/views/redirects-tab-regex.php:52
+msgid "Add Redirect"
+msgstr "Lägg till omdirigering"
+
+#: classes/redirect/views/redirects-tab-settings.php:48
+msgid "As you're on Nginx, you should add the following include to the Nginx config file:"
+msgstr "När du är på Nginx, ska du lägga till följande inkludering i Nginx config-filen:"
+
+#: classes/redirect/views/redirects-tab-settings.php:22
+msgid "As you're on Apache, you should add the following include to the website httpd config file:"
+msgstr "När du är på Apache, ska du lägga till följande inkludering till webbplatsens httpd config-fil:"
+
+#. Description of the plugin
+msgid "The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more."
+msgstr "Den första sanna allt-i-ett SEO-lösning för WordPress, inklusive innehållsanalys på sidan, XML-webbplatskartor och mycket mer."
+
+#: classes/redirect/exporters/redirect-csv-exporter.php:76
+#: assets/js/src/workouts/components/CornerstoneWorkout/MostLinked.js:98
+msgid "Type"
+msgstr "Typ"
+
+#. translators: %s: '.htaccess' file name.
+#: classes/redirect/views/redirects-tab-settings.php:35
+msgid "We're unable to save the redirects to your %s file. Please make the file writable."
+msgstr "Vi kan inte spara omdirigeringarna till din %s-fil. Vänligen gör filen skrivbar."
+
+#: classes/redirect/views/redirects-tab-settings.php:93
+msgid "Generate a separate redirect file"
+msgstr "Skapa en separat omdirigeringsfil"
+
+#: classes/redirect/redirect-page.php:140
+msgid "Redirects per page"
+msgstr "Omdirigeringar per sida"
+
+#: classes/views/import-redirects.php:74
+msgid "Import .htaccess"
+msgstr "Importera .htaccess"
+
+#: classes/premium-javascript-strings.php:26
+msgid "The old URL field can't be empty."
+msgstr "Det gamla URL-fältet kan inte vara tomt."
+
+#: classes/premium-javascript-strings.php:28
+msgid "The new URL field can't be empty."
+msgstr "Det nya URL-fältet kan inte vara tomt."
+
+#: classes/premium-javascript-strings.php:29
+msgid "Error while saving this redirect"
+msgstr "Fel när denna omdirigering skulle sparas"
+
+#: classes/premium-javascript-strings.php:30
+msgid "New type can't be empty."
+msgstr "Ny typ kan inte vara tom."
+
+#. Author of the plugin
+msgid "Team Yoast"
+msgstr "Team Yoast"
+
+#: classes/premium-javascript-strings.php:25
+msgid "You can't redirect a URL to itself."
+msgstr "Du kan inte omdirigera en URL till sig själv."
+
+#. translators: %s: '.htaccess' file name
+#: classes/redirect/views/redirects-tab-settings.php:96
+msgid "By default we write the redirects to your %s file, check this if you want the redirects written to a separate file. Only check this option if you know what you are doing!"
+msgstr "Som standard skriver vi omdirigeringarna till din %s-fil, markera det här om du vill att omdirigeringen ska skrivas till en separat fil. Kontrollera bara det här alternativet om du vet vad du gör!"
+
+#: classes/redirect/presenters/redirect-table-presenter.php:65
+msgid "Regular Expression"
+msgstr "Vanligt uttryck"
+
+#. translators: 1: '.htaccess' file name
+#: classes/redirect/views/redirects-tab-settings.php:91
+msgid "Write redirects to the %1$s file. Make sure the %1$s file is writable."
+msgstr "Skriv omdirigeringar till filen %1$s. Se till att filen %1$s är skrivbar."
+
+#. translators: %s: '.htaccess' file name
+#: classes/views/import-redirects.php:12
+msgid "Import redirects from %s"
+msgstr "Importera omdirigeringar från %s"
+
+#: classes/premium-javascript-strings.php:27
+msgid "The Regular Expression field can't be empty."
+msgstr "Fältet Vanligt Uttryck kan inte vara tomt."
+
+#. translators: %s is replaced with the URL that will be deleted.
+#: classes/premium-javascript-strings.php:34
+msgid "Please enter the new URL for %s"
+msgstr "Ange den nya URL:en för %s"
+
+#. translators: variables will be replaced with from and to URLs.
+#: classes/premium-javascript-strings.php:36
+msgid "Redirect created from %1$s to %2$s!"
+msgstr "Omdirigering skapad från %1$s till %2$s!"
+
+#: classes/redirect/redirect-table.php:113
+#: classes/redirect/views/redirects-form.php:22
+msgctxt "noun"
+msgid "Type"
+msgstr "Skriv"
+
+#. translators: %1$s: '.htaccess' file name, %2$s: plugin name
+#: classes/views/import-redirects.php:18
+msgid "You can copy the contents of any %1$s file in here, and it will import the redirects into %2$s."
+msgstr "Du kan kopiera innehållet i vilken av %1$s fil här, vilket kommer importera omdirigeringarna till %2$s."
+
+#: classes/premium-javascript-strings.php:41
+msgid "Redirect added."
+msgstr "Omdirigering tillagd."
+
+#: classes/premium-javascript-strings.php:42
+msgid "The redirect was added successfully."
+msgstr "Omdirigeringen har lagts till utan problem."
+
+#: classes/premium-javascript-strings.php:45
+msgid "Redirect updated."
+msgstr "Omdirigeringen uppdaterad."
+
+#: classes/premium-javascript-strings.php:46
+msgid "The redirect was updated successfully."
+msgstr "Omdirigeringen uppdaterades utan problem."
+
+#: classes/premium-javascript-strings.php:49
+#: classes/premium-redirect-service.php:51
+#: classes/redirect-undo-endpoint.php:94
+msgid "Redirect deleted."
+msgstr "Omdirigering borttagen."
+
+#: classes/premium-javascript-strings.php:50
+#: classes/premium-redirect-service.php:52
+#: classes/redirect-undo-endpoint.php:95
+msgid "The redirect was deleted successfully."
+msgstr "Omdirigeringen har tagits bort utan problem."
+
+#: classes/premium-javascript-strings.php:54
+#: classes/redirect/views/redirects-quick-edit.php:43
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: classes/premium-javascript-strings.php:55
+msgid "Save"
+msgstr "Spara"
+
+#: classes/premium-javascript-strings.php:56
+msgid "Save anyway"
+msgstr "Spara ändå"
+
+#: classes/premium-javascript-strings.php:58
+#: classes/redirect/views/redirects-quick-edit.php:22
+msgid "Edit redirect"
+msgstr "Redigera omdirigering"
+
+#: classes/premium-javascript-strings.php:59
+msgid "You are already editing a redirect, please finish this one first"
+msgstr "Du redigerar redan en omdirigering, avsluta denna först"
+
+#: classes/redirect/validation/redirect-accessible-validation.php:29
+msgid "The URL you entered could not be resolved."
+msgstr "Den URL du angav kunde inte lösas."
+
+#. translators: %1$s expands to the returned http code
+#: classes/redirect/validation/redirect-accessible-validation.php:40
+msgid "The URL you are redirecting to seems to return a %1$s status. You might want to check if the target can be reached manually before saving."
+msgstr "URL:en som du omdirigerar ser ut att returnera en %1$s status, Du bör kontrollera om målet kan nås manuellt innan du sparar."
+
+#: classes/redirect/validation/redirect-accessible-validation.php:49
+msgid "You're redirecting to a target that returns a 301 HTTP code (permanently moved). Make sure the target you specify is directly reachable."
+msgstr "Du omdirigerar till ett mål som returnerar en 301 HTTP-kod (permanent flyttad). Se till att målet du anger är direkt nåbart."
+
+#. translators: %1$s expands to the returned http code
+#: classes/redirect/validation/redirect-accessible-validation.php:57
+msgid "The URL you entered returned a HTTP code different than 200(OK). The received HTTP code is %1$s."
+msgstr "URL:en du skrivit returnerade en HTTP kod som inte är 200(OK). Mottagen HTTP kod är %1$s."
+
+#: classes/redirect/redirect-ajax.php:65
+msgid "Unknown error. Failed to create redirect."
+msgstr "Okänt fel. Misslyckades med att skapa omdirigering."
+
+#: classes/redirect/redirect-ajax.php:99
+msgid "Unknown error. Failed to update redirect."
+msgstr "Okänt fel. Misslyckades att uppdatera omdirigering."
+
+#: classes/redirect/validation/redirect-endpoint-validation.php:40
+msgid "The redirect you are trying to save will create a redirect loop. This means there probably already exists a redirect that points to the origin of the redirect you are trying to save"
+msgstr "Omdirigeringen som du försöker spara kommer att skapa en loop. Detta betyder att det troligen redan finns en omdirigering till ursprunget för omdirigeringen som du försöker spara."
+
+#. translators: %1$s: will be the target, %2$s: will be the found endpoint.
+#: classes/redirect/validation/redirect-endpoint-validation.php:48
+msgid "%1$s will be redirected to %2$s. Maybe it's worth considering to create a direct redirect to %2$s."
+msgstr "%1$s kommer bli omdirigerad till %2$s. Det kan vara bra att överväga att skapa en direkt omdirigering till %2$s."
+
+#. translators: %s expands to the file path that we tried to write to
+#: classes/redirect/redirect-file-util.php:86
+msgid "We're unable to write data to the file %s"
+msgstr "Vi kan inte skriva data till fil  %s"
+
+#: classes/redirect/redirect-types.php:26
+msgid "301 Moved Permanently"
+msgstr "301 flyttad permanent"
+
+#: classes/redirect/redirect-types.php:27
+msgid "302 Found"
+msgstr "302 hittades"
+
+#: classes/redirect/redirect-types.php:28
+msgid "307 Temporary Redirect"
+msgstr "307 tillfällig omdirigering"
+
+#: classes/redirect/redirect-types.php:29
+msgid "410 Content Deleted"
+msgstr "410 Innehåll borttaget"
+
+#: classes/redirect/redirect-types.php:30
+msgid "451 Unavailable For Legal Reasons"
+msgstr "451 Otillgänglig på grund av juridiska skäl"
+
+#: classes/redirect/validation/redirect-presence-validation.php:34
+msgid "Not all the required fields are filled."
+msgstr "Inte alla obligatoriska fält är ifyllda."
+
+#: classes/redirect/validation/redirect-uniqueness-validation.php:32
+msgid "The old URL already exists as a redirect."
+msgstr "Den gamla URL:en finns redan som en omdirigering."
+
+#: classes/redirect/views/redirects-quick-edit.php:42
+msgid "Update Redirect"
+msgstr "Uppdatera omdirigering"
+
+#. translators: %s expands to the folder location where the redirects fill will
+#. be saved.
+#: classes/redirect/views/redirects-tab-settings.php:61
+msgid "We're unable to save the redirect file to %s"
+msgstr "Vi kan inte spara omdirigeringsfilen till %s"
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: List with actions, %3$s: <a
+#. href=''>, %4$s: </a>, %5$s: Slug to post
+#: classes/post-watcher.php:260
+msgid "%1$s detected that you moved a post (%5$s) to the trash. You can either: %2$s Don't know what to do? %3$sRead this post%4$s."
+msgstr "%1$s upptäckte att du flyttade ett inlägg (%5$s) till papperskorgen. Du kan antingen: %2$s Vet du inte vad du ska göra? %3$sLäs detta inlägg%4$s."
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: List with actions, %3$s: <a
+#. href='{post_with_explaination.}'>, %4$s: </a>, %5%s: The removed url.
+#: classes/post-watcher.php:476
+msgid "%1$s detected that you deleted a post (%5$s). You can either: %2$s Don't know what to do? %3$sRead this post %4$s."
+msgstr "%1$s upptäckte att du tagit bort ett inlägg (%5$s). Du kan antingen: %2$s Vet du inte vad du ska göra? %3$sLäs detta inlägg %4$s."
+
+#. translators: %1$s will be replaced with the from URL.
+#: classes/premium-javascript-strings.php:38
+msgid "410 Redirect created from %1$s!"
+msgstr "410 omdirigering skapad från %1$s!"
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: List with actions, %3$s: <a
+#. href='{post_with_explaination.}'>, %4$s: </a>, %5%s: The removed url.
+#: classes/term-watcher.php:280
+msgid "%1$s detected that you deleted a term (%5$s). You can either: %2$s Don't know what to do? %3$sRead this post %4$s."
+msgstr "%1$s upptäckte att du tagit bort en term (%5$s). Du kan antingen: %2$s Vet du inte vad du ska göra? %3$sLäs detta inlägg %4$s."
+
+#: classes/watcher.php:282
+msgid "Redirect it to another URL"
+msgstr "Omdirigera den till en annan URL"
+
+#: classes/watcher.php:283
+msgid "Make it serve a 410 Content Deleted header"
+msgstr "Använd svara med status 410 – innehållet borttaget"
+
+#: classes/redirect/views/redirects-tab-settings.php:85
+msgid "Web server"
+msgstr "Webbserver"
+
+#: classes/redirect/views/redirects-tab-settings.php:87
+msgid "Redirect method"
+msgstr "Omdirigeringsmetod"
+
+#. translators: %s: 'Yoast SEO Premium'
+#: classes/redirect/views/redirects-tab-settings.php:100
+msgid "%s can generate redirect files that can be included in your website web server configuration. If you choose this option the PHP redirects will be disabled. Only check this option if you know what you are doing!"
+msgstr "%s kan generera omdirigeringsfiler som kan inkluderas i din webbplats webbserver-konfiguration. Om du väljer detta alternativ kommer PHP omdirigeringar att inaktiveras. Markera bara detta alternativ om du vet vad du gör!"
+
+#. translators: %s expands to the file path that we tried to write to
+#: classes/redirect/redirect-file-util.php:44
+msgid "We're unable to create the directory %s"
+msgstr "Vi kan inte skapa katalog %s"
+
+#: classes/redirect/validation/redirect-self-redirect-validation.php:25
+msgid "You are attempting to redirect to the same URL as the origin. Please choose a different URL to redirect to."
+msgstr "Du försöker omdirigera till samma URL som den ursprungliga. Välj en annan URL att omdirigera till."
+
+#. translators: 1: opens a link to a related help center article. 2: closes the
+#. link.
+#: classes/redirect/views/redirects-form.php:42
+msgid "The redirect type is the HTTP response code sent to the browser telling the browser what type of redirect is served. %1$sLearn more about redirect types%2$s."
+msgstr "Omdirigeringstypen är HTTP-svarskoden som skickats till webbläsaren och berättade för webbläsaren vilken typ av omdirigering som visas. %1$sLäs mer om omdirigeringstyper%2$s."
+
+#. translators: 1: opens a link to a related help center article. 2: closes the
+#. link.
+#: classes/redirect/views/redirects-tab-regex.php:30
+msgid "Regular Expression (regex) Redirects are extremely powerful redirects. You should only use them if you know what you are doing. %1$sRead more about regex redirects on our help center%2$s."
+msgstr "Omdirigeringar med reguljärt uttryck (regex/regular expression) är extremt kraftfulla. Använd dem bara om du har god koll. %1$sLäs mer om omdirigering med regex i vår kunskapsbas%2$s."
+
+#: premium.php:397
+msgid "Enabled"
+msgstr "Aktiverad"
+
+#: classes/views/import-redirects.php:72
+msgid "Enter redirects to import"
+msgstr "Ange omdirigeringar som ska importeras"
+
+#. translators: %1$s expands to the subdirectory WordPress is installed.
+#: classes/redirect/validation/redirect-subdirectory-validation.php:37
+msgid "Your redirect is missing the subdirectory where WordPress is installed in. This will result in a redirect that won't work. Make sure the redirect starts with %1$s"
+msgstr "Din omdirigering saknas i underkatalogen där WordPress är installerat. Detta kommer att resultera i en omdirigering som inte fungerar. Se till att omdirigeringen börjar med %1$s"
+
+#: classes/redirect/redirect-table.php:249
+msgid "Select this redirect"
+msgstr "Välj denna omdirigering"
+
+#. translators: %s expands to Yoast
+#: classes/metabox-link-suggestions.php:101
+msgid "%s internal linking"
+msgstr "%s interna länkar"
+
+#. translators: %s: '.htaccess' file name
+#: classes/premium-import-manager.php:67 classes/views/import-redirects.php:45
+msgid "Import redirects"
+msgstr "Importera omdirigeringar"
+
+#: classes/views/import-redirects.php:25
+msgid "Redirection"
+msgstr "Omdirigering"
+
+#: classes/views/import-redirects.php:26
+msgid "Safe Redirect Manager"
+msgstr "Säker omdirigeringshanterare"
+
+#: classes/views/import-redirects.php:27
+msgid "Simple 301 Redirects"
+msgstr "Enkel 301-omdirigering"
+
+#: classes/views/import-redirects.php:38
+msgid "Import from other redirect plugins"
+msgstr "Importera från andra omdirigeringstillägg"
+
+#: classes/views/import-redirects.php:42
+msgid "Import from:"
+msgstr "Importera från:"
+
+#: classes/watcher.php:253
+msgid "New URL:"
+msgstr "Ny URL:"
+
+#: classes/watcher.php:251
+msgid "Old URL:"
+msgstr "Gammal URL:"
+
+#: classes/premium-redirect-export-manager.php:31
+#: classes/views/export-redirects.php:15
+msgid "Export redirects"
+msgstr "Exportera omdirigeringar"
+
+#: classes/redirect/exporters/redirect-csv-exporter.php:74
+msgid "Origin"
+msgstr "Ursprung"
+
+#: classes/redirect/exporters/redirect-csv-exporter.php:75
+msgid "Target"
+msgstr "Mål"
+
+#: classes/redirect/exporters/redirect-csv-exporter.php:77
+msgid "Format"
+msgstr "Format"
+
+#: classes/views/export-redirects.php:10
+msgid "Export redirects to a CSV file"
+msgstr "Exportera omdirigeringar till en CSV-fil"
+
+#: classes/views/export-redirects.php:11
+msgid "If you need to have a list of all redirects, you can generate a CSV file using the button below."
+msgstr "Om du behöver ha en lista över alla omdirigeringar, kan du generera en CSV-fil med knappen nedan."
+
+#: classes/views/export-redirects.php:12
+msgid "Please note that the first row in this file is a header. This row should be ignored when parsing or importing the data from the export."
+msgstr "Observera att den första raden i den här filen är en rubrik. Denna rad bör ignoreras när du analyserar eller importerar data från exporten."
+
+#: classes/premium-import-manager.php:275
+msgid "CSV import failed: the provided file could not be parsed using a CSV parser."
+msgstr "CSV-import misslyckades: den tillhandahållna filen kunde inte analyseras med en CSV-parser."
+
+#: classes/views/import-redirects.php:52
+msgid "Import from a CSV file"
+msgstr "Importera från en CSV-fil"
+
+#: classes/views/import-redirects.php:59
+msgid "Import CSV file"
+msgstr "Importera CSV-fil"
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: <a href='{undo_redirect_url}'>,
+#. %3$s: </a>, %4$s: Slug to post
+#: classes/post-watcher.php:287
+msgid "%1$s detected that you restored a post (%4$s) from the trash, for which a redirect was created. %2$sClick here to remove the redirect%3$s"
+msgstr "%1$s upptäckte att du återställde ett inlägg (%4$s) från papperskorgen, för vilket en omdirigering skapades. %2$sKlicka här för att ta bort omdirigering%3$s"
+
+#. translators: %1$s expands to the link to an article to read more about
+#. orphaned content, %2$s expands to </a>
+#: classes/premium-orphaned-post-filter.php:54
+msgid "%1$sLearn more about orphaned content%2$s."
+msgstr "%1$sLär dig mer om föräldralöst innehåll%2$s."
+
+#. translators: %1$s: plural form of the current post type, %2$s: a Learn more
+#. about link
+#: classes/premium-orphaned-post-filter.php:62
+msgid "Ask your SEO Manager or Site Administrator to count links in all texts, so we can identify orphaned %1$s. %2$s"
+msgstr "Be din SEO-chef eller webbplatsadministratör att räkna länkar i alla texter, så vi kan identifiera föräldralösa  %1$s. %2$s"
+
+#. translators: %1$s expands to link to the recalculation option, %2$s: anchor
+#. closing, %3$s: plural form of the current post type, %4$s: a Learn more
+#. about link
+#: classes/premium-orphaned-post-filter.php:71
+msgid "%1$sClick here%2$s to index your links, so we can identify orphaned %3$s. %4$s"
+msgstr "%1$sKlicka här%2$s för att indexera dina länkar, Så vi kan identifiera föräldralösa %3$s. %4$s"
+
+#. translators: %1$s: plural form of the current post type, %2$s: a Learn more
+#. about link
+#: classes/premium-orphaned-post-filter.php:81
+msgid "'Orphaned content' refers to %1$s that have no inbound links, consider adding links towards these %1$s. %2$s"
+msgstr "”Föräldralöst innehåll” refererar till %1$s som inte har inkommande länkar, överväga att lägga till länkar till dessa %1$s. %2$s"
+
+#: classes/premium-orphaned-post-filter.php:140
+#: assets/js/src/workouts/components/OrphanedWorkout.js:82
+#: assets/js/src/workouts/components/WorkoutsPage.js:141
+msgid "Orphaned content"
+msgstr "Föräldralöst innehåll"
+
+#: classes/export/export-keywords-csv.php:68
+msgid "url"
+msgstr "url"
+
+#: classes/export/export-keywords-csv.php:69
+msgid "readability score"
+msgstr "läsbarhetspoäng"
+
+#: classes/export/export-keywords-csv.php:76
+msgid "ID"
+msgstr "ID"
+
+#: classes/redirect/redirect-table.php:84
+msgid "Filter by redirect type"
+msgstr "Filtrera efter omdirigeringstyp"
+
+#: classes/redirect/redirect-table.php:86
+msgid "All redirect types"
+msgstr "Alla omdirigeringstyper"
+
+#. translators: %s resolves to the button label translation.
+#: classes/views/export-keywords.php:12
+msgid "If you need a list of all public posts, terms and related keyphrases, you can generate a CSV file using the %s button below."
+msgstr "Om du behöver en lista med alla offentliga inlägg, termer och relaterade nyckelfraser, kan du skapa en CSV-fil med knappen %s nedan."
+
+#: classes/views/export-keywords.php:21
+msgid "Export keyphrases to a CSV file"
+msgstr "Exportera nyckelfraser till en CSV-fil"
+
+#: classes/views/export-keywords.php:23
+msgid "You can add or remove columns to be included in the export using the checkboxes below."
+msgstr "Du kan lägga till eller ta bort kolumner som ska inkluderas i exporten med kryssrutorna nedan."
+
+#: classes/views/export-keywords.php:31
+msgid "Export URL"
+msgstr "Exportera URL"
+
+#: classes/views/export-keywords.php:32
+msgid "Export title"
+msgstr "Exportera rubrik"
+
+#: classes/views/export-keywords.php:35
+msgid "Export readability score"
+msgstr "Exportera läsbarhetspoäng"
+
+#: classes/views/export-keywords.php:49
+msgid "Please note:"
+msgstr "Vänligen notera:"
+
+#: classes/views/export-keywords.php:51
+msgid "The first row in this file is the header row. This row should be ignored when parsing or importing the data from the export."
+msgstr "Den första raden i denna fil är rubrikrad. Denna rad bör ignoreras när man analyserar eller importerar data från exporten."
+
+#: classes/views/export-keywords.php:52
+msgid "Exporting data can take a long time when there are many posts, pages, public custom post types or terms."
+msgstr "Exportera data kan ta lång tid när det finns många inlägg, sidor, offentliga anpassade inläggstyper eller villkor."
+
+#: classes/redirect/views/redirects-tab-plain.php:25
+msgid "Plain redirects"
+msgstr "Simpla omdirigeringar"
+
+#: classes/redirect/views/redirects-tab-regex.php:25
+msgid "Regular Expression redirects"
+msgstr "Vanliga Expression omdirigeringar"
+
+#: classes/redirect/views/redirects-tab-settings.php:74
+msgid "Redirects settings"
+msgstr "Omdirigeringsinställningar"
+
+#: classes/export/export-keywords-csv.php:77
+msgctxt "post_type of a post or the taxonomy of a term"
+msgid "type"
+msgstr "typ"
+
+#: classes/export/export-keywords-csv.php:72
+msgid "seo title"
+msgstr "seo-rubrik"
+
+#: classes/views/export-keywords.php:33
+msgid "Export SEO title"
+msgstr "Exportera SEO-rubrik"
+
+#: classes/views/export-keywords.php:34
+msgid "Export meta description"
+msgstr "Exportera metabeskrivning"
+
+#: classes/export/export-keywords-csv.php:70
+msgid "keyphrase"
+msgstr "nyckelordsfras"
+
+#: classes/export/export-keywords-csv.php:71
+msgid "keyphrase score"
+msgstr "nyckelordsfraspoäng"
+
+#: classes/premium-keyword-export-manager.php:40
+#: classes/views/export-keywords.php:8
+msgid "Export keyphrases"
+msgstr "Exportera nyckelordsfraser"
+
+#: classes/views/export-keywords.php:30
+msgid "Export keyphrase scores"
+msgstr "Exportera nyckelordfras-poäng"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://yoa.st/2jc"
+msgstr "https://yoa.st/2jc"
+
+#. Plugin Name of the plugin
+msgid "Yoast SEO Premium"
+msgstr "Yoast SEO Premium"
+
+#. translators: 1: link to redirects overview, 2: closing link tag
+#: classes/premium-import-manager.php:192
+msgid "All redirects have been imported successfully. Go to the %1$sredirects overview%2$s to see the imported redirects."
+msgstr "Alla omdirigeringar har importerats utan problem. Gå till %1$somdirigeringsöversikten%2$s för att se de importerade omdirigeringarna."
+
+#. translators: 1: link to redirects overview, 2: closing link tag
+#: classes/premium-import-manager.php:201
+msgid "No redirects have been imported. Probably they already exist as a redirect. Go to the %1$sredirects overview%2$s to see the existing redirects."
+msgstr "Inga omdirigeringar har importerats. Förmodligen finns de redan som omdirigering. Gå till %1$somdirigeringsöversikten%2$s för att se de befintliga omdirigeringarna."
+
+#. translators: 1: amount of imported redirects, 2: total amount of redirects,
+#. 3: link to redirects overview, 4: closing link tag
+#: classes/premium-import-manager.php:209
+msgid "Imported %1$s/%2$s redirects successfully. Go to the %3$sredirects overview%4$s to see the imported redirect."
+msgid_plural "Imported %1$s/%2$s redirects successfully. Go to the %3$sredirects overview%4$s to see the imported redirects."
+msgstr[0] "Importerade %1$s/%2$s omdirigering utan problem. Gå till %3$somdirigeringsöversikten%4$s för att se den importerade omdirigeringen."
+msgstr[1] "Importerade %1$s/%2$s omdirigeringar utan problem. Gå till %3$somdirigeringsöversikten%4$s för att se de importerade omdirigeringarna."
+
+#: classes/premium-import-manager.php:251
+msgid "Redirect import failed: the selected redirect plugin is not installed or activated."
+msgstr "Omdirigeringsimport misslyckades: det valda omdirigeringstillägget är inte installerat eller aktiverat."
+
+#: classes/premium-import-manager.php:269
+msgid "CSV import failed: No file selected."
+msgstr "CSV-import misslyckades: Ingen fil vald."
+
+#. translators: 1: The maximum file size
+#: classes/premium-import-manager.php:283
+msgid "CSV import failed: the provided file is larger than %1$s."
+msgstr "CSV-import misslyckades: den angivna filen är större än %1$s."
+
+#: classes/premium-import-manager.php:290
+msgid "CSV import failed: the provided file is not a CSV file."
+msgstr "CSV-import misslyckades: den angivna filen är inte en CSV-fil."
+
+#: classes/premium-import-manager.php:309
+msgid "Redirect import failed: we can't recognize this type of import."
+msgstr "Omdirigeringsimport misslyckades: Vi kan inte känna igen denna typ av import."
+
+#: classes/premium-stale-cornerstone-content-filter.php:51
+msgid "Stale cornerstone content"
+msgstr "Föråldrat grundstensinnehåll"
+
+#. translators: %s expands to the posttype label, %2$s expands anchor to blog
+#. post about cornerstone content, %3$s expands to </a>
+#: classes/premium-stale-cornerstone-content-filter.php:68
+msgid "Stale cornerstone content refers to cornerstone content that hasn’t been updated in the last 6 months. Make sure to keep these %1$s up-to-date. %2$sLearn more about cornerstone content%3$s."
+msgstr "Föråldrat grundstensinnehåll refererar till grundstensinnehåll som inte har uppdaterats under de senaste 6 månaderna. Se till att hålla dessa %1$s uppdaterade. %2$sLär dig mer om grundstensinnehåll%3$s."
+
+#: classes/views/import-redirects.php:56
+msgid "Choose a CSV file from your computer:"
+msgstr "Välj en CSV-fil från din dator:"
+
+#: classes/watcher.php:264 assets/js/src/components/RedirectNotification.js:133
+#: assets/js/src/elementor/components/RedirectNotification.js:133
+msgid "Undo"
+msgstr "Ångra"
+
+#: classes/premium-redirect-service.php:60
+#: classes/redirect-undo-endpoint.php:83 classes/redirect-undo-endpoint.php:103
+msgid "Redirect not deleted."
+msgstr "Omdirigering inte borttagen."
+
+#: classes/premium-redirect-service.php:61
+#: classes/redirect-undo-endpoint.php:84 classes/redirect-undo-endpoint.php:104
+msgid "Something went wrong when deleting this redirect."
+msgstr "Något gick fel när du tog bort denna omdirigering."
+
+#: classes/redirect/validation/redirect-relative-origin-validation.php:27
+msgid "The old URL for your redirect is not relative. Only the new URL is allowed to be absolute. Make sure to provide a relative old URL."
+msgstr "Den gamla URL:en för din omdirigering är inte relativ. Endast den nya URL:en får vara absolut. Se till att du anger en relativ gammal URL."
+
+#. translators: %1$s: Yoast SEO Premium, %2$s and %3$s expand to a link to the
+#. admin page.
+#: classes/post-watcher.php:463
+msgid "%1$s created a %2$sredirect%3$s from the old post URL to the new post URL."
+msgstr "%1$s skapade en %2$somdirigering%3$s från den gamla inläggs-URL:en till den nya inläggs-URL:en."
+
+#. translators: %1$s: Yoast SEO Premium, %2$s and %3$s expand to a link to the
+#. admin page.
+#: classes/term-watcher.php:267
+msgid "%1$s created a %2$sredirect%3$s from the old term URL to the new term URL."
+msgstr "%1$s skapade en %2$somdirigering%3$s från den gamla term-URL:en till den nya term-URL:en."
+
+#: classes/watcher.php:258
+msgid "Ok"
+msgstr "Ok"
+
+#. translators: %s: Zapier.
+#: src/integrations/third-party/zapier.php:122
+msgid "Go to your %s Dashboard"
+msgstr "Gå till din %s-adminpanel"
+
+#. translators: 1: Zapier, 2: The Zapier API Key.
+#: src/integrations/third-party/zapier.php:127
+msgid "%1$s uses this API Key: %2$s"
+msgstr "%1$s använder denna API-nyckel: %2$s"
+
+#: src/integrations/third-party/zapier.php:131
+msgid "Reset API Key"
+msgstr "Återställ API-nyckel"
+
+#. translators: %s: Zapier.
+#: src/integrations/third-party/zapier.php:170
+msgid "%s will ask for an API key. Use this one:"
+msgstr "%s kommer fråga efter en API-nyckel. Använd den här:"
+
+#: src/integrations/third-party/zapier.php:176
+msgid "Copy to clipboard"
+msgstr "Kopiera till urklipp"
+
+#. translators: 1: Link start tag, 2: Yoast SEO, 3: Zapier, 4: Link closing
+#. tag.
+#: src/integrations/third-party/zapier-classic-editor.php:71
+#: assets/js/src/components/ZapierPrePublishContent.js:22
+msgid "%1$sConnect %2$s with %3$s%4$s to instantly share your published posts with 2000+ destinations such as Twitter, Facebook and more."
+msgstr "%1$sAnslut%2$s med %3$s%4$s för att omedelbart dela dina publicerade inlägg genom 2000+ destinationer såsom Twitter, Facebook med flera."
+
+#. translators: 1: Yoast SEO, 2: Zapier.
+#: src/integrations/third-party/zapier.php:111
+msgid "%1$s is successfully connected to %2$s!"
+msgstr "%1$s är ansluten till %2$s!"
+
+#. translators: 1: Yoast SEO, 2: Zapier, 3: Emphasis open tag, 4: Emphasis
+#. close tag.
+#: src/integrations/third-party/zapier.php:145
+msgid "%1$s is not connected to %2$s. To set up a connection, make sure you click %3$sSave changes%4$s first, then copy the given API key below and use it to %3$screate%4$s and %3$sturn on%4$s a Zap within your %2$s account."
+msgstr "%1$s är inte ansluten till %2$s. För att skapa en anslutning, kontrollera att du %3$ssparar ändringar%4$s först, kopiera därefter angivna API-nyckeln nedanför och använd den för att %3$sskapa%4$s och %3$saktivera%4$s en Zap inom ditt %2$s-konto."
+
+#. translators: 1: Yoast SEO.
+#: src/integrations/third-party/zapier.php:155
+msgid "Please note that you can only create 1 Zap with a trigger event from %1$s. Within this Zap you can choose one or more actions."
+msgstr "Observera att du endast kan skapa 1 Zap med en utlösande händelse från %1$s. Inom denna Zap kan du välja en eller flera åtgärder."
+
+#. translators: %s: Zapier.
+#: src/integrations/third-party/zapier.php:181
+msgid "Create a Zap in %s"
+msgstr "Skapa en Zap i %s"

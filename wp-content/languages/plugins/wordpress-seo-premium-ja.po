@@ -1,0 +1,1572 @@
+# Translation of Yoast - Yoast SEO Premium (for WordPress) in Japanese
+# This file is distributed under the same license as the Yoast - Yoast SEO Premium (for WordPress) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-11-23 06:25:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-rc.4\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Yoast - Yoast SEO Premium (for WordPress)\n"
+
+#. translators: 1: Zapier, 2: Link start tag, 3: Zapier, 4: Link closing tag.
+#: src/integrations/third-party/zapier-classic-editor.php:75
+msgid "You’re successfully connected to %1$s. Publishing a post will trigger automated actions based on your Zap’s configuration. %2$sManage your Zap in %3$s%4$s."
+msgstr "%1$s に正常に接続されました。 投稿を公開すると、Zap の構成に基づいて自動化されたアクションがトリガーされます。 %2$s%3$s で Zap を管理します%4$s。"
+
+#: src/integrations/admin/crawl-settings-integration.php:149
+msgid "Redirect pretty URLs for search pages to raw format"
+msgstr "検索ページのきれいな URL を生の形式にリダイレクトします"
+
+#: src/integrations/admin/crawl-settings-integration.php:188
+msgid "WordPress loads lots of resources, some of which your site might not need. If you’re not using these, removing them can speed up your pages and save resources."
+msgstr "WordPress は多くのリソースをロードしますが、その中にはサイトが必要としないものもあります。 これらを使用していない場合は、それらを削除すると、ページが高速化され、リソースが節約されます。"
+
+#: src/integrations/admin/crawl-settings-integration.php:188
+msgid "Remove unused resources"
+msgstr "未使用のリソースを削除する"
+
+#: src/integrations/admin/crawl-settings-integration.php:334
+msgid "This feature is not available for multisites."
+msgstr "この機能は、マルチサイトでは使用できません。"
+
+#: src/integrations/admin/crawl-settings-integration.php:154
+msgid "Prevent search engines from crawling /wp-json/"
+msgstr "検索エンジンが /wp-json/ をクロールしないようにする"
+
+#: src/integrations/admin/crawl-settings-integration.php:148
+msgid "Prevent search engines from crawling site search URLs"
+msgstr "検索エンジンがサイト検索 URL をクロールしないようにする"
+
+#: src/integrations/frontend-inspector.php:72
+msgid "Beta"
+msgstr "ベータ"
+
+#. translators: %1$s is a link to the Features tab on the Yoast SEO Dashboard
+#. page, %2$s is a link to the blog post about this feature, %3$s is the link
+#. closing tag.
+#: src/deprecated/integrations/admin/inclusive-language-notification-integration.php:184
+msgid "<strong>New in Yoast SEO Premium 19.2:</strong> Did you know that you can now %1$senable the beta version of our inclusive language feature%3$s to get feedback on the use of inclusive language? This feature is disabled by default. %2$sLearn more about this feature%3$s."
+msgstr "<strong>Yoast SEO Premium 19.2 の新機能:</strong> %1$sインクルーシブランゲージの機能のベータ版を有効にして%3$s、その使用に関するフィードバックを得ることができることをご存知ですか? この機能はデフォルトで無効になっています。 この機能の詳細については、%2$sこちらをご覧ください%3$s。"
+
+#. translators: %1$s is a link to the Features tab on the Yoast SEO Dashboard
+#. page, %2$s is a link to the blog post about this feature, %3$s is the link
+#. closing tag.
+#: src/deprecated/integrations/admin/inclusive-language-notification-integration.php:172
+msgid "<strong>New in Yoast SEO Premium 19.2:</strong> Did you know that you can now get feedback on the use of inclusive language? This feature is disabled by default. Please contact your Network admin if you want to enable it. %2$sLearn more about this feature%3$s."
+msgstr "<strong>Yoast SEO Premium 19.2 の新機能:</strong> インクルーシブランゲージの使用に関するフィードバックを受け取ることができるようになったことをご存知ですか? この機能はデフォルトで無効になっています。 有効にしたい場合は、ネットワーク管理者に連絡してください。 %2$sこの機能の詳細については、こちらをご覧ください%3$s。"
+
+#: src/integrations/frontend-inspector.php:71
+#: assets/js/src/frontend-inspector/components/frontend-inspector.js:28
+msgid "Front-end SEO inspector"
+msgstr "フロントエンド SEO インスペクター"
+
+#. Translators: %1$s expands to an opening anchor tag for a link leading to the
+#. Yoast SEO page of the Permalink Cleanup features, %2$s expands to a closing
+#. anchor tag.
+#: src/integrations/admin/crawl-settings-integration.php:216
+msgid "These are expert features, so make sure you know what you're doing before removing the parameters. %1$sRead more about how your site can be affected%2$s."
+msgstr "これらはエキスパート機能なので、パラメーターを削除する前に、何をしているのかを確認してください。%1$sサイトがどのように影響を受ける可能性があるかについて、詳細をお読みください%2$s。"
+
+#: src/integrations/admin/crawl-settings-integration.php:328
+msgid "This feature is disabled when your site is not using pretty permalinks."
+msgstr "サイトがプリティ パーマリンクを使用していない場合、この機能は無効になります。"
+
+#. translators: 1: Link start tag to the Permalinks settings page, 2: Link
+#. closing tag.
+#: src/integrations/admin/crawl-settings-integration.php:322
+msgid "This feature is disabled when your site is not using %1$spretty permalinks%2$s."
+msgstr "サイトが%1$sプリティ パーマリンク%2$sを使用していない場合、この機能は無効になります。"
+
+#: src/integrations/admin/crawl-settings-integration.php:231
+msgid "Please use a comma to separate multiple URL parameters."
+msgstr "複数の URL 変数を区切るにはコンマを使用してください。"
+
+#: src/integrations/admin/crawl-settings-integration.php:229
+msgid "Additional URL parameters to allow"
+msgstr "許可する追加の URL 変数"
+
+#: src/integrations/admin/crawl-settings-integration.php:225
+msgid "Remove unwanted URL parameters from your URLs."
+msgstr "URL から不要な URL 変数を削除します。"
+
+#: src/integrations/admin/crawl-settings-integration.php:225
+msgid "Permalink cleanup settings"
+msgstr "パーマリンクのクリーンアップ設定"
+
+#: src/integrations/admin/crawl-settings-integration.php:203
+msgid "Max number of characters to allow in searches"
+msgstr "検索で許可する最大文字数"
+
+#: src/integrations/admin/crawl-settings-integration.php:197
+msgid "Clean up and filter searches to prevent search spam."
+msgstr "検索スパムを防ぐために、検索をクリーンアップしてフィルタリングします。"
+
+#: src/integrations/admin/crawl-settings-integration.php:197
+msgid "Search cleanup settings"
+msgstr "検索クリーンアップの設定"
+
+#: src/integrations/admin/crawl-settings-integration.php:193
+msgid "Disabled"
+msgstr "無効"
+
+#: src/integrations/admin/crawl-settings-integration.php:147
+msgid "Filter searches with common spam patterns"
+msgstr "一般的なスパム パターンで検索をフィルタリングする"
+
+#: src/integrations/admin/crawl-settings-integration.php:146
+msgid "Filter searches with emojis and other special characters"
+msgstr "絵文字やその他の特殊文字で検索をフィルタリングする"
+
+#: src/integrations/admin/crawl-settings-integration.php:145
+msgid "Filter search terms"
+msgstr "検索語のフィルター"
+
+#: src/integrations/admin/crawl-settings-integration.php:141
+msgid "Unregistered URL parameters"
+msgstr "未登録の URL 変数"
+
+#: src/integrations/admin/crawl-settings-integration.php:140
+msgid "Campaign tracking URL parameters"
+msgstr "キャンペーントラッキング URL の変数"
+
+#. translators: %1$s: Yoast SEO Premium
+#: src/initializers/crawl-cleanup-permalinks.php:274
+msgid "%1$s: unregistered URL parameter removed"
+msgstr "%1$s: 未登録の URL 変数が削除されました"
+
+#. translators: %1$s: Yoast SEO Premium
+#: src/initializers/crawl-cleanup-permalinks.php:132
+msgid "%1$s: redirect utm variables to #"
+msgstr "%1$s: utm 変数を # にリダイレクトします"
+
+#: src/integrations/admin/crawl-settings-integration.php:314
+msgid "By removing Global comments feed, Post comments feeds will be removed too."
+msgstr "グローバルコメントのフィードを削除すると、投稿コメントのフィードも削除されます。"
+
+#: src/integrations/admin/crawl-settings-integration.php:187
+msgid "Remove feed links added by WordPress that aren't needed for this site."
+msgstr "このサイトに不要な WordPress によって追加されたフィード リンクを削除します。"
+
+#: src/integrations/admin/crawl-settings-integration.php:187
+msgid "Feed crawl settings"
+msgstr "フィードのクロール設定"
+
+#: src/integrations/admin/crawl-settings-integration.php:185
+msgid "Remove links added by WordPress to the header and &lt;head&gt;."
+msgstr "WordPress によってヘッダーと&lt;ヘッド&gt;に追加されたリンクを削除します。"
+
+#: src/integrations/admin/crawl-settings-integration.php:185
+msgid "Basic crawl settings"
+msgstr "基本的なクロール設定"
+
+#: src/integrations/admin/crawl-settings-integration.php:136
+msgid "Powered by HTTP header"
+msgstr "Powered by HTTP ヘッダー"
+
+#: src/integrations/admin/crawl-settings-integration.php:135
+msgid "Pingback HTTP header"
+msgstr "ピンバック HTTP ヘッダー"
+
+#: src/integrations/admin/crawl-settings-integration.php:153
+msgid "Emoji scripts"
+msgstr "絵文字スクリプト"
+
+#: src/integrations/admin/crawl-settings-integration.php:134
+msgid "Generator tag"
+msgstr "ジェネレータのタグ"
+
+#: src/integrations/admin/crawl-settings-integration.php:133
+msgid "oEmbed links"
+msgstr "oEmbed リンク"
+
+#: src/integrations/admin/crawl-settings-integration.php:132
+msgid "RSD / WLW links"
+msgstr "RSD / WLW リンク"
+
+#: src/integrations/admin/crawl-settings-integration.php:131
+msgid "REST API links"
+msgstr "REST API リンク"
+
+#: src/integrations/admin/crawl-settings-integration.php:130
+msgid "Shortlinks"
+msgstr "ショートリンク"
+
+#: src/integrations/admin/crawl-settings-integration.php:126
+msgid "Atom/RDF feeds"
+msgstr "Atom/RDF フィード"
+
+#: src/integrations/admin/crawl-settings-integration.php:125
+msgid "Search results feeds"
+msgstr "検索結果のフィード"
+
+#: src/integrations/admin/crawl-settings-integration.php:124
+msgid "Custom taxonomy feeds"
+msgstr "カスタムタクソノミーフィード"
+
+#: src/integrations/admin/crawl-settings-integration.php:123
+msgid "Tag feeds"
+msgstr "タグフィード"
+
+#: src/integrations/admin/crawl-settings-integration.php:122
+msgid "Category feeds"
+msgstr "カテゴリーフィード"
+
+#: src/integrations/admin/crawl-settings-integration.php:121
+msgid "Post type feeds"
+msgstr "投稿タイプのフィード"
+
+#: src/integrations/admin/crawl-settings-integration.php:120
+msgid "Post authors feeds"
+msgstr "投稿者のフィード"
+
+#: src/integrations/admin/crawl-settings-integration.php:118
+msgid "Global comment feeds"
+msgstr "グローバルコメントのフィード"
+
+#: src/integrations/admin/crawl-settings-integration.php:117
+msgid "Global feed"
+msgstr "グローバルのフィード"
+
+#: src/integrations/admin/crawl-settings-integration.php:119
+msgid "Post comments feeds"
+msgstr "投稿のコメントのフィード"
+
+#: src/integrations/admin/crawl-settings-integration.php:269
+msgid "Keep"
+msgstr "維持"
+
+#: classes/redirect/views/redirects-tab-settings.php:84
+msgid "Read more about why web server redirect methods have been disabled on a multisite."
+msgstr "マルチサイトでWebサーバーのリダイレクト方法が無効になっている理由について詳しくは、こちらをご覧ください。"
+
+#: classes/redirect/views/redirects-tab-settings.php:82
+msgid "Since this site is a multisite, web server redirect methods have been disabled to prevent issues."
+msgstr "このサイトはマルチサイトであるため、問題を防ぐために Web サーバーのリダイレクト方法が無効になっています。"
+
+#: src/schema-templates/job-salary.block.php:12
+msgid "Job base salary"
+msgstr "仕事の基本給"
+
+#: src/schema-templates/job-requirements.block.php:12
+msgid "Job requirements"
+msgstr "仕事の要件"
+
+#: src/schema-templates/job-location.block.php:12
+msgid "Job location"
+msgstr "仕事の場所"
+
+#: src/schema-templates/job-location-region.block.php:12
+msgid "Job state/province/region"
+msgstr "仕事の州 / 県 / 地域"
+
+#: src/schema-templates/job-location-postal-code.block.php:12
+msgid "Job postal code"
+msgstr "仕事の郵便番号"
+
+#: src/schema-templates/job-location-country.block.php:12
+msgid "Job country"
+msgstr "仕事の国"
+
+#: src/schema-templates/job-location-city.block.php:12
+msgid "Job city"
+msgstr "仕事の街"
+
+#: src/schema-templates/job-location-address.block.php:12
+msgid "Job address"
+msgstr "仕事の住所"
+
+#: src/schema-templates/job-employment-type.block.php:32
+msgid "Job employment type"
+msgstr "雇用形態"
+
+#: src/schema-templates/job-benefits.block.php:12
+msgid "Job benefits"
+msgstr "福利厚生"
+
+#: src/schema-templates/job-apply-button.block.php:12
+msgid "Job apply button"
+msgstr "「応募」ボタン"
+
+#: src/schema-templates/job-application-closing-date.block.php:14
+msgid "Apply before"
+msgstr "締め切り"
+
+#: src/schema-templates/job-application-closing-date.block.php:12
+msgid "Job application closing date"
+msgstr "求人応募締切日"
+
+#: src/integrations/admin/thank-you-page-integration.php:80
+msgid "Installation Successful"
+msgstr "インストール完了"
+
+#: classes/views/thank-you.php:104
+msgid "Browse our courses"
+msgstr "コースを確認"
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: <strong>, %3$s: Yoast SEO, %4$s:
+#. </strong>
+#: classes/views/thank-you.php:91
+msgid "%1$s grants you direct access to %2$sall premium %3$s academy courses%4$s. Learn all the ins and outs of holistic SEO from industry experts."
+msgstr "%1$s は、%2$sすべてのプレミアム %3$s アカデミーコース%4$sへの直接アクセスを許可します。業界の専門家からホリスティック SEO に関するすべてを学びましょう。"
+
+#: classes/views/thank-you.php:84
+msgid "Master vital SEO skills with our online courses"
+msgstr "オンラインコースで重要な SEO スキルを習得"
+
+#: classes/views/thank-you.php:79
+msgid "Check out the Redirect Manager"
+msgstr "Redirect Manager を確認して"
+
+#. translators: %1$s: Yoast SEO, %2$s: <strong>, %3$s: </strong>
+#: classes/views/thank-you.php:68
+msgid "The %1$s %2$sRedirect Manager%3$s automatically prevents visitors from reaching a dead end whenever you move or delete content. It also makes managing your existing redirects easy."
+msgstr "%1$s %2$sRedirect Manager%3$s は、コンテンツを移動または削除するたびに、訪問者が 404 ページに到達するのを自動的に防ぎます。 また、既存のリダイレクトの管理も簡単になります。"
+
+#: classes/views/thank-you.php:61
+msgid "Keep your site well-organised so people won't get lost"
+msgstr "サイトを適切に整理するのに役立ちます"
+
+#: classes/views/thank-you.php:56
+msgid "Score some more green bullets"
+msgstr "さらにいくつかのグリーングレードを獲得"
+
+#. translators: %1$s: <strong>, %2$s: </strong>
+#: classes/views/thank-you.php:46
+msgid "Different people search with different search terms. With our %1$spremium analysis%2$s, you are free to use variations and synonyms of your keywords in your content, which will make your writing style far more natural."
+msgstr "さまざまな人がさまざまな検索用語で検索します。%1$sプレミアム分析%2$s,を使用すると、コンテンツでキーワードのバリエーションや同義語を自由に使用できるため、文章のスタイルがはるかに自然になります。"
+
+#: classes/views/thank-you.php:39
+msgid "Optimize your content further with our smart analysis"
+msgstr "スマート分析でコンテンツをさらに最適化"
+
+#: classes/views/thank-you.php:34
+msgid "Do the cornerstone workout!"
+msgstr "コーナーストーンのトレーニングをしましょう！"
+
+#. translators: %1$s: <strong>, %2$s: </strong>
+#: classes/views/thank-you.php:24
+msgid "%1$sCornerstone content%2$s is the content on your site that’s most important. You want to rank highest in Google with these articles. Make sure your internal linking structure reflects what pages are most important. Want to know how?"
+msgstr "%1$sコーナーストーンのコンテンツ%2$sは、サイトで最も重要なコンテンツです。 あなたはこれらの記事でグーグルで最高にランク付けしたいと思っています。 内部リンク構造がどのページが最も重要であるかを反映していることを確認してください。 方法を知りたいですか？"
+
+#: classes/views/thank-you.php:17
+#: assets/js/src/workouts/components/CornerstoneWorkout.js:106
+msgid "Rank with articles you want to rank with"
+msgstr "お気に入りの投稿でランキングを達成"
+
+#: classes/views/thank-you.php:12
+msgid "So, what's next?"
+msgstr "それで、次は何ですか？"
+
+#: classes/views/thank-you.php:10
+msgid "Installation successful!"
+msgstr "インストール完了！"
+
+#: src/schema-templates/job-location-city.block.php:12
+msgid "The city in which the street address is, and which is in the region. For example, Los Angeles."
+msgstr "番地があり、その地域にある都市。 例：ロサンゼルス。"
+
+#: src/schema-templates/job-location-region.block.php:14
+msgid "Enter state/province/region"
+msgstr "州 / 県 / 地域を入力してください "
+
+#: src/schema-templates/job-location-region.block.php:12
+msgid "The state, province or region in which the city is, and which is in the country. For example, California."
+msgstr ""
+"都市が存在する州、県、または地域。 例：カリフォルニア。\n"
+"\n"
+"例："
+
+#: src/schema-templates/job-location-country.block.php:12
+msgid "The country. For example, USA."
+msgstr "国。 例：米国。"
+
+#: src/schema-templates/job-location-address.block.php:12
+msgid "The street address. For example, 111 South Grand Avenue."
+msgstr "番地。例：東亜バッヂビル 1.2F"
+
+#: src/schema-templates/job-location-postal-code.block.php:12
+msgid "The postal code. For example, 90012."
+msgstr "郵便番号。例：107-0062"
+
+#: src/schema-templates/job-office-location.block.php:30
+msgid "Add additional information to your location details..."
+msgstr "場所の詳細に追加情報を追加します。"
+
+#: src/integrations/blocks/block-patterns.php:71
+msgid "Yoast Job Posting"
+msgstr "Yoast 求人情報"
+
+#: src/schema-templates/job-salary-range.block.php:36
+msgid "The salary range of the job, depending on a variety of factors (e.g. education level or level of experience)."
+msgstr "さまざまな要因（教育レベルや経験レベルなど）に応じた、仕事の給与範囲。"
+
+#: src/schema-templates/job-apply-button.block.php:14
+msgid "Apply button (add a link)"
+msgstr "「求人に応募」ボタン（リンクを追加）"
+
+#: src/schema-templates/job-apply-button.block.php:12
+msgid "A button through which visitors can apply for the job. (Make sure to add a link.)"
+msgstr "訪問者が仕事に応募できるボタン。 （必ずリンクを追加してください。）"
+
+#: src/integrations/admin/user-profile-integration.php:144
+msgid "The info you add below is added to the data Yoast SEO outputs in its schema.org output, for instance when you're the author of a page. Please only add the info you feel good sharing publicly."
+msgstr "以下で追加する情報は、Yoast SEO が schema.org 出力で出力するデータに追加されます。 たとえば、ページの作成者である場合です。 公開したい情報のみを追加してください。"
+
+#: src/integrations/admin/user-profile-integration.php:143
+msgid "Yoast SEO Schema enhancements"
+msgstr "Yoast SEO スキーマの機能強化"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:127
+msgid "E.g. %1$sAcme inc%2$s"
+msgstr "例：%1$sAcme inc%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:125
+msgid "Employer name"
+msgstr "雇用者名"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:121
+msgid "E.g. %1$ssoftware engineer%2$s"
+msgstr "例：%1$sソフトウェアエンジニア%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:115
+msgid "Employer information"
+msgstr "雇用者情報"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:111
+msgid "Comma separated, e.g. %1$sEnglish, French, Dutch%2$s"
+msgstr "カンマ区切り、例：%1$s英語、フランス語、オランダ語%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:109
+msgid "Language(s) spoken"
+msgstr "話すことができる言語"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:105
+msgid "Comma separated, e.g. %1$sPHP, JavaScript, 90's rock music%2$s"
+msgstr "カンマ区切り、例：%1$sPHP、JavaScript、90年代のロックミュージック%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:103
+msgid "Expertise in"
+msgstr "専門分野"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:99
+msgid "Comma separated, e.g. %1$sMost likely to succeed - 1991, Smartest in class - 1990%2$s"
+msgstr "カンマ区切り、例：%1$sクラスで最高の学生 - 1991年、クラスで最も賢い - 1990年%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:97
+msgid "Awards"
+msgstr "賞"
+
+#: src/integrations/admin/user-profile-integration.php:93
+msgid "Extra information"
+msgstr "追加情報"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:89
+msgid "E.g. %1$sfemale%2$s, %1$smale%2$s, %1$snon-binary%2$s"
+msgstr "例： %1$s女性%2$s、%1$s男性%2$s、%1$sノンバイナリー%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:87
+msgid "Gender"
+msgstr "性別"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:83
+msgid "Use format: %1$sYYYY-MM-DD%2$s"
+msgstr "使用フォーマット：%1$sYYYY-MM-DD%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:81
+msgid "Birth date"
+msgstr "誕生日"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:77
+msgid "E.g. %1$sMD%2$s, %1$sPhD%2$s"
+msgstr "例： %1$sMD%2$s、%1$sPh.D.%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:75
+msgid "Honorific suffix"
+msgstr "敬語接尾辞"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:71
+msgid "E.g. %1$sDr%2$s, %1$sMs%2$s, %1$sMr%2$s"
+msgstr "例： %1$s様%2$s、%1$sさん%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:69
+msgid "Honorific prefix"
+msgstr "敬語接頭辞"
+
+#: src/integrations/admin/user-profile-integration.php:65
+msgid "Basic information"
+msgstr "基本情報"
+
+#: premium.php:312
+msgid "Custom fields to include in page analysis"
+msgstr "ページ分析に含めるカスタムフィールド"
+
+#: premium.php:305
+msgid "Learn more about including custom fields in the page analysis"
+msgstr "ページ分析にカスタムフィールドを含める方法の詳細"
+
+#: src/schema-templates/job-benefits.block.php:12
+msgid "The description of benefits associated with the job."
+msgstr "仕事に関連する福利厚生の説明。"
+
+#: src/schema-templates/job-description.block.php:12
+msgid "The description of the job."
+msgstr "求人の説明。"
+
+#: src/schema-templates/job-employment-type.block.php:32
+msgid "The type of employment (e.g. full-time, part-time, contract, temporary, seasonal, internship)."
+msgstr "雇用の種類（フルタイム、パートタイム、契約、一時的、季節的、インターンシップなど）"
+
+#: src/schema-templates/job-application-closing-date.block.php:12
+msgid "The date after which the job posting is not valid anymore."
+msgstr "求人情報が無効になる日付。"
+
+#: src/schema-templates/job-location.block.php:12
+msgid "The (typically single) geographic location associated with the job."
+msgstr "求人情報に関連付けられている（通常は単一の）地理的な場所。"
+
+#: src/schema-templates/job-location-address.block.php:12
+#: src/schema-templates/job-office-location.block.php:28
+msgid "The address where the office is located."
+msgstr "事務所のある住所"
+
+#: src/schema-templates/job-requirements.block.php:12
+msgid "The description of skills and experience needed for the position."
+msgstr "職位に必要なスキルと経験の説明。"
+
+#: src/schema-templates/job-base-salary.block.php:17
+#: src/schema-templates/job-salary-range.block.php:17
+msgid "day"
+msgstr "日"
+
+#: src/schema-templates/job-base-salary.block.php:13
+#: src/schema-templates/job-salary-range.block.php:13
+msgid "hour"
+msgstr "時"
+
+#: src/schema-templates/job-base-salary.block.php:21
+#: src/schema-templates/job-salary-range.block.php:21
+msgid "week"
+msgstr "週"
+
+#: src/schema-templates/job-base-salary.block.php:25
+#: src/schema-templates/job-salary-range.block.php:25
+msgid "month"
+msgstr "月"
+
+#: src/schema-templates/job-base-salary.block.php:29
+#: src/schema-templates/job-salary-range.block.php:29
+msgid "year"
+msgstr "年"
+
+#: src/schema-templates/job-base-salary.block.php:36
+#: src/schema-templates/job-salary.block.php:14
+msgid "Base salary"
+msgstr "基本給"
+
+#: src/schema-templates/job-base-salary.block.php:39
+#: src/schema-templates/job-salary-range.block.php:39
+msgid "Currency"
+msgstr "通貨"
+
+#: src/schema-templates/job-base-salary.block.php:40
+#: src/schema-templates/job-salary-range.block.php:40
+#: src/schema-templates/job-salary-range.block.php:42
+msgid "Enter amount"
+msgstr "金額を入力"
+
+#: src/schema-templates/job-base-salary.block.php:40
+msgid "Value"
+msgstr "値"
+
+#: src/schema-templates/job-base-salary.block.php:41
+#: src/schema-templates/job-salary-range.block.php:44
+msgid "Unit"
+msgstr "単位"
+
+#: src/schema-templates/job-benefits.block.php:13
+msgid "Benefits"
+msgstr "福利厚生"
+
+#: src/schema-templates/job-benefits.block.php:15
+msgid "Enter benefit"
+msgstr "福利厚生を入力"
+
+#: src/schema-templates/job-description.block.php:12
+msgid "Job description"
+msgstr "求人の説明"
+
+#: src/schema-templates/job-description.block.php:14
+msgid "Enter a job description..."
+msgstr "仕事の説明を入力・・・"
+
+#: src/schema-templates/job-employment-type.block.php:13
+msgid "Full time"
+msgstr "フルタイム"
+
+#: src/schema-templates/job-employment-type.block.php:17
+msgid "Part time"
+msgstr "アルバイト"
+
+#: src/schema-templates/job-employment-type.block.php:21
+msgid "Contractor"
+msgstr "請負業者"
+
+#: src/schema-templates/job-employment-type.block.php:25
+msgid "Temporary"
+msgstr "短期契約"
+
+#: src/schema-templates/job-employment-type.block.php:35
+msgid "Employment"
+msgstr "職業"
+
+#: src/schema-templates/job-employment-type.block.php:36
+msgid "This is an internship"
+msgstr "これはインターンシップです"
+
+#: src/schema-templates/job-employment-type.block.php:36
+msgid "this is an internship"
+msgstr "これはインターンシップです"
+
+#: src/schema-templates/job-employment-type.block.php:37
+msgid "This is a volunteer role"
+msgstr "これはボランティアの役割です"
+
+#: src/schema-templates/job-employment-type.block.php:37
+msgid "this is a volunteer role"
+msgstr "これはボランティアの役割です"
+
+#: src/schema-templates/job-location.block.php:14
+#: src/schema-templates/job-office-location.block.php:28
+msgid "Office location"
+msgstr "事務所の場所"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "Address where the office is located"
+msgstr "事務所のある住所"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "Address"
+msgstr "住所"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "Postal code"
+msgstr "郵便番号"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "City"
+msgstr "都市"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "Region"
+msgstr "地域"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "Country"
+msgstr "国"
+
+#: src/schema-templates/job-location.block.php:15
+#: src/schema-templates/job-remote-location.block.php:12
+msgid "Remote job"
+msgstr "リモート求人"
+
+#: src/schema-templates/job-location.block.php:15
+msgid "This job is 100% remote"
+msgstr "この仕事は 100％ リモートです"
+
+#: src/schema-templates/job-location-address.block.php:14
+msgid "Enter street address"
+msgstr "住所を入力"
+
+#: src/schema-templates/job-location-postal-code.block.php:14
+msgid "Enter postal code"
+msgstr "郵便番号を入力"
+
+#: src/schema-templates/job-location-city.block.php:14
+msgid "Enter city"
+msgstr "都市を入力"
+
+#: src/schema-templates/job-location-country.block.php:14
+msgid "Enter country"
+msgstr "国を入力"
+
+#: src/schema-templates/job-remote-location.block.php:12
+#: src/schema-templates/job-remote-location.block.php:14
+msgid "This job is 100% remote."
+msgstr "この仕事は 100％ リモートです。"
+
+#: src/schema-templates/job-requirements.block.php:13
+msgid "Requirements"
+msgstr "必要条件"
+
+#: src/schema-templates/job-requirements.block.php:15
+msgid "Enter requirement"
+msgstr "要件を入力"
+
+#: src/schema-templates/job-salary-range.block.php:36
+#: src/schema-templates/job-salary.block.php:15
+msgid "Salary range"
+msgstr "給与範囲"
+
+#: src/schema-templates/job-salary-range.block.php:40
+msgid "Min value"
+msgstr "最小値"
+
+#: src/schema-templates/job-salary-range.block.php:42
+msgid "Max value"
+msgstr "最大値"
+
+#: src/schema-templates/job-base-salary.block.php:36
+#: src/schema-templates/job-salary.block.php:12
+#: src/schema-templates/job-salary.block.php:14
+msgid "The base salary of the job."
+msgstr "仕事の基本給。"
+
+#: src/schema-templates/job-salary.block.php:15
+msgid "The salary range of the job, depending on a variety of factors (e.g. a candidate's education level or level of experience)."
+msgstr "さまざまな要因（候補者の教育レベルや経験レベルなど）に応じた、仕事の給与範囲。"
+
+#: src/integrations/admin/user-profile-integration.php:119
+msgid "Job title"
+msgstr "職名"
+
+#. translators: %1$s: Yoast SEO, %2$s: Link start tag, %3$s: Link end tag.
+#: src/addon-installer.php:163
+msgid "%2$sActivate %1$s now%3$s"
+msgstr "今すぐ%2$s有効化%1$s%3$s"
+
+#. translators: %1$s: Yoast SEO, %2$s: Link start tag, %3$s: Link end tag.
+#: src/addon-installer.php:170
+msgid "%2$sUpgrade %1$s now%3$s"
+msgstr "今すぐ%2$sアップグレード%1$s%3$s"
+
+#. translators: %1$s: Yoast SEO, %2$s: Link start tag, %3$s: Link end tag.
+#: src/addon-installer.php:175
+msgid "%2$sInstall %1$s now%3$s"
+msgstr "今すぐ%2$sインストール%1$s%3$s"
+
+#. translators: %1$s: Yoast SEO, %2$s: The minimum Yoast SEO version required,
+#. %3$s: Yoast SEO Premium.
+#: src/addon-installer.php:114
+msgid "%1$s %2$s must be installed and activated in order to use %3$s."
+msgstr "%3$s を使用するには、%1$sと%2$sをインストールして有効化する必要があります。"
+
+#. translators: %1$s: Yoast SEO, %2$s: Link start tag, %3$s: Link end tag.
+#: src/addon-installer.php:158
+msgid "%2$sNetwork Activate %1$s now%3$s"
+msgstr "%2$s今すぐ%1$sをネットワークで有効化%3$s"
+
+#. translators: %1$s: Yoast SEO, %2$s: The minimum Yoast SEO version required.
+#: src/addon-installer.php:188
+msgid "Please contact a network administrator to install %1$s %2$s."
+msgstr "%1$s %2$sをインストールするには、ネットワーク管理者に連絡してください。"
+
+#. translators: %1$s: Yoast SEO, %2$s: The minimum Yoast SEO version required.
+#: src/addon-installer.php:192
+msgid "Please contact an administrator to install %1$s %2$s."
+msgstr "%1$s %2$s をインストールするには、管理者に連絡してください。"
+
+#: src/integrations/blocks/job-posting-block.php:68
+msgid "Required Job Posting Blocks"
+msgstr "必要な求人情報ブロック"
+
+#: src/integrations/blocks/job-posting-block.php:73
+msgid "Recommended Job Posting Blocks"
+msgstr "推奨される求人情報ブロック"
+
+#: src/integrations/blocks/estimated-reading-time-block.php:57
+#: assets/js/src/blocks/estimated-reading-time/block.js:179
+msgid "Estimated reading time:"
+msgstr "推定読書時間："
+
+#: src/integrations/blocks/estimated-reading-time-block.php:84
+#: assets/js/src/blocks/estimated-reading-time/block.js:64
+#: assets/js/src/blocks/estimated-reading-time/legacy/15.6.js:58
+#: assets/js/src/blocks/estimated-reading-time/legacy/15.6.non-admin.js:28
+#: assets/js/src/blocks/estimated-reading-time/legacy/15.8.js:22
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "分"
+
+#: classes/redirect/presenters/redirect-page-presenter.php:69
+msgid "Settings"
+msgstr "設定"
+
+#: classes/redirect/redirect-table.php:100
+msgid "Filter"
+msgstr "絞り込み"
+
+#: classes/premium-javascript-strings.php:61
+#: classes/redirect/redirect-table.php:411
+msgid "Edit"
+msgstr "編集"
+
+#: classes/premium-javascript-strings.php:53
+#: assets/js/src/components/RedirectNotification.js:123
+#: assets/js/src/elementor/components/RedirectNotification.js:127
+#: assets/js/src/frontend-inspector/components/frontend-inspector.js:61
+msgid "OK"
+msgstr "OK"
+
+#: classes/export/export-keywords-csv.php:67
+msgid "title"
+msgstr "タイトル"
+
+#: classes/export/export-keywords-csv.php:73
+msgid "meta description"
+msgstr "「Meta Description」のタグ"
+
+#: premium.php:272
+msgid "Create Redirect"
+msgstr "リダイレクトの設定"
+
+#: classes/redirect/redirect-formats.php:23 premium.php:336
+msgid "Redirects"
+msgstr "リダイレクト"
+
+#: classes/redirect/views/redirects-form.php:59
+msgid "URL"
+msgstr "URL"
+
+#: classes/premium-import-manager.php:241
+msgid "Redirect import failed: the Redirection plugin is not installed or activated."
+msgstr "リダイレクトのインポートに失敗しました：Redirection プラグインがインストールまたは有効化されていません。"
+
+#: classes/premium-import-manager.php:317
+msgid "Redirect import failed: no redirects found."
+msgstr "リダイレクトのインポートに失敗しました：リダイレクトが見つかりません。"
+
+#: classes/premium-javascript-strings.php:31
+msgid "You have unsaved redirects, are you sure you want to leave?"
+msgstr "保存されていないリダイレクトがありますが、そのままにしますか？"
+
+#: classes/redirect/redirect-table.php:115
+msgid "New URL"
+msgstr "新 URL"
+
+#: classes/premium-javascript-strings.php:62
+#: classes/redirect/redirect-table.php:308
+#: classes/redirect/redirect-table.php:412
+msgid "Delete"
+msgstr "削除"
+
+#: classes/redirect/views/redirects-tab-plain.php:61
+#: classes/redirect/views/redirects-tab-regex.php:72
+msgid "Search"
+msgstr "検索"
+
+#: classes/redirect/views/redirects-tab-settings.php:122
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: classes/redirect/redirect-formats.php:24
+msgid "Regex Redirects"
+msgstr "正規表現リダイレクト"
+
+#: classes/redirect/presenters/redirect-table-presenter.php:68
+msgid "Old URL"
+msgstr "旧 URL"
+
+#: classes/redirect/views/redirects-tab-plain.php:41
+#: classes/redirect/views/redirects-tab-regex.php:52
+msgid "Add Redirect"
+msgstr "リダイレクトの設定"
+
+#: classes/redirect/views/redirects-tab-settings.php:50
+msgid "As you're on Nginx, you should add the following include to the Nginx config file:"
+msgstr "NGINX を利用しているため、NGINX の設定ファイルに以下のテキストを追加しないといけません:"
+
+#: classes/redirect/views/redirects-tab-settings.php:24
+msgid "As you're on Apache, you should add the following include to the website httpd config file:"
+msgstr "Apache を利用しているため、httpd の設定ファイルに以下のテキストを追加しないといけません:"
+
+#. Description of the plugin
+msgid "The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more."
+msgstr "WordPress のオールインワン型 SEO ソリューションを提供します。ページコンテンツの解析や XML サイトマップなど様々な機能があります。"
+
+#: classes/redirect/exporters/redirect-csv-exporter.php:76
+#: assets/js/src/workouts/components/CornerstoneWorkout/MostLinked.js:98
+msgid "Type"
+msgstr "タイプ"
+
+#. translators: %s: '.htaccess' file name.
+#: classes/redirect/views/redirects-tab-settings.php:37
+msgid "We're unable to save the redirects to your %s file. Please make the file writable."
+msgstr "リダイレクトを%sファイルに保存できません。 ファイルを書き込み可能にしてください。"
+
+#: classes/redirect/views/redirects-tab-settings.php:111
+msgid "Generate a separate redirect file"
+msgstr "個別のリダイレクトファイルを生成"
+
+#: classes/redirect/redirect-page.php:140
+msgid "Redirects per page"
+msgstr "ページごとにリダイレクト"
+
+#: classes/views/import-redirects.php:74
+msgid "Import .htaccess"
+msgstr ".htaccess をインポート"
+
+#: classes/premium-javascript-strings.php:26
+msgid "The old URL field can't be empty."
+msgstr "旧 URL 欄は空にはできません。"
+
+#: classes/premium-javascript-strings.php:28
+msgid "The new URL field can't be empty."
+msgstr "新 URL 欄は空にはできません。"
+
+#: classes/premium-javascript-strings.php:29
+msgid "Error while saving this redirect"
+msgstr "転送ルールを保存する際にエラーが発生しました。"
+
+#: classes/premium-javascript-strings.php:30
+msgid "New type can't be empty."
+msgstr "新規タイプは空にはできません。"
+
+#. Author of the plugin
+msgid "Team Yoast"
+msgstr "チーム Yoast"
+
+#: classes/premium-javascript-strings.php:25
+msgid "You can't redirect a URL to itself."
+msgstr "同じ URL を転送先に設定することはできません。"
+
+#. translators: %s: '.htaccess' file name
+#: classes/redirect/views/redirects-tab-settings.php:114
+msgid "By default we write the redirects to your %s file, check this if you want the redirects written to a separate file. Only check this option if you know what you are doing!"
+msgstr "デフォルトでは、リダイレクトは%sファイルに書き込まれます。リダイレクトを別のファイルに書き込む場合は、これを確認してください。 自分が何をしているのかがわかっている場合にのみ、このオプションをチェックしてください。 "
+
+#: classes/redirect/presenters/redirect-table-presenter.php:65
+msgid "Regular Expression"
+msgstr "正規表現"
+
+#. translators: 1: '.htaccess' file name
+#: classes/redirect/views/redirects-tab-settings.php:109
+msgid "Write redirects to the %1$s file. Make sure the %1$s file is writable."
+msgstr "リダイレクト設定を %1$s ファイルに書き込みます。 %1$s ファイルが書き込み可能か確かめてください。"
+
+#. translators: %s: '.htaccess' file name
+#: classes/views/import-redirects.php:12
+msgid "Import redirects from %s"
+msgstr "%s からリダイレクト設定をインポート"
+
+#: classes/premium-javascript-strings.php:27
+msgid "The Regular Expression field can't be empty."
+msgstr "正規表現欄は空にはできません。"
+
+#. translators: %s is replaced with the URL that will be deleted.
+#: classes/premium-javascript-strings.php:34
+msgid "Please enter the new URL for %s"
+msgstr "%s の新しい URL を入力してください。"
+
+#. translators: variables will be replaced with from and to URLs.
+#: classes/premium-javascript-strings.php:36
+msgid "Redirect created from %1$s to %2$s!"
+msgstr "%1$s から %2$s へのリダイレクトを設定しました。"
+
+#: classes/redirect/redirect-table.php:113
+#: classes/redirect/views/redirects-form.php:22
+msgctxt "noun"
+msgid "Type"
+msgstr "タイプ"
+
+#. translators: %1$s: '.htaccess' file name, %2$s: plugin name
+#: classes/views/import-redirects.php:18
+msgid "You can copy the contents of any %1$s file in here, and it will import the redirects into %2$s."
+msgstr "ここに任意の%1$sファイルの内容をコピーでき、リダイレクトが%2$sにインポートされます。 "
+
+#: classes/premium-javascript-strings.php:41
+msgid "Redirect added."
+msgstr "リダイレクトが追加されました。 "
+
+#: classes/premium-javascript-strings.php:42
+msgid "The redirect was added successfully."
+msgstr "リダイレクトは正常に追加されました。"
+
+#: classes/premium-javascript-strings.php:45
+msgid "Redirect updated."
+msgstr "リダイレクトが更新されました。"
+
+#: classes/premium-javascript-strings.php:46
+msgid "The redirect was updated successfully."
+msgstr "リダイレクトは正常に更新されました。"
+
+#: classes/premium-javascript-strings.php:49
+#: classes/premium-redirect-service.php:51
+#: classes/redirect-undo-endpoint.php:94
+msgid "Redirect deleted."
+msgstr "リダイレクトが削除されました。"
+
+#: classes/premium-javascript-strings.php:50
+#: classes/premium-redirect-service.php:52
+#: classes/redirect-undo-endpoint.php:95
+msgid "The redirect was deleted successfully."
+msgstr "リダイレクトは正常に削除されました。"
+
+#: classes/premium-javascript-strings.php:54
+#: classes/redirect/views/redirects-quick-edit.php:43
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: classes/premium-javascript-strings.php:55
+msgid "Save"
+msgstr "保存"
+
+#: classes/premium-javascript-strings.php:56
+msgid "Save anyway"
+msgstr "とにかく保存"
+
+#: classes/premium-javascript-strings.php:58
+#: classes/redirect/views/redirects-quick-edit.php:22
+msgid "Edit redirect"
+msgstr "リダイレクトを編集"
+
+#: classes/premium-javascript-strings.php:59
+msgid "You are already editing a redirect, please finish this one first"
+msgstr "すでにリダイレクトを編集しています。最初にこれを終了してください "
+
+#: classes/redirect/validation/redirect-accessible-validation.php:29
+msgid "The URL you entered could not be resolved."
+msgstr "入力したURLを解決できませんでした。 "
+
+#. translators: %1$s expands to the returned http code
+#: classes/redirect/validation/redirect-accessible-validation.php:40
+msgid "The URL you are redirecting to seems to return a %1$s status. You might want to check if the target can be reached manually before saving."
+msgstr "リダイレクト先の URL は%1$sステータスを返しているようです。 保存する前に、手動でターゲットに到達できるかどうかを確認することをお勧めします。 "
+
+#: classes/redirect/validation/redirect-accessible-validation.php:49
+msgid "You're redirecting to a target that returns a 301 HTTP code (permanently moved). Make sure the target you specify is directly reachable."
+msgstr "301 HTTP コードを返すターゲットにリダイレクトしています。 指定するターゲットが直接到達可能であることを確認してください。 "
+
+#. translators: %1$s expands to the returned http code
+#: classes/redirect/validation/redirect-accessible-validation.php:57
+msgid "The URL you entered returned a HTTP code different than 200(OK). The received HTTP code is %1$s."
+msgstr "入力した URL が 200（OK）とは異なる HTTP コードを返しました。 受信した HTTP コードは%1$sです。 "
+
+#: classes/redirect/redirect-ajax.php:65
+msgid "Unknown error. Failed to create redirect."
+msgstr "不明なエラー。 リダイレクトの作成に失敗しました。 "
+
+#: classes/redirect/redirect-ajax.php:99
+msgid "Unknown error. Failed to update redirect."
+msgstr "不明なエラー。 リダイレクトの更新に失敗しました。"
+
+#: classes/redirect/validation/redirect-endpoint-validation.php:40
+msgid "The redirect you are trying to save will create a redirect loop. This means there probably already exists a redirect that points to the origin of the redirect you are trying to save"
+msgstr "保存しようとしているリダイレクトにより、リダイレクトループが作成されます。 これは、保存しようとしているリダイレクトの起点を指すリダイレクトがおそらくすでに存在することを意味します"
+
+#. translators: %1$s: will be the target, %2$s: will be the found endpoint.
+#: classes/redirect/validation/redirect-endpoint-validation.php:48
+msgid "%1$s will be redirected to %2$s. Maybe it's worth considering to create a direct redirect to %2$s."
+msgstr ""
+"%1$s は%2$sにリダイレクトされます。\n"
+"\n"
+"たぶん、%2$sへの直接リダイレクトを作成することを検討する価値があります。"
+
+#. translators: %s expands to the file path that we tried to write to
+#: classes/redirect/redirect-file-util.php:86
+msgid "We're unable to write data to the file %s"
+msgstr "ファイル%sにデータを書き込めません "
+
+#: classes/redirect/redirect-types.php:26
+msgid "301 Moved Permanently"
+msgstr "301 Moved Permanently"
+
+#: classes/redirect/redirect-types.php:27
+msgid "302 Found"
+msgstr "302 Found"
+
+#: classes/redirect/redirect-types.php:28
+msgid "307 Temporary Redirect"
+msgstr "307 Temporary Redirect"
+
+#: classes/redirect/redirect-types.php:29
+msgid "410 Content Deleted"
+msgstr "410 Content Deleted"
+
+#: classes/redirect/redirect-types.php:30
+msgid "451 Unavailable For Legal Reasons"
+msgstr "451 Unavailable For Legal Reasons"
+
+#: classes/redirect/validation/redirect-presence-validation.php:34
+msgid "Not all the required fields are filled."
+msgstr "すべての必須フィールドが入力されているわけではありません。"
+
+#: classes/redirect/validation/redirect-uniqueness-validation.php:32
+msgid "The old URL already exists as a redirect."
+msgstr "古い URL はリダイレクトとしてすでに存在します。"
+
+#: classes/redirect/views/redirects-quick-edit.php:42
+msgid "Update Redirect"
+msgstr "リダイレクトの更新"
+
+#. translators: %s expands to the folder location where the redirects fill will
+#. be saved.
+#: classes/redirect/views/redirects-tab-settings.php:63
+msgid "We're unable to save the redirect file to %s"
+msgstr "リダイレクトファイルを%sに保存できません "
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: List with actions, %3$s: <a
+#. href=''>, %4$s: </a>, %5$s: Slug to post
+#: classes/post-watcher.php:268
+msgid "%1$s detected that you moved a post (%5$s) to the trash. You can either: %2$s Don't know what to do? %3$sRead this post%4$s."
+msgstr "%1$s は、投稿（%5$s）をゴミ箱に移動したことを検出しました。次のいずれかを実行できます。%2$s どうしたらいいかわからない？ %3$sこの投稿を読んでください%4$s。"
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: List with actions, %3$s: <a
+#. href='{post_with_explaination.}'>, %4$s: </a>, %5%s: The removed url.
+#: classes/post-watcher.php:484
+msgid "%1$s detected that you deleted a post (%5$s). You can either: %2$s Don't know what to do? %3$sRead this post %4$s."
+msgstr "%1$s は、投稿を削除したことを検出しました。（%5$s）次のいずれかを実行できます。%2$sどうしたらいいかわからない？ %3$sこの投稿を読んでください%4$s。"
+
+#. translators: %1$s will be replaced with the from URL.
+#: classes/premium-javascript-strings.php:38
+msgid "410 Redirect created from %1$s!"
+msgstr "%1$s から 410 リダイレクトが作成されました！ "
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: List with actions, %3$s: <a
+#. href='{post_with_explaination.}'>, %4$s: </a>, %5%s: The removed url.
+#: classes/term-watcher.php:288
+msgid "%1$s detected that you deleted a term (%5$s). You can either: %2$s Don't know what to do? %3$sRead this post %4$s."
+msgstr "%1$s は、単語（%5$s）を削除したことを検出しました。 次のいずれかを実行できます。%2$s 何をすべきかわからない？ %3$sこの投稿を読んでください%4$s。"
+
+#: classes/watcher.php:265
+msgid "Redirect it to another URL"
+msgstr "別の URL にリダイレクトする"
+
+#: classes/watcher.php:266
+msgid "Make it serve a 410 Content Deleted header"
+msgstr "410 Content Deleted ヘッダーを提供するようにします"
+
+#: classes/redirect/views/redirects-tab-settings.php:101
+msgid "Web server"
+msgstr "Web サーバー"
+
+#: classes/redirect/views/redirects-tab-settings.php:103
+msgid "Redirect method"
+msgstr "リダイレクト方法"
+
+#. translators: %s: 'Yoast SEO Premium'
+#: classes/redirect/views/redirects-tab-settings.php:118
+msgid "%s can generate redirect files that can be included in your website web server configuration. If you choose this option the PHP redirects will be disabled. Only check this option if you know what you are doing!"
+msgstr "%sは、サイトのサーバー構成に含めることができるリダイレクトファイルを生成できます。このオプションを選択すると、PHP リダイレクトが無効になります。これを使用した経験がある場合にのみ、このオプションをチェックしてください。"
+
+#. translators: %s expands to the file path that we tried to write to
+#: classes/redirect/redirect-file-util.php:44
+msgid "We're unable to create the directory %s"
+msgstr "ディレクトリ%sを作成できません"
+
+#: classes/redirect/validation/redirect-self-redirect-validation.php:25
+msgid "You are attempting to redirect to the same URL as the origin. Please choose a different URL to redirect to."
+msgstr "オリジンと同じ URL にリダイレクトしようとしています。 リダイレクト先の別の URL を選択してください。"
+
+#. translators: 1: opens a link to a related help center article. 2: closes the
+#. link.
+#: classes/redirect/views/redirects-form.php:42
+msgid "The redirect type is the HTTP response code sent to the browser telling the browser what type of redirect is served. %1$sLearn more about redirect types%2$s."
+msgstr "リダイレクトタイプは、ブラウザーに送信される HTTP 応答コードであり、どのタイプのリダイレクトが提供されるかをブラウザーに通知します。%1$sリダイレクトタイプの詳細については、こちらをご覧ください%2$s。"
+
+#. translators: 1: opens a link to a related help center article. 2: closes the
+#. link.
+#: classes/redirect/views/redirects-tab-regex.php:30
+msgid "Regular Expression (regex) Redirects are extremely powerful redirects. You should only use them if you know what you are doing. %1$sRead more about regex redirects on our help center%2$s."
+msgstr "正規表現（regex）リダイレクトは非常に強力なリダイレクトです。それらの操作方法を知っている場合にのみ、それらを使用する必要があります。%1$sナレッジベースで正規表現リダイレクトの詳細をご覧ください%2$s。"
+
+#: premium.php:372 src/integrations/admin/crawl-settings-integration.php:194
+msgid "Enabled"
+msgstr "有効"
+
+#: classes/views/import-redirects.php:72
+msgid "Enter redirects to import"
+msgstr "インポートするリダイレクトを入力します"
+
+#. translators: %1$s expands to the subdirectory WordPress is installed.
+#: classes/redirect/validation/redirect-subdirectory-validation.php:37
+msgid "Your redirect is missing the subdirectory where WordPress is installed in. This will result in a redirect that won't work. Make sure the redirect starts with %1$s"
+msgstr "リダイレクトにWordPressがインストールされているサブディレクトリがありません。これにより、リダイレクトが機能しなくなります。 リダイレクトが%1$sで始まることを確認してください"
+
+#: classes/redirect/redirect-table.php:249
+msgid "Select this redirect"
+msgstr "このリダイレクトを選択してください"
+
+#. translators: %s expands to Yoast
+#: classes/metabox-link-suggestions.php:101
+msgid "%s internal linking"
+msgstr "%s 内部リンク"
+
+#. translators: %s: '.htaccess' file name
+#: classes/premium-import-manager.php:67 classes/views/import-redirects.php:45
+msgid "Import redirects"
+msgstr "リダイレクトをインポート"
+
+#: classes/views/import-redirects.php:25
+msgid "Redirection"
+msgstr "リダイレクト"
+
+#: classes/views/import-redirects.php:26
+msgid "Safe Redirect Manager"
+msgstr "安全なリダイレクトマネージャー "
+
+#: classes/views/import-redirects.php:27
+msgid "Simple 301 Redirects"
+msgstr "シンプルな 301 リダイレクト "
+
+#: classes/views/import-redirects.php:38
+msgid "Import from other redirect plugins"
+msgstr "他のリダイレクトプラグインからインポート"
+
+#: classes/views/import-redirects.php:42
+msgid "Import from:"
+msgstr "インポート元"
+
+#: classes/watcher.php:236
+msgid "New URL:"
+msgstr "新 URL:"
+
+#: classes/watcher.php:234
+msgid "Old URL:"
+msgstr "古い URL："
+
+#: classes/premium-redirect-export-manager.php:31
+#: classes/views/export-redirects.php:15
+msgid "Export redirects"
+msgstr "リダイレクトをエクスポート"
+
+#: classes/redirect/exporters/redirect-csv-exporter.php:74
+msgid "Origin"
+msgstr "原点"
+
+#: classes/redirect/exporters/redirect-csv-exporter.php:75
+msgid "Target"
+msgstr "リンクターゲット"
+
+#: classes/redirect/exporters/redirect-csv-exporter.php:77
+msgid "Format"
+msgstr "フォーマット"
+
+#: classes/views/export-redirects.php:10
+msgid "Export redirects to a CSV file"
+msgstr "リダイレクトを CSVファイルにエクスポート "
+
+#: classes/views/export-redirects.php:11
+msgid "If you need to have a list of all redirects, you can generate a CSV file using the button below."
+msgstr "すべてのリダイレクトのリストが必要な場合は、下のボタンを使用して CSV ファイルを生成できます。 "
+
+#: classes/views/export-redirects.php:12
+msgid "Please note that the first row in this file is a header. This row should be ignored when parsing or importing the data from the export."
+msgstr "このファイルの最初の行はヘッダーであることに注意してください。 エクスポートからデータを解析またはインポートするときは、この行を無視する必要があります。"
+
+#: classes/premium-import-manager.php:275
+msgid "CSV import failed: the provided file could not be parsed using a CSV parser."
+msgstr "CSV インポートに失敗しました：提供されたファイルを CSV パーサーを使用して解析できませんでした。"
+
+#: classes/views/import-redirects.php:52
+msgid "Import from a CSV file"
+msgstr "CSV ファイルからインポート"
+
+#: classes/views/import-redirects.php:59
+msgid "Import CSV file"
+msgstr "CSV ファイルをインポート"
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: <a href='{undo_redirect_url}'>,
+#. %3$s: </a>, %4$s: Slug to post
+#: classes/post-watcher.php:295
+msgid "%1$s detected that you restored a post (%4$s) from the trash, for which a redirect was created. %2$sClick here to remove the redirect%3$s"
+msgstr "%1$sにより、リダイレクトが作成されたゴミ箱から投稿 (%4$s) が復元されたことが検出されました。%2$sリダイレクトを削除するには、ここをクリックします%3$s。"
+
+#. translators: %1$s expands to the link to an article to read more about
+#. orphaned content, %2$s expands to </a>
+#: classes/premium-orphaned-post-filter.php:54
+msgid "%1$sLearn more about orphaned content%2$s."
+msgstr "%1$s孤立したコンテンツの詳細については、こちらをご覧ください%2$s"
+
+#. translators: %1$s: plural form of the current post type, %2$s: a Learn more
+#. about link
+#: classes/premium-orphaned-post-filter.php:62
+msgid "Ask your SEO Manager or Site Administrator to count links in all texts, so we can identify orphaned %1$s. %2$s"
+msgstr "孤立した%1$sを特定できるように、SEO マネージャーまたはサイト管理者にすべてのテキストのリンクをカウントするように依頼してください。%2$s"
+
+#. translators: %1$s expands to link to the recalculation option, %2$s: anchor
+#. closing, %3$s: plural form of the current post type, %4$s: a Learn more
+#. about link
+#: classes/premium-orphaned-post-filter.php:71
+msgid "%1$sClick here%2$s to index your links, so we can identify orphaned %3$s. %4$s"
+msgstr "%1$sここをクリックして%2$sリンクのインデックスを作成し、孤立した%3$sを特定できるようにします。%4$s"
+
+#. translators: %1$s: plural form of the current post type, %2$s: a Learn more
+#. about link
+#: classes/premium-orphaned-post-filter.php:81
+msgid "'Orphaned content' refers to %1$s that have no inbound links, consider adding links towards these %1$s. %2$s"
+msgstr "「孤立したコンテンツ」とは、インバウンドリンクのない%1$sを指します。これらの%1$sへのリンクを追加することを検討してください。%2$s"
+
+#: classes/premium-orphaned-post-filter.php:140
+#: assets/js/src/workouts/components/OrphanedWorkout.js:88
+msgid "Orphaned content"
+msgstr "孤立したコンテンツ"
+
+#: classes/export/export-keywords-csv.php:68
+msgid "url"
+msgstr "URL"
+
+#: classes/export/export-keywords-csv.php:69
+msgid "readability score"
+msgstr "readabilityスコア"
+
+#: classes/export/export-keywords-csv.php:76
+msgid "ID"
+msgstr "ID"
+
+#: classes/redirect/redirect-table.php:84
+msgid "Filter by redirect type"
+msgstr "リダイレクトタイプでフィルタリング "
+
+#: classes/redirect/redirect-table.php:86
+msgid "All redirect types"
+msgstr "全てのリダイレクト形式"
+
+#. translators: %s resolves to the button label translation.
+#: classes/views/export-keywords.php:12
+msgid "If you need a list of all public posts, terms and related keyphrases, you can generate a CSV file using the %s button below."
+msgstr "すべての公開投稿、用語、および関連するキーフレーズのリストが必要な場合は、下の%sボタンを使用して CSV ファイルを生成できます。"
+
+#: classes/views/export-keywords.php:21
+msgid "Export keyphrases to a CSV file"
+msgstr "キーワードをCSVファイルでエクスポートする"
+
+#: classes/views/export-keywords.php:23
+msgid "You can add or remove columns to be included in the export using the checkboxes below."
+msgstr "以下のチェックボックスを使用して、エクスポートに含める列を追加または削除できます。"
+
+#: classes/views/export-keywords.php:31
+msgid "Export URL"
+msgstr "URLをエクスポートする"
+
+#: classes/views/export-keywords.php:32
+msgid "Export title"
+msgstr "タイトルをエクスポートする"
+
+#: classes/views/export-keywords.php:35
+msgid "Export readability score"
+msgstr "Readabilityスコアをエクスポートする"
+
+#: classes/views/export-keywords.php:49
+msgid "Please note:"
+msgstr "ご注意ください："
+
+#: classes/views/export-keywords.php:51
+msgid "The first row in this file is the header row. This row should be ignored when parsing or importing the data from the export."
+msgstr "このファイルの最初の行はヘッダー行です。 エクスポートからデータを解析またはインポートするときは、この行を無視する必要があります。"
+
+#: classes/views/export-keywords.php:52
+msgid "Exporting data can take a long time when there are many posts, pages, public custom post types or terms."
+msgstr "投稿、ページ、公開カスタム投稿タイプ、または単語が多い場合、データのエクスポートに時間がかかることがあります。"
+
+#: classes/redirect/views/redirects-tab-plain.php:25
+msgid "Plain redirects"
+msgstr "通常のリダイレクト"
+
+#: classes/redirect/views/redirects-tab-regex.php:25
+msgid "Regular Expression redirects"
+msgstr "正規表現のリダイレクト"
+
+#: classes/redirect/views/redirects-tab-settings.php:76
+msgid "Redirects settings"
+msgstr "リダイレクト設定"
+
+#: classes/export/export-keywords-csv.php:77
+msgctxt "post_type of a post or the taxonomy of a term"
+msgid "type"
+msgstr "タイプ"
+
+#: classes/export/export-keywords-csv.php:72
+msgid "seo title"
+msgstr "SEOタイトル"
+
+#: classes/views/export-keywords.php:33
+msgid "Export SEO title"
+msgstr "SEOタイトルをエクスポートする"
+
+#: classes/views/export-keywords.php:34
+msgid "Export meta description"
+msgstr "メタディスクリプションをエクスポートする"
+
+#: classes/export/export-keywords-csv.php:70
+msgid "keyphrase"
+msgstr "キーフレーズ"
+
+#: classes/export/export-keywords-csv.php:71
+msgid "keyphrase score"
+msgstr "キーフレーズスコア"
+
+#: classes/premium-keyword-export-manager.php:40
+#: classes/views/export-keywords.php:8
+msgid "Export keyphrases"
+msgstr "キーフレーズをエクスポート"
+
+#: classes/views/export-keywords.php:30
+msgid "Export keyphrase scores"
+msgstr "キーフレーズスコアをエクスポート"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://yoa.st/2jc"
+msgstr "https://yoa.st/2jc"
+
+#. Plugin Name of the plugin
+msgid "Yoast SEO Premium"
+msgstr "Yoast SEO Premium"
+
+#. translators: 1: link to redirects overview, 2: closing link tag
+#: classes/premium-import-manager.php:192
+msgid "All redirects have been imported successfully. Go to the %1$sredirects overview%2$s to see the imported redirects."
+msgstr "すべてのリダイレクトが正常にインポートされました。%1$sリダイレクトの概要%2$sに移動して、インポートされたリダイレクトを確認します。"
+
+#. translators: 1: link to redirects overview, 2: closing link tag
+#: classes/premium-import-manager.php:201
+msgid "No redirects have been imported. Probably they already exist as a redirect. Go to the %1$sredirects overview%2$s to see the existing redirects."
+msgstr "リダイレクトはインポートされていません。おそらく、それらはリダイレクトとしてすでに存在しています。%1$sリダイレクトの概要%2$sに移動して、既存のリダイレクトを確認します。"
+
+#. translators: 1: amount of imported redirects, 2: total amount of redirects,
+#. 3: link to redirects overview, 4: closing link tag
+#: classes/premium-import-manager.php:209
+msgid "Imported %1$s/%2$s redirects successfully. Go to the %3$sredirects overview%4$s to see the imported redirect."
+msgid_plural "Imported %1$s/%2$s redirects successfully. Go to the %3$sredirects overview%4$s to see the imported redirects."
+msgstr[0] "インポートされた%1$s/%2$sは正常にリダイレクトされます。%3$sリダイレクトの概要%4$sに移動して、インポートされたリダイレクトを確認します。"
+
+#: classes/premium-import-manager.php:251
+msgid "Redirect import failed: the selected redirect plugin is not installed or activated."
+msgstr "リダイレクトのインポートに失敗しました：選択したリダイレクトプラグインがインストールまたは有効化されていません。"
+
+#: classes/premium-import-manager.php:269
+msgid "CSV import failed: No file selected."
+msgstr "CSVインポートに失敗しました：ファイルが選択されていません。 "
+
+#. translators: 1: The maximum file size
+#: classes/premium-import-manager.php:283
+msgid "CSV import failed: the provided file is larger than %1$s."
+msgstr "CSV インポートに失敗しました：提供されたファイルが%1$sより大きくなっています。"
+
+#: classes/premium-import-manager.php:290
+msgid "CSV import failed: the provided file is not a CSV file."
+msgstr "CSV インポートに失敗しました：提供されたファイルは CSV ファイルではありません。"
+
+#: classes/premium-import-manager.php:309
+msgid "Redirect import failed: we can't recognize this type of import."
+msgstr "リダイレクトインポートに失敗しました：このタイプのインポートを認識できません。"
+
+#: classes/premium-stale-cornerstone-content-filter.php:51
+msgid "Stale cornerstone content"
+msgstr "古い Cornerstone のコンテンツ"
+
+#. translators: %s expands to the posttype label, %2$s expands anchor to blog
+#. post about cornerstone content, %3$s expands to </a>
+#: classes/premium-stale-cornerstone-content-filter.php:68
+msgid "Stale cornerstone content refers to cornerstone content that hasn’t been updated in the last 6 months. Make sure to keep these %1$s up-to-date. %2$sLearn more about cornerstone content%3$s."
+msgstr "古い Cornerstone コンテンツとは、過去6か月間に更新されていない Cornerstone コンテンツを指します。これらの%1$sを最新の状態に保つようにしてください。%2$sCornerstone コンテンツの詳細をご覧ください%3$s。"
+
+#: classes/views/import-redirects.php:56
+msgid "Choose a CSV file from your computer:"
+msgstr "コンピューターから CSV ファイルを選択:"
+
+#: classes/watcher.php:247 assets/js/src/components/RedirectNotification.js:133
+#: assets/js/src/elementor/components/RedirectNotification.js:133
+msgid "Undo"
+msgstr "元に戻す"
+
+#: classes/premium-redirect-service.php:60
+#: classes/redirect-undo-endpoint.php:83 classes/redirect-undo-endpoint.php:103
+msgid "Redirect not deleted."
+msgstr "リダイレクトは削除されません。"
+
+#: classes/premium-redirect-service.php:61
+#: classes/redirect-undo-endpoint.php:84 classes/redirect-undo-endpoint.php:104
+msgid "Something went wrong when deleting this redirect."
+msgstr "リダイレクトは削除されません。"
+
+#: classes/redirect/validation/redirect-relative-origin-validation.php:27
+msgid "The old URL for your redirect is not relative. Only the new URL is allowed to be absolute. Make sure to provide a relative old URL."
+msgstr "リダイレクトの古い URL は相対的ではありません。 新しい URL のみが絶対に許可されます。 比較的古い URL を指定してください。"
+
+#. translators: %1$s: Yoast SEO Premium, %2$s and %3$s expand to a link to the
+#. admin page.
+#: classes/post-watcher.php:471
+msgid "%1$s created a %2$sredirect%3$s from the old post URL to the new post URL."
+msgstr "%1$s古い投稿URLから新しい投稿URLに%2$sリダイレクト%3$sを作成しました。"
+
+#. translators: %1$s: Yoast SEO Premium, %2$s and %3$s expand to a link to the
+#. admin page.
+#: classes/term-watcher.php:275
+msgid "%1$s created a %2$sredirect%3$s from the old term URL to the new term URL."
+msgstr "%1$sは、古い用語のURLから新しい用語のURLへの%2$sリダイレクト%3$sを作成しました。"
+
+#: classes/watcher.php:241
+msgid "Ok"
+msgstr "Ok"
+
+#: src/integrations/admin/crawl-settings-integration.php:270
+#: assets/js/src/components/semrush/SEMrushRemoveRelatedKeyphraseLink.js:19
+#: assets/js/src/workouts/components/OrphanedWorkout/RedirectModal.js:87
+msgid "Remove"
+msgstr "削除"
+
+#. translators: %s: Zapier.
+#: src/integrations/third-party/zapier.php:128
+msgid "Go to your %s Dashboard"
+msgstr "%s ダッシュボードに移動します "
+
+#. translators: 1: Zapier, 2: The Zapier API Key.
+#: src/integrations/third-party/zapier.php:133
+msgid "%1$s uses this API Key: %2$s"
+msgstr "%1$sは次の API キーを使用します %2$s"
+
+#: src/integrations/third-party/zapier.php:137
+msgid "Reset API Key"
+msgstr "API キーをリセット"
+
+#. translators: %s: Zapier.
+#: src/integrations/third-party/zapier.php:176
+msgid "%s will ask for an API key. Use this one:"
+msgstr "%s は API キーを要求します。 これを使用してください："
+
+#: src/integrations/third-party/zapier.php:182
+msgid "Copy to clipboard"
+msgstr "クリップボードにコピー"
+
+#. translators: 1: Link start tag, 2: Yoast SEO, 3: Zapier, 4: Link closing
+#. tag.
+#: src/integrations/third-party/zapier-classic-editor.php:86
+#: assets/js/src/components/ZapierPostPublishContent.js:23
+msgid "%1$sConnect %2$s with %3$s%4$s to instantly share your published posts with 2000+ destinations such as Twitter, Facebook and more."
+msgstr "%1$s%2$sと%3$sを接続して%4$s、公開した投稿を Twitter、Facebook などの 2000 以上の宛先と即座に共有します。"
+
+#. translators: 1: Yoast SEO, 2: Zapier.
+#: src/integrations/third-party/zapier.php:117
+msgid "%1$s is successfully connected to %2$s!"
+msgstr "%1$sは%2$sに正常に接続されています！"
+
+#. translators: 1: Yoast SEO, 2: Zapier, 3: Emphasis open tag, 4: Emphasis
+#. close tag.
+#: src/integrations/third-party/zapier.php:151
+msgid "%1$s is not connected to %2$s. To set up a connection, make sure you click %3$sSave changes%4$s first, then copy the given API key below and use it to %3$screate%4$s and %3$sturn on%4$s a Zap within your %2$s account."
+msgstr "%1$s は %2$s に接続されていません。接続を設定するには、最初に%3$s変更を保存%4$sをクリックしてから、以下の所定のAPIキーをコピーし、それを使用して%2$sアカウント内でZapを%3$s作成して%4$s%3$sオンにします%4$s。"
+
+#. translators: 1: Yoast SEO.
+#: src/integrations/third-party/zapier.php:161
+msgid "Please note that you can only create 1 Zap with a trigger event from %1$s. Within this Zap you can choose one or more actions."
+msgstr "%1$s からのトリガーイベントで作成できる Zap は1つだけであることに注意してください。この Zap 内で、1つ以上のアクションを選択できます。"
+
+#. translators: %s: Zapier.
+#. translators: 1: Zapier
+#: src/integrations/third-party/zapier.php:187
+#: assets/js/src/components/ZapierModal.js:217
+msgid "Create a Zap in %s"
+msgstr "%sで Zap を作成する "

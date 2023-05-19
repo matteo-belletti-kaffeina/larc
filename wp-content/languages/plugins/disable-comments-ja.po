@@ -1,0 +1,151 @@
+# Translation of Plugins - Disable Comments &#8211; Remove Comments &amp; Protect From Spam - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Disable Comments &#8211; Remove Comments &amp; Protect From Spam - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-25 07:13:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Disable Comments &#8211; Remove Comments &amp; Protect From Spam - Stable (latest release)\n"
+
+#: views/settings.php:6
+msgid "Version"
+msgstr "バージョン"
+
+#: views/partials/_disable.php:15 views/partials/_disable.php:69
+#: views/partials/_disable.php:79
+msgid "Off"
+msgstr "オフ"
+
+#: views/partials/_disable.php:14 views/partials/_disable.php:68
+#: views/partials/_disable.php:78
+msgid "On"
+msgstr "オン"
+
+#: views/partials/_disable.php:33 views/partials/_delete.php:10
+#: views/partials/_delete.php:33 views/partials/_delete.php:46
+msgid "Warnings:"
+msgstr "警告:"
+
+#: includes/class-plugin-usage-tracker.php:759
+msgid "Other"
+msgstr "その他"
+
+#: views/partials/_disable.php:19 views/partials/_disable.php:25
+#: views/partials/_disable.php:56 views/partials/_delete.php:6
+msgid "Note:"
+msgstr "注:"
+
+#: views/partials/_menu.php:6
+msgid "Docs"
+msgstr "ドキュメンテーション"
+
+#: disable-comments.php:782
+msgid "Saved"
+msgstr "保存しました"
+
+#: views/partials/_menu.php:8
+msgid "Privacy"
+msgstr "プライバシー"
+
+#: includes/class-plugin-usage-tracker.php:753
+msgid "I found a better plugin"
+msgstr "もっと良いプラグインを見つけた"
+
+#: includes/class-plugin-usage-tracker.php:751
+msgid "I no longer need the plugin"
+msgstr "プラグインが必要がなくなった"
+
+#: includes/class-plugin-usage-tracker.php:860
+msgid "Submit and Deactivate"
+msgstr "送信して無効化"
+
+#: views/partials/_menu.php:5
+msgid "Support Forum"
+msgstr "サポートフォーラム"
+
+#: views/partials/_delete.php:48
+msgid "Total Comments:"
+msgstr "コメント合計: "
+
+#: disable-comments.php:849 disable-comments.php:853
+msgid "Internal error occured. Please try again later."
+msgstr "内部エラーが発生しました。後でもう一度お試しください。"
+
+#: views/partials/_delete.php:192
+msgid "No comments are available for deletion."
+msgstr "削除可能なコメントはありません。"
+
+#: views/partials/_disable.php:53 views/partials/_delete.php:30
+msgid "Custom post types:"
+msgstr "カスタム投稿タイプ: "
+
+#: views/partials/_delete.php:54 disable-comments.php:623
+msgid "Delete Comments"
+msgstr "コメントの削除"
+
+#: disable-comments.php:604
+msgid "Tools"
+msgstr "ツール"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/disable-comments/"
+msgstr "https://ja.wordpress.org/plugins/disable-comments/"
+
+#: views/partials/_disable.php:88
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: views/partials/_disable.php:52 views/partials/_delete.php:29
+msgid "Only the built-in post types appear above. If you want to disable comments on other custom post types on the entire network, you can supply a comma-separated list of post types below (use the slug that identifies the post type)."
+msgstr "ビルトイン投稿タイプのみが上に表示されます。ネットワーク全体で他のカスタム投稿タイプのコメントを無効化したい場合は、投稿タイプをカンマ区切りで下に入力してください (投稿タイプを識別するスラッグを使ってください) 。"
+
+#. Plugin Name of the plugin
+msgid "Disable Comments"
+msgstr "Disable Comments"
+
+#: views/partials/_disable.php:3 disable-comments.php:603
+msgid "Settings"
+msgstr "設定"
+
+#. translators: %s: disabled post types.
+#: disable-comments.php:482
+msgid ", "
+msgstr "、"
+
+#. translators: %s: disabled post types.
+#: disable-comments.php:482
+msgid "Note: The <em>Disable Comments</em> plugin is currently active, and comments are completely disabled on: %s. Many of the settings below will not be applicable for those post types."
+msgstr "注: <em>Disable Comments</em> プラグインが現在有効化されており、%s 上のコメントが完全に無効になっています。 以下の設定の多くは、これらの投稿タイプには適用されません。"
+
+#: disable-comments.php:379 disable-comments.php:523 disable-comments.php:530
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#. translators: %s: WordPress version no.
+#: disable-comments.php:134
+msgid "Disable Comments requires WordPress version %s or greater."
+msgstr "Disable Comments プラグインには WordPress バージョン %s 以降が必要です。"
+
+#. Author of the plugin
+msgid "WPDeveloper"
+msgstr "WPDeveloper"
+
+#. Author URI of the plugin
+msgid "https://wpdeveloper.net"
+msgstr "https://wpdeveloper.net"
+
+#: views/partials/_disable.php:32 views/partials/_delete.php:9
+msgid "Everywhere:"
+msgstr "どこでも:"
+
+#: disable-comments.php:847 disable-comments.php:881 disable-comments.php:904
+msgid "All comments has been deleted"
+msgstr "すべてのコメントを削除しました"
+
+#: views/partials/_delete.php:14
+msgid "On Certain Post Types:"
+msgstr "特定の投稿タイプに対して:"

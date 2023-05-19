@@ -1,0 +1,673 @@
+# Translation of Plugins - Media from FTP - Stable (latest release) in Italian
+# This file is distributed under the same license as the Plugins - Media from FTP - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-05 10:46:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: it\n"
+"Project-Id-Version: Plugins - Media from FTP - Stable (latest release)\n"
+
+#: req/class-mediafromftpregist.php:344
+msgid "Dismiss"
+msgstr "Ignora"
+
+#: inc/class-mediafromftp.php:1159
+msgid "Original URL"
+msgstr "URL originale"
+
+#. translators: FAQ Link & Slug
+#: req/class-mediafromftpadmin.php:494
+msgid "https://wordpress.org/plugins/%s/faq"
+msgstr "https://wordpress.org/plugins/%s/faq"
+
+#: req/class-mediafromftpadmin.php:501
+msgid "https://shop.riverforest-wp.info/donate/"
+msgstr "https://shop.riverforest-wp.info/donate/"
+
+#: req/class-mediafromftpadmin.php:788
+msgid "extension"
+msgstr "estensione"
+
+#: req/class-mediafromftpadmin.php:788
+msgid "type"
+msgstr "tipo"
+
+#. translators: %1$s: plugin %2$s: message %3$s: plugin menu
+#: req/class-mediafromftpadmin.php:1981
+msgid "\"%1$s\" is activate. When \"%2$s\", it will be overwritten with \"%1$s\" setting. Please deactivate.(%3$s)"
+msgstr "\"%1$s\" è attivato. Quando \"%2$s\", verrà sovrascritto con l'impostazione \"%1$s\". Disattiva.(%3$s)"
+
+#: req/class-mediafromftpadmin.php:1979
+msgid "Plugins"
+msgstr "Plugin"
+
+#: req/class-mediafromftpadmin.php:788
+msgid "directory"
+msgstr "directory"
+
+#: req/class-mediafromftpadmin.php:257
+msgid "https://riverforest-wp.info/donate/"
+msgstr "https://riverforest-wp.info/donate/"
+
+#: inc/class-mediafromftp.php:670
+msgid "Search files only for specified directories."
+msgstr "Cerca i file solo nelle cartelle specificate."
+
+#: inc/class-mediafromftp.php:662
+msgid "Recursively search files below specified directory."
+msgstr "Cerca ricorsivamente i file nella cartella specificata."
+
+#: inc/class-mediafromftp.php:655
+msgid "Search method of files"
+msgstr "Metodo di ricerca dei file"
+
+#. translators: %1$s: message %2$s: media settings %3$s: settings
+#: req/class-mediafromftpadmin.php:1961
+msgid "\"%1$s\" is checked. This is the default setting for the WordPress Media Library. In this setting, the file is moved to month- and year-based folders. If you do not want to move, please uncheck.(%2$s,%3$s)"
+msgstr "\"%1$s\" è selezionato. Questa è l'impostazione di default per la Libreria Media di WordPress. In questa impostazione il file viene spostato in base alle cartelle mese e anno. Se non vuoi spostare i file togli la spunta.(%2$s,%3$s)"
+
+#: req/class-mediafromftpadmin.php:1956
+msgid "Media Settings"
+msgstr "Impostazioni Media"
+
+#: req/class-mediafromftpadmin.php:1526
+msgid "https://shop.riverforest-wp.info/media-from-ftp-add-on-cli/"
+msgstr "https://riverforest-wp.info/media-from-ftp-add-on-cli/"
+
+#: req/class-mediafromftpadmin.php:1501
+msgid "This add-on can use \"Media from FTP\" on the command-line."
+msgstr "Questo add-on permette di usare \"Media from FTP\" da linea di comando."
+
+#: req/class-mediafromftpadmin.php:1631
+msgid "https://shop.riverforest-wp.info/media-from-ftp-add-on-exif/"
+msgstr "https://riverforest-wp.info/media-from-ftp-add-on-exif/"
+
+#: req/class-mediafromftpadmin.php:1606
+msgid "Sort each Exif data to an arbitrary position and insert it into the caption as text."
+msgstr "Organizza ciascun dato Exif in una posizione arbitraria e inseriscili nella descrizione come testo."
+
+#: req/class-mediafromftpadmin.php:1604
+msgid "This Add-on When registering by \"Media from FTP\", add Exif to Media Library Caption."
+msgstr "Questo add-on aggiunge i dati Exif alla descrizione nella Libreria Media in fase di registrazione con \"Media from FTP\"."
+
+#. translators: %1$s: add on url
+#: req/class-mediafromftpadmin.php:700 req/class-mediafromftpadmin.php:740
+#: req/class-mediafromftpadmin.php:761
+msgid "This function requires %1$s."
+msgstr "Questa funzione richiede %1$s."
+
+#: req/class-mediafromftpadmin.php:1561
+msgid "https://shop.riverforest-wp.info/media-from-ftp-add-on-wpcron/"
+msgstr "https://riverforest-wp.info/media-from-ftp-add-on-wpcron/"
+
+#: req/class-mediafromftpadmin.php:1595
+msgid "https://shop.riverforest-wp.info/media-from-ftp-add-on-category/"
+msgstr "https://riverforest-wp.info/media-from-ftp-add-on-category/"
+
+#: req/class-mediafromftpadmin.php:1503
+msgid "The execution of the command line is supported.(lib/mediafromftpcmd.php)"
+msgstr "L'esecuzione della linea di comando è supportata.(lib/mediafromftpcmd.php)"
+
+#: req/class-mediafromftpadmin.php:1538
+msgid "Can add intervals of schedule."
+msgstr "Può aggiungere intervalli programmati."
+
+#: req/class-mediafromftpadmin.php:1537
+msgid "Can start multiple Cron Events with multiple settings."
+msgstr "Può avviare eventi Cron multipli con differenti impostazioni."
+
+#: req/class-mediafromftpadmin.php:1535
+msgid "This add-on can register and execute Cron Event with multiple settings by \"Media from FTP\"."
+msgstr "Questo add-on può registrare ed eseguire eventi Cron con differenti impostazioni da \"Media from FTP\""
+
+#. translators: %1$s: limit max execution time
+#: req/class-mediafromftpadmin.php:867
+msgid "Execution time for this server is fixed at %1$s. If this limit is exceeded, the search times out&#40;%2$s, %3$s&#41;."
+msgstr "Il tempo di esecuzione per questo server è fissato a %1$s. Se il limite viene superato si verifica un time out&#40;%2$s, %3$s&#41;."
+
+#: req/class-mediafromftpadmin.php:690
+msgid "Cron Event"
+msgstr "evento Cron"
+
+#: req/class-mediafromftpadmin.php:307
+msgid "You can check whether it is installed or activated."
+msgstr "Puoi verificare che sia installato o attivato."
+
+#: req/class-mediafromftpadmin.php:306
+msgid "This page shows paid add-ons and their summaries."
+msgstr "Questa pagina mostra gli add-on a pagamento e il loro riepilogo."
+
+#: req/class-mediafromftpadmin.php:1526 req/class-mediafromftpadmin.php:1561
+#: req/class-mediafromftpadmin.php:1595 req/class-mediafromftpadmin.php:1631
+msgid "BUY"
+msgstr "ACQUISTA"
+
+#: req/class-mediafromftpadmin.php:1518 req/class-mediafromftpadmin.php:1553
+#: req/class-mediafromftpadmin.php:1587 req/class-mediafromftpadmin.php:1623
+msgid "Deactivated"
+msgstr "Disattivato"
+
+#: req/class-mediafromftpadmin.php:1516 req/class-mediafromftpadmin.php:1551
+#: req/class-mediafromftpadmin.php:1585 req/class-mediafromftpadmin.php:1621
+msgid "Activated"
+msgstr "Attivato"
+
+#: req/class-mediafromftpadmin.php:1511 req/class-mediafromftpadmin.php:1546
+#: req/class-mediafromftpadmin.php:1580 req/class-mediafromftpadmin.php:1616
+msgid "Installed"
+msgstr "Installato"
+
+#: req/class-mediafromftpadmin.php:1572
+msgid "Works with next plugin."
+msgstr "Funziona con i seguenti plugin."
+
+#: req/class-mediafromftpadmin.php:1570
+msgid "This Add-on When registering by \"Media from FTP\", add Category to Media Library."
+msgstr "Questo add-on aggiunge le Categorie alla Libreria Media in fase di registrazione con \"Media from FTP\""
+
+#: req/class-mediafromftpadmin.php:179 req/class-mediafromftpadmin.php:229
+#: req/class-mediafromftpadmin.php:230 req/class-mediafromftpadmin.php:443
+#: req/class-mediafromftpadmin.php:587 req/class-mediafromftpadmin.php:698
+#: req/class-mediafromftpadmin.php:738 req/class-mediafromftpadmin.php:759
+#: req/class-mediafromftpadmin.php:1007 req/class-mediafromftpadmin.php:1126
+#: req/class-mediafromftpadmin.php:1240 req/class-mediafromftpadmin.php:1485
+msgid "Add-Ons"
+msgstr "Add-on"
+
+#: req/class-mediafromftpadmin.php:713
+msgid "Specify categories to register at the same time when registering."
+msgstr "Specifica le categorie da registrare contemporaneamente alla registrazione."
+
+#: req/class-mediafromftpadmin.php:711 req/class-mediafromftpadmin.php:1309
+#: req/class-mediafromftpadmin.php:1322 req/class-mediafromftpadmin.php:1335
+#: req/class-mediafromftpadmin.php:1378 req/class-mediafromftpadmin.php:1381
+#: req/class-mediafromftpadmin.php:1384
+#: req/class-tt-mediafromftp-list-table.php:256
+#: req/class-tt-mediafromftp-list-table.php:257
+#: req/class-tt-mediafromftp-list-table.php:258
+msgid "Categories"
+msgstr "Categorie"
+
+#: req/class-mediafromftpadmin.php:1071
+msgid "Bulk Change"
+msgstr "Modifica di massa"
+
+#: req/class-mediafromftpadmin.php:649
+msgid "Update to use of fixed the date/time."
+msgstr "Aggiorna per utilizzare una dat/orario determinato."
+
+#: req/class-mediafromftpadmin.php:672
+msgid "Plugin"
+msgstr "Plugin"
+
+#: req/class-mediafromftpadmin.php:673
+msgid "Date and time input assistance"
+msgstr "Assistente di immissione data e ora"
+
+#: req/class-mediafromftpadmin.php:851
+msgid "If you can not search because there are too many files, please reduce this number."
+msgstr "Se non riesci nella ricerca perché ci sono troppi file riducine il numero"
+
+#: req/class-mediafromftpadmin.php:849
+msgid "Limit number of search files"
+msgstr "Limita il numero di file da cercare"
+
+#: req/class-mediafromftpadmin.php:257 req/class-mediafromftpadmin.php:522
+msgid "Donate to this plugin &#187;"
+msgstr "Dona a questo plugin &#187;"
+
+#. translators: Translator
+#. translators: Plugin translation link
+#: req/class-mediafromftpadmin.php:255 req/class-mediafromftpadmin.php:513
+msgid "Translations for %s"
+msgstr "Traduzioni per %s"
+
+#. translators: %1$s: default max execution time
+#: req/class-mediafromftpadmin.php:1224
+msgid "Execution time for this server is fixed at %1$s. If this limit is exceeded, times out. Please run the frequently \"Delete log\" and \"Export to CSV\" so as not to exceed this limit."
+msgstr "Il tempo di esecuzione per questo server è fissato a %1$s. Se questo limite è superato si verifica un evento di time out. Esegui di frequente le azioni \"Cancella log\" e \"Esporta in CSV\" per non eccedere questo limite."
+
+#. translators: %1$s: limit max execution time
+#: req/class-mediafromftpadmin.php:990
+msgid "Execution time for this server is fixed at %1$s. If this limit is exceeded, times out&#40;%2$s&#41;. Please note the \"Number of items per page\" so as not to exceed this limit."
+msgstr "Il tempo di esecuzione per questo server è fissato a %1$s. Se questo limite viene superato si verifica un time out&#40;%2$s&#41;. Prendi nota del \"Numero di elementi per pagina\" per non eccedere il limite."
+
+#: req/class-mediafromftpadmin.php:313
+msgid "Overview"
+msgstr "Panoramica"
+
+#: req/class-mediafromftpadmin.php:303
+msgid "You can export to CSV format."
+msgstr "Puoi esportare in formato CSV"
+
+#: req/class-mediafromftpadmin.php:302
+msgid "Display history of registration."
+msgstr "Visualizza lo storico di registrazione."
+
+#. translators: Other option
+#: req/class-mediafromftpadmin.php:289
+msgid "\"%1$s\" sets other options."
+msgstr "\"%1$s\" imposta altre opzioni."
+
+#. translators: Register
+#: req/class-mediafromftpadmin.php:285
+msgid "\"%1$s\" sets options for %2$s registration."
+msgstr "\"%1$s\" imposta le opzioni per la registrazione %2$s."
+
+#. translators: Update media
+#: req/class-mediafromftpadmin.php:281
+msgid "Please check and press the \"%1$s\" button."
+msgstr "Verifica e clicca il bottone \"%1$s\"."
+
+#. translators: Upload directory
+#: req/class-mediafromftpadmin.php:279
+msgid "Search the upload directory(%1$s) and display files that do not exist in the media library."
+msgstr "Cerca nella cartella upload (%1$s) e mostra i file che non esistono nella Libreria Media."
+
+#: req/class-mediafromftpadmin.php:251 req/class-mediafromftpadmin.php:507
+msgid "FAQ"
+msgstr "FAQ"
+
+#: req/class-mediafromftpadmin.php:250
+msgid "For more information:"
+msgstr "Per maggiori informazioni:"
+
+#. translators: Other option
+#: req/class-mediafromftpadmin.php:289 req/class-mediafromftpadmin.php:595
+msgid "Other"
+msgstr "Altro"
+
+#. translators: Register
+#: req/class-mediafromftpadmin.php:285 req/class-mediafromftpadmin.php:593
+msgid "Register"
+msgstr "Registra"
+
+#: inc/class-mediafromftp.php:621
+msgid "Pagination"
+msgstr "Paginazione"
+
+#: req/class-mediafromftpadmin.php:874
+msgid "It does not matter on the registration screen."
+msgstr "Non influisce nella schermata di registrazione."
+
+#: req/class-mediafromftpadmin.php:873
+msgid "This is to suppress the timeout when retrieving a large amount of data when displaying the search screen and log screen."
+msgstr "Questo serve per sopprimere il timeout quando si recupera una grande quantità di dati mostrando la schermata di ricerca o di log."
+
+#: req/class-mediafromftpregist.php:367 req/class-mediafromftpregist.php:384
+msgid "Import"
+msgstr "Importa"
+
+#. translators: success message
+#: req/class-mediafromftpajax.php:254
+msgid "Succeeded to the registration of %1$d files."
+msgstr "Registrazione di %1$d file completata con successo."
+
+#. translators: error message
+#: req/class-mediafromftpajax.php:250
+msgid "Errored to the registration of %1$d files."
+msgstr "Errore nella registrazione di %1$d file."
+
+#: req/class-mediafromftpajax.php:172
+msgid "This file could not be registered in the database."
+msgstr "Questo file non può essere registrato nel database."
+
+#: inc/class-mediafromftp.php:642
+msgid "Unusual selection. Only the file name and output. It is suitable for the search of large amounts of data. It is hi speed."
+msgstr "Selezione alternativa. Solo il nome del file e l'output. È adatta alla ricerca di un grande quantitativo di dati. Veloce."
+
+#: inc/class-mediafromftp.php:634
+msgid "Usual selection. It is user-friendly. It displays a thumbnail and metadata. It is low speed."
+msgstr "Selezione normale. Solo il nome del file e l'output. È adatta alla ricerca di un grande quantitativo di dati. Lenta."
+
+#: inc/class-mediafromftp.php:627
+msgid "Display of search results"
+msgstr "Visualizzazione dei risultati di ricerca"
+
+#: req/class-mediafromftpadmin.php:865 req/class-mediafromftpadmin.php:986
+#: req/class-mediafromftpadmin.php:1221
+msgid "seconds"
+msgstr "secondi"
+
+#: inc/class-mediafromftp.php:690
+msgid "Unusual selection. if you want to search for filename that contains such -0x0. It is low speed."
+msgstr "Selezione alternativa. Se vuoi ricercare nomi dei file che contengono stringhe come -0x0. Lenta."
+
+#: inc/class-mediafromftp.php:682
+msgid "Usual selection. It is hi speed."
+msgstr "Selezione normale. Veloce."
+
+#: inc/class-mediafromftp.php:675
+msgid "Search method for the exclusion of the thumbnail"
+msgstr "Metodo di ricerca per l'esclusione delle miniature"
+
+#: req/class-mediafromftpadmin.php:1455
+msgid "There is no log."
+msgstr "Non è presente nessun log."
+
+#: req/class-mediafromftpadmin.php:1430
+msgid "Download CSV"
+msgstr "Scarica CSV"
+
+#: req/class-mediafromftpadmin.php:1420
+msgid "Export to CSV"
+msgstr "Esporta in CSV"
+
+#: req/class-mediafromftpadmin.php:1413
+msgid "Delete log"
+msgstr "Cancella log"
+
+#: req/class-mediafromftpadmin.php:1356 req/class-mediafromftpadmin.php:1373
+msgid "Author"
+msgstr "Autore"
+
+#. translators: %1$s: username
+#: req/class-mediafromftpadmin.php:1266
+msgid "%1$s do not have a possible deletion log."
+msgstr "Non è stato possibile rimuovere il log %1$s."
+
+#. translators: %1$s: username %2$d: delete count
+#: req/class-mediafromftpadmin.php:1263
+msgid "%1$s of the log has been deleted %2$d."
+msgstr "%1$s dei log sono stati eliminati %2$d."
+
+#: req/class-mediafromftpadmin.php:1258
+msgid "Removed all of the log."
+msgstr "Rimossi tutti i log."
+
+#: req/class-mediafromftpadmin.php:1216
+msgid "Current, log is not created. If you want to create a log, please put a check in the [Create log] in the settings."
+msgstr "Attualmente non è stato creato alcun log. Se vuoi creare un log metti la spunta nell'opzione [Crea il log]."
+
+#: req/class-mediafromftpadmin.php:685
+msgid "Create log"
+msgstr "Crea il log"
+
+#: req/class-mediafromftpadmin.php:681
+msgid "Record the registration result."
+msgstr "Salva i risultati della registrazione."
+
+#. translators: %1$s: limit max execution time
+#: req/class-mediafromftpadmin.php:178 req/class-mediafromftpadmin.php:221
+#: req/class-mediafromftpadmin.php:222 req/class-mediafromftpadmin.php:442
+#: req/class-mediafromftpadmin.php:586 req/class-mediafromftpadmin.php:679
+#: req/class-mediafromftpadmin.php:867 req/class-mediafromftpadmin.php:1006
+#: req/class-mediafromftpadmin.php:1125 req/class-mediafromftpadmin.php:1230
+#: req/class-mediafromftpadmin.php:1495
+msgid "Log"
+msgstr "Log"
+
+#: inc/class-mediafromftp.php:1164
+msgid "Could not retrieve."
+msgstr "Impossibile da recuperare."
+
+#. translators: %1$s: URL of Variable-width_encoding
+#: req/class-mediafromftpadmin.php:894
+msgid "If you do not use the filename or directory name of %1$s, please choose \"%2$s\"."
+msgstr "Se non utilizzi il nome del file o della cartella in %1$s, seleziona \"%2$s\"."
+
+#: req/class-mediafromftpadmin.php:892
+msgid "variable-width encoding"
+msgstr "variable-width encoding"
+
+#: req/class-mediafromftpadmin.php:892
+msgid "https://en.wikipedia.org/wiki/Variable-width_encoding"
+msgstr "https://en.wikipedia.org/wiki/Variable-width_encoding"
+
+#: req/class-mediafromftpadmin.php:251
+msgid "https://wordpress.org/plugins/media-from-ftp/faq"
+msgstr "https://wordpress.org/plugins/media-from-ftp/faq"
+
+#. Author URI of the plugin
+msgid "https://riverforest-wp.info/"
+msgstr "https://riverforest-wp.info/"
+
+#. Author of the plugin
+msgid "Katsushi Kawamori"
+msgstr "Katsushi Kawamori"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/media-from-ftp/"
+msgstr "https://wordpress.org/plugins/media-from-ftp/"
+
+#. Plugin Name of the plugin
+msgid "Media from FTP"
+msgstr "Media from FTP"
+
+#: req/class-mediafromftpadmin.php:1830
+msgid "No Thumbnails Cache"
+msgstr "Nessuna cache miniature"
+
+#: req/class-mediafromftpadmin.php:1828
+msgid "Delete"
+msgstr "Eliminare"
+
+#: req/class-mediafromftpadmin.php:1828
+msgid "Thumbnails Cache"
+msgstr "Cache miniature"
+
+#: req/class-mediafromftpadmin.php:1762 req/class-mediafromftpadmin.php:1817
+msgid "Changes saved."
+msgstr "Modifiche salvate."
+
+#: req/class-mediafromftpadmin.php:1295 req/class-mediafromftpadmin.php:1375
+#: inc/class-mediafromftp.php:1171
+msgid "Images"
+msgstr "Carica immagine"
+
+#: req/class-mediafromftpadmin.php:1361 req/class-mediafromftpadmin.php:1373
+#: inc/class-mediafromftp.php:1162
+msgid "Date/Time"
+msgstr "Data/Ora"
+
+#: req/class-mediafromftpadmin.php:1358 req/class-mediafromftpadmin.php:1373
+#: inc/class-mediafromftp.php:1155
+msgid "Permalink:"
+msgstr "Permalink"
+
+#: req/class-mediafromftpadmin.php:1357 req/class-mediafromftpadmin.php:1373
+#: req/class-mediafromftpajax.php:172 inc/class-mediafromftp.php:1154
+msgid "Title"
+msgstr "Titolo"
+
+#. translators: error message
+#: req/class-mediafromftpajax.php:170
+msgid "<div>You need to make this directory writable before you can register this file. See <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">the Codex</a> for more information.</div><div>Or, filename or directoryname must be changed of illegal. Please change Character Encodings for Server of <a href=\"%2$s\">Settings</a>.</div>"
+msgstr "<div>Devi rendere questa directory scrivibile prima di registrare questo file. Consulta <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">il Codex</a> per maggiori informazioni.</div><div>La modifica del nome del file o della directory non è permessa. Modifica la codifica caratteri per il server nelle <a href=\"%2$s\">Impostazioni</a>.</div>"
+
+#. translators: error message
+#: req/class-mediafromftpajax.php:170
+msgid "Directory name:"
+msgstr "Nome della cartella:"
+
+#. translators: error message
+#: req/class-mediafromftpadmin.php:1360 req/class-mediafromftpadmin.php:1373
+#: req/class-mediafromftpajax.php:170 inc/class-mediafromftp.php:1157
+msgid "File name:"
+msgstr "Nome file:"
+
+#. translators: Register
+#: req/class-mediafromftpadmin.php:285
+msgid "Media Library"
+msgstr "Libreria Media"
+
+#: req/class-tt-mediafromftp-list-table.php:255
+msgid "Edit date and time"
+msgstr "Modifica data e ora"
+
+#: req/class-mediafromftpadmin.php:1368 req/class-mediafromftpadmin.php:1373
+#: inc/class-mediafromftp.php:594 inc/class-mediafromftp.php:1189
+msgid "Length:"
+msgstr "Lunghezza:"
+
+#: req/class-mediafromftpadmin.php:1363 req/class-mediafromftpadmin.php:1373
+#: inc/class-mediafromftp.php:592 inc/class-mediafromftp.php:1169
+msgid "File size:"
+msgstr "Dimensioni file:"
+
+#. translators: Update media
+#: req/class-mediafromftpadmin.php:281 req/class-mediafromftpadmin.php:1017
+#: req/class-mediafromftpadmin.php:1973
+msgid "Update Media"
+msgstr "Aggiorna media"
+
+#: inc/class-mediafromftp.php:885
+msgid "Filter"
+msgstr "Filtra"
+
+#: inc/class-mediafromftp.php:806
+msgid "All extensions"
+msgstr "Tutte le estensioni"
+
+#: inc/class-mediafromftp.php:754
+msgid "All types"
+msgstr "Tutti i tipi"
+
+#. translators: Search option
+#. translators: %1$s: limit max execution time
+#: req/class-mediafromftpadmin.php:287 req/class-mediafromftpadmin.php:594
+#: req/class-mediafromftpadmin.php:788 req/class-mediafromftpadmin.php:867
+#: req/class-mediafromftpadmin.php:990 inc/class-mediafromftp.php:872
+#: inc/class-mediafromftp.php:878
+msgid "Search"
+msgstr "Cerca"
+
+#: req/class-mediafromftpadmin.php:1362 req/class-mediafromftpadmin.php:1373
+#: inc/class-mediafromftp.php:591 inc/class-mediafromftp.php:1168
+msgid "File type:"
+msgstr "Tipo di file:"
+
+#: req/class-mediafromftpadmin.php:776 req/class-mediafromftpadmin.php:839
+#: req/class-mediafromftpadmin.php:946
+msgid "Save Changes"
+msgstr "Salva le modifiche"
+
+#: req/class-mediafromftpadmin.php:932
+msgid "Remove the cache of thumbnail used in the search screen. Please try out if trouble occurs in the search screen. It might become normal."
+msgstr "Rimuovi la cache delle miniature utilizzata nella schermata di ricerca. Prova questa impostazioni se si verificano problemi nella schermata di ricerca. Può accadere di frequente."
+
+#: req/class-mediafromftpadmin.php:930 req/class-mediafromftpadmin.php:938
+msgid "Remove Thumbnails Cache"
+msgstr "Rimuovi la cache miniature"
+
+#: inc/class-mediafromftp.php:622
+msgid "Number of items per page:"
+msgstr "Numero di elementi per pagina:"
+
+#: req/class-mediafromftpadmin.php:692
+msgid "Set the schedule."
+msgstr "Imposta la programmazione."
+
+#: req/class-mediafromftpadmin.php:690
+msgid "Schedule"
+msgstr "Filtri"
+
+#: inc/class-mediafromftp.php:649
+msgid "Regular expression is possible."
+msgstr "Sono possibili espressioni regolari (RegEx)."
+
+#: inc/class-mediafromftp.php:647
+msgid "Exclude file"
+msgstr "Escludi file"
+
+#: req/class-mediafromftpadmin.php:1348 req/class-mediafromftpadmin.php:1387
+#: req/class-tt-mediafromftp-list-table.php:258
+msgid "Tags"
+msgstr "Tag"
+
+#: req/class-mediafromftpadmin.php:753
+msgid "Register the Exif data to the caption."
+msgstr "Registra i dati Exif nella descrizione."
+
+#: req/class-mediafromftpadmin.php:751 req/class-mediafromftpadmin.php:1365
+#: req/class-mediafromftpadmin.php:1373 inc/class-mediafromftp.php:1185
+msgid "Caption"
+msgstr "Didascalia"
+
+#: req/class-mediafromftpadmin.php:666 req/class-mediafromftpadmin.php:1954
+msgid "Organize my uploads into month- and year-based folders"
+msgstr "Organizza gli upload in cartelle sulla base di mese e anno"
+
+#: req/class-mediafromftpadmin.php:638
+msgid "Get by priority if there is date and time of the Exif information."
+msgstr "Recupera per priorità se sono presenti data e ora nelle informazioni Exif."
+
+#: req/class-mediafromftpadmin.php:626 req/class-mediafromftpadmin.php:637
+msgid "Get the date/time of the file, and updated based on it. Change it if necessary."
+msgstr "Recupera data/ora del file e aggiorna in base a quello. Modificalo se necessario."
+
+#: req/class-mediafromftpadmin.php:616
+msgid "Update to use of the current date/time."
+msgstr "Aggiorna utilizzando data/ora correnti."
+
+#: req/class-mediafromftpadmin.php:607
+msgid "Date"
+msgstr "Data"
+
+#: req/class-mediafromftpadmin.php:891
+msgid "It may fail to register if you are using a multi-byte name in the file name or folder name. In that case, please change."
+msgstr "Può non andare a buon fine se utilizzi nomi multi-byte nel nome dei file o delle cartelle. In questo caso modificalo."
+
+#: req/class-mediafromftpadmin.php:888
+msgid "Character Encodings for Server"
+msgstr "Codifica Caratteri per il Server"
+
+#: req/class-mediafromftpadmin.php:872
+msgid "The max_execution_time value defined in the php.ini."
+msgstr "Il valore di max_execution_time definito in php.ini."
+
+#: req/class-mediafromftpadmin.php:872
+msgid "The number of seconds a script is allowed to run."
+msgstr "Il numero di secondi in cui è permesso essere eseguito uno script."
+
+#: req/class-mediafromftpadmin.php:860
+msgid "Execution time"
+msgstr "Tempo di esecuzione"
+
+#: req/class-mediafromftpadmin.php:520
+msgid "Please make a donation if you like my work or would like to further the development of this plugin."
+msgstr "Fai una donazione se ti piace il mio lavoro o ti piacerebbe vedere questo plugin sviluppato ulteriormente."
+
+#: req/class-mediafromftpadmin.php:253 req/class-mediafromftpadmin.php:507
+msgid "Reviews"
+msgstr "Recensioni"
+
+#: req/class-mediafromftpadmin.php:252 req/class-mediafromftpadmin.php:507
+msgid "Support Forums"
+msgstr "Forum di supporto"
+
+#. Description of the plugin
+#: req/class-mediafromftpadmin.php:447
+msgid "Register to media library from files that have been uploaded by FTP."
+msgstr "Registra nella Libreria Media i file caricati via FTP."
+
+#: req/class-mediafromftpadmin.php:492
+msgid "Version:"
+msgstr "Versione"
+
+#: req/class-mediafromftpadmin.php:423 req/class-mediafromftpadmin.php:537
+#: req/class-mediafromftpadmin.php:974 req/class-mediafromftpadmin.php:1112
+#: req/class-mediafromftpadmin.php:1209 req/class-mediafromftpadmin.php:1475
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Non hai i permessi per accedere a questa pagina"
+
+#: req/class-mediafromftpadmin.php:171 req/class-mediafromftpadmin.php:200
+#: req/class-mediafromftpadmin.php:201 req/class-mediafromftpadmin.php:433
+#: req/class-mediafromftpadmin.php:580 req/class-mediafromftpadmin.php:996
+#: req/class-mediafromftpadmin.php:1123 req/class-mediafromftpadmin.php:1231
+#: req/class-mediafromftpadmin.php:1486 req/class-mediafromftpregist.php:402
+msgid "Search & Register"
+msgstr "Cerca & Registra"
+
+#: req/class-mediafromftpadmin.php:172 req/class-mediafromftpadmin.php:208
+#: req/class-mediafromftpadmin.php:209 req/class-mediafromftpadmin.php:434
+#: req/class-mediafromftpadmin.php:579 req/class-mediafromftpadmin.php:997
+#: req/class-mediafromftpadmin.php:1124 req/class-mediafromftpadmin.php:1232
+#: req/class-mediafromftpadmin.php:1487 req/class-mediafromftpadmin.php:1762
+#: req/class-mediafromftpadmin.php:1817 req/class-mediafromftpadmin.php:1958
+msgid "Settings"
+msgstr "Impostazioni"

@@ -1,0 +1,120 @@
+# Translation of Plugins - Contact Form 7 &#8211; Dynamic Text Extension - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Contact Form 7 &#8211; Dynamic Text Extension - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-02-17 16:32:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Contact Form 7 &#8211; Dynamic Text Extension - Stable (latest release)\n"
+
+#. Author of the plugin
+msgid "SevenSpark, AuRise Creative"
+msgstr "SevenSpark, AuRise Creative"
+
+#. Plugin URI of the plugin
+msgid "https://sevenspark.com/goods/contact-form-7-dynamic-text-extension"
+msgstr "https://sevenspark.com/goods/contact-form-7-dynamic-text-extension"
+
+#: includes/utilities.php:83
+msgid "%1$s is <strong>deprecated</strong> since version %2$s with no alternative currently available."
+msgstr "%1$s ha quedado <strong>obsoleto</strong> desde la versión %2$s y no hay alternativas disponibles."
+
+#: includes/utilities.php:75
+msgid "%1$s is <strong>deprecated</strong> since version %2$s! Use Contact Form 7's built-in attribute \"%3$s\" instead."
+msgstr "%1$s ha quedado <strong>obsoleto</strong> desde la versión %2$s. Usa el atributo nativo de Contact From 7 «%3$s» en su lugar."
+
+#: includes/utilities.php:67
+msgid "%1$s is <strong>deprecated</strong> since version %2$s! Use Contact Form 7's built-in attribute \"%3$s\" instead. Contact Form 7 Documentation: %4$s"
+msgstr "%1$s ha quedado <strong>obsoleto</strong> desde la versión %2$s. Usa el atributo nativo de Contact From 7 «%3$s» en su lugar. Documentación de Contact Form 7: %4$s"
+
+#: includes/admin.php:211
+msgid "Do not let users edit this field"
+msgstr "No permitir que los usuarios editen este campo de formulario"
+
+#: includes/admin.php:204
+msgid "Read only attribute"
+msgstr "Atributo no editable"
+
+#: includes/admin.php:169
+msgid "View DTX placeholder documentation"
+msgstr "Ver documentación de texto de marcador de posición de DTX"
+
+#: includes/admin.php:153
+msgid "Dynamic placeholder"
+msgstr "Marcadores de posición dinámicos"
+
+#: includes/admin.php:145
+msgid "View DTX shortcode syntax documentation"
+msgstr "Ver documentación de la sintaxis del shortcode de DTX"
+
+#: includes/admin.php:142 includes/admin.php:166
+msgid "Can be static text or a shortcode."
+msgstr "Puede ser texto o un shortcode"
+
+#: includes/admin.php:93
+msgid "DTX knowledge base"
+msgstr "Documentación para DTX"
+
+#: includes/admin.php:90
+msgid "For more details, see"
+msgstr "Para más detalles ver"
+
+#. Description of the plugin
+msgid "This plugin extends Contact Form 7 by adding dynamic form fields that accept any shortcode to generate default values and placeholder text. Requires Contact Form 7."
+msgstr "Este plugin amplía Contact Form 7 añadiendo campos de formulario dinámicos que aceptan cualquier shortcode para generar valores por defecto y texto de marcador de posición. Requiere Contact Form 7."
+
+#. Plugin Name of the plugin
+msgid "Contact Form 7 - Dynamic Text Extension"
+msgstr "Contact Form 7 - Dynamic Text Extension"
+
+#. Author URI of the plugin
+msgid "https://sevenspark.com"
+msgstr "https://sevenspark.com"
+
+#: includes/admin.php:219
+msgid "Insert Tag"
+msgstr "Insertar una etiqueta"
+
+#: includes/admin.php:190
+msgid "Class attribute"
+msgstr "Clase del atributo"
+
+#: includes/admin.php:177
+msgid "Id attribute"
+msgstr "ID del atributo"
+
+#: includes/admin.php:134
+msgid "Dynamic value"
+msgstr "Valor dinámico"
+
+#: includes/admin.php:121
+msgid "Name"
+msgstr "Nombre"
+
+#: includes/admin.php:113
+msgid "Required field"
+msgstr "Campo obligatorio"
+
+#: includes/admin.php:107
+msgid "Field type"
+msgstr "Tipo de campo"
+
+#: includes/admin.php:81
+msgid "Generate a form-tag for a hidden input field, with a dynamically generated default value."
+msgstr "Genera una etiqueta de formulario para un campo de entrada oculto con un valor por defecto generado dinámicamente."
+
+#: includes/admin.php:84
+msgid "Generate a form-tag for a single-line plain text input field, with a dynamically generated default value."
+msgstr "Genera una etiqueta de formulario para un campo de entrada de texto sin formato de una sola línea con un valor por defecto generado dinámicamente."
+
+#: includes/admin.php:62
+msgid "dynamic hidden"
+msgstr "dinámico oculto"
+
+#: includes/admin.php:54
+msgid "dynamic text"
+msgstr "texto dinámico"

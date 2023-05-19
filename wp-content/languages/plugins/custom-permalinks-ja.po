@@ -1,0 +1,145 @@
+# Translation of Plugins - Custom Permalinks - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Custom Permalinks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-25 07:26:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Custom Permalinks - Stable (latest release)\n"
+
+#: admin/class-custom-permalinks-post-types-table.php:331
+#: admin/class-custom-permalinks-taxonomies-table.php:349
+msgid "Visit"
+msgstr "移動"
+
+#: includes/class-custom-permalinks.php:126
+msgid "Custom Permalinks Manager"
+msgstr "カスタムパーマリンクマネージャー"
+
+#: admin/class-custom-permalinks-about.php:50
+msgid "Thank you for choosing Custom Permalinks! I hope that your experience with our plugin for updating permalinks is quick and easy. I am trying to make it more feasible for you and provide capabilities in it."
+msgstr "カスタムパーマリンクを選んでいただきありがとうございます!パーマリンクの更新が、素早く簡単に行うことが可能です。私たちは、さらなる機能の追加に尽力しています。"
+
+#: admin/class-custom-permalinks-about.php:116
+#: admin/class-custom-permalinks-about.php:138
+#: admin/class-custom-permalinks-about.php:160
+#: admin/class-custom-permalinks-about.php:182
+#: admin/class-custom-permalinks-about.php:204
+#: admin/class-custom-permalinks-about.php:226
+#: admin/class-custom-permalinks-about.php:248
+msgid "Check it out"
+msgstr "確認する"
+
+#: admin/class-custom-permalinks-about.php:189
+#: admin/class-custom-permalinks-about.php:193
+#: admin/class-custom-permalinks-about.php:203
+msgid "Remove Links and Scripts"
+msgstr "リンクとスクリプトを削除する"
+
+#: admin/class-custom-permalinks-about.php:167
+#: admin/class-custom-permalinks-about.php:171
+#: admin/class-custom-permalinks-about.php:181
+msgid "SCHEMA for Article"
+msgstr "記事のスキーマ"
+
+#: admin/class-custom-permalinks-about.php:145
+#: admin/class-custom-permalinks-about.php:149
+#: admin/class-custom-permalinks-about.php:159
+msgid "Make Paths Relative"
+msgstr "相対パスにする。"
+
+#: admin/class-custom-permalinks-about.php:211
+#: admin/class-custom-permalinks-about.php:215
+#: admin/class-custom-permalinks-about.php:225
+msgid "Media Post Permalink"
+msgstr "メディア投稿パーマリンク"
+
+#: admin/class-custom-permalinks-about.php:233
+#: admin/class-custom-permalinks-about.php:237
+#: admin/class-custom-permalinks-about.php:247
+msgid "JSON Structuring Markup"
+msgstr "JSON 構造化マークアップ"
+
+#: admin/class-custom-permalinks-about.php:175
+msgid "Simply the easiest solution to add valid schema.org as a JSON script in the head of blog posts or articles. You can choose the schema either to show with the type of Article or NewsArticle from the settings page."
+msgstr "ブログの投稿や記事の冒頭に JSON スクリプトとして有効な schema.org を追加する、最も簡単なソリューションです。 設定ページから、記事またはニュース記事のタイプで表示するスキーマを選択できます。"
+
+#: admin/class-custom-permalinks-about.php:131
+msgid "Allows you apply HTTP Auth on your site. You can apply Http Authentication all over the site or only the admin pages. It helps to stop crawling on your site while on development or persist the Brute Attacks by locking the Admin Pages."
+msgstr "サイトに <strong> HTTP認証 </strong> を適用できます。 HTTP認証 はサイト全体に適用することも、管理ページのみに適用することもできます。開発中にサイトのクロールを停止するか、管理ページをロックして <strong> ブルート攻撃 </strong> を持続させるのに役立ちます。"
+
+#: admin/class-custom-permalinks-about.php:241
+msgid "Simply the easiest solution to add valid schema.org as a JSON script in the head of posts and pages. It provides you multiple SCHEMA types like Article, News Article, Organization and Website Schema."
+msgstr "有効な schema.org を JSON スクリプトとして投稿およびページの先頭に追加する、最も簡単な解決策です。 記事、ニュース記事、組織、サイトスキーマなど、複数の <strong> スキーマ </strong> タイプを提供します。"
+
+#: admin/class-custom-permalinks-about.php:99
+#: admin/class-custom-permalinks-about.php:104
+#: admin/class-custom-permalinks-about.php:115
+msgid "Prevent XSS Vulnerability"
+msgstr "XSS の脆弱性を防ぐ。"
+
+#. Plugin URI of the plugin
+msgid "https://www.custompermalinks.com/"
+msgstr "https://www.custompermalinks.com/"
+
+#. Author of the plugin
+#: admin/class-custom-permalinks-admin.php:174
+#: admin/class-custom-permalinks-admin.php:183
+msgid "Sami Ahmed Siddiqui"
+msgstr "Sami Ahmed Siddiqui"
+
+#. Description of the plugin
+msgid "Set custom permalinks on a per-post basis."
+msgstr "投稿ごとにカスタムパーマリンクを設定します"
+
+#: includes/class-custom-permalinks-form.php:696
+msgid "Leave blank to disable"
+msgstr "空白のままにして無効にする"
+
+#: includes/class-custom-permalinks-form.php:649
+msgid "Custom Permalink"
+msgstr "カスタムパーマリンク"
+
+#: includes/class-custom-permalinks-form.php:499
+msgid "Permalink:"
+msgstr "パーマリンク:"
+
+#: includes/class-custom-permalinks-form.php:440
+msgid "View Page"
+msgstr "固定ページを表示"
+
+#: admin/class-custom-permalinks-post-types-table.php:36
+#: admin/class-custom-permalinks-post-types-table.php:121
+#: admin/class-custom-permalinks-taxonomies-table.php:36
+#: admin/class-custom-permalinks-taxonomies-table.php:121
+msgid "Permalink"
+msgstr "パーマリンク"
+
+#: admin/class-custom-permalinks-post-types-table.php:120
+#: admin/class-custom-permalinks-taxonomies-table.php:120
+msgid "Type"
+msgstr "タイプ"
+
+#: admin/class-custom-permalinks-post-types-table.php:119
+#: admin/class-custom-permalinks-taxonomies-table.php:119
+msgid "Title"
+msgstr "タイトル"
+
+#: admin/class-custom-permalinks-post-types-table.php:350
+#: admin/class-custom-permalinks-taxonomies-table.php:368
+msgid "Delete Permalinks"
+msgstr "パーマリンクを削除"
+
+#: admin/class-custom-permalinks-post-types-table.php:143
+msgid "Post Types Permalinks"
+msgstr "投稿タイプのパーマリンク"
+
+#. Plugin Name of the plugin
+#: admin/class-custom-permalinks-about.php:80
+#: includes/class-custom-permalinks-form.php:131
+msgid "Custom Permalinks"
+msgstr "Custom Permalinks"

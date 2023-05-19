@@ -1,0 +1,170 @@
+# Translation of Plugins - Posts 2 Posts - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Posts 2 Posts - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-21 16:59:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Posts 2 Posts - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://scribu.net/"
+msgstr "http://scribu.net/"
+
+#. Author of the plugin/theme
+msgid "scribu"
+msgstr "scribu"
+
+#. Description of the plugin/theme
+msgid "Create many-to-many relationships between all types of posts."
+msgstr "Создавайте отношения «многие ко многим» между всеми типами записей."
+
+#. Plugin URI of the plugin/theme
+msgid "http://scribu.net/wordpress/posts-to-posts"
+msgstr "http://scribu.net/wordpress/posts-to-posts"
+
+#: vendor/scribu/scb-framework/AdminPage.php:519
+msgid "Settings"
+msgstr "Настройки"
+
+#: vendor/scribu/scb-framework/AdminPage.php:261
+msgid "Settings <strong>saved</strong>."
+msgstr "Настройки <strong>сохранены</strong>."
+
+#: vendor/scribu/lib-posts-to-posts/widget.php:56
+msgid "related"
+msgstr "похожие"
+
+#: vendor/scribu/lib-posts-to-posts/widget.php:55
+msgid "connected"
+msgstr "связанный"
+
+#: vendor/scribu/lib-posts-to-posts/widget.php:49
+msgid "Connection listing:"
+msgstr "Список взаимосвязей:"
+
+#: vendor/scribu/lib-posts-to-posts/widget.php:44
+msgid "Connection type:"
+msgstr "Тип взаимосвязи:"
+
+#: vendor/scribu/lib-posts-to-posts/widget.php:37
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: vendor/scribu/lib-posts-to-posts/widget.php:20
+msgid "A list of posts connected to the current post"
+msgstr "Список всех записей, связанных с текущей"
+
+#. #-#-#-#-#  tmp-posts-to-posts.pot (Posts 2 Posts 1.6.5)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: vendor/scribu/lib-posts-to-posts/widget.php:19
+msgid "Posts 2 Posts"
+msgstr "Posts 2 Posts"
+
+#: vendor/scribu/lib-posts-to-posts/side-user.php:27
+msgid "No users found."
+msgstr "Пользователи не найдены."
+
+#: vendor/scribu/lib-posts-to-posts/side-user.php:26
+msgid "Search Users"
+msgstr "Поиск пользователей"
+
+#: vendor/scribu/lib-posts-to-posts/side-user.php:25
+msgid "User"
+msgstr "Пользователь"
+
+#: vendor/scribu/lib-posts-to-posts/side-user.php:16
+msgid "Users"
+msgstr "Пользователи"
+
+#: vendor/scribu/lib-posts-to-posts/connection-type.php:109
+msgid "Connected %s"
+msgstr "Связанные %s"
+
+#: vendor/scribu/lib-posts-to-posts/connection-type.php:91
+msgid "Create connections"
+msgstr "Создать взаимосвязи"
+
+#: admin/tools-page.php:129
+msgid "Go"
+msgstr "Перейти на"
+
+#: admin/tools-page.php:93
+msgid "Convert to registered connection type:"
+msgstr "Преобразовать в зарегистрированный тип взаимосвязи:"
+
+#: admin/tools-page.php:76
+msgid "To register a connection type, see <a href=\"%s\">the wiki</a>."
+msgstr "Чтобы зарегистрировать тип взаимосвязи, см. <a href=\"%s\">вики</a>."
+
+#: admin/tools-page.php:74
+msgid "No connection types registered."
+msgstr "Нет зарегистрированных типов взаимосвязей"
+
+#: admin/tools-page.php:66
+msgid "Connections"
+msgstr "Взаимосвязи"
+
+#: admin/tools-page.php:65
+msgid "Information"
+msgstr "Информация"
+
+#: admin/tools-page.php:64
+msgid "Name"
+msgstr "Имя"
+
+#: admin/tools-page.php:50
+msgid "Converted %1$s connections from <em>%2$s</em> to <em>%3$s</em>."
+msgstr "Преобразовать %1$s взаимосвязи из <em>%2$s</em> в <em>%3$s</em>."
+
+#: admin/tools-page.php:41
+msgid "<em>%s</em> is not a registered connection type."
+msgstr "<em>%s</em> не является зарегистрированным типом взаимосвязи."
+
+#: admin/tools-page.php:7
+msgid "Connection Types"
+msgstr "Типы взаимосвязи"
+
+#: admin/field-delete.php:16
+msgid "Delete connection"
+msgstr "Удалить взаимосвязь"
+
+#: admin/field-delete.php:7
+msgid "Delete all connections"
+msgstr "Удалить все взаимосвязи"
+
+#: admin/factory.php:89
+msgid " (to)"
+msgstr " (в)"
+
+#: admin/factory.php:88
+msgid " (from)"
+msgstr " (из)"
+
+#: admin/dropdown-user.php:32
+msgid "Filter"
+msgstr "Фильтр"
+
+#: admin/box.php:232
+msgid "of"
+msgstr "из"
+
+#: admin/box.php:231
+msgid "next"
+msgstr "след."
+
+#: admin/box.php:230
+msgid "previous"
+msgstr "пред."
+
+#: admin/box.php:140
+msgid "Search"
+msgstr "Поиск"
+
+#: admin/box.php:48
+msgid "Are you sure you want to delete all connections?"
+msgstr "Вы уверены, что хотите удалить все взаимосвязи?"

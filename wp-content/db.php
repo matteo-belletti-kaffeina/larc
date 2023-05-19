@@ -1,0 +1,1 @@
+/var/www/vhosts/larc.it/httpdocs/wp-content/plugins/query-monitor/wp-content/db.php

@@ -1,0 +1,667 @@
+# Translation of Plugins - Category Posts Widget - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Category Posts Widget - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-04-17 13:51:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Category Posts Widget - Stable (latest release)\n"
+
+#: class-widget.php:1780
+msgid "Heading Level:"
+msgstr "Rubriknivå:"
+
+#: class-widget.php:1304
+msgid "Start with sticky posts"
+msgstr "Starta med klistrade inlägg"
+
+#: class-widget.php:2001
+msgid "The following placeholders will be replaced with the relevant information."
+msgstr "Följande platshållare kommer att ersättas med den relevanta informationen."
+
+#: class-widget.php:454 class-widget.php:1998 cat-posts.php:722
+msgid "Load More (%s/%s)"
+msgstr "Ladda fler (%s/%s)"
+
+#: class-widget.php:1989
+msgid "Ajax API"
+msgstr "Ajax API"
+
+#: class-widget.php:1963
+msgid "Inherited CSS"
+msgstr "Ärvd CSS"
+
+#: class-widget.php:1892
+msgid "Both"
+msgstr "Båda"
+
+#: class-widget.php:1891
+msgid "Height"
+msgstr "Höjd"
+
+#: class-widget.php:1890
+msgid "Width"
+msgstr "Bredd"
+
+#: class-widget.php:1847
+msgid "Dimensions (pixel)"
+msgstr "Dimensioner (pixlar)"
+
+#: class-widget.php:1808
+msgid "[&hellip;]"
+msgstr "[&hellip;]"
+
+#: class-widget.php:1805
+msgid "'Read more' text"
+msgstr "”Läs mer”-text"
+
+#: class-widget.php:1776
+msgid "Title settings"
+msgstr "Rubrikinställningar"
+
+#: class-widget.php:1764
+msgid "Title, Thumbnail"
+msgstr "Rubrik, miniatyr"
+
+#: class-widget.php:1739
+msgid "Read more text"
+msgstr "”Läs mer”-text"
+
+#: class-widget.php:1692
+msgid "%more-link%"
+msgstr "%more-link%"
+
+#: class-widget.php:1206
+msgid "Heading Level"
+msgstr "Rubriknivå"
+
+#: class-widget.php:1887
+msgid "Image ratio"
+msgstr "Bildförhållande"
+
+#: class-widget.php:1967
+msgid "Disable Theme's styles"
+msgstr "Inaktivera temastilar"
+
+#: class-widget.php:1995
+msgid "Button text"
+msgstr "Knapptext"
+
+#: class-widget.php:1986
+msgid "Text"
+msgstr "Text"
+
+#: class-widget.php:1979
+msgid "Show text"
+msgstr "Visa text"
+
+#: class-widget.php:1978
+msgid "Hide Widget"
+msgstr "Dölj widget"
+
+#: class-widget.php:1977
+msgid "Display empty widget"
+msgstr "Visa tom widget"
+
+#: class-widget.php:1902
+msgid "Large"
+msgstr "Stor"
+
+#: class-widget.php:1897
+msgid "Available"
+msgstr "Tillgänglig"
+
+#: class-widget.php:1881
+msgid "16:9"
+msgstr "16:9"
+
+#: class-widget.php:1880
+msgid "4:3"
+msgstr "4:3"
+
+#: class-widget.php:1879
+msgid "1:1"
+msgstr "1:1"
+
+#: class-widget.php:1871
+msgid "+"
+msgstr "+"
+
+#: class-widget.php:1870
+msgid "2x"
+msgstr "2x"
+
+#: class-widget.php:1869
+msgid "1/2"
+msgstr "1/2"
+
+#: class-widget.php:1868
+msgid "1/4"
+msgstr "1/4"
+
+#: class-widget.php:1864
+msgid "Change size"
+msgstr "Ändra storlek"
+
+#: class-widget.php:1696
+msgid "%category%"
+msgstr "%category%"
+
+#: class-widget.php:1695
+msgid "%post_tag%"
+msgstr "%post_tag%"
+
+#: class-widget.php:1694
+msgid "%commentnum%"
+msgstr "%commentnum%"
+
+#: class-widget.php:1693
+msgid "%author%"
+msgstr "%author%"
+
+#: class-widget.php:1691
+msgid "%excerpt%"
+msgstr "%excerpt%"
+
+#: class-widget.php:1690
+msgid "%date%"
+msgstr "%date%"
+
+#: class-widget.php:1689
+msgid "%thumb%"
+msgstr "%thumb%"
+
+#: class-widget.php:1688
+msgid "%title%"
+msgstr "%title%"
+
+#: class-widget.php:1683
+msgid "Add Placeholder"
+msgstr "Lägg till platshållare"
+
+#: class-widget.php:1284
+msgid "Before"
+msgstr "Före"
+
+#: class-widget.php:1283
+msgid "After"
+msgstr "Efter"
+
+#: class-widget.php:1282
+msgid "Up to"
+msgstr "Upp till"
+
+#: class-widget.php:1274
+msgid "Between dates"
+msgstr "Mellan datum"
+
+#: class-widget.php:1273
+msgid "Days ago"
+msgstr "Dagar sedan"
+
+#: class-widget.php:1272
+msgid "Off"
+msgstr "Av"
+
+#: class-widget.php:1270
+msgid "Date Range"
+msgstr "Datumintervall"
+
+#: class-widget.php:1854
+msgid "Max-width:"
+msgstr "Max bredd:"
+
+#: class-widget.php:1832
+msgid "Reader's local date"
+msgstr "Läsarens lokala datum"
+
+#: class-widget.php:1831
+msgid "Reader's local date and time"
+msgstr "Läsarens lokala datum och tid"
+
+#: class-widget.php:1779 class-widget.php:1789
+msgid "Lines (responsive):"
+msgstr "Rader (responsiv):"
+
+#: class-widget.php:1901
+msgid "Medium"
+msgstr "Medium"
+
+#: class-widget.php:1975
+msgid "When there are no matches"
+msgstr "När det inte finns några matchningar"
+
+#: class-widget.php:1991
+msgid "Enable Load More"
+msgstr "Aktivera ”Ladda mer”"
+
+#: class-widget.php:1867
+msgid "-"
+msgstr "-"
+
+#: class-widget.php:1876
+msgid "Ratio"
+msgstr "Förhållande"
+
+#: class-widget.php:1900
+msgid "Thumb"
+msgstr "Miniatyr"
+
+#: class-widget.php:1882
+msgid "switch"
+msgstr "växla"
+
+#: class-widget.php:463 class-widget.php:2014 cat-posts.php:723
+msgid "Loading..."
+msgstr "Laddar in …"
+
+#: class-widget.php:2014
+msgid "Loading text"
+msgstr "Laddar in text"
+
+#: class-widget.php:2025
+msgid "Support"
+msgstr "Support"
+
+#: class-widget.php:1927
+msgid "Bottom right"
+msgstr "Nere till höger"
+
+#: class-widget.php:1926
+msgid "Top right"
+msgstr "Uppe till höger"
+
+#: class-widget.php:1925
+msgid "Center"
+msgstr "Centrerat"
+
+#: class-widget.php:1924
+msgid "Bottom left"
+msgstr "Nere till vänster"
+
+#: class-widget.php:1923
+msgid "Top left"
+msgstr "Uppe till vänster"
+
+#: class-widget.php:1915
+msgid "Icon"
+msgstr "Ikon"
+
+#: class-widget.php:1845
+msgid "Thumbnail settings"
+msgstr "Inställningar för miniatyr"
+
+#: class-widget.php:1830
+msgid "Site date"
+msgstr "Webbplatsens datum"
+
+#: class-widget.php:1829
+msgid "Site date and time"
+msgstr "Webbplatsens datum och tid"
+
+#: class-widget.php:1786
+msgid "Excerpt settings"
+msgstr "Utdragsinställningar"
+
+#: class-widget.php:1768
+msgid "Select this template"
+msgstr "Välj denna mall"
+
+#: class-widget.php:1766
+msgid "All with icons"
+msgstr "Alla med ikoner"
+
+#: class-widget.php:1755
+msgid "Post categories"
+msgstr "Inläggskategorier"
+
+#: class-widget.php:1751
+msgid "Post tags"
+msgstr "Inläggsetiketter"
+
+#: class-widget.php:1743
+msgid "Post author"
+msgstr "Inläggsförfattare"
+
+#: class-widget.php:1735
+msgid "Post excerpt"
+msgstr "Inläggsutdrag"
+
+#: class-widget.php:1723
+msgid "Post title"
+msgstr "Inläggsrubrik"
+
+#: class-widget.php:1687 class-widget.php:1718
+msgid "Empty line"
+msgstr "Tom rad"
+
+#: class-widget.php:1715
+msgid "Space"
+msgstr "Utrymme"
+
+#: class-widget.php:1686 class-widget.php:1714
+msgid "New line"
+msgstr "Ny rad"
+
+#: class-widget.php:1675
+msgid "Show template help"
+msgstr "Visa mallhjälp"
+
+#: class-widget.php:1673
+msgid "Template"
+msgstr "Mall"
+
+#: class-widget.php:1259
+msgid "Private or Scheduled"
+msgstr "Privat eller schemalagd"
+
+#: class-widget.php:1256
+msgid "Private"
+msgstr "Privat"
+
+#: class-widget.php:1966
+msgid "Disable only font styles"
+msgstr "Inaktivera endast typsnittsstilar"
+
+#: class-widget.php:1965
+msgid "Disable the built-in CSS"
+msgstr "Inaktivera inbyggda CSS"
+
+#: class-widget.php:1928
+msgid "HTML without styling"
+msgstr "HTML utan styling"
+
+#: class-widget.php:1821
+msgid "Date format settings"
+msgstr "Inställningar för datumformat"
+
+#: class-widget.php:1731
+msgid "Post publish date"
+msgstr "Inläggets publiceringsdatum"
+
+#: class-widget.php:1719
+msgid "Next line is a paragraph"
+msgstr "Nästa rad är ett stycke"
+
+#: class-widget.php:698
+msgid "(%d) comments to this post"
+msgstr "(%d) kommentarer till detta inlägg"
+
+#: class-widget.php:1760
+msgid "Select premade Template"
+msgstr "Välj förgjord mall"
+
+#: class-widget.php:1747
+msgid "The number of comments to the post"
+msgstr "Antalet kommentarer till inlägget"
+
+#: class-widget.php:1258
+msgid "Published or Private"
+msgstr "Publicerad eller privat"
+
+#: class-widget.php:1670
+msgid "Displayed parts"
+msgstr "Visade delar"
+
+#: class-widget.php:1260
+msgid "Published, Private or Scheduled"
+msgstr "Publicerad, privat eller schemalagd"
+
+#: class-widget.php:1920
+msgid "Indicate post format and position"
+msgstr "Ange inläggsformat och position"
+
+#: class-widget.php:1205
+msgid "Title link URL"
+msgstr "URL för rubriklänk"
+
+#: class-widget.php:1253
+msgid "WordPress Default"
+msgstr "WordPress-standard"
+
+#: class-widget.php:1255
+msgid "Scheduled"
+msgstr "Schemalagd"
+
+#: class-widget.php:1254
+msgid "Published"
+msgstr "Publicerat"
+
+#: class-widget.php:1252
+msgid "Status"
+msgstr "Status"
+
+#: class-widget.php:1257
+msgid "Published or Scheduled"
+msgstr "Publicerad eller schemalagd"
+
+#: class-widget.php:1266
+msgid "Start with post"
+msgstr "Börja med inlägg"
+
+#: class-widget.php:2021
+msgid "Footer link URL"
+msgstr "Sidfotens länk-URL"
+
+#. Author of the plugin
+msgid "TipTopPress"
+msgstr "TipTopPress"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/category-posts/"
+msgstr "https://wordpress.org/plugins/category-posts/"
+
+#: tinymce-translations.php:30
+msgid "Hide the button"
+msgstr "Dölj knappen"
+
+#: tinymce-translations.php:27
+msgid "Name"
+msgstr "Namn"
+
+#: cat-posts.php:851
+msgid "[shortcode]"
+msgstr "[shortcode]"
+
+#: class-widget.php:2024
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: class-widget.php:1770
+msgid "Everything is a link"
+msgstr "Allt är en länk"
+
+#: class-widget.php:1955
+msgid "No default"
+msgstr "Inte standard"
+
+#: class-widget.php:1952
+msgid "Select image"
+msgstr "Välj bild"
+
+#: class-widget.php:1248
+msgid "Exclude child categories"
+msgstr "Exkludera underkategorier"
+
+#: class-widget.php:1237
+msgid "All categories"
+msgstr "Alla kategorier"
+
+#: class-widget.php:762
+msgid "Continue reading %s"
+msgstr "Fortsätt läsa %s"
+
+#: cat-posts.php:238
+msgid "Select"
+msgstr "Välj"
+
+#: cat-posts.php:237
+msgid "Select a default thumbnail"
+msgstr "Välj en standardminiatyr"
+
+#: class-widget.php:1936
+msgid "Default thumbnail: "
+msgstr "Standardminiatyr"
+
+#: class-widget.php:2026
+msgid "We are on <a href=\"%1$s\">Facebook</a> and <a href=\"%2$s\">Twitter</a>."
+msgstr "Vi är på <a href=\"%1$s\">Facebook</a> och <a href=\"%2$s\">Twitter</a>."
+
+#: tinymce-translations.php:28
+msgid "Insert Category Posts shortcode"
+msgstr "Infoga kortkod för kategoriinlägg"
+
+#: cat-posts.php:1108
+msgid "Visual editor button"
+msgstr "Visuell redigeringsknapp"
+
+#: cat-posts.php:1104
+msgid "Close the currently open panel when opening a new one"
+msgstr "Stäng den nuvarande öppna panelen när en ny öppnas"
+
+#. Author URI of the plugin
+msgid "https://tiptoppress.com"
+msgstr "https://tiptoppress.com"
+
+#: cat-posts.php:896
+msgid "Layout"
+msgstr "Layout"
+
+#: class-widget.php:1654 cat-posts.php:424
+msgid "Get the Pro version"
+msgstr "Skaffa Pro-versionen"
+
+#: class-widget.php:2018
+msgid "Footer"
+msgstr "Sidfot"
+
+#: class-widget.php:1961
+msgid "General"
+msgstr "Allmänt"
+
+#: class-widget.php:1827
+msgid "Date format"
+msgstr "Datumformat"
+
+#: class-widget.php:1660
+msgid "Post details"
+msgstr "Inläggsdetaljer"
+
+#: class-widget.php:1914
+msgid "Blur"
+msgstr "Suddig"
+
+#: class-widget.php:1913
+msgid "Zoom in"
+msgstr "Zooma in"
+
+#: class-widget.php:1912
+msgid "Brighter"
+msgstr "Ljusare"
+
+#: class-widget.php:1911
+msgid "Darker"
+msgstr "Mörkare"
+
+#: class-widget.php:1910 class-widget.php:1922 class-widget.php:1942
+#: cat-posts.php:239
+msgid "None"
+msgstr "Ingen"
+
+#: class-widget.php:1855
+msgid "Height:"
+msgstr "Höjd:"
+
+#: class-widget.php:1853
+msgid "Width:"
+msgstr "Bredd:"
+
+#: class-widget.php:1302
+msgid "Exclude current post"
+msgstr "Exkludera nuvarande inlägg"
+
+#: class-widget.php:1296
+msgid "Random"
+msgstr "Slumpmässig"
+
+#: class-widget.php:1295
+msgid "Number of comments"
+msgstr "Antal kommentarer"
+
+#: class-widget.php:1293
+msgid "Date"
+msgstr "Datum"
+
+#: class-widget.php:1291
+msgid "Sort by"
+msgstr "Sortera efter"
+
+#: class-widget.php:1265
+msgid "Number of posts to show"
+msgstr "Antal inlägg att visa"
+
+#: class-widget.php:1233
+msgid "Category"
+msgstr "Kategori"
+
+#: class-widget.php:1229
+msgid "Filter"
+msgstr "Filter"
+
+#: class-widget.php:1201
+msgid "Hide title"
+msgstr "Dölj rubrik"
+
+#: class-widget.php:1199 class-widget.php:1203 class-widget.php:1294
+#: class-widget.php:1762
+msgid "Title"
+msgstr "Rubrik"
+
+#: class-widget.php:32 class-widget.php:330 class-widget.php:333
+#: cat-posts.php:682
+msgid "Category Posts"
+msgstr "Kategoriinlägg"
+
+#: cat-posts.php:73
+msgid "Customize"
+msgstr "Anpassa"
+
+#: class-widget.php:2020
+msgid "Footer link text"
+msgstr "Sidfotens länktext"
+
+#: class-widget.php:1301
+msgid "Reverse sort order (ascending)"
+msgstr "Omvänd sorteringsordning (stigande)"
+
+#: class-widget.php:1303
+msgid "Exclude posts which have no thumbnail"
+msgstr "Exkludera inlägg som inte har miniatyr"
+
+#: cat-posts.php:814
+msgid "Category Posts Shortcode"
+msgstr "Kortkod för kategoriinlägg"
+
+#. Description of the plugin
+msgid "Adds a widget that shows the most recent posts from a single category."
+msgstr "Lägger till en widget som visar de senaste inläggen från en enskild kategori."
+
+#: class-widget.php:1909
+msgid "Animation on mouse hover"
+msgstr "Animering vid mushovring"
+
+#. Plugin Name of the plugin
+msgid "Category Posts Widget"
+msgstr "Category Posts Widget"
+
+#: class-widget.php:1204
+msgid "Make widget title link"
+msgstr "Gör en länk av widgetrubrik"
+
+#: class-widget.php:30
+msgid "List single category posts"
+msgstr "Lista enskilda kategoriinlägg"

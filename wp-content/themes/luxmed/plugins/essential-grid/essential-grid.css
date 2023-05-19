@@ -1,0 +1,77 @@
+/* Essential Grid styles
+----------------------------------------------------------------- */
+.esg-grid i[class*="eg-icon-"] {
+	color: #fff;
+}
+.esg-grid a:hover i[class*="eg-icon-"] {
+	color: #fff;
+}
+
+.flat-light .esg-filters .esg-sortbutton-order,
+.flat-light .esg-filters .esg-cartbutton-order {
+	line-height:36px;
+	margin:0;
+}
+.flat-light .esg-filters .esg-sortbutton {
+	padding-right: 0;
+}
+
+.esgbox-overlay.esgbox-overlay-fixed {
+	z-index: 20000;
+}
+.esgbox-opened {
+	z-index: 20030 !important;
+}
+
+.minimal-light .esg-filters {
+	margin-bottom: 1em !important;
+}
+
+.minimal-light .esg-filterbutton {
+	color: #999 !important;
+	border: 0 !important;
+	font-size: 11px !important;
+	font-weight: 400 !important;
+	font-family: "Rubik", sans-serif !important;
+	background: transparent !important;
+	text-transform: uppercase !important;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	-ms-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.minimal-light .esg-filterbutton:hover,
+.minimal-light .esg-filterbutton.selected {
+	-webkit-box-shadow: none !important;
+	-moz-box-shadow: none !important;
+	box-shadow: none !important;
+}
+
+.minimal-light .esg-pagination {
+	margin-top: 3em !important;
+}
+.minimal-light .esg-pagination-button {
+	border: 1px solid #dddddd !important;
+	font-size: 15px !important;
+	padding: 0 !important;
+	width: 3.3em !important;
+	height: 3.3em !important;
+	line-height: 3.3em !important;
+	text-align: center;
+	margin-right: 1.5em !important;
+	font-weight: 300 !important;
+	-webkit-border-radius: 50% !important;
+	-moz-border-radius: 50% !important;
+	border-radius: 50% !important;
+}
+.esgbox-overlay {
+	z-index: 28010 !important;
+}
+.esgbox-opened {
+	z-index: 28030 !important;
+}
+.esg-grid .mainul li.eg-washington-wrapper {
+	background-color: #ffffff !important;
+}

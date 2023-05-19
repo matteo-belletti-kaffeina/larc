@@ -1,0 +1,123 @@
+# Translation of Plugins - Advanced Contact form 7 DB - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Advanced Contact form 7 DB - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-08 13:04:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Advanced Contact form 7 DB - Stable (latest release)\n"
+
+#: admin/class-advanced-cf7-db-admin.php:996
+msgid "You do not have permission to upload files."
+msgstr "ファイルをアップロードする権限がありません。"
+
+#: admin/class-advanced-cf7-db-admin.php:159
+msgid "Add-ons"
+msgstr "アドオン"
+
+#: admin/class-advanced-cf7-db-admin.php:158
+msgid "Developer Support"
+msgstr "開発者サポート"
+
+#: admin/class-advanced-cf7-db-admin.php:284
+msgid "PDF"
+msgstr "PDF"
+
+#: admin/class-advanced-cf7-db-admin.php:283
+msgid "Excel"
+msgstr "エクセル"
+
+#. Author URI of the plugin
+msgid "https://www.vsourz.com"
+msgstr "https://www.vsourz.com"
+
+#. Author of the plugin
+msgid "Vsourz Digital"
+msgstr "Vsourz Digital"
+
+#: admin/partials/contact_form_listing.php:336
+msgid "items"
+msgstr "アイテム"
+
+#: admin/partials/contact_form_listing.php:335
+msgid "item"
+msgstr "項目"
+
+#: admin/partials/contact_form_listing.php:326
+msgid "Bulk Actions"
+msgstr "一括操作"
+
+#: admin/class-advanced-cf7-db-admin.php:298
+msgid "Type something..."
+msgstr "何かを入力..."
+
+#: admin/class-advanced-cf7-db-admin.php:316
+msgid "Display Settings"
+msgstr "ディスプレイの設定"
+
+#: admin/class-advanced-cf7-db-admin.php:299
+msgid "Search"
+msgstr "検索"
+
+#: admin/class-advanced-cf7-db-admin.php:282
+msgid "CSV"
+msgstr "CSV"
+
+#: admin/partials/import_cf7_csv.php:37
+#: admin/partials/contact_form_listing.php:40
+msgid "You do not have sufficient permissions to access this page."
+msgstr "このページにアクセスするための十分な権限がありません。"
+
+#. Plugin Name of the plugin
+msgid "Advanced CF7 DB"
+msgstr "Advanced CF7 DB"
+
+#: admin/partials/contact_form_listing.php:330
+msgid "Apply"
+msgstr "適用する"
+
+#: admin/partials/contact_form_listing.php:324
+msgid "Select bulk action"
+msgstr "一括操作を選択"
+
+#: admin/class-advanced-cf7-db-admin.php:521
+#: admin/class-advanced-cf7-db-admin.php:550
+#: admin/class-advanced-cf7-db-admin.php:577
+#: includes/vsz-cf7-db-function.php:312 includes/vsz-cf7-db-function.php:328
+#: includes/vsz-cf7-db-function.php:340 includes/vsz-cf7-db-function.php:352
+#: includes/vsz-cf7-db-function.php:364 includes/vsz-cf7-db-function.php:377
+#: includes/vsz-cf7-db-function.php:388 includes/vsz-cf7-db-function.php:399
+msgid "Loading..."
+msgstr "読み込み中..."
+
+#: admin/class-advanced-cf7-db-admin.php:286
+msgid "Export"
+msgstr "出力する"
+
+#: admin/class-advanced-cf7-db-admin.php:281
+msgid "Export to..."
+msgstr "出力中..."
+
+#: admin/partials/contact_form_listing.php:343
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: admin/partials/contact_form_listing.php:342
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: admin/class-advanced-cf7-db-admin.php:157
+msgid "Import CSV"
+msgstr "CSV をインポート"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/advanced-cf7-db/"
+msgstr "https://ja.wordpress.org/plugins/advanced-cf7-db/"
+
+#. Description of the plugin
+msgid "Save all contact form 7 submitted data to the database, View, Export, ordering, Change field labels, Import data using CSV very easily."
+msgstr "データベースに送信されたすべての Contact Form 7 のデータを保存、表示、エクスポート、注文、フィールドラベルの変更、CSV を使用したデータのインポートが非常に簡単にできます。"

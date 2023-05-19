@@ -1,0 +1,294 @@
+# Translation of Plugins - iubenda | All-in-one Compliance for GDPR / CCPA Cookie Consent + more - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - iubenda | All-in-one Compliance for GDPR / CCPA Cookie Consent + more - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-08-31 11:54:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - iubenda | All-in-one Compliance for GDPR / CCPA Cookie Consent + more - Stable (latest release)\n"
+
+#: views/partials/product-card.php:46
+msgid "Service on"
+msgstr "Servicio activo"
+
+#: views/partials/product-card.php:46
+msgid "Service off"
+msgstr "Servicio desactivado"
+
+#: views/partials/csGeneralSettings.php:173
+msgid "Blocked domains"
+msgstr "Dominios bloqueados"
+
+#: views/pp-configuration.php:26 views/tc-configuration.php:30
+msgid "Integration"
+msgstr "Integración"
+
+#: views/partials/product-card.php:48
+msgid "Configure"
+msgstr "Configurar"
+
+#: views/partials/modals/modal_sync.php:7
+msgid "or"
+msgstr "o"
+
+#: views/partials/modals/modal_select_language.php:64
+msgid "Continue"
+msgstr "Continuar"
+
+#: views/partials/integrateFooter.php:4
+msgid "Integrate"
+msgstr "Integrar"
+
+#: views/partials/modals/modal_no_website_found.php:10
+#: views/partials/modals/modal_ops_embed_invalid.php:10
+msgid "Try again"
+msgstr "Intentar de nuevo"
+
+#: views/partials/modals/modal_almost_there.php:75
+msgid "Synchronize products"
+msgstr "Sincronizar los productos"
+
+#: views/partials/header_scanned.php:3 views/partials/modals/modal_rating.php:6
+#: views/partials/siteInfo.php:20
+msgid "Your rating"
+msgstr "Tu valoración"
+
+#: views/partials/footer.php:5
+msgid "Documentation"
+msgstr "Documentación"
+
+#: views/partials/csSimplifiedConfiguration.php:88
+#: views/partials/modals/modal_rating.php:22
+msgid "Learn More"
+msgstr "Aprender más"
+
+#: views/partials/modals/modal_almost_there.php:25
+msgid "(required)"
+msgstr "(obligatorio)"
+
+#: views/partials/integrateFooter.php:3
+msgid "Reset settings"
+msgstr "Restablecer los ajustes"
+
+#: views/partials/csSimplifiedConfiguration.php:83
+msgid "Other options"
+msgstr "Otras opciones"
+
+#: views/partials/buttonStyle.php:1 views/tc-configuration.php:32
+msgid "Button style"
+msgstr "Estilo del botón"
+
+#: views/partials/buttonPosition.php:73 views/tc-configuration.php:117
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: views/partials/buttonPosition.php:64 views/tc-configuration.php:108
+msgid "Your embed code"
+msgstr "Tu código incrustado"
+
+#: views/partials/buttonPosition.php:37 views/tc-configuration.php:92
+msgid "HTML"
+msgstr "HTML"
+
+#: views/partials/breadcrumb.php:2
+msgid "Products"
+msgstr "Productos"
+
+#: views/partials/bannerStyle.php:15 views/partials/buttonStyle.php:10
+#: views/tc-configuration.php:41
+msgid "Light"
+msgstr "Claro"
+
+#: views/partials/bannerStyle.php:9 views/partials/buttonStyle.php:19
+#: views/tc-configuration.php:50
+msgid "Dark"
+msgstr "Oscuro"
+
+#: views/partials/bannerStyle.php:2
+msgid "Theme"
+msgstr "Tema"
+
+#: includes/settings.php:402 views/partials/siteInfo.php:14
+msgid "Plugin settings"
+msgstr "Ajustes del plugin"
+
+#: views/cons-single-form.php:268
+msgid "Add New Document"
+msgstr "Añadir nuevo documento"
+
+#: views/cons-single-form.php:71
+msgid "None"
+msgstr "Ninguno"
+
+#: views/cons-single-form.php:48
+msgid "Status"
+msgstr "Estado"
+
+#: views/cons-single-form.php:44
+msgid "Map fields"
+msgstr "Campos del mapa"
+
+#: views/cons-configuration.php:44
+msgid "Add forms"
+msgstr "Añadir formularios"
+
+#: iubenda_cookie_solution.php:1307
+msgid "Rate"
+msgstr "Valorar"
+
+#: iubenda_cookie_solution.php:235
+msgid "Settings"
+msgstr "Ajustes"
+
+#: views/partials/csGeneralSettings.php:14
+#: views/partials/csGeneralSettings.php:23
+msgid "Simplified"
+msgstr "Simplificada"
+
+#: views/partials/csGeneralSettings.php:2
+msgid "Configuration"
+msgstr "Configuración"
+
+#: includes/widget/IubendaLegalWidget.php:176
+msgid "Title:"
+msgstr "Título:"
+
+#: includes/block/IubendaLegalBlock.php:83
+#: includes/block/IubendaLegalBlock.php:256
+#: includes/widget/IubendaLegalWidget.php:167
+msgid "Legal"
+msgstr "Legal"
+
+#: includes/settings.php:1159 includes/settings.php:1179
+msgid "Version"
+msgstr "Versión"
+
+#: includes/settings.php:1120 includes/settings.php:1142
+#: includes/settings.php:1161 includes/settings.php:1181
+#: views/partials/bannerPosition.php:20
+msgid "Position"
+msgstr "Posición"
+
+#: includes/settings.php:1119 includes/settings.php:1141
+#: includes/settings.php:1160 includes/settings.php:1180
+msgid "Style"
+msgstr "Estilo"
+
+#: includes/settings.php:925
+msgid "No"
+msgstr "No"
+
+#: includes/settings.php:924
+msgid "Yes"
+msgstr "Sí"
+
+#: includes/forms-list-table.php:331
+msgid "All"
+msgstr "Todo"
+
+#: includes/forms-list-table.php:261
+msgid "Filter"
+msgstr "Filtrar"
+
+#: includes/forms-list-table.php:161
+msgid "Delete"
+msgstr "Borrar"
+
+#: includes/forms-list-table.php:161
+msgid "Delete this form"
+msgstr "Borrar este formulario "
+
+#: includes/forms-list-table.php:160
+msgid "Edit"
+msgstr "Editar"
+
+#: includes/forms-list-table.php:160
+msgid "Edit this form"
+msgstr "Editar este formulario"
+
+#: includes/forms-list-table.php:91
+msgid "Date"
+msgstr "Fecha"
+
+#: includes/forms-list-table.php:90
+msgid "Fields"
+msgstr "Campos"
+
+#: views/partials/csGeneralSettings.php:176
+#: views/partials/csPluginSettings.php:62
+msgid "Custom scripts"
+msgstr "Scripts personalizados"
+
+#: views/integrate-setup.php:118 views/partials/csGeneralSettings.php:161
+#: views/partials/csPluginSettings.php:14
+msgid "Secondary"
+msgstr "Secundario"
+
+#: views/integrate-setup.php:114 views/partials/csGeneralSettings.php:157
+#: views/partials/csPluginSettings.php:10
+msgid "Primary"
+msgstr "Principal"
+
+#: views/partials/csPluginSettings.php:53 views/plugin-settings.php:36
+msgid "Submenu"
+msgstr "Submenú"
+
+#: views/partials/csPluginSettings.php:49 views/plugin-settings.php:32
+msgid "Top menu"
+msgstr "Menú superior"
+
+#: views/partials/csPluginSettings.php:45 views/plugin-settings.php:28
+msgid "Menu position"
+msgstr "Posición del menú"
+
+#: views/partials/csPluginSettings.php:56 views/plugin-settings.php:39
+msgid "Select whether to display iubenda in a top admin menu or the Settings submenu."
+msgstr "Selecciona si quieres visualizar iubenda en el menú superior de administración o en el submenú «Ajustes»."
+
+#: views/partials/csPluginSettings.php:41 views/plugin-settings.php:25
+msgid "Delete all plugin data upon deactivation"
+msgstr "Borrar todos los datos del plugin al desactivarlo"
+
+#. Author of the plugin
+msgid "iubenda"
+msgstr "iubenda"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.iubenda.com"
+msgstr "https://www.iubenda.com"
+
+#: includes/settings.php:389
+msgid "You don't have permission to access this page."
+msgstr "No tienes permiso para acceder a esta página."
+
+#: includes/settings.php:754
+msgid "Settings saved."
+msgstr "Ajustes guardados."
+
+#: views/integrate-setup.php:126 views/partials/csGeneralSettings.php:168
+#: views/partials/csPluginSettings.php:22
+msgid "Leave scripts untouched on the page if the user has already given consent"
+msgstr "Deja los scripts intactos en la página si el usuario ya ha dado su consentimiento"
+
+#: views/partials/csPluginSettings.php:33 views/plugin-settings.php:17
+msgid "Do not run the plugin inside the RSS feed (recommended)"
+msgstr "No ejecutar el plugin dentro del feed RSS (recomendado)"
+
+#: views/partials/csPluginSettings.php:29 views/plugin-settings.php:13
+msgid "Restrict the plugin to run only for requests that have \"Content-type: text / html\" (recommended)"
+msgstr "Restringir el uso del plugin para ejecutarlo solo para peticiones que tengan «Content-type: text / html» (recomendado)"
+
+#: views/integrate-setup.php:121 views/partials/csGeneralSettings.php:153
+#: views/partials/csPluginSettings.php:17
+msgid "Select Parsing Engine"
+msgstr "Seleccionar el motor de análisis"
+
+#: views/integrate-setup.php:108 views/partials/csGeneralSettings.php:149
+#: views/partials/csPluginSettings.php:4
+msgid "Automatically block scripts detected by the plugin"
+msgstr "Bloquear automáticamente los scripts detectados por el plugin"

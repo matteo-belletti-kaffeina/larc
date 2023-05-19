@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 20/04/2023 15:33
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.3.1
+WORDPRESS:	5.8.2
+PHP INFO:	7.2.34 | SAPI: cgi-fcgi
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (256M default) 
+MEMORY STACK: 2MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20230420_larc_d1bb896b9c4b28874921_20230420153306_database.sql
+SQL FILE SIZE: 133.24MB (139708126)
+SQL FILE TIME: 2023-04-20 15:33:22
+SQL RUNTIME: 2.17 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  /var/www/vhosts/larc.it/httpdocs
+ARCHIVE FILE: 20230420_larc_d1bb896b9c4b28874921_20230420153306_archive.zip
+FILTERS: *OFF*
+DIRS:
+	/var/www/vhosts/larc.it/httpdocs/wp-content/cache
+	/var/www/vhosts/larc.it/httpdocs/wp-content/uploads
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	0B
+STATS:	Dirs 0 | Files 0
+SQL ADDED: 20230420_larc_d1bb896b9c4b28874921_20230420153306_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 1
+    [filename] => /var/www/vhosts/larc.it/httpdocs/wp-content/backups-dup-lite/tmp/20230420_larc_d1bb896b9c4b28874921_20230420153306_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 0
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 22.75MB
+ARCHIVE RUNTIME: 7.71 sec.
+MEMORY STACK: 2MB
+building installer
+[PHP ERR][WARN] MSG:is_readable(): open_basedir restriction in effect. File(/dev/urandom) is not within the allowed path(s): (/var/www/vhosts/larc.it/:/tmp/) [CODE:2|FILE:/var/www/vhosts/larc.it/httpdocs/wp-content/plugins/duplicator/classes/class.password.php|LINE:65]
+do_action('wp_ajax_duplicator_package_build'), WP_Hook->do_action, WP_Hook->apply_filters, duplicator_package_build, DUP_Package->runZipBuild, DUP_Installer->build, DUP_Installer->create_enhanced_installer_files, DUP_Installer->create_archive_config_file, DUP_PasswordHash->HashPassword, DUP_PasswordHash->get_random_bytes, is_readable, DUP_Handler::error, DUP_Handler::getMessage
+TEST DI COERENZA DELL'ARCHIVIO: SUPERATO
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 133.24MB
+INSTALLER FILE: 73.34KB
+ARCHIVE FILE: 24.52MB 
+CONTEGGIO FILE/DIRECTORY PREVISTO: 0
+CONTEGGIO FILE/DIRECTORY EFFETTIVO: 0
+Test d consistenza dell'archivio: Superato
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 10.89 sec.
+PEAK PHP MEMORY USED: 2MB
+DONE PROCESSING => 20230420_larc 20/04/2023 15:33
+

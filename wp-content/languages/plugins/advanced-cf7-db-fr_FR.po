@@ -1,0 +1,127 @@
+# Translation of Plugins - Advanced Contact form 7 DB - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Advanced Contact form 7 DB - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-09 06:10:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Advanced Contact form 7 DB - Stable (latest release)\n"
+
+#: admin/class-advanced-cf7-db-admin.php:164
+msgid "mounstride CRM"
+msgstr "mounstride CRM"
+
+#: admin/class-advanced-cf7-db-admin.php:1080
+msgid "You do not have permission to upload files."
+msgstr "Vous n’avez pas le droit de téléverser des fichiers."
+
+#: admin/class-advanced-cf7-db-admin.php:163
+msgid "Add-ons"
+msgstr "Extensions"
+
+#: admin/class-advanced-cf7-db-admin.php:162
+msgid "Developer Support"
+msgstr "Support développeur"
+
+#: admin/class-advanced-cf7-db-admin.php:327
+msgid "PDF"
+msgstr "PDF"
+
+#: admin/class-advanced-cf7-db-admin.php:326
+msgid "Excel"
+msgstr "Excel"
+
+#. Author URI of the plugin
+msgid "https://www.vsourz.com"
+msgstr "https://www.vsourz.com"
+
+#. Author of the plugin
+msgid "Vsourz Digital"
+msgstr "Vsourz Digital"
+
+#. Description of the plugin
+msgid "Save all contact form 7 submitted data to the database, View, Export, ordering, Change field labels, Import data using CSV very easily."
+msgstr "Enregistrer toutes les données de Contact Form 7 en base de données, les visualiser, les trier, les exporter. Modification des entêtes de colonnes. Importer des données facilement depuis un fichier CSV"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/advanced-cf7-db/"
+msgstr "https://fr.wordpress.org/plugins/advanced-cf7-db/"
+
+#. Plugin Name of the plugin
+msgid "Advanced CF7 DB"
+msgstr "Advanced CF7 DB"
+
+#: admin/partials/contact_form_listing.php:346
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: admin/partials/contact_form_listing.php:345
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: admin/partials/contact_form_listing.php:339
+msgid "items"
+msgstr "éléments"
+
+#: admin/partials/contact_form_listing.php:338
+msgid "item"
+msgstr "élément"
+
+#: admin/partials/contact_form_listing.php:333
+msgid "Apply"
+msgstr "Appliquer"
+
+#: admin/partials/contact_form_listing.php:329
+msgid "Bulk Actions"
+msgstr "Actions groupées"
+
+#: admin/partials/contact_form_listing.php:327
+msgid "Select bulk action"
+msgstr "Sélectionner une action groupée"
+
+#: admin/class-advanced-cf7-db-admin.php:576
+#: admin/class-advanced-cf7-db-admin.php:605
+#: admin/class-advanced-cf7-db-admin.php:632
+#: includes/vsz-cf7-db-function.php:323 includes/vsz-cf7-db-function.php:339
+#: includes/vsz-cf7-db-function.php:351 includes/vsz-cf7-db-function.php:363
+#: includes/vsz-cf7-db-function.php:375 includes/vsz-cf7-db-function.php:388
+#: includes/vsz-cf7-db-function.php:399 includes/vsz-cf7-db-function.php:410
+msgid "Loading..."
+msgstr "Chargement..."
+
+#: admin/class-advanced-cf7-db-admin.php:365
+msgid "Display Settings"
+msgstr "Réglages de l’affichage"
+
+#: admin/class-advanced-cf7-db-admin.php:344
+msgid "Search"
+msgstr "Rechercher"
+
+#: admin/class-advanced-cf7-db-admin.php:343
+msgid "Type something..."
+msgstr "Saisir quelque chose"
+
+#: admin/class-advanced-cf7-db-admin.php:329
+msgid "Export"
+msgstr "Exporter"
+
+#: admin/class-advanced-cf7-db-admin.php:325
+msgid "CSV"
+msgstr "CSV"
+
+#: admin/class-advanced-cf7-db-admin.php:324
+msgid "Export to..."
+msgstr "Exporter vers..."
+
+#: admin/partials/contact_form_listing.php:40
+#: admin/partials/import_cf7_csv.php:37
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n’avez pas les droits suffisants pour accéder à cette page."
+
+#: admin/class-advanced-cf7-db-admin.php:161
+msgid "Import CSV"
+msgstr "Importer CSV"

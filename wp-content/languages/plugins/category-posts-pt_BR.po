@@ -1,0 +1,677 @@
+# Translation of Plugins - Category Posts Widget - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Category Posts Widget - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-29 14:47:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Category Posts Widget - Stable (latest release)\n"
+
+#: cat-posts.php:583
+msgid "Loading..."
+msgstr "Carregando..."
+
+#: cat-posts.php:582
+msgid "Load More"
+msgstr "Carregar mais"
+
+#: class-widget.php:1671
+msgid "Loading text"
+msgstr "Texto de carregamento"
+
+#: class-widget.php:1670
+msgid "Button text"
+msgstr "Texto do botão"
+
+#: class-widget.php:1667
+msgid "Enable Load More"
+msgstr "Ativar \"Carregar mais\""
+
+#: class-widget.php:1662
+msgid "Text"
+msgstr "Texto"
+
+#: class-widget.php:1658
+msgid "Show text"
+msgstr "Mostrar texto"
+
+#: class-widget.php:1657
+msgid "Hide Widget"
+msgstr "Ocultar widget"
+
+#: class-widget.php:1656
+msgid "Display empty widget"
+msgstr "Exibir widget vazio"
+
+#: class-widget.php:1655
+msgid "When there are no matches"
+msgstr "Quando não houver resultados"
+
+#: class-widget.php:1593
+msgid "Large"
+msgstr "Grande"
+
+#: class-widget.php:1592
+msgid "Medium"
+msgstr "Médio"
+
+#: class-widget.php:1591
+msgid "Thumb"
+msgstr "Miniatura"
+
+#: class-widget.php:1588
+msgid "Available"
+msgstr "Disponível"
+
+#: class-widget.php:1583
+msgid "switch"
+msgstr "alternar"
+
+#: class-widget.php:1582
+msgid "16:9"
+msgstr "16:9"
+
+#: class-widget.php:1581
+msgid "4:3"
+msgstr "4:3"
+
+#: class-widget.php:1580
+msgid "1:1"
+msgstr "1:1"
+
+#: class-widget.php:1577
+msgid "Ratio"
+msgstr "Proporção"
+
+#: class-widget.php:1572
+msgid "+"
+msgstr "+"
+
+#: class-widget.php:1571
+msgid "2x"
+msgstr "2x"
+
+#: class-widget.php:1570
+msgid "1/2"
+msgstr "1/2"
+
+#: class-widget.php:1569
+msgid "1/4"
+msgstr "1/4"
+
+#: class-widget.php:1568
+msgid "-"
+msgstr "-"
+
+#: class-widget.php:1565
+msgid "Change size"
+msgstr "Alterar tamanho"
+
+#: class-widget.php:1560
+msgid "Max-width:"
+msgstr "Largura máxima:"
+
+#: class-widget.php:1532
+msgid "'More ...' text:"
+msgstr "Texto \"Mais...\":"
+
+#: class-widget.php:1531
+msgid "Length (words):"
+msgstr "Tamanho (palavras):"
+
+#: class-widget.php:1084
+msgid "Between dates"
+msgstr "Entre datas"
+
+#: class-widget.php:1083
+msgid "Days ago"
+msgstr "Dias atrás"
+
+#: class-widget.php:1082
+msgid "Off"
+msgstr "Desativado"
+
+#: class-widget.php:1081
+msgid "Date Range"
+msgstr "Intervalo de tempo"
+
+#: class-widget.php:1546
+msgid "Reader's local date"
+msgstr "Data local do leitor"
+
+#: class-widget.php:1545
+msgid "Reader's local date and time"
+msgstr "Data e hora locais do leitor"
+
+#: class-widget.php:1530
+msgid "Lines (responsive):"
+msgstr "Linhas (responsivo):"
+
+#: class-widget.php:1455
+msgid "%category%"
+msgstr "%category%"
+
+#: class-widget.php:1454
+msgid "%post_tag%"
+msgstr "%post_tag%"
+
+#: class-widget.php:1453
+msgid "%commentnum%"
+msgstr "%commentnum%"
+
+#: class-widget.php:1452
+msgid "%author%"
+msgstr "%author%"
+
+#: class-widget.php:1451
+msgid "%excerpt%"
+msgstr "%excerpt%"
+
+#: class-widget.php:1450
+msgid "%date%"
+msgstr "%date%"
+
+#: class-widget.php:1449
+msgid "%thumb%"
+msgstr "%thumb%"
+
+#: class-widget.php:1448
+msgid "%title%"
+msgstr "%title%"
+
+#: class-widget.php:1091
+msgid "Before"
+msgstr "Antes de"
+
+#: class-widget.php:1090
+msgid "After"
+msgstr "Depois de"
+
+#: class-widget.php:1089
+msgid "Up to"
+msgstr "Até"
+
+#: class-widget.php:1444
+msgid "Add Placeholder"
+msgstr "Adicionar variável"
+
+#: class-widget.php:1682
+msgid "Support"
+msgstr "Suporte"
+
+#: class-widget.php:1652
+msgid "Disable only font styles"
+msgstr "Desativar apenas estilos de fontes"
+
+#: class-widget.php:1651
+msgid "Disable the built-in CSS"
+msgstr "Desativar CSS embutido"
+
+#: class-widget.php:1616
+msgid "HTML without styling"
+msgstr "HTML sem estilos"
+
+#: class-widget.php:1615
+msgid "Bottom right"
+msgstr "Inferior direito"
+
+#: class-widget.php:1614
+msgid "Top right"
+msgstr "Superior direito"
+
+#: class-widget.php:1613
+msgid "Center"
+msgstr "Centro"
+
+#: class-widget.php:1612
+msgid "Bottom left"
+msgstr "Inferior esquerdo"
+
+#: class-widget.php:1611
+msgid "Top left"
+msgstr "Superior esquerda"
+
+#: class-widget.php:1609
+msgid "Indicate post format and position"
+msgstr "Indicar formato do post e posição"
+
+#: class-widget.php:1607
+msgid "Icon"
+msgstr "Ícone"
+
+#: class-widget.php:1599
+msgid "Do not wrap thumbnail with overflowing text"
+msgstr "Não envolver a miniatura com texto excedente"
+
+#: class-widget.php:1555
+msgid "Thumbnail settings"
+msgstr "Configurações da miniatura"
+
+#: class-widget.php:1549
+msgid "PHP Style Date format"
+msgstr "Formato de data estilo PHP"
+
+#: class-widget.php:1547
+msgid "PHP style format"
+msgstr "Formato estilo PHP"
+
+#: class-widget.php:1544
+msgid "Time since published"
+msgstr "Tempo desde a publicação"
+
+#: class-widget.php:1543
+msgid "Site date"
+msgstr "Data do site"
+
+#: class-widget.php:1542
+msgid "Site date and time"
+msgstr "Data e hora do site"
+
+#: cat-posts.php:568 class-widget.php:1532
+msgid "..."
+msgstr "..."
+
+#: class-widget.php:1527
+msgid "Excerpt settings"
+msgstr "Configurações do resumo"
+
+#: class-widget.php:1538
+msgid "Date format settings"
+msgstr "Configurações do formato de data"
+
+#: class-widget.php:1522
+msgid "Select this template"
+msgstr "Selecionar este modelo"
+
+#: class-widget.php:1520
+msgid "All with icons"
+msgstr "Tudo, com ícones"
+
+#: class-widget.php:1519
+msgid "Title, Thumbnail and Excerpt"
+msgstr "Título, miniatura e resumo"
+
+#: class-widget.php:1518
+msgid "Title and Thumbnail"
+msgstr "Título e miniatura"
+
+#: class-widget.php:1517
+msgid "Title and Excerpt"
+msgstr "Título e resumo"
+
+#: class-widget.php:1516
+msgid "Only the title"
+msgstr "Apenas o título"
+
+#: class-widget.php:1514
+msgid "Select premade Template"
+msgstr "Selecionar modelo pronto"
+
+#: class-widget.php:1509
+msgid "Post categories"
+msgstr "Categorias de post"
+
+#: class-widget.php:1505
+msgid "Post tags"
+msgstr "Tags"
+
+#: class-widget.php:1501
+msgid "The number of comments to the post"
+msgstr "Número de comentários do post"
+
+#: class-widget.php:1497
+msgid "Post author"
+msgstr "Autor do post"
+
+#: class-widget.php:1493
+msgid "Post excerpt"
+msgstr "Resumo do post"
+
+#: class-widget.php:1489
+msgid "Post publish date"
+msgstr "Data de publicação do post"
+
+#: class-widget.php:1485
+msgid "Post thumbnail possibly wrapped by text"
+msgstr "Miniatura, possivelmente envolta pelo texto"
+
+#: class-widget.php:1481
+msgid "Post title"
+msgstr "Título do post"
+
+#: class-widget.php:1477
+msgid "Next line is a paragraph"
+msgstr "Próxima linha é um novo parágrafo"
+
+#: class-widget.php:1447 class-widget.php:1476
+msgid "Empty line"
+msgstr "Linha em branco"
+
+#: class-widget.php:1473
+msgid "Space"
+msgstr "Espaço"
+
+#: class-widget.php:1446 class-widget.php:1472
+msgid "New line"
+msgstr "Nova linha"
+
+#: class-widget.php:1468
+msgid "The following text will be replaced with the relevant information. In addition you can use any text and html (if you have the permisions) anywhere you want"
+msgstr "O texto a seguir será substituído pelas informações correspondentes. Adicionalmente, você pode usar qualquer outro texto e HTML (se tiver permissões)."
+
+#: class-widget.php:1436
+msgid "Show template help"
+msgstr "Exibir ajuda do modelo"
+
+#: class-widget.php:1434
+msgid "Template"
+msgstr "Modelo"
+
+#: class-widget.php:1431
+msgid "Displayed parts"
+msgstr "Partes a serem exibidas"
+
+#: class-widget.php:1077
+msgid "Published, Private or Scheduled"
+msgstr "Publicado, Privado ou Agendado"
+
+#: class-widget.php:1076
+msgid "Private or Scheduled"
+msgstr "Privado ou Agendado"
+
+#: class-widget.php:1075
+msgid "Published or Private"
+msgstr "Publicado ou Privado"
+
+#: class-widget.php:1073
+msgid "Private"
+msgstr "Privado"
+
+#: class-widget.php:1034
+msgid "Title link URL"
+msgstr "URL do link do título"
+
+#: class-widget.php:603
+msgid "(%d) comments to this post"
+msgstr "(%d) comentários para este post"
+
+#: class-widget.php:1070
+msgid "WordPress Default"
+msgstr "Padrão do WordPress"
+
+#: class-widget.php:1074
+msgid "Published or Scheduled"
+msgstr "Publicado ou Agendado"
+
+#: class-widget.php:1072
+msgid "Scheduled"
+msgstr "Agendado"
+
+#: class-widget.php:1071
+msgid "Published"
+msgstr "Publicado"
+
+#: class-widget.php:1069
+msgid "Status"
+msgstr "Status"
+
+#: class-widget.php:1678
+msgid "Footer link URL"
+msgstr "URL do link do rodapé"
+
+#: class-widget.php:1080
+msgid "Start with post"
+msgstr "Iniciar com o post"
+
+#. Author URI of the plugin
+msgid "http://tiptoppress.com"
+msgstr "http://tiptoppress.com"
+
+#. Author of the plugin
+msgid "TipTopPress"
+msgstr "TipTopPress"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/category-posts/"
+msgstr "https://wordpress.org/plugins/category-posts/"
+
+#: tinymce_translations.php:21
+msgid "Hide the button"
+msgstr "Ocultar botão"
+
+#: tinymce_translations.php:20
+msgid "Category Posts Insert Shortcode"
+msgstr "Inserir Shortcode do Category Posts"
+
+#: tinymce_translations.php:19
+msgid "Insert Category Posts shortcode"
+msgstr "Inserir shortcode de Posts por Categoria"
+
+#: tinymce_translations.php:18
+msgid "Name"
+msgstr "Nome"
+
+#: cat-posts.php:959
+msgid "Hide the \"insert shortcode\" button from the editor"
+msgstr "Ocultar o botão \"inserir shortcode\" do editor"
+
+#: cat-posts.php:956
+msgid "Visual editor button"
+msgstr "Botão do editor visual"
+
+#: cat-posts.php:949
+msgid "Open panels behavior"
+msgstr "Comportamento dos painéis abertos"
+
+#: cat-posts.php:945
+msgid "Category Posts Widget behaviour settings"
+msgstr "Configurações de comportamento do Category Posts Widget"
+
+#: cat-posts.php:708
+msgid "[shortcode]"
+msgstr "[shortcode]"
+
+#: class-widget.php:1683
+msgid "We are on <a href=\"%1$s\">Facebook</a> and <a href=\"%2$s\">Twitter</a>."
+msgstr "Estamos no <a href=\"%1$s\">Facebook</a> e no <a href=\"%2$s\">Twitter</a>."
+
+#: class-widget.php:1681
+msgid "Documentation"
+msgstr "Documentação"
+
+#: class-widget.php:1680
+msgid "Widget admin behaviour settings"
+msgstr "Configurações de admin do widget"
+
+#: class-widget.php:1644
+msgid "Everything is a link"
+msgstr "Todo o conteúdo é um link"
+
+#: class-widget.php:1640
+msgid "No default"
+msgstr "Sem padrão"
+
+#: class-widget.php:1637
+msgid "Select image"
+msgstr "Selecionar imagem"
+
+#: class-widget.php:1068
+msgid "Exclude child categories"
+msgstr "Suprimir categorias filhas"
+
+#: class-widget.php:1058
+msgid "All categories"
+msgstr "Todas as categorias"
+
+#: class-widget.php:665
+msgid "Continue reading %s"
+msgstr "Continue lendo %s"
+
+#: cat-posts.php:546 class-widget.php:294 class-widget.php:297
+msgid "Recent Posts"
+msgstr "Posts recentes"
+
+#: cat-posts.php:233
+msgid "Select"
+msgstr "Selecionar"
+
+#: cat-posts.php:232
+msgid "Select a default thumbnail"
+msgstr "Selecionar uma miniatura padrão"
+
+#: class-widget.php:1621
+msgid "Default thumbnail: "
+msgstr "Miniatura padrão:"
+
+#: cat-posts.php:952
+msgid "Close the currently open panel when opening a new one"
+msgstr "Fecha o painel aberto no momento ao abrir um novo"
+
+#: cat-posts.php:72
+msgid "Customize"
+msgstr "Personalizar"
+
+#: class-widget.php:30
+msgid "List single category posts"
+msgstr "Lista posts de uma categoria específica"
+
+#: class-widget.php:32
+msgid "Category Posts"
+msgstr "Posts por Categoria"
+
+#: class-widget.php:1028 class-widget.php:1032 class-widget.php:1097
+msgid "Title"
+msgstr "Título"
+
+#: class-widget.php:1033
+msgid "Make widget title link"
+msgstr "Fazer do título um link para a categoria"
+
+#: class-widget.php:1030
+msgid "Hide title"
+msgstr "Ocultar título"
+
+#: class-widget.php:1051
+msgid "Filter"
+msgstr "Filtro"
+
+#: class-widget.php:1055
+msgid "Category"
+msgstr "Categoria"
+
+#: class-widget.php:1079
+msgid "Number of posts to show"
+msgstr "Número de posts a exibir"
+
+#: class-widget.php:1095
+msgid "Sort by"
+msgstr "Ordenar por"
+
+#: class-widget.php:1096
+msgid "Date"
+msgstr "Data"
+
+#: class-widget.php:1098
+msgid "Number of comments"
+msgstr "Número de comentários"
+
+#: class-widget.php:1099
+msgid "Random"
+msgstr "Aleatório"
+
+#: class-widget.php:1101
+msgid "Reverse sort order (ascending)"
+msgstr "Ordenação inversa (ascendente)"
+
+#: class-widget.php:1102
+msgid "Exclude current post"
+msgstr "Suprimir post atual"
+
+#: class-widget.php:1103
+msgid "Exclude posts which have no thumbnail"
+msgstr "Suprimir posts sem imagem destacada"
+
+#: class-widget.php:1559
+msgid "Width:"
+msgstr "Largura:"
+
+#: class-widget.php:1561
+msgid "Height:"
+msgstr "Altura:"
+
+#: class-widget.php:1601
+msgid "Animation on mouse hover:"
+msgstr "Animação ao passar o mouse:"
+
+#: cat-posts.php:234 class-widget.php:1602 class-widget.php:1610
+#: class-widget.php:1627
+msgid "None"
+msgstr "Nenhuma"
+
+#: class-widget.php:1603
+msgid "Darker"
+msgstr "Escurecer"
+
+#: class-widget.php:1604
+msgid "Brighter"
+msgstr "Clarear"
+
+#: class-widget.php:1605
+msgid "Zoom in"
+msgstr "Ampliar"
+
+#: class-widget.php:1606
+msgid "Blur"
+msgstr "Desfocar"
+
+#: class-widget.php:1421
+msgid "Post details"
+msgstr "Detalhes do post"
+
+#: class-widget.php:1649
+msgid "General"
+msgstr "Geral"
+
+#: class-widget.php:1675
+msgid "Footer"
+msgstr "Rodapé"
+
+#: class-widget.php:1677
+msgid "Footer link text"
+msgstr "Texto do link do rodapé"
+
+#: cat-posts.php:672
+msgid "Category Posts Shortcode"
+msgstr "Shortcode do Posts por Categoria"
+
+#: cat-posts.php:746
+msgid "Layout"
+msgstr "Layout"
+
+#. Description of the plugin
+msgid "Adds a widget that shows the most recent posts from a single category."
+msgstr "Adiciona um widget que exibe os posts mais recentes de uma única categoria."
+
+#: cat-posts.php:411 class-widget.php:1415
+msgid "Get the Pro version"
+msgstr "Obtenha a versão Pro"
+
+#. Plugin Name of the plugin
+msgid "Category Posts Widget"
+msgstr "Category Posts Widget"
+
+#: class-widget.php:1557
+msgid "Thumbnail dimensions (pixel)"
+msgstr "Dimensões da miniatura (pixel)"
+
+#: class-widget.php:1600
+msgid "CSS crop to requested size"
+msgstr "Cortar imagem no tamanho especificado"
+
+#: class-widget.php:1541
+msgid "Date format"
+msgstr "Formato da data"

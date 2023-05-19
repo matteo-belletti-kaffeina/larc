@@ -1,0 +1,357 @@
+# Translation of Plugins - Disable Comments &#8211; Remove Comments &amp; Stop Spam [Multi-Site Support] - Development (trunk) in Danish
+# This file is distributed under the same license as the Plugins - Disable Comments &#8211; Remove Comments &amp; Stop Spam [Multi-Site Support] - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-18 09:31:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: da_DK\n"
+"Project-Id-Version: Plugins - Disable Comments &#8211; Remove Comments &amp; Stop Spam [Multi-Site Support] - Development (trunk)\n"
+
+#: views/settings.php:6
+msgid "Version"
+msgstr "Version"
+
+#: views/partials/_disable.php:109
+msgid "Turning on these settings will disable any comments made on your website via XML-RPC or REST API specifications."
+msgstr "Hvis du deaktiverer disse indstillinger, deaktiveres eventuelle kommentarer på dit websted via XML-RPC- eller REST API-specifikationer."
+
+#: views/partials/_disable.php:105
+msgid "Disable Comments via REST API"
+msgstr "Deaktiver kommentarer via REST API"
+
+#: views/partials/_disable.php:96
+msgid "Disable Comments via XML-RPC"
+msgstr "Deaktiver kommentarer via XML-RPC"
+
+#: views/partials/_disable.php:15 views/partials/_disable.php:75
+#: views/partials/_disable.php:94 views/partials/_disable.php:104
+msgid "Off"
+msgstr "Fra"
+
+#: views/partials/_disable.php:14 views/partials/_disable.php:74
+#: views/partials/_disable.php:93 views/partials/_disable.php:103
+msgid "On"
+msgstr "Til"
+
+#: views/partials/_disable.php:86
+msgid "You can disable comments made on your website using WordPress specifications."
+msgstr "Du kan deaktivere kommentarer på dit websted ved hjælp af WordPress specifikationer."
+
+#: views/partials/_disable.php:85
+msgid "Disable Comments With API"
+msgstr "Deaktiver kommentarer med API"
+
+#: views/partials/_disable.php:64
+msgid "Disabling comments will also disable trackbacks and pingbacks. All comment-related fields will also be hidden from the edit/quick-edit screens of the affected posts. These settings cannot be overridden for individual posts. Comments will be visible on all other post types."
+msgstr "Deaktivering af kommentarer deaktiverer også tilbagelinks og pingbacks. Alle kommentarrelaterede felter skjules også fra redigerings-/quick-edit-skærmbillederne af de berørte indlæg. Disse indstillinger kan ikke tilsidesættes for individuelle indlæg. Kommentarer vil være synlige på alle andre indholdstyper."
+
+#: views/partials/_disable.php:45
+msgid "On Specific Post Types:"
+msgstr "På bestemte indholdstyper:"
+
+#: views/partials/_disable.php:41
+msgid "This will disable comments from every page and post on your website. Use this setting if you do not want to show comments anywhere."
+msgstr "Dette vil deaktivere kommentarer fra alle sider og poster på dit websted. Brug denne indstilling, hvis du ikke vil vise kommentarer nogen steder."
+
+#: views/partials/_disable.php:40
+msgid "Disable comments globally on your entire website"
+msgstr "Deaktiver kommentarer globalt på hele dit websted"
+
+#: views/partials/_disable.php:4
+msgid "Configure the settings below to disable comments globally or on specific types of posts."
+msgstr "Konfigurer indstillingerne nedenfor, for at deaktivere kommentarer globalt eller på bestemte typer indlæg."
+
+#: views/partials/_sidebar.php:128
+msgid "Disable Comments For WordPress Pages"
+msgstr "Deaktiver kommentarer til WordPress-sider"
+
+#: views/partials/_sidebar.php:118
+msgid "Disable Comment For WordPress Media Files"
+msgstr "Deaktiver kommentarer til WordPress-mediefiler"
+
+#: views/partials/_sidebar.php:95
+msgid "Disable Comments For Some Particular Post"
+msgstr "Deaktiver kommentarer til bestemte indlæg"
+
+#: views/partials/_sidebar.php:72
+msgid "How to Disable Comments on Specific Types Of Posts"
+msgstr "Sådan deaktiveres kommentarer til bestemte typer indlæg"
+
+#: views/partials/_sidebar.php:49
+msgid "How To Use Disable Comments Plugin With WP-CLI"
+msgstr "Sådan bruges Disable Comments pluginet med WP-CLI"
+
+#: views/partials/_sidebar.php:26
+msgid "What Does This Disable Comments Plugin Do"
+msgstr "Hvad gør pluginet Disable Comments"
+
+#: views/partials/_sidebar.php:3
+msgid "Read Our Tutorials"
+msgstr "Læs vores guides"
+
+#: views/partials/_delete.php:50
+msgid "Delete Certain Comment Types:"
+msgstr "Slet visse kommentartyper:"
+
+#: views/partials/_delete.php:46
+msgid "This will remove existing comment entries for the selected post type(s) in the database and cannot be reverted without a database backups."
+msgstr "Dette fjerner eksisterende kommentarposter for den eller de valgte indlægstyper i databasen og kan ikke gendannes uden sikkerhedskopiering af databaser."
+
+#: views/partials/_delete.php:23
+msgid "This will permanently delete comments everywhere on your website."
+msgstr "Dette vil permanent slette kommentarer overalt på dit websted."
+
+#: views/partials/_delete.php:23 views/partials/_delete.php:46
+#: views/partials/_delete.php:59 views/partials/_delete.php:64
+#: views/partials/_disable.php:41
+msgid "Warnings:"
+msgstr "Advarsler:"
+
+#: views/partials/_delete.php:22
+msgid "Permanently delete all comments on your WordPress website"
+msgstr "Slet alle kommentarer permanent på dit WordPress websted"
+
+#: views/partials/_delete.php:19
+msgid "These settings will permanently delete comments for your entire website, or for specific posts and comment types."
+msgstr "Disse indstillinger sletter kommentarer permanent for hele dit websted eller for specifikke indlæg og kommentartyper."
+
+#: views/partials/_delete.php:15 views/partials/_delete.php:19
+#: views/partials/_disable.php:19 views/partials/_disable.php:28
+#: views/partials/_disable.php:33 views/partials/_disable.php:64
+#: views/partials/_disable.php:80
+msgid "Note:"
+msgstr "Bemærkning:"
+
+#: views/partials/_menu.php:8
+msgid "Privacy"
+msgstr "Privatliv"
+
+#: views/partials/_menu.php:7
+msgid "Terms Of Service"
+msgstr "Betingelser"
+
+#: views/partials/_menu.php:6
+msgid "Docs"
+msgstr "Dokumentation"
+
+#: views/partials/_menu.php:5
+msgid "Support Forum"
+msgstr "Supportforum"
+
+#: views/partials/_menu.php:4
+msgid "All Plugins"
+msgstr "Alle plugins"
+
+#: views/partials/_menu.php:3
+msgid "About Us"
+msgstr "Om os"
+
+#: includes/class-plugin-usage-tracker.php:860
+msgid "Just Deactivate"
+msgstr "Bare deaktiver"
+
+#: includes/class-plugin-usage-tracker.php:860
+msgid "Submit and Deactivate"
+msgstr "Indsend og deaktiver"
+
+#: includes/class-plugin-usage-tracker.php:802
+msgid "Submitting form"
+msgstr "Indsender formular"
+
+#: includes/class-plugin-usage-tracker.php:760
+msgid "Please share the reason"
+msgstr "Del venligst årsagen"
+
+#: includes/class-plugin-usage-tracker.php:759
+msgid "Other"
+msgstr "Andre"
+
+#: includes/class-plugin-usage-tracker.php:757
+msgid "It's a temporary deactivation"
+msgstr "Det er en midlertidig deaktivering"
+
+#: includes/class-plugin-usage-tracker.php:756
+msgid "I couldn't get the plugin to work"
+msgstr "Jeg kunne ikke få pluginet til at fungere"
+
+#: includes/class-plugin-usage-tracker.php:754
+msgid "Please share which plugin"
+msgstr "Del gerne med hvilket plugin"
+
+#: includes/class-plugin-usage-tracker.php:753
+msgid "I found a better plugin"
+msgstr "Jeg fandt et bedre plugin"
+
+#: includes/class-plugin-usage-tracker.php:751
+msgid "I no longer need the plugin"
+msgstr "Jeg behøver ikke længere dette plugin"
+
+#: includes/class-plugin-usage-tracker.php:748
+msgid "Before you deactivate the plugin, would you quickly give us your reason for doing so?"
+msgstr "Kunne du tænke dig at give os en hurtig begrundelse for at du forlader os, før du deaktiverer dette plugin?"
+
+#: includes/class-plugin-usage-tracker.php:747
+msgid "Sorry to see you go"
+msgstr "Trist at du forlader os"
+
+#: includes/class-plugin-usage-tracker.php:654
+msgid "No Thanks."
+msgstr "Nej tak."
+
+#: includes/class-plugin-usage-tracker.php:653
+msgid "Sure, I'd like to help"
+msgstr "Helt sikkert, jeg vil gerne hjælpe"
+
+#: includes/class-plugin-usage-tracker.php:652
+msgid "What we collect."
+msgstr "Hvad vi indsamler."
+
+#: includes/class-plugin-usage-tracker.php:378
+msgid "We can't detect any plugin information. This is most probably because you have not included the code in the plugin main file."
+msgstr "Vi kan ikke registrere nogen pluginoplysninger. Dette er sandsynligvis fordi du ikke har medtaget koden i hovedfilen i pluginet."
+
+#: includes/cli.php:157
+msgid "Disable Comments via REST API. "
+msgstr "Deaktiver kommentarer via REST API. "
+
+#: includes/cli.php:153
+msgid "Disable Comments via XML-RPC. "
+msgstr "Deaktiver kommentarer via XML-RPC. "
+
+#. translators: %s: post types to be disabled in network
+#: includes/cli.php:148
+msgid "Custom post types: %s. "
+msgstr "Brugerdefinerede indlægstyper: %s. "
+
+#. translators: %s: post types to be enabled
+#: includes/cli.php:137
+msgid "Comments enabled for %s. "
+msgstr "Kommentarer aktiveret for %s. "
+
+#. translators: %s: post types to be disabled
+#. translators: %s: post types to be disabled
+#: includes/cli.php:128 includes/cli.php:132
+msgid "Comments disabled for %s. "
+msgstr "Kommentarer deaktiveret for %s. "
+
+#: includes/cli.php:122
+msgid "Comments is disabled everywhere. "
+msgstr "Kommentarer er deaktiveret overalt. "
+
+#: disable-comments.php:934
+msgid "Saved"
+msgstr "Gemt"
+
+#: disable-comments.php:157
+msgid "We collect non-sensitive diagnostic data and plugin usage information. Your site URL, WordPress & PHP version, plugins & themes and email address to send you the discount coupon. This data lets us make sure this plugin always stays compatible with the most popular plugins and themes. No spam, I promise."
+msgstr "Vi indsamler ikke-følsomme diagnosticeringsdata og plugin brugsoplysninger. Din hjemmeside URL, WordPress- & PHP-version, plugins & temaer og e-mail-adresse til at sende dig en rabatkupon. Disse data lader os sørge for at dette plugin altid forbliver kompatibel med de mest populære plugins og temaer. Ingen spam, det lover jeg."
+
+#: disable-comments.php:156
+msgid "Want to help make Disable Comments even better?"
+msgstr "Vil du hjælpe med at gøre Disable Comments endnu bedre?"
+
+#: views/partials/_delete.php:59
+msgid "Deleting comments by comment type will remove existing comment entries of the selected comment type(s) in the database and cannot be reverted without a database backup."
+msgstr "Hvis du sletter kommentarer efter kommentartype, fjernes eksisterende kommentarposter af den eller de valgte kommentartyper i databasen og kan ikke gendannes uden en sikkerhedskopi af databasen."
+
+#: disable-comments.php:791
+msgid "Default (no type)"
+msgstr "Standard (ingen type)"
+
+#. Description of the plugin
+msgid "Allows administrators to globally disable comments on their site. Comments can be disabled according to post type. You could bulk delete comments using Tools."
+msgstr "Giver administratorer mulighed for globalt at deaktivere kommentarer på deres websted. Kommentarer kan deaktiveres i henhold til indholdstype. Du kan masseslette kommentarer ved hjælp af værktøjer."
+
+#. Author URI of the plugin
+msgid "https://wpdeveloper.net"
+msgstr "https://wpdeveloper.net"
+
+#. Author of the plugin
+msgid "WPDeveloper"
+msgstr "WPDeveloper"
+
+#: disable-comments.php:716
+msgctxt "settings menu title"
+msgid "Disable Comments"
+msgstr "Disable Comments"
+
+#: disable-comments.php:707
+msgid "Tools"
+msgstr "Værktøjer"
+
+#: views/partials/_delete.php:66
+msgid "Total Comments:"
+msgstr "Kommentarer i alt:"
+
+#: views/partials/_delete.php:43 views/partials/_disable.php:61
+msgid "Custom post types:"
+msgstr "Brugerdefinerede indholdstyper:"
+
+#: disable-comments.php:1007 disable-comments.php:1011
+msgid "Internal error occured. Please try again later."
+msgstr "Der opstod en intern fejl. Prøv igen senere."
+
+#: views/partials/_delete.php:210
+msgid "No comments are available for deletion."
+msgstr "Der er ingen kommentarer til sletning."
+
+#: disable-comments.php:726 views/partials/_delete.php:72
+msgid "Delete Comments"
+msgstr "Slet kommentarer"
+
+#: disable-comments.php:706 views/partials/_disable.php:3
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: views/partials/_disable.php:114
+msgid "Save Changes"
+msgstr "Gem ændringer"
+
+#. translators: %s: URL to Disabled Comment settings page.
+#: disable-comments.php:617
+msgid "The <strong>Disable Comments</strong> plugin is active, but isn't configured to do anything yet. Visit the <a href=\"%s\">configuration page</a> to choose which post types to disable comments on."
+msgstr "Pluginet <strong>Disable Comments</strong> er aktivt, men er ikke konfigureret til at gøre noget endnu. Besøg <a href=\"%s\">konfigurationssiden</a> for at vælge, hvilke indlægstyper der skal deaktiveres kommentarer til."
+
+#. translators: %s: disabled post types.
+#: disable-comments.php:582
+msgid ", "
+msgstr ", "
+
+#. translators: %s: disabled post types.
+#: disable-comments.php:582
+msgid "Note: The <em>Disable Comments</em> plugin is currently active, and comments are completely disabled on: %s. Many of the settings below will not be applicable for those post types."
+msgstr "Bemærk: Pluginet <em>Disable Comments</em> er i øjeblikket aktiv, og kommentarer er helt deaktiveret på: %s . Mange af indstillingerne nedenfor vil ikke være gældende for disse indholdstyper."
+
+#: disable-comments.php:478 disable-comments.php:626 disable-comments.php:633
+msgid "Comments are closed."
+msgstr "Der er lukket for kommentarer."
+
+#. translators: %s: WordPress version no.
+#: disable-comments.php:169
+msgid "Disable Comments requires WordPress version %s or greater."
+msgstr "Disable Comments kræver WordPress-version %s eller nyere."
+
+#: views/partials/_delete.php:27
+msgid "On Certain Post Types:"
+msgstr "På bestemte indholdstyper:"
+
+#: views/partials/_delete.php:42 views/partials/_disable.php:60
+msgid "Only the built-in post types appear above. If you want to disable comments on other custom post types on the entire network, you can supply a comma-separated list of post types below (use the slug that identifies the post type)."
+msgstr "Kun de indbyggede indlægstyper vises ovenfor. Hvis du vil deaktiverer kommentarer til andre brugerdefinerede indholdstyper på hele netværket, kan du angive en kommasepareret liste over indholdstyper nedenfor (brug den korttitel, der identificerer indlægstypen)."
+
+#: views/partials/_delete.php:22 views/partials/_disable.php:40
+msgid "Everywhere:"
+msgstr "Overalt:"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/disable-comments/"
+msgstr "https://wordpress.org/plugins/disable-comments/"
+
+#. Plugin Name of the plugin
+#: disable-comments.php:329
+msgid "Disable Comments"
+msgstr "Disable Comments"

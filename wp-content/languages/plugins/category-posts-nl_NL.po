@@ -1,0 +1,783 @@
+# Translation of Plugins - Category Posts Widget - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Category Posts Widget - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-10 11:33:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Category Posts Widget - Stable (latest release)\n"
+
+#: class-widget.php:2004
+msgid "Scrollbar"
+msgstr "Scroll balk"
+
+#: class-widget.php:1869
+msgid "Set both dimensions to 0 the original image ratio will be used."
+msgstr "Stel beide afmetingen in op 0,de originele afbeeldingsverhouding wordt gebruikt."
+
+#: class-widget.php:1868
+msgid "Set one dimensions to 0 the set dimension will be used with the original image ratio."
+msgstr "Stel één afmeting in op 0, de ingestelde afmeting wordt gebruikt met de originele afbeeldingsverhouding."
+
+#: class-widget.php:1790
+msgid "Heading Level:"
+msgstr "Heading niveau:"
+
+#: class-widget.php:1314
+msgid "Start with sticky posts"
+msgstr "Begin met sticky berichten"
+
+#: class-widget.php:1220
+msgid "Also, try 'Disable Theme's styles' on General tab to avoid rendering commonly used CSS classes such here widget-title, which often used in Themes to write their CSS selectors and may affect the design."
+msgstr "Probeer ook 'Stijlen van thema's uitschakelen' op het tab Algemeen om te voorkomen dat veelgebruikte CSS klassen zoals hier widget-titel worden weergegeven, die vaak in Thema's worden gebruikt om hun CSS selectoren te schrijven en die het ontwerp kunnen beïnvloeden."
+
+#: class-widget.php:1218
+msgid "Show title level help"
+msgstr "Help op titelniveau weergeven"
+
+#: class-widget.php:2021
+msgid "All possible items for the set filter query"
+msgstr "Alle mogelijke items voor de ingestelde filter query"
+
+#: class-widget.php:2020
+msgid "%all%"
+msgstr "%alle%"
+
+#: class-widget.php:2017
+msgid "Loaded items"
+msgstr "Geladen items"
+
+#: class-widget.php:2016
+msgid "%step%"
+msgstr "%step%"
+
+#: class-widget.php:2012
+msgid "The following placeholders will be replaced with the relevant information."
+msgstr "Volgende plaatshouders worden vervangen door de relevante informatie."
+
+#: class-widget.php:2008
+msgid "Show button text help"
+msgstr "Toon knoptekst help"
+
+#: cat-posts.php:728 class-widget.php:454 class-widget.php:2009
+msgid "Load More (%s/%s)"
+msgstr "Meer laden (%s/%s)"
+
+#: class-widget.php:1849
+msgid "Show past time up to x-days:"
+msgstr "Toon tijd in het verleden tot op x-dagen:"
+
+#: class-widget.php:1999
+msgid "Ajax API"
+msgstr "Ajax API"
+
+#: class-widget.php:1979
+msgid "Interim text"
+msgstr "Interim tekst"
+
+#: class-widget.php:1977
+msgid "Disable Theme's styles"
+msgstr "Schakel stijl van het thema uit"
+
+#: class-widget.php:1973
+msgid "Inherited CSS"
+msgstr "Overerf CSS"
+
+#: class-widget.php:1902
+msgid "Both"
+msgstr "Beide"
+
+#: class-widget.php:1901
+msgid "Height"
+msgstr "Hoogte"
+
+#: class-widget.php:1900
+msgid "Width"
+msgstr "Breedte"
+
+#: class-widget.php:1897
+msgid "Image ratio"
+msgstr "Afbeelding ratio"
+
+#: class-widget.php:1870
+msgid "Max-width limits in relation of the total Post width."
+msgstr "Max-breedte beperkt in relatie tot de totale bericht breedte."
+
+#: class-widget.php:1859
+msgid "Show image dimension help"
+msgstr "Toon afbeeldingdimensie help"
+
+#: class-widget.php:1857
+msgid "Dimensions (pixel)"
+msgstr "Dimensies (pixel)"
+
+#: class-widget.php:1823
+msgid "Text in the 'more' link. Can be text, HTML and <a target=\"_blank\" href=\"%s\">Dashicons</a>."
+msgstr "Tekst in de 'meer' link. Kan tekst zijn, HTML en <a target=\"_blank\" href=\"%s\">Dashpictogramnen</a>."
+
+#: class-widget.php:1818
+msgid "[&hellip;]"
+msgstr "[&hellip;]"
+
+#: class-widget.php:1817
+msgid "Show More Link help"
+msgstr "Toon meer link help"
+
+#: class-widget.php:1815
+msgid "'Read more' text"
+msgstr "'Lees meer' tekst"
+
+#: class-widget.php:1809
+msgid "More Link settings"
+msgstr "Meer link instellingen"
+
+#: class-widget.php:1786
+msgid "Title settings"
+msgstr "Titel instellingen"
+
+#: class-widget.php:1775
+msgid "Title, Thumbnail, Excerpt, More Link"
+msgstr "Titel, thumbnail, samenvatting, meer link"
+
+#: class-widget.php:1774
+msgid "Title, Thumbnail"
+msgstr "Titel, thumbnail"
+
+#: class-widget.php:1773
+msgid "Title, Excerpt, More Link"
+msgstr "Titel, samenvatting, meer link"
+
+#: class-widget.php:1749
+msgid "Read more text"
+msgstr "Lees meer tekst"
+
+#: class-widget.php:1719
+msgid "The following placeholders will be replaced with the relevant information. In addition you can use text, HTML and <a target=\"_blank\" href=\"%s\">Dashicons</a>."
+msgstr "De volgende plaatshouders zullen worden vervangen door de relevante informatie. Daarnaast kun je tekst, HTML en <a target=\"_blank\" href=\"%s\">Dashpictogrammen</a> gebruiken."
+
+#: class-widget.php:1702
+msgid "%more-link%"
+msgstr "%meer-link%"
+
+#: class-widget.php:1216
+msgid "Heading Level"
+msgstr "Heading niveau"
+
+#: cat-posts.php:729 class-widget.php:463 class-widget.php:2025
+msgid "Loading..."
+msgstr "Laden..."
+
+#: class-widget.php:2025
+msgid "Loading text"
+msgstr "Tekst laden"
+
+#: class-widget.php:2006
+msgid "Button text"
+msgstr "Knoptekst"
+
+#: class-widget.php:2001
+msgid "Enable Load More"
+msgstr "Laad meer inschakelen"
+
+#: class-widget.php:1996
+msgid "Text"
+msgstr "Tekst"
+
+#: class-widget.php:1989
+msgid "Show text"
+msgstr "Toon tekst"
+
+#: class-widget.php:1988
+msgid "Hide Widget"
+msgstr "Verberg widget"
+
+#: class-widget.php:1987
+msgid "Display empty widget"
+msgstr "Toon leeg widget"
+
+#: class-widget.php:1985
+msgid "When there are no matches"
+msgstr "Wanneer er geen overeenkomsten zijn"
+
+#: class-widget.php:1912
+msgid "Large"
+msgstr "Groot"
+
+#: class-widget.php:1911
+msgid "Medium"
+msgstr "Gemiddeld"
+
+#: class-widget.php:1910
+msgid "Thumb"
+msgstr "Thumbnail"
+
+#: class-widget.php:1907
+msgid "Available"
+msgstr "Beschikbaar"
+
+#: class-widget.php:1892
+msgid "switch"
+msgstr "schakel"
+
+#: class-widget.php:1891
+msgid "16:9"
+msgstr "16:9"
+
+#: class-widget.php:1890
+msgid "4:3"
+msgstr "4:3"
+
+#: class-widget.php:1889
+msgid "1:1"
+msgstr "1:1"
+
+#: class-widget.php:1886
+msgid "Ratio"
+msgstr "Ratio"
+
+#: class-widget.php:1881
+msgid "+"
+msgstr "+"
+
+#: class-widget.php:1880
+msgid "2x"
+msgstr "2x"
+
+#: class-widget.php:1879
+msgid "1/2"
+msgstr "1/2"
+
+#: class-widget.php:1878
+msgid "1/4"
+msgstr "1/4"
+
+#: class-widget.php:1877
+msgid "-"
+msgstr "-"
+
+#: class-widget.php:1874
+msgid "Change size"
+msgstr "Wijzig afmeting"
+
+#: class-widget.php:1864
+msgid "Max-width:"
+msgstr "Maximale breedte:"
+
+#: class-widget.php:1842
+msgid "Reader's local date"
+msgstr "Lokale datum van lezer"
+
+#: class-widget.php:1841
+msgid "Reader's local date and time"
+msgstr "Lokale datum en tijd van lezer"
+
+#: class-widget.php:1789 class-widget.php:1799
+msgid "Lines (responsive):"
+msgstr "Regels (responsive):"
+
+#: class-widget.php:1706
+msgid "%category%"
+msgstr "%category%"
+
+#: class-widget.php:1705
+msgid "%post_tag%"
+msgstr "%post_tag%"
+
+#: class-widget.php:1704
+msgid "%commentnum%"
+msgstr "%commentnum%"
+
+#: class-widget.php:1703
+msgid "%author%"
+msgstr "%author%"
+
+#: class-widget.php:1701
+msgid "%excerpt%"
+msgstr "%excerpt%"
+
+#: class-widget.php:1700
+msgid "%date%"
+msgstr "%date%"
+
+#: class-widget.php:1699
+msgid "%thumb%"
+msgstr "%thumb%"
+
+#: class-widget.php:1698
+msgid "%title%"
+msgstr "%title%"
+
+#: class-widget.php:1693
+msgid "Add Placeholder"
+msgstr "Plaatshouder toevoegen"
+
+#: class-widget.php:1294
+msgid "Before"
+msgstr "Voor"
+
+#: class-widget.php:1293
+msgid "After"
+msgstr "Na"
+
+#: class-widget.php:1292
+msgid "Up to"
+msgstr "Tot aan"
+
+#: class-widget.php:1284
+msgid "Between dates"
+msgstr "Tussen de data"
+
+#: class-widget.php:1283
+msgid "Days ago"
+msgstr "Dagen geleden"
+
+#: class-widget.php:1282
+msgid "Off"
+msgstr "Uit"
+
+#: class-widget.php:1280
+msgid "Date Range"
+msgstr "Datumbereik"
+
+#: class-widget.php:2036
+msgid "Support"
+msgstr "Support"
+
+#: class-widget.php:1976
+msgid "Disable only font styles"
+msgstr "Alleen de stijl van lettertypen uitschakelen"
+
+#: class-widget.php:1975
+msgid "Disable the built-in CSS"
+msgstr "Ingebouwde CSS uitschakelen"
+
+#: class-widget.php:1938
+msgid "HTML without styling"
+msgstr "HTML zonder opmaak"
+
+#: class-widget.php:1937
+msgid "Bottom right"
+msgstr "Rechtsonder"
+
+#: class-widget.php:1936
+msgid "Top right"
+msgstr "Rechtsboven"
+
+#: class-widget.php:1935
+msgid "Center"
+msgstr "Midden"
+
+#: class-widget.php:1934
+msgid "Bottom left"
+msgstr "Linksonder"
+
+#: class-widget.php:1933
+msgid "Top left"
+msgstr "Linksboven"
+
+#: class-widget.php:1930
+msgid "Indicate post format and position"
+msgstr "Geef berichtformat en positie aan"
+
+#: class-widget.php:1925
+msgid "Icon"
+msgstr "Pictogram"
+
+#: class-widget.php:1918
+msgid "Do not wrap thumbnail with overflowing text"
+msgstr "Laat tekst niet om de thumbnail vloeien"
+
+#: class-widget.php:1855
+msgid "Thumbnail settings"
+msgstr "Thumbnail instellingen"
+
+#: class-widget.php:1848
+msgid "PHP Style Date format"
+msgstr "PHP datumnotatie"
+
+#: class-widget.php:1843
+msgid "PHP style format"
+msgstr "PHP stijl format"
+
+#: class-widget.php:1840
+msgid "Site date"
+msgstr "Site datum"
+
+#: class-widget.php:1839
+msgid "Site date and time"
+msgstr "Site datum en tijd"
+
+#: class-widget.php:1831
+msgid "Date format settings"
+msgstr "Datumnotatie instellingen"
+
+#: class-widget.php:1796
+msgid "Excerpt settings"
+msgstr "Samenvatting instellingen"
+
+#: class-widget.php:1778
+msgid "Select this template"
+msgstr "Selecteer dit template"
+
+#: class-widget.php:1776
+msgid "All with icons"
+msgstr "Alle met iconen"
+
+#: class-widget.php:1770
+msgid "Select premade Template"
+msgstr "Selecteer meegeleverd template"
+
+#: class-widget.php:1765
+msgid "Post categories"
+msgstr "Bericht categorieën"
+
+#: class-widget.php:1761
+msgid "Post tags"
+msgstr "Bericht tags"
+
+#: class-widget.php:1757
+msgid "The number of comments to the post"
+msgstr "Het aantal reacties op het bericht"
+
+#: class-widget.php:1753
+msgid "Post author"
+msgstr "Bericht auteur"
+
+#: class-widget.php:1745
+msgid "Post excerpt"
+msgstr "Bericht samenvatting"
+
+#: class-widget.php:1741
+msgid "Post publish date"
+msgstr "Publicatiedatum"
+
+#: class-widget.php:1737
+msgid "Post thumbnail possibly wrapped by text"
+msgstr "Tekst vloeit mogelijk rond bericht thumbnail"
+
+#: class-widget.php:1733
+msgid "Post title"
+msgstr "Titel bericht"
+
+#: class-widget.php:1729
+msgid "Next line is a paragraph"
+msgstr "Volgende regel is een paragraaf"
+
+#: class-widget.php:1697 class-widget.php:1728
+msgid "Empty line"
+msgstr "Lege regel"
+
+#: class-widget.php:1725
+msgid "Space"
+msgstr "Spatie"
+
+#: class-widget.php:1696 class-widget.php:1724
+msgid "New line"
+msgstr "Nieuwe regel"
+
+#: class-widget.php:1685
+msgid "Show template help"
+msgstr "Toon template hulp"
+
+#: class-widget.php:1683
+msgid "Template"
+msgstr "Template"
+
+#: class-widget.php:1680
+msgid "Displayed parts"
+msgstr "Getoonde onderdelen"
+
+#: class-widget.php:1270
+msgid "Published, Private or Scheduled"
+msgstr "Gepubliceerd, privé of ingepland"
+
+#: class-widget.php:1269
+msgid "Private or Scheduled"
+msgstr "Privé of ingepland"
+
+#: class-widget.php:1268
+msgid "Published or Private"
+msgstr "Gepubliceerd of privé"
+
+#: class-widget.php:1266
+msgid "Private"
+msgstr "Privé"
+
+#: class-widget.php:1215
+msgid "Title link URL"
+msgstr "URL titellink"
+
+#: class-widget.php:699
+msgid "(%d) comments to this post"
+msgstr "(%d) reacties op dit bericht"
+
+#: class-widget.php:1263
+msgid "WordPress Default"
+msgstr "WordPress standaard"
+
+#: class-widget.php:1267
+msgid "Published or Scheduled"
+msgstr "Gepubliceerd of ingepland"
+
+#: class-widget.php:1265
+msgid "Scheduled"
+msgstr "Ingepland"
+
+#: class-widget.php:1264
+msgid "Published"
+msgstr "Gepubliceerd"
+
+#: class-widget.php:1262
+msgid "Status"
+msgstr "Status"
+
+#: class-widget.php:2032
+msgid "Footer link URL"
+msgstr "URL footerlink"
+
+#: class-widget.php:1276
+msgid "Start with post"
+msgstr "Start met bericht"
+
+#. Author URI of the plugin
+msgid "https://tiptoppress.com"
+msgstr "https://tiptoppress.com"
+
+#. Author of the plugin
+msgid "TipTopPress"
+msgstr "TipTopPress"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/category-posts/"
+msgstr "https://nl.wordpress.org/plugins/category-posts/"
+
+#: tinymce-translations.php:30
+msgid "Hide the button"
+msgstr "Verberg de knop"
+
+#: tinymce-translations.php:29
+msgid "Category Posts Insert Shortcode"
+msgstr "Voeg Category Posts shortcode in"
+
+#: tinymce-translations.php:28
+msgid "Insert Category Posts shortcode"
+msgstr "Voeg Category Posts shortcode in"
+
+#: tinymce-translations.php:27
+msgid "Name"
+msgstr "Naam"
+
+#: cat-posts.php:1117
+msgid "Hide the \"insert shortcode\" button from the editor"
+msgstr "Verberg de “shortcode invoegen” knop in de editor"
+
+#: cat-posts.php:1114
+msgid "Visual editor button"
+msgstr "Knop visuele editor"
+
+#: cat-posts.php:1110
+msgid "Close the currently open panel when opening a new one"
+msgstr "Sluit het paneel dat nu open is wanneer een nieuwe geopend wordt"
+
+#: cat-posts.php:1107
+msgid "Open panels behavior"
+msgstr "Gedrag van open panelen"
+
+#: cat-posts.php:1103
+msgid "Category Posts Widget behaviour settings"
+msgstr "Category Posts widget instellingen"
+
+#: cat-posts.php:857
+msgid "[shortcode]"
+msgstr "[shortcode]"
+
+#: class-widget.php:2037
+msgid "We are on <a href=\"%1$s\">Facebook</a> and <a href=\"%2$s\">Twitter</a>."
+msgstr "Wij zijn op <a href=\"%1$s\">Facebook</a> en <a href=\"%2$s\">Twitter</a>."
+
+#: class-widget.php:2035
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: class-widget.php:2034
+msgid "Widget admin behaviour settings"
+msgstr "Widget admin instellingen"
+
+#: class-widget.php:1780
+msgid "Everything is a link"
+msgstr "Alles is een link"
+
+#: class-widget.php:1965
+msgid "No default"
+msgstr "Geen standaard"
+
+#: class-widget.php:1962
+msgid "Select image"
+msgstr "Selecteer afbeelding"
+
+#: class-widget.php:1946
+msgid "Default thumbnail: "
+msgstr "Standaard thumbnail: "
+
+#: class-widget.php:1258
+msgid "Exclude child categories"
+msgstr "Subcategorieën uitsluiten"
+
+#: class-widget.php:1247
+msgid "All categories"
+msgstr "Alle categorieën"
+
+#: class-widget.php:763
+msgid "Continue reading %s"
+msgstr "Lees verder %s"
+
+#: cat-posts.php:238
+msgid "Select"
+msgstr "Selecteer"
+
+#: cat-posts.php:237
+msgid "Select a default thumbnail"
+msgstr "Selecteer een standaard thumbnail"
+
+#. Description of the plugin
+msgid "Adds a widget that shows the most recent posts from a single category."
+msgstr "Voegt een widget toe dat de meest recente berichten toont uit een enkele categorie."
+
+#. Plugin Name of the plugin
+msgid "Category Posts Widget"
+msgstr "Category Posts widget"
+
+#: cat-posts.php:902
+msgid "Layout"
+msgstr "Lay-out"
+
+#: cat-posts.php:820
+msgid "Category Posts Shortcode"
+msgstr "Category Posts shortcode"
+
+#: cat-posts.php:424 class-widget.php:1664
+msgid "Get the Pro version"
+msgstr "Koop de Pro versie"
+
+#: class-widget.php:2031
+msgid "Footer link text"
+msgstr "Tekst footerlink"
+
+#: class-widget.php:2029
+msgid "Footer"
+msgstr "Footer"
+
+#: class-widget.php:1971
+msgid "General"
+msgstr "Algemeen"
+
+#: class-widget.php:1837
+msgid "Date format"
+msgstr "Datumnotatie"
+
+#: class-widget.php:1670
+msgid "Post details"
+msgstr "Berichtdetails"
+
+#: class-widget.php:1924
+msgid "Blur"
+msgstr "Vervagen"
+
+#: class-widget.php:1923
+msgid "Zoom in"
+msgstr "Zoom in"
+
+#: class-widget.php:1922
+msgid "Brighter"
+msgstr "Lichter"
+
+#: class-widget.php:1921
+msgid "Darker"
+msgstr "Donkerder"
+
+#: cat-posts.php:239 class-widget.php:1920 class-widget.php:1932
+#: class-widget.php:1952
+msgid "None"
+msgstr "Geen"
+
+#: class-widget.php:1919
+msgid "Animation on mouse hover"
+msgstr "Animatie op muis hover"
+
+#: class-widget.php:1865
+msgid "Height:"
+msgstr "Hoogte:"
+
+#: class-widget.php:1863
+msgid "Width:"
+msgstr "Breedte:"
+
+#: class-widget.php:1313
+msgid "Exclude posts which have no thumbnail"
+msgstr "Berichten zonder thumbnail uitsluiten"
+
+#: class-widget.php:1312
+msgid "Exclude current post"
+msgstr "Huidig bericht uitsluiten"
+
+#: class-widget.php:1311
+msgid "Reverse sort order (ascending)"
+msgstr "Keer volgorde om (oplopend)"
+
+#: class-widget.php:1306
+msgid "Random"
+msgstr "Willekeurig"
+
+#: class-widget.php:1305
+msgid "Number of comments"
+msgstr "Aantal reacties"
+
+#: class-widget.php:1303
+msgid "Date"
+msgstr "Datum"
+
+#: class-widget.php:1301
+msgid "Sort by"
+msgstr "Sorteer op"
+
+#: class-widget.php:1275
+msgid "Number of posts to show"
+msgstr "Aantal te tonen berichten"
+
+#: class-widget.php:1243
+msgid "Category"
+msgstr "Categorie"
+
+#: class-widget.php:1239
+msgid "Filter"
+msgstr "Filter"
+
+#: class-widget.php:1211
+msgid "Hide title"
+msgstr "Verberg titel"
+
+#: class-widget.php:1214
+msgid "Make widget title link"
+msgstr "Maak een link van de widgettitel"
+
+#: class-widget.php:1209 class-widget.php:1213 class-widget.php:1304
+#: class-widget.php:1772
+msgid "Title"
+msgstr "Titel"
+
+#: cat-posts.php:687 class-widget.php:32 class-widget.php:330
+#: class-widget.php:333
+msgid "Category Posts"
+msgstr "Category Posts"
+
+#: class-widget.php:30
+msgid "List single category posts"
+msgstr "Toon berichten uit een enkele categorie"
+
+#: cat-posts.php:73
+msgid "Customize"
+msgstr "Aanpassen"

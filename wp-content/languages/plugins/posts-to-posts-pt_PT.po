@@ -1,0 +1,169 @@
+# Translation of Stable (latest release) in Portuguese (Portugal)
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-01-28 12:45:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: admin/tools-page.php:64
+msgid "Name"
+msgstr "Nome"
+
+#: admin/tools-page.php:129
+msgid "Go"
+msgstr "Ir"
+
+#: vendor/scribu/scb-framework/AdminPage.php:467
+msgid "Settings"
+msgstr "Definições"
+
+#: admin/box.php:140
+msgid "Search"
+msgstr "Pesquisar"
+
+#: admin/box.php:230
+msgid "previous"
+msgstr "anterior"
+
+#: admin/box.php:231
+msgid "next"
+msgstr "seguinte"
+
+#: admin/box.php:232
+msgid "of"
+msgstr "de"
+
+#: admin/dropdown-user.php:32
+msgid "Filter"
+msgstr "Filtrar"
+
+#: admin/factory.php:88
+msgid " (from)"
+msgstr " (de)"
+
+#: admin/factory.php:89
+msgid " (to)"
+msgstr " (para)"
+
+#: admin/tools-page.php:7
+msgid "Connection Types"
+msgstr "Tipos de conexões"
+
+#: admin/tools-page.php:41
+msgid "<em>%s</em> is not a registered connection type."
+msgstr "<em>%s</em> não é um tipo de conexão registado."
+
+#: admin/tools-page.php:50
+msgid "Converted %1$s connections from <em>%2$s</em> to <em>%3$s</em>."
+msgstr "Convertidas %1$s conexões de <em>%2$s</em> para <em>%3$s</em>."
+
+#: admin/tools-page.php:66
+msgid "Connections"
+msgstr "Conexões"
+
+#: admin/tools-page.php:74
+msgid "No connection types registered."
+msgstr "Nenhum tipo de conexão registado."
+
+#: admin/tools-page.php:76
+msgid "To register a connection type, see <a href=\"%s\">the wiki</a>."
+msgstr "Para registar um tipo de conexão, ver <a href=\"%s\">a wiki</a>."
+
+#: admin/tools-page.php:93
+msgid "Convert to registered connection type:"
+msgstr "Converter para tipo de conexão registado."
+
+#: vendor/scribu/lib-posts-to-posts/connection-type.php:91
+msgid "Create connections"
+msgstr "Criar conexões"
+
+#: vendor/scribu/lib-posts-to-posts/connection-type.php:109
+msgid "Connected %s"
+msgstr "%s conectado(a)"
+
+#: vendor/scribu/lib-posts-to-posts/side-user.php:16
+msgid "Users"
+msgstr "Utilizadores"
+
+#: vendor/scribu/lib-posts-to-posts/side-user.php:25
+msgid "User"
+msgstr "Utilizador"
+
+#: vendor/scribu/lib-posts-to-posts/side-user.php:26
+msgid "Search Users"
+msgstr "Pesquisar utilizadores"
+
+#: vendor/scribu/lib-posts-to-posts/side-user.php:27
+msgid "No users found."
+msgstr "Nenhum utilizador encontrado."
+
+#. #-#-#-#-#  tmp-posts-to-posts.pot (Posts 2 Posts 1.6.4)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: vendor/scribu/lib-posts-to-posts/widget.php:19
+msgid "Posts 2 Posts"
+msgstr "Posts 2 Posts"
+
+#: vendor/scribu/lib-posts-to-posts/widget.php:20
+msgid "A list of posts connected to the current post"
+msgstr "Uma lista dos artigos conectados ao artigo actual"
+
+#: vendor/scribu/lib-posts-to-posts/widget.php:37
+msgid "Title:"
+msgstr "Título:"
+
+#: vendor/scribu/lib-posts-to-posts/widget.php:44
+msgid "Connection type:"
+msgstr "Tipo de conexão:"
+
+#: vendor/scribu/lib-posts-to-posts/widget.php:49
+msgid "Connection listing:"
+msgstr "Lista de conexões:"
+
+#: vendor/scribu/lib-posts-to-posts/widget.php:55
+msgid "connected"
+msgstr "conectado"
+
+#: vendor/scribu/lib-posts-to-posts/widget.php:56
+msgid "related"
+msgstr "relacionado"
+
+#: vendor/scribu/scb-framework/AdminPage.php:228
+msgid "Settings <strong>saved</strong>."
+msgstr "Definições <strong>guardadas</strong>."
+
+#. Plugin URI of the plugin/theme
+msgid "http://scribu.net/wordpress/posts-to-posts"
+msgstr "http://scribu.net/wordpress/posts-to-posts"
+
+#. Description of the plugin/theme
+msgid "Create many-to-many relationships between all types of posts."
+msgstr "Crie relações muitos-para-muitos entre todos os tipos de artigos."
+
+#. Author of the plugin/theme
+msgid "scribu"
+msgstr "scribu"
+
+#. Author URI of the plugin/theme
+msgid "http://scribu.net/"
+msgstr "http://scribu.net/"
+
+#: admin/tools-page.php:65
+msgid "Information"
+msgstr "Informações"
+
+#: admin/box.php:48
+msgid "Are you sure you want to delete all connections?"
+msgstr "Tem a certeza que quer eliminar todas as conexões?"
+
+#: admin/field-delete.php:7
+msgid "Delete all connections"
+msgstr "Eliminar todas as conexões"
+
+#: admin/field-delete.php:16
+msgid "Delete connection"
+msgstr "Eliminar conexão"

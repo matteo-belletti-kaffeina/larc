@@ -1,0 +1,503 @@
+# Translation of Plugins - Disable Comments &#8211; Remove Comments &amp; Stop Spam [Multi-Site Support] - Stable (latest release) in Norwegian (Bokmål)
+# This file is distributed under the same license as the Plugins - Disable Comments &#8211; Remove Comments &amp; Stop Spam [Multi-Site Support] - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-03-11 11:37:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Plugins - Disable Comments &#8211; Remove Comments &amp; Stop Spam [Multi-Site Support] - Stable (latest release)\n"
+
+#: views/partials/_sites.php:39
+msgid "200"
+msgstr "200"
+
+#: views/partials/_sites.php:38
+msgid "100"
+msgstr "100"
+
+#: views/partials/_sites.php:37
+msgid "50"
+msgstr "50"
+
+#: views/partials/_sites.php:36
+msgid "20"
+msgstr "20"
+
+#: views/partials/_sites.php:30
+msgid "Show Items:"
+msgstr "Vis elementer:"
+
+#: views/partials/_sites.php:26
+msgid "No subsite found"
+msgstr "Intet undernettsted funnet"
+
+#: views/partials/_sites.php:21
+msgid "Search by domain name..."
+msgstr "Søk med domenenavn..."
+
+#: views/partials/_sites.php:13
+msgid "0 selected"
+msgstr "0 valgt"
+
+#: views/partials/_disable.php:76
+msgid "Exclude Disable Comments Settings Based On User Roles"
+msgstr "Utelukk innstillinger for å slå av kommentarer basert på brukerroller"
+
+#: views/partials/_disable.php:23
+msgid "Disable comments in the following sites:"
+msgstr "Slå av kommentarer på følgende nettsteder:"
+
+#: views/partials/_disable.php:17
+msgid "Enable Site Wise settings."
+msgstr "Slå på nettverksinnstillinger"
+
+#: views/partials/_delete.php:10
+msgid "Delete comments in the following sites:"
+msgstr "Slett kommentarer på følgende nettsteder:"
+
+#: views/partials/_disable.php:91
+msgid "This will exclude all the above settings for the selected user roles."
+msgstr "Dette vil utelukke alle innstillingene ovenfor for de valkgte brukerrollene."
+
+#: disable-comments.php:860
+msgid "Logged out users"
+msgstr "Utloggede brukere"
+
+#: includes/cli.php:188
+msgid "Enabled Avatar on your entire site. "
+msgstr "Slo på avatarer på hele nettstedet."
+
+#: includes/cli.php:185
+msgid "Disabled Avatar on your entire site. "
+msgstr "Slo av avatarer på hele nettstedet."
+
+#: includes/cli.php:179
+msgid "Enabled Comments via REST API. "
+msgstr "Slo på kommentarer via REST API."
+
+#: includes/cli.php:170
+msgid "Enabled Comments via XML-RPC. "
+msgstr "Slo på kommentarer via XML-RPC."
+
+#: views/partials/_disable.php:122
+msgid "Enable Avatar"
+msgstr "Slå på avatarer"
+
+#: views/partials/_disable.php:116
+msgid "Don't Change"
+msgstr "Ikke endre"
+
+#: views/partials/_disable.php:111
+msgid "Avatar settings:"
+msgstr "Avatar-innstillinger:"
+
+#: views/partials/_disable.php:107
+msgid "This will change Avatar state from your entire site."
+msgstr "Dette vil endre avtar-statusen for helle nettstedet ditt."
+
+#: views/partials/_disable.php:103 views/partials/_disable.php:128
+msgid "Disable Avatar"
+msgstr "Slå av avatarer"
+
+#: views/partials/_disable.php:28
+msgid "All the underneath settings (except Avatar settings) will be applied for these selected sub sites."
+msgstr "Alle innstillingene nedenfor (unntatt Avatar-innstillinger) vil bli brukt for disse undernettstedene."
+
+#: views/partials/_delete.php:64
+msgid "This will permanently delete spam comments everywhere on your website."
+msgstr "Dette vil slette spam-kommentarer permanent overalt på nettstedet ditt."
+
+#: views/partials/_delete.php:63
+msgid "Permanently delete all spam comments on your WordPress website"
+msgstr "Slett alle spam-kommentarer permanent på ditt WordPress-nettsted"
+
+#: views/partials/_delete.php:63
+msgid "Spam:"
+msgstr "Spam:"
+
+#: disable-comments.php:1183
+msgid "All spam comments have been deleted."
+msgstr "Alle spam.kommentarer er slettet."
+
+#: views/partials/_sites.php:12
+msgid "Select All"
+msgstr "Velg alle"
+
+#: views/partials/_delete.php:15
+msgid "Select your sub-sites where you want to delete comments."
+msgstr "Velg dine undernettsteder der du ønsker å slette kommentarer."
+
+#: views/settings.php:12
+msgctxt "Tab Name"
+msgid "Delete Comments"
+msgstr "Slett kommentarer"
+
+#: views/settings.php:9
+msgctxt "Tab Name"
+msgid "Disable Comments"
+msgstr "Slå av kommentarer"
+
+#: views/partials/_disable.php:33
+msgid "This site will be controlled by the network admin until you click the \"Save Changes\" button."
+msgstr "Dette nettstedet vil bli kontrollert av nettverksadministratoren inntil du klikker knappen \"Lagre endringer\"."
+
+#: views/partials/_disable.php:19
+msgid "If you enable Site Wise settings, you need to configure your “Disable Comments” settings individually on every website in the network."
+msgstr "Om du slår på innstillinger pr. nettsted må du konfigurere innstillingene for \"Slå av kommentarer\" på alle nettstedene i nettverket."
+
+#: views/settings.php:6
+msgid "Version"
+msgstr "Versjon"
+
+#: views/partials/_disable.php:162
+msgid "Turning on these settings will disable any comments made on your website via XML-RPC or REST API specifications."
+msgstr "Å skru på disse innstillingene vil slå av enhver kommentar gjort på dit nettsted via XML-RPC- eller REST API-spesifikasjonene."
+
+#: views/partials/_disable.php:158
+msgid "Disable Comments via REST API"
+msgstr "Slå av kommentarer via REST API"
+
+#: views/partials/_disable.php:149
+msgid "Disable Comments via XML-RPC"
+msgstr "Slå av kommentarer via XML-RPC"
+
+#: views/partials/_disable.php:15 views/partials/_disable.php:74
+#: views/partials/_disable.php:102 views/partials/_disable.php:147
+#: views/partials/_disable.php:157
+msgid "Off"
+msgstr "Av"
+
+#: views/partials/_disable.php:14 views/partials/_disable.php:73
+#: views/partials/_disable.php:101 views/partials/_disable.php:146
+#: views/partials/_disable.php:156
+msgid "On"
+msgstr "På"
+
+#: views/partials/_disable.php:139
+msgid "You can disable comments made on your website using WordPress specifications."
+msgstr "Du kan slå av kommentarer gjort på nettstedet ved hjelp av WordPress-spesifikasjoner."
+
+#: views/partials/_disable.php:138
+msgid "Disable Comments With API"
+msgstr "Slå av kommentarer med API"
+
+#: views/partials/_disable.php:64
+msgid "Disabling comments will also disable trackbacks and pingbacks. All comment-related fields will also be hidden from the edit/quick-edit screens of the affected posts. These settings cannot be overridden for individual posts. Comments will be visible on all other post types."
+msgstr "Å slå av kommentarer vil også slå av tilbakesporinger og tilbakeping. Alle kommentar-relaterte felter vil også bli skjult fra redigerings- og hurtigredigeringsskjermene. Disse innstillingene kan overstyrers for individuelle innlegg. Kommentarer vil være synlige for alle andre innholdstyper."
+
+#: views/partials/_disable.php:45
+msgid "On Specific Post Types:"
+msgstr "På bestemte typer:"
+
+#: views/partials/_disable.php:41
+msgid "This will disable comments from every page and post on your website. Use this setting if you do not want to show comments anywhere."
+msgstr "Dette vil slå av kommentarer fra enhver side og innlegg på dit nettsted. Bruk denne innstillingen om du ikke vil vise kommentarer noe sted."
+
+#: views/partials/_disable.php:40
+msgid "Disable comments globally on your entire website"
+msgstr "Slå av kommentarer globalt for hele ditt nettsted"
+
+#: views/partials/_disable.php:4
+msgid "Configure the settings below to disable comments globally or on specific types of posts."
+msgstr "Konfigurer innsilingene nedenfor for å slå av kommentarer globalt eller for bestemte innholdstyper."
+
+#: views/partials/_sidebar.php:128
+msgid "Disable Comments For WordPress Pages"
+msgstr "Slå av kommentarer for WordPress-sider"
+
+#: views/partials/_sidebar.php:118
+msgid "Disable Comment For WordPress Media Files"
+msgstr "Slå av kommentarer for WordPress mediefiler"
+
+#: views/partials/_sidebar.php:95
+msgid "Disable Comments For Some Particular Post"
+msgstr "Slå av kommentarer for et bestemt innhold"
+
+#: views/partials/_sidebar.php:72
+msgid "How to Disable Comments on Specific Types Of Posts"
+msgstr "Hvordan slå av kommentarer for bestemte innholdstyper"
+
+#: views/partials/_sidebar.php:49
+msgid "How To Use Disable Comments Plugin With WP-CLI"
+msgstr "Hvordan bruke utvidelsen Slå av kommentarer med WP-CLI"
+
+#: views/partials/_sidebar.php:26
+msgid "What Does This Disable Comments Plugin Do"
+msgstr "Hva gjør denne utvidelsen Slå av kommentarer"
+
+#: views/partials/_sidebar.php:3
+msgid "Read Our Tutorials"
+msgstr "Les våre veiledninger"
+
+#: views/partials/_delete.php:50
+msgid "Delete Certain Comment Types:"
+msgstr "Slett bestemte kommentartyper:"
+
+#: views/partials/_delete.php:46
+msgid "This will remove existing comment entries for the selected post type(s) in the database and cannot be reverted without a database backups."
+msgstr "Dette vil fjerne eksisterende kommentaroppføringer for valgte innholdstupe(r) i databasen og kan ikke omgjøres uten sikkerhetskopi av databasen."
+
+#: views/partials/_delete.php:23
+msgid "This will permanently delete comments everywhere on your website."
+msgstr "Dette vil slette kommentarer permanent overalt på nettstedet ditt."
+
+#: views/partials/_delete.php:23 views/partials/_delete.php:46
+#: views/partials/_delete.php:59 views/partials/_delete.php:64
+#: views/partials/_disable.php:41
+msgid "Warnings:"
+msgstr "Advarsler:"
+
+#: views/partials/_delete.php:22
+msgid "Permanently delete all comments on your WordPress website"
+msgstr "Slett alle kommentarer permanent på ditt WordPress-nettsted"
+
+#: views/partials/_delete.php:19
+msgid "These settings will permanently delete comments for your entire website, or for specific posts and comment types."
+msgstr "Disse innstillingene vil permanent slette kommentarer for hele nettstedet eller for bestemte innholds- eller kommentartyper."
+
+#: views/partials/_delete.php:15 views/partials/_delete.php:19
+#: views/partials/_disable.php:19 views/partials/_disable.php:28
+#: views/partials/_disable.php:33 views/partials/_disable.php:64
+#: views/partials/_disable.php:91 views/partials/_disable.php:107
+#: views/partials/_disable.php:132
+msgid "Note:"
+msgstr "Merk:"
+
+#: views/partials/_menu.php:8
+msgid "Privacy"
+msgstr "Personvern"
+
+#: views/partials/_menu.php:7
+msgid "Terms Of Service"
+msgstr "Vilkår for bruk"
+
+#: views/partials/_menu.php:6
+msgid "Docs"
+msgstr "Dokumenter"
+
+#: views/partials/_menu.php:5
+msgid "Support Forum"
+msgstr "Brukerstøtteforum"
+
+#: views/partials/_menu.php:4
+msgid "All Plugins"
+msgstr "Alle utvidelser"
+
+#: views/partials/_menu.php:3
+msgid "About Us"
+msgstr "Om oss"
+
+#: includes/class-plugin-usage-tracker.php:868
+msgid "Just Deactivate"
+msgstr "Bare deaktiver"
+
+#: includes/class-plugin-usage-tracker.php:868
+msgid "Submit and Deactivate"
+msgstr "Send inn og deaktiver"
+
+#: includes/class-plugin-usage-tracker.php:810
+msgid "Submitting form"
+msgstr "Sender inn skjema"
+
+#: includes/class-plugin-usage-tracker.php:768
+msgid "Please share the reason"
+msgstr "Vennligst del begrunnelsen"
+
+#: includes/class-plugin-usage-tracker.php:767
+msgid "Other"
+msgstr "Andre"
+
+#: includes/class-plugin-usage-tracker.php:765
+msgid "It's a temporary deactivation"
+msgstr "Det er en midlertidig dekativering"
+
+#: includes/class-plugin-usage-tracker.php:764
+msgid "I couldn't get the plugin to work"
+msgstr "Jeg kunne ikke få utvidelsen til å virke"
+
+#: includes/class-plugin-usage-tracker.php:762
+msgid "Please share which plugin"
+msgstr "Vennligst oppgi hvilken utvidelse"
+
+#: includes/class-plugin-usage-tracker.php:761
+msgid "I found a better plugin"
+msgstr "Jeg fant en bedre utvidelse"
+
+#: includes/class-plugin-usage-tracker.php:759
+msgid "I no longer need the plugin"
+msgstr "Jeg trenger ikke lenger utvidelsen"
+
+#: includes/class-plugin-usage-tracker.php:756
+msgid "Before you deactivate the plugin, would you quickly give us your reason for doing so?"
+msgstr "Før du deaktiverer utvidelsen, kunne du gi oss årsaken til at du gjør det?"
+
+#: includes/class-plugin-usage-tracker.php:755
+msgid "Sorry to see you go"
+msgstr "Beklager å se deg dra"
+
+#: includes/class-plugin-usage-tracker.php:662
+msgid "No Thanks."
+msgstr "Nei, takk"
+
+#: includes/class-plugin-usage-tracker.php:661
+msgid "Sure, I'd like to help"
+msgstr "Klart, vil gjerne hjelpe"
+
+#: includes/class-plugin-usage-tracker.php:660
+msgid "What we collect."
+msgstr "Hva vi samler inn."
+
+#: includes/class-plugin-usage-tracker.php:386
+msgid "We can't detect any plugin information. This is most probably because you have not included the code in the plugin main file."
+msgstr "Vi kan ikke oppdage noen utvidelsesinformasjon. Dette kommer mest sannsynlig av at du ikke har inkludert koden i hovedfilen for utvidelsen."
+
+#: includes/cli.php:176
+msgid "Disable Comments via REST API. "
+msgstr "Slå av kommentarer via REST API."
+
+#: includes/cli.php:167
+msgid "Disable Comments via XML-RPC. "
+msgstr "Slå av kommentarer via XML-RPC."
+
+#. translators: %s: post types to be disabled in network
+#: includes/cli.php:161
+msgid "Custom post types: %s. "
+msgstr "Tilpassede innholdstyper: %s"
+
+#. translators: %s: post types to be enabled
+#: includes/cli.php:150
+msgid "Comments enabled for %s. "
+msgstr "Kommentarer slått på for %s."
+
+#. translators: %s: post types to be disabled
+#: includes/cli.php:141 includes/cli.php:145
+msgid "Comments disabled for %s. "
+msgstr "Kommentarer slått av for %s."
+
+#: includes/cli.php:135
+msgid "Comments is disabled everywhere. "
+msgstr "Kommentarer slått av overalt."
+
+#: disable-comments.php:1040
+msgid "Saved"
+msgstr "Lagret"
+
+#: disable-comments.php:160
+msgid "We collect non-sensitive diagnostic data and plugin usage information. Your site URL, WordPress & PHP version, plugins & themes and email address to send you the discount coupon. This data lets us make sure this plugin always stays compatible with the most popular plugins and themes. No spam, I promise."
+msgstr "Vi samler ikke-sensitive diagnostiske data og bruk av utvidelsen. Din nettsteds-URL, WordPress- og PHP-versjon, utvidelser, temaer og e-postadresse for å sende deg rabattkupongen. Disse data lar oss forsikre oss om at denne utvidelsen alltid er kompatibel med de mest populære utvidelsene og temaene. Ingen spam, jeg lover."
+
+#: disable-comments.php:159
+msgid "Want to help make Disable Comments even better?"
+msgstr "Vil du hjelpe til med å gjøre utvidelsen enda bedre?"
+
+#: views/partials/_delete.php:59
+msgid "Deleting comments by comment type will remove existing comment entries of the selected comment type(s) in the database and cannot be reverted without a database backup."
+msgstr "Å slette kommentarer etter kommentartype vil fjerne eksisterende kommentaroppføringer av den/de valgte kommentartypen(e) i databasen og kan ikke omgjøres uten en sikkerhetskopi av databasen."
+
+#: disable-comments.php:831
+msgid "Default (no type)"
+msgstr "Standard (ingen type)"
+
+#. Description of the plugin
+msgid "Allows administrators to globally disable comments on their site. Comments can be disabled according to post type. You could bulk delete comments using Tools."
+msgstr "Tillater administratorer å slå av kommentarer globalt på sitt nettsted. Kommentarer kan slås av pr. innholdstype. Du kan masseslette kommentarer ved hjelp av Vertøy."
+
+#: disable-comments.php:756
+msgctxt "settings menu title"
+msgid "Disable Comments"
+msgstr "Slå av kommentarer"
+
+#: disable-comments.php:747
+msgid "Tools"
+msgstr "Verktøy"
+
+#: disable-comments.php:746 views/partials/_disable.php:3
+msgid "Settings"
+msgstr "Innstillinger"
+
+#. translators: %s: URL to Disabled Comment settings page.
+#: disable-comments.php:657
+msgid "The <strong>Disable Comments</strong> plugin is active, but isn't configured to do anything yet. Visit the <a href=\"%s\">configuration page</a> to choose which post types to disable comments on."
+msgstr "Utvidelsen <strong>Slå av kommentarer</strong> er akitvert, men er ikke konfigurert til å gjøre noe enda. Gå til <a href=\"%s\">innstillingene</a> for å velge hvilke innholdstyper å slå av kommentarer for."
+
+#. translators: %s: disabled post types.
+#: disable-comments.php:622
+msgid ", "
+msgstr ", "
+
+#. translators: %s: disabled post types.
+#: disable-comments.php:622
+msgid "Note: The <em>Disable Comments</em> plugin is currently active, and comments are completely disabled on: %s. Many of the settings below will not be applicable for those post types."
+msgstr "Merk: Utvidelsen <em>Slå ab kommentarer</em> er aktiv, og kommentarer er fullstending slått av på: %s. Mange av innstillingene nedenfor vil ikke fungere for disse innholdstypene."
+
+#: disable-comments.php:515 disable-comments.php:666 disable-comments.php:673
+msgid "Comments are closed."
+msgstr "Kommentarer er stengt."
+
+#. translators: %s: WordPress version no.
+#: disable-comments.php:172
+msgid "Disable Comments requires WordPress version %s or greater."
+msgstr "Slå av kommentarer krever WordPress-versjon %s eller høyere."
+
+#: views/partials/_disable.php:167
+msgid "Save Changes"
+msgstr "Lagre endringer"
+
+#: views/partials/_delete.php:27
+msgid "On Certain Post Types:"
+msgstr "På bestemte innholdstyper:"
+
+#: views/partials/_delete.php:66
+msgid "Total Comments:"
+msgstr "Antall kommentarer:"
+
+#: views/partials/_delete.php:43 views/partials/_disable.php:61
+msgid "Custom post types:"
+msgstr "Tilpassede innholdstyper:"
+
+#: views/partials/_delete.php:42 views/partials/_disable.php:60
+msgid "Only the built-in post types appear above. If you want to disable comments on other custom post types on the entire network, you can supply a comma-separated list of post types below (use the slug that identifies the post type)."
+msgstr "Bare de innebygde innholdstypene vises ovenfor. Hvis du ønsker å slå av kommentarer for andre innholdstyper på hele nettverket kan du oppgi en kommaseparert liste av innholdstyper (bruk identifikatoren for innholdstypen)."
+
+#: views/partials/_delete.php:22 views/partials/_disable.php:40
+msgid "Everywhere:"
+msgstr "Overalt:"
+
+#: disable-comments.php:1117 disable-comments.php:1121
+msgid "Internal error occured. Please try again later."
+msgstr "Intern feil oppsto. Vennligst prøv igjen senere."
+
+#: disable-comments.php:1115 disable-comments.php:1149
+#: disable-comments.php:1172
+msgid "All comments have been deleted"
+msgstr "Alle kommentarer er slettet"
+
+#: views/partials/_delete.php:210
+msgid "No comments are available for deletion."
+msgstr "Ingen kommentarer tilgjengelig for sletting."
+
+#: disable-comments.php:766 views/partials/_delete.php:72
+#: assets/js/disable-comments-settings-scripts.js:336
+msgid "Delete Comments"
+msgstr "Slett kommentarer"
+
+#. Author URI of the plugin
+msgid "https://wpdeveloper.com"
+msgstr "https://wpdeveloper.com"
+
+#. Author of the plugin
+msgid "WPDeveloper"
+msgstr "WPDeveloper"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/disable-comments/"
+msgstr "https://nb.wordpress.org/plugins/disable-comments/"
+
+#. Plugin Name of the plugin
+#: disable-comments.php:367
+msgid "Disable Comments"
+msgstr "Slå av kommentarer"

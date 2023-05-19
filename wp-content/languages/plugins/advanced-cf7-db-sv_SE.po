@@ -1,0 +1,207 @@
+# Translation of Plugins - Advanced Contact form 7 DB - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - Advanced Contact form 7 DB - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-04-16 11:09:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - Advanced Contact form 7 DB - Stable (latest release)\n"
+
+#: admin/partials/import_cf7_csv.php:156
+msgid "Note:"
+msgstr "Observera:"
+
+#: admin/partials/import_cf7_csv.php:177
+msgid "Import Data"
+msgstr "Importera data"
+
+#: admin/partials/import_cf7_csv.php:169
+msgid "Upload CSV "
+msgstr "Ladda upp CSV "
+
+#: admin/partials/import_cf7_csv.php:143 admin/partials/import_cf7_csv.php:148
+msgid "text"
+msgstr "text"
+
+#: admin/partials/import_cf7_csv.php:142
+msgid "submit_ip"
+msgstr "submit_ip"
+
+#: admin/partials/import_cf7_csv.php:111
+msgid "Type"
+msgstr "Typ"
+
+#: admin/partials/import_cf7_csv.php:110
+msgid "Field name"
+msgstr "Fältnamn"
+
+#: admin/partials/import_cf7_csv.php:106
+msgid "Field Setting"
+msgstr "Fältinställning"
+
+#: admin/partials/contact_form_listing.php:331
+msgid "Reset All"
+msgstr "Återställ allt"
+
+#: admin/partials/contact_form_listing.php:325
+msgid "Search By Date"
+msgstr "Sök efter datum"
+
+#: admin/class-advanced-cf7-db-admin.php:530
+#: admin/class-advanced-cf7-db-admin.php:706
+msgid "Save Changes"
+msgstr "Spara ändringarna"
+
+#: admin/class-advanced-cf7-db-admin.php:381
+msgid "Edit"
+msgstr "Redigera"
+
+#: admin/class-advanced-cf7-db-admin.php:380
+msgid "Edit Information"
+msgstr "Redigera information"
+
+#: admin/partials/contact_form_listing.php:85
+#: admin/partials/contact_form_listing.php:89
+#: admin/partials/import_cf7_csv.php:74 admin/partials/import_cf7_csv.php:77
+msgid "Select Form name"
+msgstr "Välj formulärnamn"
+
+#: admin/partials/contact_form_listing.php:79
+msgid "View Form Information"
+msgstr "Visa formulärinformation"
+
+#: admin/class-advanced-cf7-db-admin.php:590
+msgid "*(Field Type)"
+msgstr "*(Fälttyp)"
+
+#: admin/class-advanced-cf7-db-admin.php:892
+#: admin/class-advanced-cf7-db-admin.php:1336
+msgid "You do not have permission to delete files."
+msgstr "Du har inte behörighet att ta bort filer."
+
+#: admin/class-advanced-cf7-db-admin.php:1241
+#: admin/class-advanced-cf7-db-admin.php:1271
+msgid "Kindly upload valid file type."
+msgstr "Ladda upp giltig filtyp."
+
+#: admin/class-advanced-cf7-db-admin.php:1191
+#: admin/class-advanced-cf7-db-admin.php:1197
+#: admin/class-advanced-cf7-db-admin.php:1207
+#: admin/class-advanced-cf7-db-admin.php:1224
+#: admin/class-advanced-cf7-db-admin.php:1230
+#: admin/class-advanced-cf7-db-admin.php:1235
+#: admin/class-advanced-cf7-db-admin.php:1308
+#: admin/class-advanced-cf7-db-admin.php:1314
+#: admin/class-advanced-cf7-db-admin.php:1326
+#: admin/class-advanced-cf7-db-admin.php:1342
+#: admin/class-advanced-cf7-db-admin.php:1347
+#: admin/class-advanced-cf7-db-admin.php:1352
+msgid "Something may be wrong, please try again later."
+msgstr "Något gick fel, försök igen senare."
+
+#: admin/class-advanced-cf7-db-admin.php:160
+msgid "Developer Support"
+msgstr "Support för utvecklare"
+
+#: admin/class-advanced-cf7-db-admin.php:161
+msgid "Add-ons"
+msgstr "Utökningar"
+
+#: admin/class-advanced-cf7-db-admin.php:1218
+msgid "You do not have permission to upload files."
+msgstr "Du har inte behörighet att ladda upp filer."
+
+#: admin/class-advanced-cf7-db-admin.php:326
+msgid "Excel"
+msgstr "Excel"
+
+#: admin/partials/contact_form_listing.php:340
+msgid "Bulk Actions"
+msgstr "Massåtgärder"
+
+#: admin/class-advanced-cf7-db-admin.php:346
+msgid "Search"
+msgstr "Sök"
+
+#: admin/class-advanced-cf7-db-admin.php:328
+msgid "Export"
+msgstr "Exportera"
+
+#: admin/class-advanced-cf7-db-admin.php:325
+msgid "CSV"
+msgstr "CSV"
+
+#: admin/class-advanced-cf7-db-admin.php:159
+msgid "Import CSV"
+msgstr "Importera CSV"
+
+#: admin/class-advanced-cf7-db-admin.php:367
+msgid "Display Settings"
+msgstr "Visningsinställningar"
+
+#. Author URI of the plugin
+msgid "https://www.vsourz.com"
+msgstr "https://www.vsourz.com"
+
+#. Author of the plugin
+msgid "Vsourz Digital"
+msgstr "Vsourz Digital"
+
+#. Plugin Name of the plugin
+msgid "Advanced CF7 DB"
+msgstr "Advanced CF7 DB"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/advanced-cf7-db/"
+msgstr "https://wordpress.org/plugins/advanced-cf7-db/"
+
+#: admin/partials/contact_form_listing.php:357
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: admin/partials/contact_form_listing.php:356
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: admin/partials/contact_form_listing.php:350
+msgid "items"
+msgstr "poster"
+
+#: admin/partials/contact_form_listing.php:349
+msgid "item"
+msgstr "post"
+
+#: admin/partials/contact_form_listing.php:344
+msgid "Apply"
+msgstr "Tillämpa"
+
+#: admin/partials/contact_form_listing.php:338
+msgid "Select bulk action"
+msgstr "Välj massåtgärd"
+
+#: admin/class-advanced-cf7-db-admin.php:619
+#: admin/class-advanced-cf7-db-admin.php:656
+#: admin/class-advanced-cf7-db-admin.php:690
+#: includes/vsz-cf7-db-function.php:325 includes/vsz-cf7-db-function.php:346
+#: includes/vsz-cf7-db-function.php:365 includes/vsz-cf7-db-function.php:383
+#: includes/vsz-cf7-db-function.php:402 includes/vsz-cf7-db-function.php:422
+#: includes/vsz-cf7-db-function.php:441 includes/vsz-cf7-db-function.php:460
+msgid "Loading..."
+msgstr "Laddar in …"
+
+#: admin/class-advanced-cf7-db-admin.php:345
+msgid "Type something..."
+msgstr "Skriv något …"
+
+#: admin/partials/contact_form_listing.php:47
+#: admin/partials/import_cf7_csv.php:41
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Du har inte tillräckliga behörigheter för att komma åt denna sida."
+
+#: admin/class-advanced-cf7-db-admin.php:324
+msgid "Export to..."
+msgstr "Exportera till …"

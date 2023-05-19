@@ -1,0 +1,2959 @@
+# Translation of Plugins - Duplicator &#8211; WordPress Migration &amp; Backup Plugin - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Duplicator &#8211; WordPress Migration &amp; Backup Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-04-05 06:00:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Duplicator &#8211; WordPress Migration &amp; Backup Plugin - Stable (latest release)\n"
+
+#: src/Utils/DuplicatorPhpVersionCheck.php:62
+msgid "Please ask your host or server administrator to update to PHP %1s or greater."
+msgstr "ホストまたはサーバー管理者に、PHP %1s 以上にアップデートするよう依頼してください。"
+
+#: src/Utils/DuplicatorPhpVersionCheck.php:65
+msgid "\"What version of PHP Does Duplicator Support?\""
+msgstr "\"What version of PHP Does Duplicator Support? \""
+
+#: src/Utils/DuplicatorPhpVersionCheck.php:63
+msgid "If this is not possible, please visit the FAQ link titled "
+msgstr "それができない場合は、「 FAQ 」をご覧ください。"
+
+#: src/Utils/DuplicatorPhpVersionCheck.php:67
+msgid " for instructions on how to download a previous version of Duplicator compatible with PHP %2s."
+msgstr ") をご覧いただくことで、現在のPHPバージョンと互換性のある旧Duplicatorをダウンロードする方法を確認いただけます。"
+
+#: src/Lite/Requirements.php:51 src/Lite/Requirements.php:138
+msgid "plugins page"
+msgstr "プラグインページ"
+
+#: template/admin_pages/about_us/getting_started/first_package.php:41
+msgid "Quick Start Guide"
+msgstr "クイックスタートガイド"
+
+#: src/Lite/Requirements.php:132
+msgid "Duplicator Notice:"
+msgstr "Duplicator のお知らせ: "
+
+#: src/Lite/Requirements.php:133
+msgid "The \"Duplicator Lite\" and \"Duplicator Pro\" plugins cannot both be active at the same time.  "
+msgstr "「Duplicator Lite」と「Duplicator Pro」のプラグイン両方を同時に有効化することはできません。"
+
+#: src/Lite/Requirements.php:136
+msgid "To use \"Duplicator LITE\" please deactivate \"Duplicator PRO\" from the "
+msgstr "「Duplicator LITE」を使用するには、「Duplicator PRO」を無効化してください"
+
+#: src/Libs/Upsell.php:124
+msgid "Managed Hosting Support"
+msgstr "マネージドホスティングサポート"
+
+#: src/Controllers/AboutUsController.php:134 src/Libs/Upsell.php:71
+#: src/Libs/Upsell.php:115 template/admin_pages/welcome/features.php:45
+msgid "Recovery Points"
+msgstr "復元ポイント"
+
+#: src/Libs/Upsell.php:122
+msgid "Streamlined Installer"
+msgstr "合理化されたインストーラー"
+
+#: ctrls/class.web.services.php:189
+msgid "Invalid Request"
+msgstr "無効なリクエスト"
+
+#: classes/ui/class.ui.notice.php:89 ctrls/class.web.services.php:182
+#: deactivation.php:435
+msgid "Security issue"
+msgstr "セキュリティの問題"
+
+#: ctrls/ctrl.tools.php:114 ctrls/ctrl.ui.php:111 deactivation.php:440
+msgid "Invalid Request."
+msgstr "無効なリクエスト。"
+
+#: src/Core/Bootstrap.php:253 src/Core/Bootstrap.php:254
+#: views/packages/main/packages.php:126
+msgid "Import"
+msgstr "インポート"
+
+#: views/settings/general.php:232
+msgid "AJAX Call Error!"
+msgstr "AJAX 呼び出しエラー !"
+
+#: views/packages/main/s1.setup2.php:636
+msgid "Collation"
+msgstr "照合"
+
+#: ctrls/class.web.services.php:198
+msgid "Notice with that ID doesn't exist."
+msgstr "その ID が存在しないことに注意してください。"
+
+#: views/packages/main/s1.setup2.php:644
+msgid "example: utf8_general_ci (value is optional)"
+msgstr "例: utf8_general_ci (値は任意)"
+
+#: src/Controllers/AboutUsController.php:117 src/Libs/Upsell.php:80
+#: src/Libs/Upsell.php:121
+msgid "Drag & Drop Installs"
+msgstr "ドラッグ & ドロップでインストール"
+
+#: views/packages/main/s1.setup2.php:631
+msgid "example: utf8 (value is optional)"
+msgstr "例: utf8 (値は任意)"
+
+#: views/packages/main/packages.php:130 views/tools/controller.php:27
+msgid "Recovery"
+msgstr "復帰"
+
+#: views/settings/general.php:233
+msgid "AJAX error encountered when resetting packages. Please see <a href=\"https://snapcreek.com/duplicator/docs/faqs-tech/#faq-trouble-053-q\" target=\"_blank\">this FAQ entry</a> for possible resolutions."
+msgstr "パッケージのリセット時に AJAX エラーが発生しました。解決方法については、<a href=\"https://snapcreek.com/duplicator/docs/faqs-tech/#faq-trouble-053-q\" target=\"_blank\">この FAQ エントリー</a>をご覧ください。"
+
+#: classes/package/class.pack.database.php:591
+msgid "Shell mysql dump error. Change SQL Mode to the \"PHP Code\" in the Duplicator > Settings > Packages."
+msgstr "シェルの mysql ダンプエラー。Duplicator > 設定 > パッケージで SQL Scriptを「PHP Code」に変更します。"
+
+#: template/mocks/import/import.php:202
+msgid "Drag and Drop Import is not available in Duplicator Lite!"
+msgstr "Duplicator Liteでは、Drag and Drop Importは利用できません !"
+
+#: views/packages/main/packages.php:200 views/packages/main/s3.build.php:225
+msgid "Installer Name:"
+msgstr "インストーラー名:"
+
+#: views/packages/main/packages.php:198
+msgid "Installer Name"
+msgstr "インストーラー名"
+
+#: views/packages/main/packages.php:27
+msgid "When clicking the Installer download button, the 'Save as' dialog is defaulting the name to '[name]_[hash]_[time]_installer.php'. This is the secure and recommended option.  For more information, go to: Settings > Packages Tab > Installer > Name or click on the gear icon at the top of this page.<br/><br/>To quickly copy the hashed installer name, to your clipboard use the copy icon link or click the installer name and manually copy the selected text."
+msgstr "インストーラーのダウンロードボタンをクリックすると、「名前を付けて保存」ダイアログで、デフォルトで「[名前]_[ハッシュ]_[時間]_installer.php」という名前が表示されます。これは安全で推奨されるオプションです。 詳細については、[設定] > [パッケージタブ] > [インストーラー] > [名前] に移動するか、このページの上部にある歯車のアイコンをクリックしてください。<br/><br/> ハッシュ化されたインストーラー名をすばやくクリップボードにコピーするには、コピーアイコンのリンクを使用するか、インストーラー名をクリックし、選択したテキストを手動でコピーします。"
+
+#: views/packages/main/packages.php:24
+msgid "When clicking the Installer download button, the 'Save as' dialog is currently defaulting the name to 'installer.php'. To improve the security and get more information, go to: Settings > Packages Tab > Installer > Name option or click on the gear icon at the top of this page."
+msgstr "インストーラーのダウンロードボタンをクリックすると、「名前を付けて保存」ダイアログは現在、名前を「installer.php」にデフォルト設定しています。 セキュリティを向上させ、詳細情報を取得するには、設定 > パッケージタブ > インストーラー > 名前 オプションに移動するか、このページの上部にある歯車のアイコンをクリックします。"
+
+#: views/packages/main/s1.setup2.php:126
+msgid "[Storage Options]"
+msgstr "[ストレージ設定]"
+
+#: views/packages/main/s3.build.php:215
+msgid "[Copy Installer Name to Clipboard]"
+msgstr "[インストーラー名をクリップボードにコピー]"
+
+#: views/packages/details/detail.php:289 views/packages/main/s1.setup2.php:149
+msgid "(Legacy Path)"
+msgstr "(レガシーパス)"
+
+#: views/packages/details/detail.php:291 views/packages/main/s1.setup2.php:151
+msgid "(Contents Path)"
+msgstr "(コンテンツパス)"
+
+#: views/packages/main/s2.scan3.php:529
+msgid "The %s is set to create packages in the 'DupArchive' format.  This custom format is used to overcome budget host constraints. With DupArchive, Duplicator is restricted to processing sites up to %s.  To process larger sites, consider these recommendations. "
+msgstr "%sは、「DupArchive」形式でパッケージを作成するように設定されています。 このカスタム形式は、バジェットホストの制約を克服するために使用されます。 DupArchive を使用すると、Duplicator は最大%sのサイトの処理に制限されます。 大規模なサイトを処理するには、これらの推奨事項を検討してください。"
+
+#: views/packages/main/s2.scan3.php:523
+msgid "Click for recommendations."
+msgstr "推奨事項をクリックしてください。"
+
+#: views/packages/main/s2.scan3.php:485
+msgid "The database user for this WordPress site does NOT sufficient permissions to write stored procedures or functions to the sql file of the archive.  Stored procedures will not be added to the sql file."
+msgstr "この WordPress サイトのデータベースユーザーには、アーカイブの SQL ファイルに stored procedures または関数を書き込むための十分な権限がありません。stored procedures は SQL ファイルに追加されません。"
+
+#: views/packages/main/s2.scan3.php:481
+msgid "The database user for this WordPress site has sufficient permissions to write stored procedures and functions to the sql file of the archive. [The command SHOW CREATE FUNCTION will work.]"
+msgstr "この WordPress サイトのデータベースユーザーには、アーカイブの SQL ファイルに stored procedures と関数を書き込むための十分な権限があります。 [SHOW CREATE FUNCTION コマンドが動作します。] "
+
+#: views/packages/main/s1.setup1.php:224
+msgid "The function mysqli_real_escape_string is not working properly. Please consult host support and ask them to switch to a different PHP version or configuration."
+msgstr "関数mysqli_real_escape_stringが正しく機能していません。 ホストサポートに相談して、別のPHPバージョンまたは構成に切り替えるように依頼してください。"
+
+#: views/settings/storage.php:118
+msgid "Save Storage Settings"
+msgstr "ストレージ設定を保存"
+
+#: views/settings/packages.php:344
+msgid "read this section"
+msgstr "このセクションを読む"
+
+#: views/settings/storage.php:103
+msgid "Apache .htaccess"
+msgstr "Apache .htaccess"
+
+#: src/Controllers/StorageController.php:34
+msgid "Advanced Storage"
+msgstr "上級者向けストレージ"
+
+#: views/settings/storage.php:98
+msgid "More Advanced Storage Options..."
+msgstr "より高度なストレージオプション..."
+
+#: views/settings/storage.php:109
+msgid "When checked this setting will prevent Duplicator from laying down an .htaccess file in the storage location above."
+msgstr "この設定をチェックすると、Duplicator が上記の保存場所に .htaccess ファイルを配置できなくなります。"
+
+#: views/settings/packages.php:343
+msgid "To understand the importance and usage of the installer name, please"
+msgstr "インストーラー名の重要性と使用法を理解するには、"
+
+#: views/settings/storage.php:110
+msgid "Only disable this option if issues occur when downloading either the installer/archive files."
+msgstr "インストーラー / アーカイブファイルのダウンロード時に問題が発生した場合にのみ、このオプションを無効化してください。"
+
+#: views/settings/packages.php:324
+msgid "Default 'Save as' name:"
+msgstr "デフォルトの「名前を付けて保存」の名前:"
+
+#: views/settings/storage.php:93
+msgid "The storage location is where all package files are stored to disk. If your host has troubles writing content to the 'Legacy Path' then use the 'Contents Path'.  Upon clicking the save button all files are moved to the new location and the previous path is removed."
+msgstr "保管場所は、すべてのパッケージファイルがディスクに保管される場所です。 ホストが「レガシーパス」へのコンテンツの書き込みに問題がある場合は、「コンテンツパス」を使用してください。 保存ボタンをクリックすると、すべてのファイルが新しい場所に移動され、以前のパスが削除されます。"
+
+#: ctrls/class.web.services.php:115
+msgid "Invalid request"
+msgstr "無効なリクエスト"
+
+#: ctrls/class.web.services.php:119 ctrls/class.web.services.php:123
+msgid "Invalid request."
+msgstr "無効なリクエスト。"
+
+#: views/settings/storage.php:16
+msgid "Storage Settings Saved"
+msgstr "ストレージ設定を保存しました"
+
+#: views/settings/storage.php:78
+msgid "Legacy Path:"
+msgstr "レガシーパス:"
+
+#: assets/js/javascript.php:270
+msgid "Copied: "
+msgstr "コピー済み: "
+
+#: views/settings/storage.php:87
+msgid "Contents Path:"
+msgstr "コンテンツパス:"
+
+#: assets/js/javascript.php:276 assets/js/javascript.php:280
+msgid "Copy to Clipboard!"
+msgstr "クリップボードへコピー"
+
+#: assets/js/javascript.php:270 assets/js/javascript.php:272
+msgid "unable to copy"
+msgstr "コピーできません"
+
+#: views/settings/storage.php:46
+msgid "Check the parent folder permissions. ( <i>%s</i> )"
+msgstr "親フォルダのパーミッションを確認してください。(%s)"
+
+#: views/settings/storage.php:45
+msgid "Duplicator can't change the storage folder to <i>%s</i>"
+msgstr "Duplicator で保存フォルダを %s に変更できない"
+
+#: views/settings/storage.php:42
+msgid "Storage folder move problem"
+msgstr "ストレージフォルダーの移動の問題 "
+
+#: views/packages/details/detail.php:544
+msgid "ARCHIVE"
+msgstr "アーカイブ"
+
+#: views/packages/details/detail.php:257
+msgid "How to work with DAF files and the DupArchive extraction tool?"
+msgstr "DAFファイルと DupArchive 抽出ツールを操作するにはどうすればよいですか ?"
+
+#: classes/ui/class.ui.notice.php:244
+msgid "Warning!"
+msgstr "警告 !"
+
+#: src/Core/Bootstrap.php:472
+msgid "Manage Packages"
+msgstr "パッケージを管理"
+
+#: classes/ui/class.ui.notice.php:245
+msgid "Plugin(s) listed here have been deactivated during installation to help prevent issues. Please activate them to finish this migration: "
+msgstr "ここに記載されているプラグインは、問題を回避するためにインストール時に無効にされています。この移行を完了するには、これらのプラグインを有効にしてください。"
+
+#: classes/ui/class.ui.notice.php:307
+msgid "Congrats!"
+msgstr "おめでとうございます。"
+
+#: classes/ui/class.ui.notice.php:320
+msgid "Hide Notification"
+msgstr "通知を非表示"
+
+#: views/packages/main/s2.scan2.php:218
+msgid "Migration Status"
+msgstr "移行ステータス"
+
+#: classes/ui/class.ui.notice.php:319
+msgid "Sure! I'd love to help"
+msgstr "もちろん協力します"
+
+#: classes/ui/class.ui.notice.php:311
+msgid "You created over %d packages with Duplicator. Great job! If you can spare a minute, please help us by leaving a five star review on WordPress.org."
+msgstr "Duplicator で%d個以上のパッケージを作成しました。お疲れ様でした ! もしお時間があれば、WordPress.org で5つ星のレビューをしていただけませんか ?"
+
+#: views/packages/main/s2.scan2.php:226
+msgid "The package created here can be migrated to a new server."
+msgstr "ここで作成したパッケージは、新しいサーバーに移行することができます。"
+
+#: views/packages/main/s2.scan2.php:230
+msgid ""
+"The package created here cannot be migrated to a new server.\n"
+"                                The Package created here can be restored on the same server."
+msgstr ""
+"ここで作成したパッケージは、新しいサーバーに移行できません。\n"
+"                                 ここで作成したパッケージは、同じサーバーに復元できます。"
+
+#: views/packages/main/s1.setup2.php:559 views/settings/packages.php:330
+msgid "Basic"
+msgstr "基本"
+
+#: views/packages/main/s1.setup2.php:659
+msgid "Duplicator Pro!"
+msgstr "Duplicator Pro!"
+
+#: views/packages/main/s1.setup2.php:661
+msgid "This feature works only with hosts that support cPanel."
+msgstr "この機能は、cPanel をサポートするホストでのみ機能します。"
+
+#: views/packages/main/s1.setup2.php:657
+msgid "This feature is only availble in "
+msgstr "この機能は、以下の場合にのみ利用できます。"
+
+#: views/packages/main/s1.setup2.php:656
+msgid "Create the database and database user at install time without leaving the installer!"
+msgstr "インストーラーを離れることなく、インストール時にデータベースとデータベースユーザーを作成してください !"
+
+#: views/packages/main/s1.setup2.php:551
+msgid "Prefills"
+msgstr "Prefills"
+
+#: views/packages/details/detail.php:470 views/packages/main/s1.setup2.php:526
+msgid "Security"
+msgstr "セキュリティ"
+
+#: views/packages/main/s1.setup2.php:535
+msgid "Security:"
+msgstr "セキュリティ:"
+
+#: views/packages/main/s1.setup2.php:515 views/packages/main/s1.setup2.php:520
+msgid "Branding"
+msgstr "ブランディング"
+
+#: views/packages/main/s1.setup2.php:533
+msgid "Enable Password Protection"
+msgstr "パスワード保護を有効にする"
+
+#: views/packages/main/s1.setup2.php:521
+msgid "Branding is a way to customize the installer look and feel.  With branding you can create multiple brands of installers."
+msgstr "ブランディングは、インストーラーのルックとフィールをカスタマイズする方法です。 ブランディングを使用すると、複数のブランドのインストーラーを作成できます。"
+
+#: views/packages/main/s1.setup2.php:503
+msgid "Setup/Prefills"
+msgstr "設定/プリフィル"
+
+#: views/packages/main/s1.setup2.php:485
+msgid "Installer password protection is on"
+msgstr "インストーラーのパスワード保護が有効"
+
+#: views/packages/main/s1.setup2.php:488
+msgid "Installer password protection is off"
+msgstr "インストーラーのパスワード保護が無効"
+
+#: views/packages/main/controller.php:11
+msgid "Packages Screen"
+msgstr "パッケージ画面"
+
+#: views/packages/main/s2.scan1.php:159
+msgid "Input fields not valid"
+msgstr "入力フィールドが無効です"
+
+#: views/packages/main/s2.scan1.php:462
+msgid "Fail"
+msgstr "失敗"
+
+#: views/packages/main/s2.scan1.php:272
+msgid "Do you want to continue?"
+msgstr "続行しますか ?"
+
+#: views/packages/main/s2.scan1.php:277
+msgid "Yes. Continue without applying any file filters."
+msgstr "はい。 ファイルフィルターを適用せずに続行します。"
+
+#: views/packages/main/s2.scan1.php:275
+msgid "To apply a \"Quick Filter\" click the \"Add Filters & Rescan\" button"
+msgstr "「クイックフィルター」を適用するには、「フィルターの追加と再スキャン」ボタンをクリックします"
+
+#: views/packages/main/s2.scan1.php:274
+msgid "At least one or more checkboxes was checked in \"Quick Filters\"."
+msgstr "「クイックフィルター」で少なくとも1つ以上のチェックボックスがオンになっています。"
+
+#: views/packages/main/controller.php:10
+msgid "Please retry by going to the"
+msgstr "に移動して再試行してください"
+
+#: views/packages/main/controller.php:9
+msgid "An invalid request was made to this page."
+msgstr "このページに対して無効なリクエストが行われました。"
+
+#: views/packages/main/s2.scan2.php:203 views/packages/main/s2.scan2.php:208
+msgid "upgrade to pro"
+msgstr "プロ版にアップグレード"
+
+#: views/packages/main/s2.scan2.php:197
+msgid "Duplicator does not support WordPress multisite migrations.  We strongly recommend using Duplicator Pro which currently supports full multisite migrations and various other subsite scenarios."
+msgstr "Duplicator は WordPress マルチサイト移行をサポートしていません。 現在、完全なマルチサイト移行とサブサイトからスタンドアロンサイトへの移行をサポートしている Duplicator Pro の使用をお勧めします。"
+
+#: views/packages/main/s3.build.php:451
+msgid "Option 4: Configure Server"
+msgstr "オプション4: サーバーを構成"
+
+#: views/packages/main/s3.build.php:455
+msgid "OPTION 4:"
+msgstr "オプション4:"
+
+#: views/packages/main/s3.build.php:418
+msgid " Overview"
+msgstr "概要"
+
+#: views/packages/main/s3.build.php:409
+msgid "Option 3: Two-Part Install"
+msgstr "オプション3: 2分割インストール"
+
+#: views/packages/main/s3.build.php:386
+msgid "Retry Build With Filters"
+msgstr "フィルターでビルドを再試行"
+
+#: views/packages/main/s3.build.php:371
+msgid "Option 2: File Filters"
+msgstr "オプション2: ファイルフィルター"
+
+#: views/packages/main/s3.build.php:354
+msgid "Enable DupArchive"
+msgstr "DupArchive を有効化"
+
+#: views/packages/main/s3.build.php:362
+msgid "commandline extraction tool"
+msgstr "コマンドライン抽出ツール"
+
+#: views/packages/main/s3.build.php:356
+msgid "Build a new package using the new engine format."
+msgstr "新しいエンジン形式を使用して新しいパッケージを作成します。"
+
+#: views/packages/main/s3.build.php:351
+msgid "On the scanner step check to make sure your package is under 500MB. If not see additional options below."
+msgstr "スキャナーのステップでは、パッケージが500MB 以下であることを確認します。500MB 以下でない場合は、以下の追加オプションをご覧ください。"
+
+#: views/packages/main/s3.build.php:345
+msgid " which is capable of migrating sites much larger than 500MB."
+msgstr "500MB をはるかに超えるサイトを移行することができます。"
+
+#: views/packages/main/s3.build.php:337
+msgid "Note:DupArchive on Duplicator only supports sites up to 500MB.  If your site is over 500MB then use a file filter on step 1 to get the size below 500MB or try the other options mentioned below.  Alternatively, you may want to consider"
+msgstr "注: Duplicator の DupArchive は、最大500MBのサイトのみをサポートします。 サイトが500MB を超える場合は、手順1でファイルフィルターを使用してサイズを500MB 未満にするか、以下に記載されている他のオプションを試してください。 あるいは、次のような方法も考えられます"
+
+#: views/packages/main/s3.build.php:353
+msgid "Go to Duplicator &gt; Settings &gt; Packages Tab &gt; Archive Engine &gt;"
+msgstr "Duplicator > 設定 > Packages Tab > Archive Engine > に移動します。"
+
+#: views/packages/main/s2.scan3.php:555
+msgid "ZipArchive Engine"
+msgstr "ZipArchive エンジン"
+
+#: views/packages/main/s2.scan3.php:510
+msgid "Total Size:"
+msgstr "合計サイズ:"
+
+#: views/packages/main/s2.scan3.php:539
+msgid "Step 1"
+msgstr "ステップ1"
+
+#: views/packages/main/s3.build.php:328
+msgid "Option 1: DupArchive"
+msgstr "オプション1: DupArchive を試す"
+
+#: views/packages/main/s2.scan3.php:677
+msgid "Auto File Filters"
+msgstr "自動ファイルフィルター"
+
+#: views/packages/main/s2.scan3.php:671
+msgid "Auto Directory Filters"
+msgstr "自動ディレクトリフィルター"
+
+#: views/packages/main/s3.build.php:165
+msgid "This may take several minutes to complete."
+msgstr "これが完了するまでに数分かかる場合があります。"
+
+#: views/packages/main/s3.build.php:164
+msgid "Keep this window open and do not close during the build process."
+msgstr "このウィンドウは開いたままにし、ビルドプロセス中は閉じないでください。"
+
+#: views/packages/main/s2.scan3.php:511
+msgid "The total size of the site (files plus  database)."
+msgstr "サイトの合計サイズ(ファイルプラスデータベース)。"
+
+#: views/packages/main/s2.scan3.php:540
+msgid "- Add data filters to get the package size under %s: "
+msgstr "-データフィルターを追加して、%s未満のパッケージサイズを取得します: "
+
+#: views/packages/main/s2.scan3.php:542
+msgid "- In the 'Size Checks' section above consider adding filters (if notice is shown)."
+msgstr "- 上記の「サイズチェック」のセクションでは、フィルターの追加を検討します(通知が表示される場合)｡"
+
+#: views/packages/main/s2.scan3.php:544
+msgid "- In %s consider adding file/directory or database table filters."
+msgstr "- %sでは、ファイル / ディレクトリまたはデータベーステーブルフィルターの追加を検討してください。"
+
+#: views/packages/main/s2.scan3.php:556
+msgid "- Switch to the %s which requires a capable hosting provider (VPS recommended)."
+msgstr "- 有能なホスティングプロバイダーを必要とする%sに切り替えます（VPSを推奨）。"
+
+#: views/packages/main/s2.scan3.php:552
+msgid "- Perform a two part install %s"
+msgstr "- 2つの部分からなるインストール%sを実行します"
+
+#: views/packages/main/s2.scan3.php:550
+msgid "covered here."
+msgstr "ここでカバーします。"
+
+#: views/packages/main/packages.php:400
+msgid "Alert!"
+msgstr "警告 !"
+
+#: views/packages/main/packages.php:401
+msgid "A package is being processed. Retry later."
+msgstr "パッケージを処理しています。後でもう一度お試しください。"
+
+#: views/packages/main/s2.scan3.php:78
+msgid " Disable the advanced option to re-enable file controls."
+msgstr "詳細オプションを無効にして、ファイルコントロールを再度有効にします。"
+
+#: views/packages/main/s2.scan3.php:72
+msgid "Skip archive scan enabled"
+msgstr "アーカイブスキャンのスキップを有効にする"
+
+#: views/packages/main/s2.scan3.php:76
+msgid "All file checks are skipped. This could cause problems during extraction if problematic files are included."
+msgstr "すべてのファイルチェックはスキップされます。 問題のあるファイルが含まれている場合、これにより抽出中に問題が発生する可能性があります。"
+
+#: views/packages/main/s1.setup1.php:120
+msgid "ZipArchive extension is required or"
+msgstr "ZipArchive 拡張子が必要です:"
+
+#: views/packages/details/detail.php:488 views/packages/main/s1.setup2.php:542
+msgid "Show/Hide Password"
+msgstr "パスワードの表示/非表示"
+
+#: views/packages/main/packages.php:262
+msgid "Package Build Running"
+msgstr "パッケージビルドの実行中"
+
+#: views/packages/main/packages.php:363
+msgid "Items"
+msgstr "項目"
+
+#: views/packages/main/packages.php:345
+msgid "Current Server Time"
+msgstr "現在のサーバー時間"
+
+#: views/packages/main/s1.setup1.php:121
+msgid "Switch to DupArchive"
+msgstr "DupArchive に切り替える"
+
+#: views/packages/main/packages.php:382
+msgid "No selections made! Please select at least one package to delete."
+msgstr "選択されていません。削除するパッケージを1つ以上選択してください。"
+
+#: views/packages/main/s1.setup1.php:111
+msgid "PHP versions 5.2.9+ or higher is required."
+msgstr "PHP バージョン5.2.9以降が必要です。"
+
+#: views/packages/main/packages.php:376
+msgid "No selections made! Please select an action from the \"Bulk Actions\" drop down menu."
+msgstr "選択は行われません !  「一括アクション」ドロップダウンメニューからアクションを選択してください。"
+
+#: views/packages/main/packages.php:253
+msgid "Archive created as daf file"
+msgstr "daf ファイルとして作成されたアーカイブ"
+
+#: views/packages/main/packages.php:252
+msgid "Archive created as zip file"
+msgstr "zip ファイルとして作成されたアーカイブ"
+
+#: views/packages/main/s1.setup1.php:131
+msgid "Safe Mode should be set to Off in you php.ini file and is deprecated as of PHP 5.3.0."
+msgstr "セーフモードは、php.ini ファイルで Off に設定する必要があり、PHP 5.3.0では非推奨となっています。"
+
+#: views/packages/main/s1.setup1.php:122
+msgid "to by-pass this requirement."
+msgstr "を使用して、この要件を回避することができます。"
+
+#: views/packages/main/packages.php:263
+msgid "To stop or reset this package build goto Settings > Advanced > Reset Packages"
+msgstr "このパッケージビルドを停止またはリセットするには、[設定]> [詳細設定]> [パッケージのリセット]に移動します。"
+
+#: template/mocks/storage/popup.php:24
+msgid "Set up one-time storage locations and automatically push the package to your destination."
+msgstr "ワンタイム保管場所を設定し、パッケージを目的地に自動的にプッシュします。"
+
+#: views/settings/about-info.php:95
+msgid "Facebook"
+msgstr "Facebook"
+
+#: views/settings/about-info.php:101
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: views/settings/about-info.php:98
+msgid "Twitter"
+msgstr "Twitter"
+
+#: views/settings/about-info.php:73
+msgid "with a 5 star review!"
+msgstr "5つ星のレビューで !"
+
+#: src/Controllers/AboutUsController.php:113
+msgid "Overwrite Live Site"
+msgstr "ライブサイトを上書き"
+
+#: views/settings/license.php:25
+msgid "Duplicator Lite"
+msgstr "Duplicator Lite"
+
+#: views/settings/packages.php:252
+msgid "DupArchive"
+msgstr "DupArchive"
+
+#: views/packages/main/s2.scan3.php:528 views/packages/main/s2.scan3.php:605
+#: views/settings/packages.php:241
+msgid "Archive Engine"
+msgstr "アーカイブエンジン"
+
+#: views/settings/packages.php:279
+msgid "Creates a custom archive format (archive.daf)."
+msgstr "カスタムアーカイブ形式(archive.daf)を作成します。"
+
+#: views/settings/packages.php:283
+msgid "This option is recommended for large sites or sites on constrained servers."
+msgstr "このオプションは、大規模なサイトや、制約のあるサーバー上のサイトにお勧めです。"
+
+#: views/settings/packages.php:311
+msgid " Valid only when Archive Engine for ZipArchive is enabled."
+msgstr "ZipArchiveのアーカイブエンジンが有効になっている場合にのみ有効です。"
+
+#: views/settings/packages.php:260
+msgid "Creates a archive format (archive.zip)."
+msgstr "アーカイブ形式 (archive.zip) を作成します。"
+
+#: views/settings/packages.php:209
+msgid "<br><br><i>Multi-Threaded mode is only available in Duplicator Pro.</i>"
+msgstr "<br><br>「マルチスレッドモードは、Duplicator Pro でのみ使用できます。」"
+
+#: views/settings/packages.php:263
+msgid "This option uses the internal PHP ZipArchive classes to create a zip file."
+msgstr "このオプションは、PHP の内部 ZipArchive クラスを使用して zip ファイルを作成します。"
+
+#: views/settings/packages.php:198
+msgid "Single-Threaded"
+msgstr "シングルスレッド"
+
+#: views/settings/packages.php:205
+msgid "PHP Code Mode:"
+msgstr "PHP コードモード:"
+
+#: views/settings/general.php:227
+msgid "No"
+msgstr "いいえ"
+
+#: src/Core/Notifications/Review.php:96 views/settings/general.php:226
+msgid "Yes"
+msgstr "はい"
+
+#: views/settings/general.php:171
+msgid "Skip"
+msgstr "スキップ"
+
+#: views/settings/general.php:240 views/settings/general.php:293
+msgid "RESPONSE ERROR!"
+msgstr "レスポンスエラー !"
+
+#: views/settings/general.php:162
+msgid "Reset Settings"
+msgstr "設定をリセット"
+
+#: views/settings/general.php:221
+msgid "Reset Packages ?"
+msgstr "パッケージをリセットしますか ?"
+
+#: views/settings/general.php:147
+msgid "Advanced"
+msgstr "高度な設定"
+
+#: views/settings/general.php:123
+msgid "Trace Log"
+msgstr "トレースログ"
+
+#: views/settings/general.php:168
+msgid "Archive scan"
+msgstr "アーカイブスキャン"
+
+#: views/settings/general.php:283
+msgid "Packages successfully reset"
+msgstr "パッケージが正常にリセットされました"
+
+#: views/settings/general.php:154
+msgid "Reset Packages"
+msgstr "パッケージをリセット"
+
+#: views/settings/general.php:223
+msgid "Resetting settings, Please Wait..."
+msgstr "設定をリセットしています。お待ちください..."
+
+#: views/settings/general.php:222
+msgid "This will clear and reset all of the current temporary packages.  Would you like to continue?"
+msgstr "これにより、現在の一時的なパッケージがすべて消去され、リセットされます。 続けますか ?"
+
+#: views/settings/general.php:201
+msgid "Check this option if other plugins/themes CSS files are conflicting with Duplicator."
+msgstr "他のプラグイン / テーマの CSS ファイルが Duplicator と競合している場合は、このオプションをチェックしてください。"
+
+#: views/settings/general.php:189 views/settings/general.php:203
+msgid "Do not modify this setting unless you know the expected result or have talked to support."
+msgstr "想定される結果がわかっている場合や、サポートに相談した場合を除き、この設定を変更しないでください。"
+
+#: views/settings/general.php:187
+msgid "Check this option if other plugins/themes JavaScript files are conflicting with Duplicator."
+msgstr "他のプラグイン / テーマの JavaScript ファイルが Duplicator と競合している場合は、このオプションをチェックしてください。"
+
+#: views/settings/general.php:139
+msgid "Download Trace Log"
+msgstr "トレースログのダウンロード"
+
+#: views/settings/general.php:131
+msgid "WARNING: Only turn on this setting when asked to by support as tracing will impact performance."
+msgstr "警告: トレースはパフォーマンスに影響を与えるため、サポートから要求された場合にのみこの設定をオンにしてください。"
+
+#: views/settings/general.php:163
+msgid "This action should only be used if the packages screen is having issues or a build is stuck."
+msgstr "このアクションは、パッケージ画面に問題があるか、ビルドがスタックしている場合にのみ使用する必要があります。"
+
+#: views/settings/general.php:174
+msgid "If enabled all files check on scan will be skipped before package creation.  In some cases, this option can be beneficial if the scan process is having issues running or returning errors."
+msgstr "このオプションを有効にすると、スキャンでチェックされたすべてのファイルは、パッケージの作成前にスキップされます。 場合によっては、スキャン プロセスの実行に問題があったり、エラーが返されたりする場合に、このオプションが有効になります。"
+
+#: views/settings/general.php:158
+msgid "This process will reset all packages by deleting those without a completed status, reset the active package id and perform a cleanup of the build tmp file."
+msgstr "このプロセスでは、完了ステータスのないパッケージを削除してすべてのパッケージをリセットし、アクティブなパッケージIDをリセットして、ビルドtmpファイルのクリーンアップを実行します。"
+
+#: views/parts/migration-clean-installation-files.php:47
+msgid "please retry the installer cleanup process"
+msgstr "インストーラのクリーンアッププロセスを再試行してください"
+
+#: views/parts/migration-clean-installation-files.php:45
+msgid "Some of the installer files did not get removed, "
+msgstr "一部のインストーラファイルが削除されませんでした、"
+
+#: views/parts/migration-clean-installation-files.php:49
+msgid " If this process continues please see the previous FAQ link."
+msgstr "このプロセスが続く場合は、前のFAQリンクを参照してください。"
+
+#: views/tools/diagnostics/inc.settings.php:89
+msgid "Can't detect"
+msgstr "検出できません"
+
+#: views/parts/migration-clean-installation-files.php:25
+#: views/tools/diagnostics/information.php:28
+msgid "Removed"
+msgstr "削除済み"
+
+#: views/tools/diagnostics/inc.settings.php:182
+msgid "Architecture "
+msgstr "アーキテクチャ"
+
+#: views/tools/diagnostics/information.php:27
+msgid "File Found: Unable to remove"
+msgstr "ファイルが見つかりました:  削除できません"
+
+#: views/parts/migration-clean-installation-files.php:19
+msgid "No Duplicator files were found on this WordPress Site."
+msgstr "この WordPress サイトでは、Duplicator ファイルは見つかりませんでした。"
+
+#: classes/utilities/class.u.php:70
+msgid "Unknown"
+msgstr "不明"
+
+#: classes/utilities/class.u.php:67
+msgid "64-bit"
+msgstr "64-bit"
+
+#: classes/utilities/class.u.php:64
+msgid "32-bit"
+msgstr "32-bit"
+
+#: classes/class.logging.php:161
+msgid "No Log"
+msgstr "ログなし"
+
+#: classes/class.server.php:325
+msgid "(directory)"
+msgstr "(ディレクトリ)"
+
+#: classes/ui/class.ui.notice.php:234
+msgid "Activate %s"
+msgstr "%s を有効化"
+
+#: classes/ui/class.ui.screen.base.php:93
+msgid "<b>Need Help?</b>  Please check out these resources first:<ul>"
+msgstr "<b>ヘルプが必要ですか ? </b>最初にこれらのリソースを確認してください:<ul>"
+
+#: deactivation.php:97
+msgid "It's a temporary deactivation, I use the plugin all the time."
+msgstr "いつもこのプラグインを使っています、一時的に無効化しただけです。"
+
+#: deactivation.php:105
+msgid "Pro version"
+msgstr "Pro 版"
+
+#: deactivation.php:157 deactivation.php:380
+msgid "Skip & Deactivate"
+msgstr "スキップして無効化"
+
+#: deactivation.php:159
+msgid "Send & Deactivate"
+msgstr "送信して無効化"
+
+#: deactivation.php:147
+msgid "Quick Feedback"
+msgstr "迅速なフィードバック"
+
+#: deactivation.php:91
+msgid "It does not do what I need."
+msgstr "必要な機能がありません。"
+
+#: deactivation.php:78
+msgid "It's too confusing to understand."
+msgstr "難しすぎて分かりません。"
+
+#: deactivation.php:87
+msgid "What's the plugin name?"
+msgstr "プラグインの名前は ?"
+
+#: deactivation.php:67
+msgid "Contact Support"
+msgstr "サポートに問い合わせる"
+
+#: deactivation.php:66
+msgid "Need help? We are ready to answer your questions."
+msgstr "ヘルプが必要ですか ? ご質問にお答えします。"
+
+#. Plugin URI of the plugin
+msgid "https://snapcreek.com/duplicator/duplicator-free/"
+msgstr "https://snapcreek.com/duplicator/duplicator-free/"
+
+#: classes/package/class.pack.installer.php:829
+#: classes/package/class.pack.php:1011
+msgid "ERROR: Cannot open created archive. Error code = %1$s"
+msgstr "エラー: 作成したアーカイブを開けません。エラーコード = %1$s"
+
+#: classes/package/class.pack.installer.php:833
+#: classes/package/class.pack.php:1016
+msgid "ERROR: Archive is not valid zip archive."
+msgstr "エラー: 有効な ZIP アーカイブではありません。"
+
+#: classes/package/class.pack.installer.php:836
+#: classes/package/class.pack.php:1020
+msgid "ERROR: Archive doesn't pass consistency check."
+msgstr "エラー: アーカイブが整合性チェックに合格していません。"
+
+#: classes/package/class.pack.installer.php:839
+#: classes/package/class.pack.php:1025
+msgid "ERROR: Archive checksum is bad."
+msgstr "エラー: アーカイブチェックサムが不正です。"
+
+#: classes/package/duparchive/class.pack.archive.duparchive.php:36
+msgid "Build Failure"
+msgstr "ビルドの失敗"
+
+#: deactivation.php:71
+msgid "It's not working on my server."
+msgstr "私のサーバーでは動きません。"
+
+#: deactivation.php:85
+msgid "I found a different plugin that I like better."
+msgstr "もっと気に入った別のプラグインを見つけました。"
+
+#: deactivation.php:104
+msgid "I'm switching over to the %s"
+msgstr "%s に切り替える予定です"
+
+#: deactivation.php:163
+msgid "Your response is sent anonymously."
+msgstr "返信は匿名で送信されます。"
+
+#: deactivation.php:93
+msgid "What does it need to do?"
+msgstr "何をする必要がありますか ?"
+
+#: ctrls/ctrl.package.php:192
+msgid "Error building DupArchive package"
+msgstr "DupArchive パッケージ構築エラー"
+
+#: classes/package/class.pack.php:1036
+msgid "ARCHIVE CONSISTENCY TEST: Pass"
+msgstr "アーカイブ整合性テスト: 合格"
+
+#: classes/package/class.pack.php:346
+msgid "Package name can't be empty"
+msgstr "パッケージ名は空にはできません"
+
+#: classes/package/duparchive/class.pack.archive.duparchive.php:232
+msgid "Critical failure present in validation"
+msgstr "検証に重大な障害が存在する"
+
+#: classes/package/duparchive/class.pack.archive.duparchive.php:158
+msgid "Problems adding items to archive."
+msgstr "アーカイブにアイテムを追加する際の問題。"
+
+#: classes/package/duparchive/class.pack.archive.duparchive.php:71
+msgid "ERROR: Can't find Scanfile %s. Please ensure there no non-English characters in the package or schedule name."
+msgstr "エラー:  スキャンファイル %s が見つかりません。 パッケージ名またはスケジュール名に英語以外の文字が含まれていないことを確認してください。"
+
+#: classes/package/duparchive/class.pack.archive.duparchive.php:157
+msgid "Problem adding items to archive."
+msgstr "アーカイブにアイテムを追加する際の問題。"
+
+#: classes/package/class.pack.php:373
+msgid "Files: <b>%1$s</b> isn't a valid file name"
+msgstr "ファイル: <b>%1$s</b>は有効なファイル名ではありません"
+
+#: classes/package/duparchive/class.pack.archive.duparchive.php:61
+msgid "Click on \"Resolve This\" button to fix the JSON settings."
+msgstr "「これを解決」ボタンをクリックして、JSON設定を修正します。"
+
+#: classes/package/duparchive/class.pack.archive.duparchive.php:35
+msgid "Package build appears stuck so marking package as failed. Is the Max Worker Time set too high?."
+msgstr "パッケージの作成に失敗したように見えるので、パッケージを失敗とマークしています。Max Worker Time の設定が高すぎるのでは ?"
+
+#: classes/package/class.pack.database.php:710
+msgid "Please contact your DataBase administrator to fix the error."
+msgstr "エラーを修正するには、データベース管理者に連絡してください。"
+
+#: classes/package/class.pack.php:961
+msgid "ACTUAL FILE/DIRECTORY COUNT: %1$s"
+msgstr "実際のファイル / ディレクトリ数: %1$s"
+
+#: classes/package/class.pack.php:960
+msgid "EXPECTED FILE/DIRECTORY COUNT: %1$s"
+msgstr "予想されるファイル/ディレクトリ数: %1$s"
+
+#: classes/package/class.pack.php:937
+msgid "Can't find Scanfile %s. Please ensure there no non-English characters in the package or schedule name."
+msgstr "スキャンファイル %s が見つかりません。パッケージ名やスケジュール名に英語以外の文字が含まれていないか確認してください"
+
+#: classes/package/class.pack.php:364
+msgid "File extension: <b>%1$s</b> isn't a valid extension"
+msgstr "ファイル拡張子: <b>%1$s</b> は有効な拡張子ではありません"
+
+#: classes/package/class.pack.php:355
+msgid "Directories: <b>%1$s</b> isn't a valid path"
+msgstr "ディレクトリ: <b>%1$s</b> は有効なパスではありません"
+
+#: classes/package/class.pack.php:381
+msgid "MySQL Server Host: <b>%1$s</b> isn't a valid host"
+msgstr "MySQLサーバーホスト: <b>%1$s</b> は有効なホストではありません"
+
+#: classes/package/class.pack.php:391
+msgid "MySQL Server Port: <b>%1$s</b> isn't a valid port"
+msgstr "MySQLサーバーポート: <b>%1$s</b> は有効なポートではありません"
+
+#: classes/package/class.pack.installer.php:153
+msgid "Error writing installer contents"
+msgstr "インストーラのコンテンツ書き込みエラー"
+
+#: deactivation.php:313
+msgid "Please tell us the reason so we can improve it."
+msgstr "改善できるように理由を教えてください。"
+
+#: deactivation.php:149
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr "時間があれば、非アクティブ化する理由をお知らせください"
+
+#: deactivation.php:80
+msgid "Please tell us what is not clear so that we can improve it."
+msgstr "改善できるように、不明な点を教えてください。"
+
+#: deactivation.php:73
+msgid "Kindly share what didn't work so we can fix it in future updates..."
+msgstr "うまくいかなかったものを共有してください。将来のアップデートで修正できます..."
+
+#: ctrls/ctrl.package.php:285
+msgid "An unauthorized security request was made to this page. Please try again!"
+msgstr "このページに対して不正なセキュリティ要求が行われました。 もう一度やり直してください！"
+
+#: ctrls/ctrl.package.php:304
+msgid "Active package object error"
+msgstr "Active package object error"
+
+#: classes/package/class.pack.installer.php:140
+msgid "Error reading DupArchive expander"
+msgstr "DupArchive エキスパンダーの読み込みエラー"
+
+#: views/tools/diagnostics/main.php:44
+msgid "Logs"
+msgstr "ログ"
+
+#: views/tools/diagnostics/inc.settings.php:188
+msgid "Error Log File "
+msgstr "エラーログファイル"
+
+#: views/packages/main/packages.php:111 views/packages/main/packages.php:118
+#: views/tools/controller.php:26
+msgid "Templates"
+msgstr "テンプレート"
+
+#: views/settings/packages.php:106
+msgid "PHP Code"
+msgstr "PHP コード"
+
+#: views/settings/license.php:38
+msgid "License Key"
+msgstr "ライセンスキー"
+
+#: views/settings/controller.php:47
+msgid "License"
+msgstr "ライセンス"
+
+#: views/packages/main/s3.build.php:487 views/settings/packages.php:195
+msgid "Mode"
+msgstr "モード"
+
+#: src/Controllers/StorageController.php:71
+#: src/Controllers/StorageController.php:72
+msgid "OneDrive"
+msgstr "OneDrive"
+
+#: src/Controllers/StorageController.php:76
+#: src/Controllers/StorageController.php:77
+msgid "DropBox"
+msgstr "Dropbox"
+
+#: views/tools/diagnostics/main.php:43
+msgid "Information"
+msgstr "情報"
+
+#: views/packages/main/packages.php:395
+msgid "Duplicator Help"
+msgstr "Duplicator ヘルプ"
+
+#: views/packages/main/s1.setup2.php:560
+msgid "cPanel"
+msgstr "cPanel"
+
+#: classes/ui/class.ui.screen.base.php:113
+msgid "Resources"
+msgstr "リソース"
+
+#: views/settings/license.php:7
+msgid "Activation"
+msgstr "アクティベーション"
+
+#: views/packages/main/s2.scan3.php:202
+msgid "Addon Sites"
+msgstr "アドオンサイト"
+
+#: views/packages/main/s2.scan3.php:231
+msgid "No add on sites found."
+msgstr "アドオンサイトが見つかりません。"
+
+#: views/packages/main/packages.php:408
+msgid "Common Questions:"
+msgstr "よくある質問:"
+
+#: src/Controllers/AboutUsController.php:142 src/Libs/Upsell.php:119
+msgid "Cloud Storage"
+msgstr "クラウドストレージ"
+
+#: classes/ui/class.ui.screen.base.php:116
+msgid "Technical FAQs"
+msgstr "技術的なよくある質問と答え"
+
+#: classes/ui/class.ui.screen.base.php:114
+msgid "Knowledge Base"
+msgstr "ナレッジベース"
+
+#: classes/ui/class.ui.notice.php:148
+msgid "Safe Mode:"
+msgstr "セーフモード:"
+
+#: classes/ui/class.ui.notice.php:157
+msgid "Final step(s):"
+msgstr "最後のステップ:"
+
+#: views/packages/main/packages.php:348 views/packages/main/s3.build.php:475
+msgid "Time"
+msgstr "時間"
+
+#: views/packages/main/s2.scan3.php:339
+msgid "Unreadable Items:"
+msgstr "読み取り不可の項目:"
+
+#: views/packages/main/s2.scan3.php:52 views/packages/main/s2.scan3.php:392
+#: views/packages/main/s2.scan3.php:513
+msgid "uncompressed"
+msgstr "未圧縮"
+
+#: views/settings/packages.php:142
+msgid "Successfully Found:"
+msgstr "見つかりました:"
+
+#: views/packages/main/s2.scan3.php:350
+msgid "Recursive Links:"
+msgstr "再帰的リンク:"
+
+#: views/settings/license.php:32
+msgid "Pro Features"
+msgstr "Pro 版の機能"
+
+#: views/packages/main/s3.build.php:349 views/packages/main/s3.build.php:419
+msgid "Please follow these steps:"
+msgstr "次の手順に従ってください。"
+
+#: views/packages/main/s3.build.php:493
+msgid "PHP Max Execution Mode"
+msgstr "PHP 最大実行モード"
+
+#: views/packages/main/s3.build.php:473
+msgid "PHP Max Execution"
+msgstr "PHP 最大実行時間"
+
+#: classes/ui/class.ui.screen.base.php:117
+msgid "Package Settings"
+msgstr "パッケージ設定"
+
+#: views/packages/main/packages.php:423
+msgid "Other Resources:"
+msgstr "その他のリソース:"
+
+#: views/packages/main/s2.scan3.php:346
+msgid "No unreadable items found."
+msgstr "読み取り不可能な項目は見つかりませんでした。"
+
+#: views/packages/main/s2.scan3.php:357
+msgid "No recursive sym-links found."
+msgstr "再帰 sym-links が見つかりませんでした。"
+
+#: views/packages/main/packages.php:161 views/packages/main/packages.php:216
+msgid "New to Duplicator?"
+msgstr "Duplicator を使うのは初めてですか ?"
+
+#: views/settings/packages.php:164
+msgid "mysqldump path:"
+msgstr "mysqldump パス:"
+
+#: views/packages/main/packages.php:415
+msgid "How do I install a package?"
+msgstr "パッケージをインストールする方法"
+
+#: views/packages/main/packages.php:411
+msgid "How do I create a package"
+msgstr "パッケージを作成する方法"
+
+#: classes/ui/class.ui.screen.base.php:115
+msgid "Full User Guide"
+msgstr "完全ユーザーガイド"
+
+#: views/packages/main/packages.php:419
+msgid "Frequently Asked Questions!"
+msgstr "よくある質問。"
+
+#: views/packages/main/s1.setup2.php:286
+msgid "Files:"
+msgstr "ファイル:"
+
+#: views/settings/license.php:27
+msgid "Basic Features"
+msgstr "基本機能"
+
+#: classes/ui/class.ui.notice.php:189
+msgid "Redirecting Please Wait..."
+msgstr "リダイレクト中です。お待ちください…"
+
+#: template/admin_pages/welcome/features.php:80
+msgid "Large Site Support"
+msgstr "大規模サイトサポート"
+
+#: views/packages/main/packages.php:429
+msgid "Help review the plugin!"
+msgstr "プラグインのレビューにご協力ください。"
+
+#: views/packages/main/s3.build.php:20
+msgid "Help review the plugin"
+msgstr "プラグインのレビューにご協力ください"
+
+#: views/packages/main/s3.build.php:198
+msgid "Click to download both files"
+msgstr "クリックして両方のファイルをダウンロード"
+
+#: views/packages/main/s3.build.php:193
+msgid "Click to download archive file"
+msgstr "クリックしてアーカイブファイルをダウンロード"
+
+#: views/packages/main/s3.build.php:439
+msgid "Yes. I have read the above overview and would like to continue!"
+msgstr "はい。上記の概要を読み、続行を希望します。"
+
+#: classes/ui/class.ui.notice.php:192
+msgid "Invalid token permissions to perform this request."
+msgstr "このリクエストを実行するためのトークンのパーミッションが無効です。"
+
+#: classes/ui/class.ui.notice.php:150
+msgid "re-activate the plugins"
+msgstr "プラグインの再有効化"
+
+#: classes/ui/class.ui.notice.php:149
+msgid "During the install safe mode was enabled deactivating all plugins.<br/> Please be sure to "
+msgstr "インストール中にセーフモードが有効になり、すべてのプラグインが無効になりました。<br/>以下の点にご注意ください。"
+
+#: views/packages/main/packages.php:425
+msgid "Need help with the plugin?"
+msgstr "プラグインのヘルプが必要ですか ?"
+
+#: views/packages/main/s1.setup2.php:261
+msgid "Number of directories filtered"
+msgstr "フィルタリングされたディレクトリの数"
+
+#: views/packages/main/s1.setup2.php:287
+msgid "Number of files filtered"
+msgstr "フィルタリングされたファイルの数"
+
+#: views/packages/main/s1.setup2.php:312 views/packages/main/s3.build.php:431
+msgid "Quick Start Two-Part Install Instructions"
+msgstr "クイックスタート2部構成のインストール手順"
+
+#: views/packages/main/s1.setup1.php:180
+msgid "If the root WordPress path is not writable by PHP on some systems this can cause issues."
+msgstr "システムによっては、WordPressのルートパスがPHPで書き込み可能でない場合、問題が発生することがあります。"
+
+#: views/packages/main/s1.setup2.php:401
+msgid "Excluding certain tables can cause your site or plugins to not work correctly after install!<br/>"
+msgstr "特定のテーブルを除外すると、インストール後にサイトまたはプラグインが正しく機能しなくなる可能性があります !<br/>"
+
+#: views/packages/main/s1.setup2.php:400
+msgid "Checked tables will be <u>excluded</u> from the database script. "
+msgstr "チェックされたテーブルは、データベーススクリプトから「除外」されます。"
+
+#: views/settings/license.php:15
+msgid "%1$sManage Licenses%2$s"
+msgstr "%1$sライセンスの管理%2$s"
+
+#: views/packages/main/s3.build.php:483
+msgid "This value is represented in seconds. A value of 0 means no timeout limit is set for PHP."
+msgstr "この値は秒単位で表されます。 値0は、PHP にタイムアウト制限が設定されていないことを意味します。"
+
+#: views/packages/main/s3.build.php:462
+msgid "Diagnose Server Setup"
+msgstr "サーバーセットアップの診断"
+
+#: views/packages/main/s3.build.php:441
+msgid "Start Two-Part Install Process"
+msgstr "2部構成のインストールプロセスを開始する"
+
+#: views/packages/main/s3.build.php:424
+msgid "Complete the package build and follow the "
+msgstr "パッケージのビルドを完了し、"
+
+#: views/packages/main/s3.build.php:466
+msgid "RUNTIME DETAILS"
+msgstr "実行時の詳細"
+
+#: views/packages/main/s3.build.php:23
+msgid "Want more power?  Try"
+msgstr "もっとパワーが欲しいですか ? 試してみてください"
+
+#: views/packages/main/s2.scan3.php:570
+msgid "Migrate large, multi-gig sites with"
+msgstr "大規模なマルチギガサイトの移行には"
+
+#: views/packages/main/s2.scan3.php:328
+msgid "Read Checks"
+msgstr "チェックを読む"
+
+#: views/packages/main/s3.build.php:190
+msgid "Click to download installer file"
+msgstr "クリックしてインストーラーファイルをダウンロードします"
+
+#: views/packages/main/s3.build.php:248
+msgid "How to install this package?"
+msgstr "このパッケージをインストールするにはどうすればよいですか ?"
+
+#: classes/ui/class.ui.screen.base.php:101 views/tools/diagnostics/main.php:45
+msgid "Support"
+msgstr "サポート"
+
+#: views/packages/main/s2.scan3.php:403
+msgid "TOTAL SIZE"
+msgstr "合計サイズ"
+
+#: views/packages/main/s2.scan3.php:135 views/packages/main/s2.scan3.php:270
+msgid "Show All"
+msgstr "すべて表示"
+
+#: views/packages/main/s2.scan3.php:134 views/packages/main/s2.scan3.php:269
+msgid "Hide All"
+msgstr "すべて非表示"
+
+#: views/packages/main/s2.scan3.php:585
+msgid "Scan Details"
+msgstr "スキャン詳細"
+
+#: views/packages/main/s2.scan3.php:423 views/packages/main/s2.scan3.php:534
+msgid "RECOMMENDATIONS:"
+msgstr "推奨: "
+
+#: views/packages/main/s2.scan3.php:130 views/packages/main/s2.scan3.php:217
+#: views/packages/main/s2.scan3.php:266
+msgid "Quick Filters"
+msgstr "クイックフィルター"
+
+#: views/packages/main/s2.scan3.php:108
+msgid "Timeout Options"
+msgstr "タイムアウト設定"
+
+#: views/packages/main/s2.scan3.php:98
+msgid "more details..."
+msgstr "詳細..."
+
+#: views/packages/main/s2.scan3.php:89
+msgid "Size Checks"
+msgstr "サイズチェック"
+
+#: views/packages/main/s2.scan3.php:48
+msgid "Archive Size"
+msgstr "アーカイブサイズ"
+
+#: views/packages/main/s2.scan3.php:27
+msgid "Show Scan Details"
+msgstr "スキャン詳細を表示"
+
+#: views/tools/diagnostics/inc.data.php:21
+msgid "Remove Installation Files"
+msgstr "インストール時のファイルを削除"
+
+#: views/packages/main/s2.scan3.php:815
+msgid "Initializing Please Wait..."
+msgstr "初期化中です。お待ちください…"
+
+#: views/packages/main/s2.scan3.php:806
+msgid "Copied to Clipboard!"
+msgstr "クリップボードにコピーしました"
+
+#: views/packages/main/s2.scan3.php:768
+msgid "No files have been selected!"
+msgstr "ファイルが選択されていません"
+
+#: views/packages/main/s2.scan3.php:764
+msgid "No directories have been selected!"
+msgstr "ディレクトリが選択されていません"
+
+#: views/parts/migration-clean-installation-files.php:58
+msgid "Security Notes"
+msgstr "セキュリティノート"
+
+#: views/packages/main/s2.scan3.php:186 views/packages/main/s2.scan3.php:316
+msgid "Copy Paths to Clipboard"
+msgstr "パスをクリップボードにコピーしました"
+
+#: views/packages/main/s2.scan3.php:165
+msgid "No large files found during this scan."
+msgstr "巨大なファイルが見つかりませんでした。"
+
+#: views/packages/main/s2.scan3.php:113
+msgid "What can I try for Timeout Issues?"
+msgstr "タイムアウトする時の対処法は？"
+
+#: views/tools/diagnostics/inc.validator.php:34
+msgid "The utility will also shows how many files and directories you have in your system.  This process may take several minutes to run.  "
+msgstr "このユーティリティは、システムにいくつのファイルやディレクトリがあるかを表示します。この処理には数分かかることがあります。"
+
+#: views/packages/main/s3.build.php:319
+msgid "Host Build Interrupt"
+msgstr "ホストビルド割り込み"
+
+#: views/packages/main/s2.scan3.php:737
+msgid "Directory applied filter set."
+msgstr "ディレクトリ適用フィルタセット。"
+
+#: views/packages/main/s2.scan3.php:720
+msgid "Copy the paths above and apply them as needed on Step 1 &gt; Archive &gt; Files section."
+msgstr "上記のパスをコピーし、必要に応じてステップ1＆gt; アーカイブ＆gt; ファイルセクション。"
+
+#: views/packages/main/s2.scan3.php:690
+msgid "Path filters will be skipped during the archive process when enabled."
+msgstr "有効にすると、アーカイブプロセス中にパスフィルタはスキップされます。"
+
+#: views/packages/main/s2.scan3.php:667
+msgid "No custom file filters set."
+msgstr "カスタムファイルフィルタは設定されていません。"
+
+#: views/packages/main/s2.scan3.php:592
+msgid "Copy Quick Filter Paths"
+msgstr "クイックフィルタパスをコピーする"
+
+#: views/packages/main/s2.scan3.php:695
+msgid "Auto filters are applied to prevent archiving other backup sets."
+msgstr "自動フィルタは、他のバックアップセットのアーカイブを防止するために適用されます。"
+
+#: views/packages/main/s2.scan3.php:858 views/packages/main/s2.scan3.php:865
+msgid "Error applying filters.  Please go back to Step 1 to add filter manually!"
+msgstr "エラー適用するフィルタ：フィルタを手動で追加するには、手順1に戻ってください。"
+
+#: views/packages/main/s3.build.php:469
+msgid "Allowed Runtime:"
+msgstr "許可された実行時間: "
+
+#: views/packages/main/s2.scan3.php:692
+msgid "[view json result report]"
+msgstr "[ json結果レポートを表示 ]"
+
+#: views/packages/main/s2.scan3.php:706 views/packages/main/s2.scan3.php:715
+msgid "Click to Copy"
+msgstr "クリックしてコピー"
+
+#: views/tools/diagnostics/inc.validator.php:77
+msgid "Note: Symlinks are not discoverable on Windows OS with PHP"
+msgstr "注: シンボリックリンクは、PHP がインストールされている Windows OS では検出できません。"
+
+#: views/packages/main/s2.scan3.php:645
+msgid "No custom directory filters set."
+msgstr "カスタムディレクトリフィルターは設定されていません。"
+
+#: views/packages/main/s2.scan3.php:808
+msgid "Manual copy of selected text required on this browser."
+msgstr "このブラウザに必要な選択されたテキストの手動コピー。"
+
+#: views/packages/main/s2.scan3.php:432
+msgid "3. %1$s if this host supports the option."
+msgstr "3: %1$s このホストはサポートされている場合のオプションです。"
+
+#: views/packages/main/s2.scan1.php:461
+msgid "Good"
+msgstr "Good"
+
+#: views/settings/packages.php:175
+msgid "/usr/bin/mypath/mysqldump"
+msgstr "/usr/bin/mypath/mysqldump"
+
+#: views/packages/main/s2.scan3.php:184 views/packages/main/s2.scan3.php:240
+#: views/packages/main/s2.scan3.php:314
+msgid "Add Filters &amp; Rescan"
+msgstr "フィルターを追加して再スキャン"
+
+#: views/packages/main/s2.scan3.php:414
+msgid "TABLE DETAILS:"
+msgstr "テーブル詳細:"
+
+#: views/packages/main/s2.scan2.php:12
+msgid "Show Diagnostics"
+msgstr "診断を表示"
+
+#: views/packages/main/s2.scan2.php:84
+msgid "PHP Open Base Dir"
+msgstr "PHP オープンベースディレクトリ"
+
+#: views/packages/main/s2.scan2.php:90 views/packages/main/s3.build.php:482
+msgid "PHP Max Execution Time"
+msgstr "PHP 最大実行時間"
+
+#: views/packages/main/s2.scan3.php:431
+msgid "Enable mysqldump"
+msgstr "mysqldump を有効化"
+
+#: views/packages/main/s2.scan3.php:97
+msgid "Compressing larger sites on <i>some budget hosts</i> may cause timeouts.  "
+msgstr "「一部のバジェットホスト」で大きなサイトを圧縮すると、タイムアウトが発生することがあります。"
+
+#: views/packages/main/s2.scan3.php:429
+msgid "2. Remove post revisions and stale data from tables.  Tables such as logs, statistical or other non-critical data should be cleared."
+msgstr "2.ポストリビジョンと古いデータをテーブルから削除します。 ログ、統計データ、その他の重要ではないデータなどのテーブルはクリアする必要があります。"
+
+#: views/packages/main/s2.scan3.php:305
+msgid "No file/directory name warnings found."
+msgstr "ファイル / ディレクトリ名の警告が見つかりませんでした。"
+
+#: views/packages/main/s2.scan3.php:259
+msgid "  Only consider using this filter if the package build is failing. Select files that are not important to your site or you can migrate manually."
+msgstr "パッケージのビルドが失敗した場合にのみ、このフィルターの使用を検討してください。 サイトにとって重要ではないファイルを選択するか、手動で移行できます。"
+
+#: views/packages/main/s2.scan3.php:258
+msgid "Unicode and special characters such as \"*?><:/\\|\", can be problematic on some hosts."
+msgstr "Unicodeおよび「*?><:/\\|」などの特殊文字は、一部のホストで問題になる可能性があります。"
+
+#: views/packages/main/s2.scan3.php:145 views/packages/main/s2.scan3.php:285
+msgid "Core WordPress directories should not be filtered. Use caution when excluding files."
+msgstr "WordPress のコアディレクトリはフィルタリングしてはいけません。ファイルを除外する場合は注意が必要です。"
+
+#: views/packages/main/s2.scan3.php:114
+msgid "Consider trying multi-threaded support in "
+msgstr "でマルチスレッドサポートを試すことを検討してください"
+
+#: views/packages/main/s2.scan3.php:111
+msgid "See the FAQ link to adjust this hosts timeout limits: "
+msgstr "このホストのタイムアウト制限を調整するには、FAQ のリンクを参照してください。"
+
+#: views/packages/main/s2.scan3.php:110
+msgid "Apply the \"Quick Filters\" below or click the back button to apply on previous page."
+msgstr "下の「クイックフィルター」を適用するか、戻るボタンをクリックして前のページに適用してください。"
+
+#: views/packages/main/packages.php:258 views/packages/main/s1.setup2.php:214
+#: views/packages/main/s2.scan3.php:39 views/packages/main/s2.scan3.php:60
+msgid "Database Only"
+msgstr "データベースのみ"
+
+#: views/packages/details/detail.php:364
+msgid "Database Mode"
+msgstr "データベースモード"
+
+#: views/packages/main/s1.setup2.php:291
+msgid "(file path)"
+msgstr "（ファイルパス）"
+
+#: views/packages/main/s1.setup2.php:213 views/packages/main/s1.setup2.php:246
+msgid "Archive Only the Database"
+msgstr "データベースのみをアーカイブ"
+
+#: views/packages/main/s1.setup2.php:100
+msgid "Add Notes"
+msgstr "ノートを追加"
+
+#: classes/ui/class.ui.notice.php:162 views/parts/migration-message.php:52
+msgid "Remove Installation Files Now!"
+msgstr "インストール時のファイルを削除"
+
+#: views/packages/main/s1.setup2.php:103
+msgid "Toggle a default name"
+msgstr "デフォルト名を切り替え"
+
+#: classes/ui/class.ui.notice.php:175
+#: views/parts/migration-almost-complete.php:33
+msgid "Take me there now!"
+msgstr "今すぐ移動します。"
+
+#: classes/ui/class.ui.notice.php:168 classes/ui/class.ui.notice.php:244
+#: views/parts/migration-almost-complete.php:17
+msgid "Migration Almost Complete!"
+msgstr "移行がほぼ完了しました。"
+
+#: classes/ui/class.ui.notice.php:156 views/parts/migration-message.php:17
+msgid "This site has been successfully migrated!"
+msgstr "このサイトは正常に移行されました !"
+
+#: views/packages/details/detail.php:365
+msgid "Archive Database Only Enabled"
+msgstr "アーカイブデータベースのみ有効"
+
+#: classes/ui/class.ui.notice.php:163
+msgid "Optionally, Review Duplicator at WordPress.org..."
+msgstr "必要に応じて、WordPress.org で Duplicator を確認してください..."
+
+#: src/Controllers/StorageController.php:66
+#: src/Controllers/StorageController.php:67
+msgid "Google Drive"
+msgstr "Google Drive"
+
+#: src/Controllers/StorageController.php:56
+#: src/Controllers/StorageController.php:57
+msgid "Amazon S3"
+msgstr "Amazon S3"
+
+#: views/settings/packages.php:383
+msgid "Visuals"
+msgstr "ビジュアル"
+
+#: views/settings/packages.php:11
+msgid "Package Settings Saved"
+msgstr "パッケージ設定を保存しました"
+
+#: views/settings/general.php:212
+msgid "Save General Settings"
+msgstr "全般設定を保存"
+
+#: views/settings/general.php:8
+msgid "General Settings Saved"
+msgstr "全般設定を保存しました"
+
+#: views/settings/packages.php:423
+msgid "Save Package Settings"
+msgstr "パッケージ設定を保存"
+
+#: src/Core/Bootstrap.php:264 src/Core/Bootstrap.php:265
+msgid "Schedules"
+msgstr "スケジュール"
+
+#: deactivation.php:258 deactivation.php:260
+msgid "Processing"
+msgstr "処理中"
+
+#: views/packages/main/s1.setup2.php:605
+msgid "example: DatabaseName (value is optional)"
+msgstr "例: データベース名 (値はオプションです)"
+
+#: views/packages/main/s1.setup2.php:618
+msgid "example: DatabaseUserName (value is optional)"
+msgstr "例: データベースユーザー名 (値はオプションです)"
+
+#: views/packages/main/s2.scan1.php:211
+msgid "Keep this window open during the scan process."
+msgstr "スキャン処理中にこのウィンドウを開いたままにしておきます。"
+
+#: views/packages/main/s1.setup2.php:592
+msgid "example: 3306 (value is optional)"
+msgstr "例: 3306 (値はオプションです)"
+
+#: views/packages/main/s1.setup2.php:579
+msgid "example: localhost (value is optional)"
+msgstr "例: localhost (値はオプションです)"
+
+#: views/packages/main/s2.scan3.php:631
+#: views/tools/diagnostics/inc.settings.php:179
+msgid "Disabled"
+msgstr "無効"
+
+#: views/packages/main/s1.setup1.php:245
+msgid "WordPress Root Path:"
+msgstr "WordPress ルートパス:"
+
+#: views/packages/main/s2.scan1.php:212
+msgid "This can take several minutes."
+msgstr "処理に数分かかる場合があります。"
+
+#: views/tools/diagnostics/inc.settings.php:178
+msgid "Suhosin Extension"
+msgstr "Suhosin 拡張"
+
+#: views/tools/diagnostics/inc.settings.php:199
+msgid "Comments"
+msgstr "コメント"
+
+#: classes/ui/class.ui.dialog.php:89
+msgid "OK"
+msgstr "OK"
+
+#: classes/ui/class.ui.dialog.php:90 deactivation.php:155
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: views/tools/diagnostics/inc.validator.php:16
+msgid "Run Validator"
+msgstr "バリデーターを実行"
+
+#: views/packages/main/s2.scan2.php:205
+msgid "Multisite: N/A"
+msgstr "マルチサイト: N/A"
+
+#: views/packages/main/s2.scan3.php:388
+msgid "Database Size:"
+msgstr "データベースサイズ: "
+
+#: views/packages/main/packages.php:386
+msgid "Delete Packages?"
+msgstr "パッケージを削除しますか ?"
+
+#: views/packages/main/s1.setup2.php:683
+msgid "Reset Package Settings?"
+msgstr "パッケージ設定をリセットしますか ?"
+
+#: views/packages/main/packages.php:380
+msgid "Selection Required"
+msgstr "選択必須"
+
+#: views/packages/main/s2.scan2.php:196
+msgid "Multisite: Unsupported"
+msgstr "マルチサイト: 未サポート"
+
+#: views/tools/diagnostics/inc.data.php:87
+msgid "Delete Option?"
+msgstr "オプションを削除しますか ?"
+
+#: views/tools/diagnostics/inc.data.php:94
+msgid "Clear Build Cache?"
+msgstr "ビルドキャッシュをクリアしますか ?"
+
+#: views/settings/packages.php:391
+msgid "By Year"
+msgstr "年次"
+
+#: views/settings/packages.php:398
+msgid "By Month"
+msgstr "月次"
+
+#: views/settings/packages.php:405
+msgid "By Day"
+msgstr "日次"
+
+#: views/packages/main/packages.php:374
+msgid "Bulk Action Required"
+msgstr "一括操作が必要"
+
+#: views/packages/main/packages.php:388
+msgid "Removing Packages, Please Wait..."
+msgstr "パッケージを削除しています。お待ちください..."
+
+#: views/tools/diagnostics/inc.data.php:89
+msgid "Removing Option, Please Wait..."
+msgstr "オプションを削除しています。お待ちください..."
+
+#: classes/ui/class.ui.dialog.php:86
+msgid "Processing please wait..."
+msgstr "処理中です。お待ちください..."
+
+#: views/packages/main/s2.scan2.php:101
+msgid "Get faster builds with Duplicator Pro with access to shell_exec zip."
+msgstr "Duplicator Pro で shell_exec zip にアクセスしてビルドを高速化。"
+
+#: views/tools/diagnostics/inc.data.php:107
+msgid "Delete the option value"
+msgstr "オプション値を削除する"
+
+#: views/tools/diagnostics/inc.data.php:88
+msgid "Delete the option value just selected?"
+msgstr "選択したオプション値を削除しますか ?"
+
+#: views/tools/diagnostics/inc.validator.php:17
+msgid "This will run the scan validation check.  This may take several minutes.  Do you want to Continue?"
+msgstr "これにより、スキャン検証チェックが実行されます。 これには数分かかることがあります。 続行しますか ?"
+
+#: views/tools/diagnostics/logging.php:210
+msgid "Top 20"
+msgstr "トップ 20"
+
+#: views/settings/packages.php:340
+msgid "recommended"
+msgstr "おすすめ"
+
+#: views/settings/packages.php:117
+msgid "Please contact the host or server administrator to enable this feature."
+msgstr "この機能を有効にするには、ホストまたはサーバー管理者にお問い合わせください。"
+
+#: views/settings/packages.php:162
+msgid "Custom Path"
+msgstr "カスタムパス"
+
+#: views/settings/packages.php:96
+msgid "Mysqldump"
+msgstr "Mysqldump"
+
+#: views/settings/packages.php:222
+msgid "PHP Query Limit Size"
+msgstr "PHP クエリー制限サイズ"
+
+#: views/settings/packages.php:306
+msgid "enable only for large archives"
+msgstr "大規模アーカイブにのみ有効化"
+
+#: views/settings/packages.php:387
+msgid "Created Format"
+msgstr "作成された形式"
+
+#: views/settings/packages.php:154
+msgid "See the"
+msgstr "を参照してください"
+
+#: views/settings/packages.php:413
+msgid "The UTC date format shown in the 'Created' column on the Packages screen."
+msgstr "パッケージ画面の「 Created 」列に表示されるUTCの日付形式。"
+
+#: views/settings/packages.php:116
+msgid "This server does not support the PHP shell_exec or exec function which is required for mysqldump to run. "
+msgstr "このサーバーは、mysqldump の実行に必要な PHP shell_exec または exec 関数をサポートしていません。"
+
+#: views/settings/packages.php:223
+msgid "A higher limit size will speed up the database build time, however it will use more memory. If your host has memory caps start off low."
+msgstr "上限サイズを大きくすると、データベースの構築時間が短縮されますが、より多くのメモリを使用することになります。もし、お使いのホストにメモリの上限がある場合は、低い値から始めてください。"
+
+#. Author URI of the plugin
+msgid "http://www.snapcreek.com/duplicator/"
+msgstr "http://www.snapcreek.com/duplicator/"
+
+#. Author of the plugin
+msgid "Snap Creek"
+msgstr "Snap Creek"
+
+#: views/settings/general.php:112
+msgid "Debug"
+msgstr "デバッグ"
+
+#: views/settings/general.php:116
+msgid "Debugging"
+msgstr "デバッグ"
+
+#: views/settings/general.php:119
+msgid "Enable debug options throughout user interface"
+msgstr "ユーザーインターフェイス全体でデバッグオプションを有効にする"
+
+#: views/tools/diagnostics/inc.validator.php:126
+msgid "Scanning Environment... This may take a few minutes."
+msgstr "環境をスキャンする... この作業には数分かかることがあります。"
+
+#: views/settings/packages.php:129 views/settings/packages.php:155
+#: views/tools/diagnostics/logging.php:187
+msgid "host list"
+msgstr "ホスト一覧"
+
+#: views/settings/packages.php:128
+msgid "Please visit our recommended"
+msgstr "おすすめのサイトをご覧ください"
+
+#: views/tools/diagnostics/logging.php:186
+msgid "Consider our recommended"
+msgstr "私たちの推奨事項を検討してください"
+
+#: views/tools/diagnostics/logging.php:188
+msgid "if you’re unhappy with your current provider"
+msgstr "現在のプロバイダーに不満がある場合"
+
+#: views/tools/diagnostics/inc.validator.php:43
+#: views/tools/diagnostics/inc.validator.php:157
+msgid "Run Scan Integrity Validation"
+msgstr "スキャン整合性検証を実行する"
+
+#: views/tools/diagnostics/inc.validator.php:28
+msgid "Scan Validator"
+msgstr "スキャンバリデーター"
+
+#: views/tools/diagnostics/inc.validator.php:35
+msgid "If there is a recursive loop on your system then the process has a built in check to stop after a large set of files and directories have been scanned.  "
+msgstr "システムに再帰ループがある場合、プロセスには、大量のファイルとディレクトリのセットがスキャンされた後に停止するチェック機能が組み込まれています。"
+
+#: views/tools/diagnostics/inc.validator.php:33
+msgid "This utility will help to find unreadable files and sys-links in your environment  that can lead to issues during the scan process.  "
+msgstr "このユーティリティは、スキャンプロセス中に問題を引き起こす可能性のある、環境内の読み取り不可能なファイルと sys-link を見つけるのに役立ちます。"
+
+#: views/settings/about-info.php:60
+msgid "Rate Duplicator"
+msgstr "Duplicator を評価"
+
+#: views/tools/diagnostics/inc.settings.php:134
+msgid "Process"
+msgstr "プロセス"
+
+#: views/packages/main/s2.scan1.php:257
+msgid "Yes.  Continue with the build process!"
+msgstr "はい。ビルドプロセスを続行します。"
+
+#: views/packages/main/s1.setup1.php:183
+msgid "If Duplicator does not have enough permissions then you will need to manually create the paths above. &nbsp; "
+msgstr "Duplicatorに十分な権限がない場合は、上記のパスを手動で作成する必要があります。 &nbsp; "
+
+#: views/packages/main/s1.setup2.php:501
+msgid "optional"
+msgstr "オプション"
+
+#: views/packages/main/s2.scan1.php:435
+msgid "Common Issues:"
+msgstr "共通の問題:"
+
+#: views/packages/main/s2.scan1.php:430
+msgid "Unable to perform a full scan, please try the following actions:"
+msgstr "フルスキャンを実行できません。以下の操作をお試しください:"
+
+#: views/packages/main/s2.scan1.php:431
+msgid "1. Go back and create a root path directory filter to validate the site is scan-able."
+msgstr "1. 戻ってルートパスのディレクトリフィルターを作成し、サイトがスキャン可能かどうかを検証します。"
+
+#: views/packages/main/s2.scan1.php:432
+msgid "2. Continue to add/remove filters to isolate which path is causing issues."
+msgstr "2. 引き続きフィルターの追加と削除を行い、問題の原因となっているパスを特定します。"
+
+#: views/packages/main/s2.scan1.php:433
+msgid "3. This message will go away once the correct filters are applied."
+msgstr "3. 正しいフィルターが適用されると、このメッセージは消えます。"
+
+#: views/packages/main/s1.setup2.php:501
+msgid "All values in this section are"
+msgstr "このセクションのすべての値は"
+
+#: views/settings/packages.php:122 views/tools/diagnostics/logging.php:180
+msgid "Host Recommendation:"
+msgstr "推奨ホスト:"
+
+#: views/packages/main/s2.scan3.php:434
+msgid "lower_case_table_names"
+msgstr "lower_case_table_names"
+
+#: views/settings/packages.php:123 views/tools/diagnostics/logging.php:181
+msgid "Duplicator recommends going with the high performance pro plan or better from our recommended list"
+msgstr "Duplicator は、推奨リストから高性能プロプラン以上を採用することをお勧めします"
+
+#: views/settings/packages.php:130
+msgid "for reliable access to mysqldump"
+msgstr "mysqldump への信頼できるアクセスのため"
+
+#: views/packages/main/s2.scan3.php:435
+msgid "4. For table name case sensitivity issues either rename the table with lower case characters or be prepared to work with the %1$s system variable setting."
+msgstr "4. テーブル名の大文字と小文字の区別の問題については、テーブルの名前を小文字に変更するか、%1$sシステム変数設定で機能する準備をしてください。"
+
+#: views/packages/main/s2.scan3.php:427
+msgid "1. Run a %1$s on the table to improve the overall size and performance."
+msgstr "1. テーブルに%1$sを実行して、全体のサイズとパフォーマンスを向上させます。"
+
+#: views/packages/main/s2.scan3.php:102 views/packages/main/s2.scan3.php:399
+#: views/packages/main/s3.build.php:348 views/packages/screen.php:64
+msgid "Overview"
+msgstr "概要"
+
+#: views/packages/main/s1.setup1.php:237
+msgid "None of the reserved files where found from a previous install.  This means you are clear to create a new package."
+msgstr "以前のインストールで見つかった予約済みファイルはありません。これは、新しいパッケージを作成することが明確であることを意味します。"
+
+#: views/packages/main/packages.php:316
+msgid "Error Processing"
+msgstr "エラー処理"
+
+#: views/packages/main/packages.php:299
+msgid "Package Details"
+msgstr "パッケージ詳細"
+
+#: views/packages/main/s1.setup2.php:444
+msgid "no_table_options"
+msgstr "no_table_options"
+
+#: views/packages/main/s1.setup2.php:448
+msgid "no_key_options"
+msgstr "no_key_options"
+
+#: views/packages/main/s1.setup2.php:452
+msgid "no_field_options"
+msgstr "no_field_options"
+
+#: views/packages/main/s1.setup2.php:440
+msgid "mysql40"
+msgstr "mysql40"
+
+#: views/packages/main/s1.setup2.php:417
+msgid "Compatibility Mode"
+msgstr "互換モード"
+
+#: views/packages/main/controller.php:59
+msgid "Packages &raquo; All"
+msgstr "パッケージ &raquo; すべて"
+
+#: views/packages/main/s1.setup2.php:419
+msgid "Compatibility Mode:"
+msgstr "互換モード:"
+
+#: views/packages/main/controller.php:63 views/packages/main/controller.php:67
+#: views/packages/main/controller.php:71
+msgid "Packages &raquo; New"
+msgstr "パッケージ &raquo; 新規"
+
+#: views/packages/main/s1.setup2.php:346
+msgid "Enable Table Filters:"
+msgstr "テーブルフィルタを有効化:"
+
+#: views/packages/main/s1.setup2.php:457
+msgid "This option is only available with mysqldump mode."
+msgstr "このオプションは mysqldump モードでのみ利用可能です。"
+
+#: views/packages/details/detail.php:377 views/packages/details/detail.php:387
+#: views/packages/details/detail.php:396 views/packages/details/detail.php:444
+msgid "- no filters -"
+msgstr "- フィルターなし -"
+
+#: views/packages/details/detail.php:506 views/packages/details/detail.php:510
+#: views/packages/details/detail.php:514
+msgid "- not set -"
+msgstr "- セットなし -"
+
+#: views/packages/main/s1.setup2.php:252
+msgid "File Filters:"
+msgstr "ファイルフィルター:"
+
+#: views/packages/details/detail.php:427 views/packages/main/s2.scan3.php:620
+msgid "MySQL Compatibility Mode Enabled"
+msgstr "MySQL 互換モード有効化中"
+
+#: views/packages/details/detail.php:383 views/packages/main/s2.scan3.php:649
+msgid "Extensions"
+msgstr "拡張機能"
+
+#: template/parts/DashboardWidget/recommended-section.php:45
+msgid "Learn More"
+msgstr "さらに詳しく"
+
+#: views/settings/packages.php:246
+msgid "ZipArchive"
+msgstr "Zipアーカイブ"
+
+#: views/packages/details/detail.php:353
+msgid "FILES"
+msgstr "ファイル"
+
+#: views/packages/details/detail.php:161
+msgid "completed"
+msgstr "完了"
+
+#: views/packages/details/detail.php:161
+msgid "in-complete"
+msgstr "不完全"
+
+#: views/packages/details/detail.php:357
+msgid "Build Mode"
+msgstr "ビルドモード"
+
+#: views/packages/details/detail.php:327 views/packages/main/s1.setup2.php:179
+msgid "Additional Storage:"
+msgstr "追加ストレージ:"
+
+#: views/packages/details/detail.php:369 views/packages/details/detail.php:434
+#: views/packages/main/s1.setup2.php:234 views/packages/main/s1.setup2.php:337
+msgid "Filters"
+msgstr "フィルター"
+
+#: views/packages/details/detail.php:156
+msgid "Runtime"
+msgstr "処理時間"
+
+#: views/packages/details/detail.php:141
+msgid "PHP"
+msgstr "PHP"
+
+#: views/packages/details/detail.php:145
+msgid "Mysql"
+msgstr "Mysql"
+
+#: views/packages/details/detail.php:122
+msgid "- no notes -"
+msgstr "- メモなし -"
+
+#: views/packages/details/detail.php:157
+msgid "error running"
+msgstr "実行エラー"
+
+#: views/packages/details/detail.php:160
+msgid "Status"
+msgstr "ステータス"
+
+#: views/packages/details/detail.php:113
+msgid "Full Name"
+msgstr "お名前"
+
+#: views/packages/details/detail.php:138 views/packages/details/detail.php:142
+#: views/packages/details/detail.php:147 views/packages/details/detail.php:148
+#: views/packages/details/detail.php:165
+msgid "- unknown -"
+msgstr "- 不明 -"
+
+#: views/packages/details/controller.php:54
+msgid "Transfer"
+msgstr "転送"
+
+#: views/packages/details/controller.php:24
+msgid "resources page"
+msgstr "リソースページ"
+
+#: views/packages/details/controller.php:43
+msgid " for details."
+msgstr "詳細について。"
+
+#: views/packages/details/detail.php:79
+msgid "Invalid Package ID request.  Please try again!"
+msgstr "無効なパッケージ ID リクエスト。もう一度お試しください。"
+
+#: views/packages/details/controller.php:44
+msgid "For help visit the "
+msgstr "ヘルプが必要な場合はこちらへどうぞ。"
+
+#: views/packages/details/controller.php:43
+msgid "This package contains an error.  Please review the "
+msgstr "このパッケージにはエラーが含まれています。以下を確認してください。"
+
+#: views/packages/details/detail.php:105
+msgid "ID"
+msgstr "ID"
+
+#: views/packages/details/controller.php:44
+msgid " and "
+msgstr "と"
+
+#: src/Libs/Upsell.php:83 src/Libs/Upsell.php:130
+msgid "Email Alerts"
+msgstr "メールアラート"
+
+#: views/packages/main/s2.scan3.php:630
+msgid "File Filters"
+msgstr "ファイルのフィルター"
+
+#: src/Libs/Upsell.php:131
+msgid "Custom Search & Replace"
+msgstr "カスタム検索と置換"
+
+#: views/packages/details/controller.php:17
+msgid "package log"
+msgstr "パッケージログ"
+
+#: views/packages/details/controller.php:20
+msgid "FAQ"
+msgstr "FAQ"
+
+#: template/admin_pages/about_us/lite_vs_pro/main.php:38
+msgid "Feature"
+msgstr "おすすめ"
+
+#: views/tools/diagnostics/logging.php:200
+msgid "Refresh"
+msgstr "再読み込み"
+
+#: views/tools/diagnostics/inc.phpinfo.php:26
+msgid "PHP Information"
+msgstr "PHP 情報"
+
+#: views/tools/diagnostics/logging.php:166
+msgid "Log file not found or unreadable"
+msgstr "ログファイルが見つからないか読めません"
+
+#. Plugin Name of the plugin
+#: src/Views/DashboardWidget.php:42
+msgid "Duplicator"
+msgstr "Duplicator"
+
+#: views/tools/diagnostics/inc.settings.php:219
+msgid "Server Disk"
+msgstr "サーバーディスク"
+
+#: views/tools/diagnostics/inc.settings.php:215
+msgid "msyqldump Path"
+msgstr "msyqldump パス"
+
+#: views/tools/diagnostics/inc.data.php:11
+msgid "Stored Data"
+msgstr "格納されたデータ"
+
+#: views/tools/diagnostics/inc.settings.php:207
+msgid "Wait Timeout"
+msgstr "待機タイムアウト"
+
+#: views/tools/diagnostics/inc.data.php:53
+msgid "Options Values"
+msgstr "オプション値"
+
+#: views/tools/diagnostics/logging.php:203
+msgid "Auto Refresh"
+msgstr "自動再読み込み"
+
+#: views/tools/diagnostics/inc.settings.php:222
+msgid "Free space"
+msgstr "未使用スペース"
+
+#: views/tools/diagnostics/logging.php:168
+msgid "Reasons for log file not showing"
+msgstr "ログファイルが表示されない理由"
+
+#: views/tools/diagnostics/logging.php:193
+#: views/tools/diagnostics/logging.php:198
+msgid "Options"
+msgstr "オプション"
+
+#: views/tools/diagnostics/inc.settings.php:211
+msgid "Max Allowed Packets"
+msgstr "許可される最大パケット数"
+
+#: views/tools/diagnostics/inc.settings.php:231
+msgid "Note: This value is the physical servers hard-drive allocation."
+msgstr "注: この値は、物理的なサーバーのハードドライブの割り当てです。"
+
+#: views/tools/diagnostics/logging.php:171
+msgid "The process that PHP runs under does not have enough permissions to create files.  Please contact your hosting provider for more details"
+msgstr "PHP が動作するプロセスに、ファイルを作成するための十分な権限がありません。 詳細については、ホスティングプロバイダーにお問い合わせください。"
+
+#: views/tools/diagnostics/logging.php:170
+msgid "The snapshots directory does not have the correct permissions to write files.  Try setting the permissions to 755"
+msgstr "スナップショットディレクトリには、ファイルを書き込むための適切なパーミッションがありません。 パーミッションを755に設定してみてください"
+
+#: views/tools/diagnostics/logging.php:169
+msgid "The web server does not support returning .log file extentions"
+msgstr "Web サーバーは、.log ファイルの拡張子を返すことをサポートしていません"
+
+#: views/tools/diagnostics/logging.php:167
+msgid "Try to create a package, since no log files were found in the snapshots directory with the extension *.log"
+msgstr "拡張子が* .log のスナップショットディレクトリにログファイルが見つからなかったため、パッケージを作成してみてください。"
+
+#: views/tools/diagnostics/inc.settings.php:232
+msgid "On shared hosts check your control panel for the 'TRUE' disk space quota value."
+msgstr "共有ホストでは、コントロールパネルで「TRUE」ディスク容量クォータ値を確認してください。"
+
+#: views/packages/details/detail.php:91 views/settings/controller.php:29
+#: views/tools/controller.php:25 views/tools/diagnostics/inc.settings.php:35
+msgid "General"
+msgstr "一般"
+
+#: views/packages/details/detail.php:137 views/packages/main/s2.scan2.php:131
+msgid "WordPress"
+msgstr "WordPress"
+
+#: views/packages/main/s3.build.php:171
+msgid "Build Status"
+msgstr "ビルドの状況"
+
+#: template/parts/DashboardWidget/sections-section.php:51
+#: views/packages/main/s2.scan3.php:42 views/packages/main/s2.scan3.php:382
+#: views/packages/main/s2.scan3.php:631 views/settings/general.php:126
+#: views/tools/diagnostics/inc.settings.php:179
+msgid "Enabled"
+msgstr "有効"
+
+#: views/packages/main/s2.scan3.php:611
+msgid "Name:"
+msgstr "名前:"
+
+#: views/packages/main/s1.setup2.php:673
+msgid "Reset"
+msgstr "リセット"
+
+#: views/tools/diagnostics/inc.settings.php:142
+msgid "On"
+msgstr "オン"
+
+#: views/tools/diagnostics/inc.settings.php:142
+msgid "Off"
+msgstr "オフ"
+
+#: views/settings/general.php:82
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: views/tools/diagnostics/inc.settings.php:45
+msgid "Operating System"
+msgstr "オペレーション・システム"
+
+#: views/tools/diagnostics/inc.settings.php:138
+msgid "Safe Mode"
+msgstr "セーフモード"
+
+#: views/packages/main/s2.scan1.php:220
+msgid "Scan Error"
+msgstr "スキャンエラー"
+
+#: views/packages/main/s2.scan1.php:162 views/packages/main/s2.scan1.php:226
+#: views/packages/main/s3.build.php:519
+msgid "Error Message:"
+msgstr "エラーメッセージ:"
+
+#: views/packages/main/s2.scan1.php:172 views/packages/main/s2.scan1.php:281
+msgid "Back"
+msgstr "戻る"
+
+#: views/packages/main/s2.scan3.php:131
+msgid "Large Files"
+msgstr "大きいファイル"
+
+#: views/packages/details/detail.php:440 views/packages/main/s2.scan3.php:405
+msgid "Tables"
+msgstr "テーブル"
+
+#: views/packages/main/s2.scan3.php:406
+msgid "Records"
+msgstr "レコード"
+
+#: views/packages/main/s2.scan3.php:426
+msgid "repair and optimization"
+msgstr "修復と最適化"
+
+#: views/packages/main/s2.scan3.php:612
+msgid "Host:"
+msgstr "ホスト:"
+
+#: views/packages/main/s2.scan1.php:208
+msgid "Scanning Site"
+msgstr "サイトをスキャン中"
+
+#: views/packages/main/s2.scan1.php:235
+msgid "Scan Complete"
+msgstr "スキャン完了"
+
+#: views/packages/details/detail.php:428 views/packages/main/s1.setup2.php:425
+#: views/packages/main/s2.scan2.php:86 views/packages/main/s2.scan2.php:97
+#: views/packages/main/s2.scan2.php:103 views/packages/main/s2.scan3.php:621
+msgid "details"
+msgstr "詳細"
+
+#: views/packages/main/s2.scan2.php:142
+msgid "Core Files"
+msgstr "コアファイル"
+
+#: views/packages/details/detail.php:505 views/packages/main/s1.setup2.php:571
+msgid "Host"
+msgstr "ホスト"
+
+#: views/packages/main/s2.scan1.php:282
+msgid "Rescan"
+msgstr "再スキャン"
+
+#: views/settings/general.php:97
+msgid "Uninstall"
+msgstr "アンインストール"
+
+#: views/settings/general.php:101
+msgid "Delete Plugin Settings"
+msgstr "プラグイン設定を削除する"
+
+#: views/tools/diagnostics/information.php:43
+msgid "Build cache removed."
+msgstr "ビルドキャッシュが削除されました。"
+
+#: views/tools/diagnostics/inc.data.php:45
+msgid "Clear Build Cache"
+msgstr "ビルドキャッシュのクリア"
+
+#: views/tools/diagnostics/inc.settings.php:50
+msgid "Timezone"
+msgstr "タイムゾーン"
+
+#: views/packages/main/s2.scan3.php:10
+#: views/tools/diagnostics/inc.settings.php:66
+msgid "Root Path"
+msgstr "ルートパス"
+
+#: views/packages/main/s1.setup2.php:355
+msgid "Exclude All"
+msgstr "全て除外"
+
+#: views/tools/diagnostics/inc.settings.php:151
+msgid "Memory In Use"
+msgstr "使用中のメモリー"
+
+#: views/tools/diagnostics/inc.settings.php:170
+msgid "Shell Exec"
+msgstr "シェル exec"
+
+#: views/tools/diagnostics/inc.settings.php:29
+msgid "Server Settings"
+msgstr "サーバー設定"
+
+#: views/tools/diagnostics/inc.settings.php:38
+msgid "Duplicator Version"
+msgstr "Duplicator バージョン"
+
+#: views/tools/diagnostics/inc.settings.php:55
+msgid "Server Time"
+msgstr "サーバー時間"
+
+#: views/packages/main/s2.scan3.php:614
+msgid "Build Mode:"
+msgstr "ビルドモード:"
+
+#: views/tools/diagnostics/inc.settings.php:115
+msgid "Max"
+msgstr "最大"
+
+#: views/packages/main/s2.scan2.php:73
+#: views/tools/diagnostics/inc.settings.php:59
+msgid "Web Server"
+msgstr "Web サーバー"
+
+#: views/packages/main/s2.scan3.php:94
+msgid "File Count"
+msgstr "ファイル数"
+
+#: views/tools/diagnostics/inc.settings.php:106
+msgid "Language"
+msgstr "言語"
+
+#: views/tools/diagnostics/inc.settings.php:114
+msgid "Memory Limit "
+msgstr "メモリ上限"
+
+#: views/tools/diagnostics/inc.settings.php:147
+msgid "Memory Limit"
+msgstr "メモリ上限"
+
+#: views/packages/main/s3.build.php:394
+msgid "Build Folder:"
+msgstr "ビルドフォルダー:"
+
+#: views/tools/diagnostics/inc.settings.php:82
+msgid "Server IP"
+msgstr "サーバー IP"
+
+#: views/tools/diagnostics/inc.settings.php:95
+msgid "Client IP"
+msgstr "クライアント IP"
+
+#: views/packages/main/s1.setup2.php:623
+#: views/tools/diagnostics/inc.settings.php:110
+#: views/tools/diagnostics/inc.settings.php:203
+msgid "Charset"
+msgstr "文字セット"
+
+#: views/packages/main/s2.scan1.php:223 views/packages/main/s3.build.php:502
+msgid "Server Status:"
+msgstr "サーバーステータス:"
+
+#: views/packages/main/s2.scan1.php:160 views/packages/main/s2.scan1.php:221
+msgid "Please try again!"
+msgstr "もう一度お試しください。"
+
+#: views/tools/diagnostics/inc.settings.php:171
+#: views/tools/diagnostics/inc.settings.php:175
+msgid "Is Supported"
+msgstr "はサポートされています"
+
+#: views/tools/diagnostics/inc.settings.php:70
+msgid "ABSPATH"
+msgstr "ABSPATH"
+
+#: views/tools/diagnostics/inc.settings.php:78
+msgid "Loaded PHP INI"
+msgstr "読み込み中の PHP INI"
+
+#: views/packages/main/s1.setup2.php:354
+msgid "Include All"
+msgstr "すべてを含める"
+
+#: views/tools/diagnostics/inc.settings.php:155
+#: views/tools/diagnostics/inc.settings.php:164
+msgid "Max Execution Time"
+msgstr "最大実行時間"
+
+#: views/tools/diagnostics/inc.settings.php:74
+msgid "Plugins Path"
+msgstr "プラグインパス"
+
+#: views/settings/packages.php:212
+msgid "Query Limit Size"
+msgstr "クエリー上限サイズ"
+
+#: views/packages/main/s3.build.php:161
+msgid "Building Package"
+msgstr "パッケージをビルドする"
+
+#: views/packages/main/s1.setup2.php:584
+msgid "Host Port"
+msgstr "ホストのポート"
+
+#: views/packages/main/s2.scan3.php:95
+msgid "Directory Count"
+msgstr "ディレクトリ数"
+
+#: views/packages/main/s2.scan3.php:253 views/packages/main/s2.scan3.php:267
+msgid "Name Checks"
+msgstr "名前チェック"
+
+#: views/packages/main/s2.scan3.php:655
+msgid "No file extension filters have been set."
+msgstr "ファイル拡張子フィルタが設定されていません。"
+
+#: views/packages/main/s2.scan2.php:74
+msgid "Supported web servers: "
+msgstr "対応 Web サーバー:"
+
+#: views/packages/main/s1.setup2.php:344
+msgid "Enable Table Filters"
+msgstr "テーブルフィルターを有効化"
+
+#: views/settings/general.php:105
+msgid "Delete Entire Storage Directory"
+msgstr "格納ディレクトリをすべて削除"
+
+#: views/tools/diagnostics/information.php:68
+msgid "Active package settings reset."
+msgstr "現在のパッケージ設定をリセットしました。"
+
+#: views/packages/main/s2.scan1.php:253
+msgid "A notice status has been detected, are you sure you want to continue?"
+msgstr "警告ステータスが検出されました。本当に継続しますか ?"
+
+#: views/tools/diagnostics/information.php:62
+msgid "Plugin settings reset."
+msgstr "プラグイン設定をリセットしました。"
+
+#: views/settings/storage.php:106
+msgid "Disable .htaccess file in storage directory"
+msgstr "ストレージディレクトリで .htaccess ファイルを無効にする"
+
+#: views/packages/details/detail.php:501 views/packages/main/s1.setup2.php:568
+msgid " MySQL Server"
+msgstr "MySQL サーバー"
+
+#: views/tools/diagnostics/inc.data.php:25
+msgid "Removes all reserved installer files."
+msgstr "予約済みのインストーラーファイルをすべて削除します。"
+
+#: views/packages/main/s2.scan1.php:459 views/packages/main/s2.scan3.php:61
+#: views/packages/main/s2.scan3.php:73 views/packages/main/s3.build.php:390
+msgid "Notice"
+msgstr "通知"
+
+#: views/packages/main/s2.scan1.php:210 views/packages/main/s3.build.php:163
+msgid "Please Wait..."
+msgstr "しばらくお待ちください…"
+
+#: views/packages/main/s2.scan1.php:265
+msgid "Please review the details for each section by clicking on the detail title."
+msgstr "詳細タイトルをクリックし、各警告の詳細を確認してください。"
+
+#: views/tools/diagnostics/inc.data.php:16
+msgid "Data Cleanup"
+msgstr "データクリーンアップ"
+
+#: template/parts/DashboardWidget/sections-section.php:56
+#: views/packages/main/s1.setup2.php:674
+msgid "Next"
+msgstr "次"
+
+#: views/tools/diagnostics/inc.settings.php:171
+#: views/tools/diagnostics/inc.settings.php:175
+msgid "Not Supported"
+msgstr "サポートされていません"
+
+#: views/packages/main/s2.scan2.php:137
+msgid "WordPress Version"
+msgstr "WordPress バージョン"
+
+#: views/tools/diagnostics/inc.settings.php:5
+#: views/tools/diagnostics/inc.settings.php:6
+msgid "unknow"
+msgstr "未知"
+
+#: views/packages/main/s2.scan3.php:995
+msgid "Unable to report on database stats"
+msgstr "データベースの統計情報をレポートできません"
+
+#: views/packages/main/s2.scan3.php:969
+msgid "Unable to report on any tables"
+msgstr "いずれのテーブルでもレポートできません"
+
+#: views/tools/diagnostics/inc.settings.php:174
+msgid "Shell Exec Zip"
+msgstr "シェル実行 Zip"
+
+#: views/settings/packages.php:302
+msgid "Archive Flush"
+msgstr "アーカイブフラッシュ"
+
+#: views/tools/diagnostics/information.php:65
+msgid "View state settings reset."
+msgstr "表示状態の設定をリセットします。"
+
+#: views/tools/diagnostics/inc.data.php:95
+msgid "This process will remove all build cache files.  Be sure no packages are currently building or else they will be cancelled."
+msgstr "このプロセスは、すべてのビルドキャッシュファイルを削除します。現在ビルド中のパッケージがないことを確認してください。そうでない場合、パッケージはキャンセルされます。"
+
+#: views/tools/diagnostics/inc.data.php:48
+msgid "Removes all build data from:"
+msgstr "すべてのビルドデータを削除します:"
+
+#: views/settings/packages.php:309
+msgid "This will attempt to keep a network connection established for large archives."
+msgstr "これにより、大規模なアーカイブに対してネットワーク接続が確立されたままになります。"
+
+#: views/packages/main/s2.scan1.php:263
+msgid "Scan checks are not required to pass, however they could cause issues on some systems."
+msgstr "スキャンチェックに合格する必要はありませんが、一部のシステムでは問題が発生する可能性があります。"
+
+#: views/packages/main/s1.setup2.php:684
+msgid "This will clear and reset all of the current package settings.  Would you like to continue?"
+msgstr "これにより、現在のパッケージ設定がすべてクリアされ、リセットされます。 続けますか ?"
+
+#: views/packages/main/s1.setup2.php:347
+msgid "Checked tables will not be added to the database script.  Excluding certain tables can possibly cause your site or plugins to not work correctly after install!"
+msgstr "チェックされたテーブルはデータベーススクリプトに追加されません。 特定のテーブルを除外すると、インストール後にサイトまたはプラグインが正しく機能しなくなる可能性があります。"
+
+#: views/settings/packages.php:305
+msgid "Attempt Network Keep Alive"
+msgstr "ネットワークの存続を試みる"
+
+#: views/packages/main/s2.scan2.php:85
+msgid "Issues might occur when [open_basedir] is enabled. Work with your server admin to disable this value in the php.ini file if you’re having issues building a package."
+msgstr "[open_basedir] を有効にすると、問題が発生する可能性があります。 パッケージの構築で問題が発生した場合は、サーバー管理者と協力して php.ini ファイルでこの値を無効にしてください。"
+
+#: src/Core/Bootstrap.php:295 src/Core/Bootstrap.php:296
+#: views/settings/controller.php:22 views/settings/general.php:151
+msgid "Settings"
+msgstr "設定"
+
+#: views/packages/main/packages.php:195 views/packages/main/s2.scan3.php:93
+#: views/packages/main/s2.scan3.php:404
+msgid "Size"
+msgstr "サイズ"
+
+#: template/mocks/storage/storage.php:103 views/packages/details/detail.php:278
+#: views/packages/details/detail.php:417 views/packages/main/s1.setup2.php:135
+#: views/settings/license.php:23
+msgid "Type"
+msgstr "タイプ"
+
+#: template/mocks/storage/storage.php:75 views/packages/main/packages.php:96
+msgid "Delete"
+msgstr "削除"
+
+#: views/packages/details/controller.php:51
+msgid "Details"
+msgstr "詳細"
+
+#: views/packages/details/detail.php:298 views/packages/main/s1.setup2.php:158
+msgid "Local"
+msgstr "ローカル"
+
+#: views/packages/details/detail.php:465 views/packages/main/s1.setup1.php:62
+#: views/packages/main/s1.setup2.php:512 views/packages/main/s2.scan1.php:186
+#: views/packages/main/s2.scan2.php:10 views/packages/main/s3.build.php:122
+msgid "Setup"
+msgstr "設定"
+
+#: views/tools/diagnostics/support.php:62
+msgid "FAQs"
+msgstr "よくある質問"
+
+#: views/packages/details/detail.php:285 views/packages/main/s1.setup2.php:145
+msgid "Default"
+msgstr "デフォルト"
+
+#: views/packages/main/packages.php:101
+msgid "Apply"
+msgstr "適用"
+
+#: views/packages/details/detail.php:129 views/settings/general.php:86
+#: views/tools/diagnostics/inc.settings.php:102
+#: views/tools/diagnostics/inc.settings.php:122
+#: views/tools/diagnostics/inc.settings.php:195
+msgid "Version"
+msgstr "バージョン"
+
+#: views/tools/diagnostics/support.php:54
+msgid "Quick Start"
+msgstr "クイックスタート"
+
+#: template/mocks/storage/storage.php:73 views/packages/main/packages.php:93
+msgid "Bulk Actions"
+msgstr "一括操作"
+
+#: views/packages/main/s1.setup1.php:109 views/packages/main/s2.scan2.php:78
+msgid "PHP Version"
+msgstr "PHP バージョン"
+
+#: src/Core/Bootstrap.php:284 src/Core/Bootstrap.php:285
+#: views/tools/controller.php:22
+msgid "Tools"
+msgstr "ツール"
+
+#: views/packages/details/detail.php:509 views/packages/main/s1.setup2.php:227
+#: views/packages/main/s1.setup2.php:597 views/packages/main/s2.scan3.php:376
+#: views/packages/main/s2.scan3.php:609 views/settings/packages.php:88
+msgid "Database"
+msgstr "データベース"
+
+#: views/packages/details/detail.php:168 views/packages/details/detail.php:392
+#: views/packages/main/s1.setup2.php:226 views/packages/main/s2.scan3.php:32
+#: views/packages/main/s2.scan3.php:660 views/packages/main/s2.scan3.php:712
+msgid "Files"
+msgstr "ファイル"
+
+#: views/packages/details/detail.php:206 views/packages/details/detail.php:345
+#: views/packages/main/packages.php:297 views/packages/main/s1.setup2.php:200
+#: views/packages/main/s2.scan3.php:25 views/packages/main/s3.build.php:194
+#: views/settings/packages.php:237
+msgid "Archive"
+msgstr "アーカイブ"
+
+#: views/packages/main/s1.setup2.php:266
+msgid "wp-uploads"
+msgstr "wp-uploads"
+
+#: views/packages/main/s1.setup2.php:267
+msgid "cache"
+msgstr "キャッシュ"
+
+#: views/packages/main/s1.setup2.php:277
+msgid "media"
+msgstr "メディア"
+
+#: views/packages/main/s1.setup2.php:278
+msgid "archive"
+msgstr "アーカイブ"
+
+#: views/packages/details/detail.php:241
+msgid "Download Links"
+msgstr "ダウンロードリンク"
+
+#: views/packages/details/detail.php:539
+msgid "Package File Links"
+msgstr "パッケージファイルへのリンク"
+
+#: views/packages/details/detail.php:409
+msgid "DATABASE"
+msgstr "データベース"
+
+#: views/packages/details/detail.php:545
+msgid "LOG"
+msgstr "ログ"
+
+#: views/packages/main/s1.setup1.php:63 views/packages/main/s2.scan1.php:187
+#: views/packages/main/s3.build.php:123
+msgid "Scan"
+msgstr "スキャン"
+
+#: views/packages/main/s1.setup1.php:64 views/packages/main/s2.scan1.php:188
+#: views/packages/main/s2.scan1.php:283 views/packages/main/s3.build.php:124
+msgid "Build"
+msgstr "ビルド"
+
+#: views/tools/diagnostics/logging.php:209
+msgid "Package Logs"
+msgstr "パッケージログ"
+
+#: template/parts/DashboardWidget/package-create-section.php:46
+#: views/packages/main/packages.php:142 views/packages/main/s3.build.php:146
+msgid "Create New"
+msgstr "新規作成"
+
+#: views/packages/main/packages.php:192
+msgid "Select all packages"
+msgstr "すべてのパッケージを選択"
+
+#: views/packages/main/packages.php:205 views/packages/main/s2.scan3.php:602
+msgid "Package"
+msgstr "パッケージ"
+
+#: views/packages/details/detail.php:222 views/packages/details/detail.php:457
+#: views/packages/main/packages.php:291 views/packages/main/s1.setup2.php:482
+#: views/packages/main/s3.build.php:191 views/settings/packages.php:318
+msgid "Installer"
+msgstr "インストーラー"
+
+#: views/packages/details/detail.php:164 views/packages/details/detail.php:513
+#: views/packages/main/s1.setup2.php:610
+#: views/tools/diagnostics/inc.settings.php:130
+msgid "User"
+msgstr "ユーザー"
+
+#: views/packages/details/detail.php:109
+msgid "Hash"
+msgstr "ハッシュ値"
+
+#: views/tools/diagnostics/support.php:48
+msgid "Knowledgebase"
+msgstr "ナレッジベース"
+
+#: views/tools/diagnostics/support.php:58
+msgid "User Guide"
+msgstr "ユーザーガイド"
+
+#: views/tools/diagnostics/support.php:66
+msgid "Change Log"
+msgstr "更新履歴"
+
+#: views/packages/main/s1.setup1.php:250
+msgid "Remove Files Now"
+msgstr "今すぐファイルを削除"
+
+#: src/Core/Bootstrap.php:275 src/Core/Bootstrap.php:276
+#: template/mocks/storage/storage.php:53 views/packages/details/detail.php:269
+#: views/packages/main/s1.setup2.php:117 views/settings/controller.php:41
+msgid "Storage"
+msgstr "ストレージ"
+
+#: views/packages/main/s1.setup2.php:209
+msgid "Database filter enabled"
+msgstr "データベースフィルタが有効です"
+
+#: views/packages/main/s1.setup2.php:250
+msgid "Enable File Filters"
+msgstr "ファイルフィルタの有効化"
+
+#: views/packages/main/s1.setup2.php:265
+msgid "root path"
+msgstr "ルートパス"
+
+#: views/packages/main/s1.setup1.php:129
+msgid "Safe Mode Off"
+msgstr "セーフモード OFF"
+
+#: views/packages/main/s1.setup1.php:134 views/packages/main/s1.setup1.php:139
+#: views/packages/main/s1.setup1.php:144
+msgid "Function"
+msgstr "機能"
+
+#: src/Controllers/AboutUsController.php:109
+msgid "Migration Wizard"
+msgstr "移行ウィザード"
+
+#: src/Controllers/AboutUsController.php:126 src/Libs/Upsell.php:70
+#: src/Libs/Upsell.php:114 template/admin_pages/welcome/features.php:28
+msgid "Scheduled Backups"
+msgstr "予定されたバックアップ"
+
+#: views/packages/main/packages.php:158 views/packages/main/packages.php:213
+msgid "No Packages Found"
+msgstr "パッケージが見つかりませんでした。"
+
+#: src/Core/Bootstrap.php:243 src/Core/Bootstrap.php:244
+#: views/packages/details/controller.php:57
+#: views/packages/main/s3.build.php:135 views/settings/controller.php:35
+msgid "Packages"
+msgstr "パッケージ"
+
+#: src/Core/Bootstrap.php:473 views/settings/license.php:11
+msgid "Manage"
+msgstr "管理"
+
+#: views/settings/about-info.php:71
+msgid "Support Duplicator"
+msgstr "Duplicator をサポート"
+
+#: views/packages/main/s2.scan3.php:505
+msgid "Total Size"
+msgstr "合計値"
+
+#: views/packages/main/s1.setup1.php:103
+msgid "PHP Support"
+msgstr "PHP サポート"
+
+#: views/packages/main/s1.setup1.php:88
+msgid "Requirements:"
+msgstr "要件:"
+
+#: views/packages/main/s1.setup1.php:198
+msgid "MySQL Version"
+msgstr "MySQL バージョン"
+
+#: views/packages/main/s1.setup1.php:202
+msgid "MySQLi Support"
+msgstr "MySQLi サポート"
+
+#: views/packages/main/s1.setup1.php:192
+msgid "Server Support"
+msgstr "サーバーサポート"
+
+#: views/parts/migration-clean-installation-files.php:78
+msgid "Help Support Duplicator"
+msgstr "Duplicator のサポートに力を貸してください"
+
+#: views/packages/main/s1.setup1.php:213
+#: views/tools/diagnostics/inc.data.php:26
+msgid "more info"
+msgstr "詳細"
+
+#: views/tools/diagnostics/support.php:53
+msgid "Choose A Section"
+msgstr "セクションの選択"
+
+#: views/packages/main/s1.setup1.php:232
+msgid "Reserved Files"
+msgstr "予約済みファイル"
+
+#: views/packages/main/s1.setup2.php:205
+msgid "File filter enabled"
+msgstr "ファイルフィルター有効化中"
+
+#: views/packages/main/s1.setup1.php:115
+msgid "Zip Archive Enabled"
+msgstr "ZIP アーカイブ有効化中"
+
+#: views/packages/details/detail.php:373 views/packages/main/s2.scan3.php:638
+#: views/packages/main/s2.scan3.php:703
+msgid "Directories"
+msgstr "ディレクトリ"
+
+#: views/packages/main/s1.setup2.php:268 views/packages/main/s1.setup2.php:279
+#: views/packages/main/s1.setup2.php:292
+msgid "(clear)"
+msgstr "(クリア)"
+
+#: views/packages/main/s1.setup2.php:274
+msgid "File extensions"
+msgstr "ファイル拡張子"
+
+#: views/packages/main/packages.php:105
+msgid "Get Help"
+msgstr "ヘルプ"
+
+#: src/Controllers/AboutUsController.php:101
+msgid "Backup Files & Database"
+msgstr "バックアップファイル & データベース"
+
+#: views/packages/main/s1.setup1.php:12
+msgid "Package settings have been reset."
+msgstr "パッケージ設定をリセットしました。"
+
+#: views/packages/main/s1.setup1.php:97
+msgid "System requirements must pass for the Duplicator to work properly.  Click each link for details."
+msgstr "Duplicator が正常に動作するには、システム要件が満たされている必要があります。 詳細については、各リンクをクリックしてください。"
+
+#: classes/utilities/class.u.php:506
+msgid "You do not have sufficient permissions to access this page."
+msgstr "このページを表示する権限がありません。"
+
+#: template/mocks/storage/storage.php:102 views/packages/details/detail.php:97
+#: views/packages/details/detail.php:277 views/packages/details/detail.php:413
+#: views/packages/main/packages.php:196 views/packages/main/s1.setup2.php:97
+#: views/packages/main/s1.setup2.php:134 views/packages/main/s2.scan3.php:603
+msgid "Name"
+msgstr "名前"
+
+#: views/packages/main/s1.setup2.php:258 views/packages/main/s1.setup2.php:273
+#: views/packages/main/s1.setup2.php:284
+msgid "Separate all filters by semicolon"
+msgstr "すべてのフィルターをセミコロンで区切る"
+
+#: views/packages/details/detail.php:121 views/packages/main/s1.setup2.php:106
+#: views/packages/main/s2.scan3.php:604
+msgid "Notes"
+msgstr "メモ"
+
+#: views/packages/details/detail.php:125 views/packages/main/packages.php:194
+msgid "Created"
+msgstr "作成日"
+
+#: views/packages/main/s1.setup2.php:136 views/settings/storage.php:71
+msgid "Location"
+msgstr "地域"
+
+#: views/packages/details/detail.php:522
+msgid "View Package Object"
+msgstr "パッケージオブジェクトを表示"
+
+#: views/packages/main/s2.scan3.php:115
+msgid "Duplicator Pro."
+msgstr "Duplicator Pro。"
+
+#: views/packages/details/detail.php:324 views/packages/main/packages.php:174
+#: views/packages/main/packages.php:340 views/packages/main/s1.setup2.php:176
+#: views/packages/main/s2.scan3.php:559 views/packages/main/s2.scan3.php:571
+#: views/packages/main/s3.build.php:25 views/packages/main/s3.build.php:239
+msgid "Duplicator Pro"
+msgstr "Duplicator Pro"
+
+#: views/packages/main/packages.php:387
+msgid "Are you sure you want to delete the selected package(s)?"
+msgstr "本当に選択したパッケージを削除してもよいですか ?"
+
+#: views/tools/diagnostics/support.php:51
+msgid "Complete Online Documentation"
+msgstr "オンラインドキュメントの完成"
+
+#: views/packages/main/packages.php:95
+msgid "Delete selected package(s)"
+msgstr "選択したパッケージを削除します"
+
+#: views/packages/details/detail.php:244
+msgid "The following links contain sensitive data. Share with caution!"
+msgstr "次のリンクには機密データが含まれています。 注意して共有してください !"
+
+#: views/packages/main/s1.setup1.php:158
+msgid "Required Paths"
+msgstr "必須パス"
+
+#: views/settings/about-info.php:87
+msgid "Spread the Word"
+msgstr "言葉を広める"
+
+#: views/packages/main/s1.setup2.php:297
+msgid "The directory, file and extensions paths above will be excluded from the archive file if enabled is checked."
+msgstr "上記のディレクトリ、ファイル、および拡張機能のパスは、有効になっている場合、アーカイブファイルから除外されます。"
+
+#: views/packages/main/s1.setup2.php:298
+msgid "Use the full path for directories and files with semicolons to separate all paths."
+msgstr "すべてのパスを区切るには、セミコロン付きのディレクトリとファイルのフルパスを使用します。"

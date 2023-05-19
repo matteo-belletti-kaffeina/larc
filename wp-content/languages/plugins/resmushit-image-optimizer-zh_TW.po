@@ -1,0 +1,316 @@
+# Translation of Plugins - reSmush.it : the only free Image Optimizer &amp; compress plugin - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - reSmush.it : the only free Image Optimizer &amp; compress plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-02-17 19:04:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - reSmush.it : the only free Image Optimizer &amp; compress plugin - Stable (latest release)\n"
+
+#: classes/resmushitUI.class.php:287
+msgid "Restore ALL my original pictures"
+msgstr "全部回復為我的原始圖片"
+
+#: classes/resmushitUI.class.php:285
+msgid "Warning! By clicking the button below, you will restore all the original pictures, as before reSmush.it Image Optimizer installation. You will not have your pictures optimized! We strongly advice to be sure to have a complete backup of your website before performing this action"
+msgstr "警告! 當你點擊下面的按鈕後, 你會將全部圖片回復為 reSmush.it 圖片優化外掛安裝前的原始圖片. 你的圖片將不會優化! 我們強烈建議你在執行這個動作前先完整備份你的網站."
+
+#: classes/resmushitUI.class.php:279
+msgid "Restore Media Library"
+msgstr "回復媒體庫"
+
+#: classes/resmushitUI.class.php:419
+msgid "Remove backup files"
+msgstr "移除備份檔案"
+
+#: classes/resmushitUI.class.php:417
+msgid "We have found %s files ready to be removed"
+msgstr "我們已找到 %s 個檔案準備移除"
+
+#: classes/resmushitUI.class.php:414
+msgid "Keep these files and turn off \"Do not preserve backups\" option if you want to restore your unoptimized files in the future. Please <a href=\"%s\" title=\"Should I remove backups? target=\"_blank\">read instructions</a> before clicking."
+msgstr "如果您想在以後回存您未優化的原始圖片，那請保留這些檔案並關閉\"不要保留備份\"，請這之前請先看看 <a href=\"%s\" title=\"我該移除備份嗎? target=\"_blank\">說明文件</a>"
+
+#: classes/resmushitUI.class.php:409
+msgid "Backup files can be removed."
+msgstr "備份檔案可能會被移除"
+
+#: classes/resmushitUI.class.php:104
+msgid "Will not preserve a backup of the original file (save space). <a href='%s' title='Should I remove backups?' target='_blank'>Read instructions</a> carefully before enabling."
+msgstr "將不會保留原始檔案的備份以節省空間，請小心使用並在啟用之前先看 <a href='%s' title='我該移除備份嗎?' target='_blank'>說明文件</a>"
+
+#: classes/resmushitUI.class.php:104
+msgid "Do not preserve backups"
+msgstr "不要保留備份"
+
+#: classes/resmushitUI.class.php:103
+msgid "Will preserve EXIF data during optimization"
+msgstr "將會在優化時保留 EXIF 資料"
+
+#: classes/resmushitUI.class.php:103
+msgid "Preserve EXIF"
+msgstr "保留 EXIF"
+
+#: resmushit.admin.php:46 resmushit.admin.php:107
+msgid "reSmush.it status"
+msgstr "reSmush.it 狀態"
+
+#: resmushit.admin.php:45 resmushit.admin.php:100
+msgid "Disable of reSmush.it"
+msgstr "停用 reSmush.it"
+
+#: resmushit.inc.php:139
+msgid "just now"
+msgstr "現在加入"
+
+#: resmushit.inc.php:128
+msgid "second"
+msgstr "秒"
+
+#: resmushit.inc.php:127
+msgid "minute"
+msgstr "分"
+
+#: resmushit.inc.php:126
+msgid "hour"
+msgstr "小時"
+
+#: resmushit.inc.php:125
+msgid "day"
+msgstr "天"
+
+#: resmushit.inc.php:124
+msgid "week"
+msgstr "周"
+
+#: resmushit.inc.php:123
+msgid "month"
+msgstr "月"
+
+#: resmushit.inc.php:122
+msgid "year"
+msgstr "年"
+
+#: classes/resmushitUI.class.php:512
+msgid "Force re-optimize"
+msgstr "強制再優化"
+
+#: classes/resmushitUI.class.php:511
+msgid "saved"
+msgstr "節省"
+
+#: classes/resmushitUI.class.php:511
+msgid "Reduced by"
+msgstr "減少"
+
+#: classes/resmushitUI.class.php:508
+msgid "Optimize"
+msgstr "優化"
+
+#: classes/resmushitUI.class.php:398
+msgid "ago"
+msgstr "以前"
+
+#: classes/resmushitUI.class.php:398
+msgid "Last run :"
+msgstr "最後執行 :"
+
+#: classes/resmushitUI.class.php:397 resmushit.php:341
+msgid "Every"
+msgstr "每一"
+
+#: classes/resmushitUI.class.php:397
+msgid "Expected Frequency :"
+msgstr "預期頻率 :"
+
+#: classes/resmushitUI.class.php:396
+msgid "Cronjobs seems not to have run lately. Please read the following <a href=\"https://resmush.it/wordpress/howto-configure-cronjobs\" target=\"_blank\">instruction page</a> to install them correctly."
+msgstr "Cronjobs 最近似乎沒有執行，請閱讀下列 <a href=\"https://resmush.it/wordpress/howto-configure-cronjobs\" target=\"_blank\">指示頁面</a> 並正確地安裝它們"
+
+#: classes/resmushitUI.class.php:392
+msgid "Cronjobs seems to have never been launched. Please install them by reading the following <a href=\"https://resmush.it/wordpress/howto-configure-cronjobs\" target=\"_blank\">instruction page</a>."
+msgstr "Cronjobs 似乎從來沒有執行過，請閱讀下列 <a href=\"https://resmush.it/wordpress/howto-configure-cronjobs\" target=\"_blank\">指示頁面</a> 並安裝它們"
+
+#: classes/resmushitUI.class.php:388
+msgid "We advice to disable Remush.it option \"Process optimize on CRON\" as long as Cron jobs are incorrectly set up."
+msgstr "我們建議只要是排程工作未正確設定時，停用 Remush.it 的 \"用 CRON 處理優化\" 選項"
+
+#: classes/resmushitUI.class.php:386
+msgid "Cronjobs are not correctly configured. The variable <em>DISABLE_WP_CRON</em> must be set to <em>TRUE</em> in <em>wp-config.php</em>. Please install them by reading the following <a href=\"https://resmush.it/wordpress/howto-configure-cronjobs\" target=\"_blank\">instruction page</a>."
+msgstr "Cronjobs 未正確設定，變數 <em>DISABLE_WP_CRON</em> 必須在 <em>wp-config.php</em> 中設定為 <em>TRUE</em> ，請依下列 <a href=\"https://resmush.it/wordpress/howto-configure-cronjobs\" target=\"_blank\">教學頁面</a> 指示安裝它。"
+
+#: classes/resmushitUI.class.php:381
+msgid "Cronjobs seems incorrectly configured"
+msgstr "排程工作似乎沒有正確設定好"
+
+#: classes/resmushitUI.class.php:375
+msgid "Important informations"
+msgstr "重要資訊"
+
+#: classes/resmushitUI.class.php:351
+msgid "Follow reSmush.it on Twitter"
+msgstr "在 Twitter 上追蹤 reSmush.it"
+
+#: classes/resmushitUI.class.php:346
+msgid "Visit resmush.it for more informations"
+msgstr "更多資訊請訪問 resmush.it"
+
+#: classes/resmushitUI.class.php:304
+msgid "News"
+msgstr "新聞"
+
+#: classes/resmushitUI.class.php:261
+msgid "No picture has been optimized yet ! Add pictures to your Wordpress Media Library."
+msgstr "還沒有圖片被優化！請在你的 WordPress 媒體庫加一些圖片"
+
+#: classes/resmushitUI.class.php:256
+msgid "Total images optimized :"
+msgstr "總計優化圖片 :"
+
+#: classes/resmushitUI.class.php:250
+msgid "Image optimized (including thumbnails) :"
+msgstr "圖片已優化 (包括縮圖) :"
+
+#: classes/resmushitUI.class.php:244
+msgid "Attachments optimized :"
+msgstr "附件已優化 :"
+
+#: classes/resmushitUI.class.php:240
+msgid "Total reduction :"
+msgstr "總計減少 :"
+
+#: classes/resmushitUI.class.php:236
+msgid "Space saved :"
+msgstr "節省空間 :"
+
+#: classes/resmushitUI.class.php:229
+msgid "Statistics"
+msgstr "統計資料"
+
+#: classes/resmushitUI.class.php:197
+msgid "List of files above 5MB"
+msgstr "超過 5MB 大小檔案清單"
+
+#: classes/resmushitUI.class.php:194
+msgid "picture is too big (> 5MB) for the optimizer"
+msgstr "圖片太大了 (> 5MB) 無法優化"
+
+#: classes/resmushitUI.class.php:192
+msgid "pictures are too big (> 5MB) for the optimizer"
+msgstr "圖片太大了 (> 5MB) 無法優化"
+
+#: classes/resmushitUI.class.php:181
+msgid "Files non optimized"
+msgstr "檔案未優化"
+
+#: classes/resmushitUI.class.php:161
+msgid "Congrats ! All your pictures are correctly optimized"
+msgstr "恭喜！您所有的圖片都已正確優化"
+
+#: classes/resmushitUI.class.php:156
+msgid "Optimize all pictures"
+msgstr "優化所有圖片"
+
+#: classes/resmushitUI.class.php:154
+msgid "Optimize all pictures manually"
+msgstr "手動優化所有圖片"
+
+#: classes/resmushitUI.class.php:148
+msgid "This action will resmush all pictures which have not been optimized to the good Image Quality Rate."
+msgstr "這個動作將會壓縮所有未被優化的圖片保留良好的圖片品質"
+
+#: classes/resmushitUI.class.php:146
+msgid "non optimized pictures"
+msgstr "未優化圖片"
+
+#: classes/resmushitUI.class.php:144
+msgid "There is currently"
+msgstr "這些是目前"
+
+#: classes/resmushitUI.class.php:142
+msgid "Image optimization process can be launched <b>manually</b> by clicking on the button below :"
+msgstr "圖片優化程序可以透過點擊以下 <b>手動</b> 按鈕來啟動 :"
+
+#: classes/resmushitUI.class.php:140
+msgid "These pictures will be automatically optimized using schedule tasks (cronjobs)."
+msgstr "這些圖片將會使用排程工作 (cronjobs) 來自動優化"
+
+#: classes/resmushitUI.class.php:138
+msgid "non optimized pictures will be automatically optimized"
+msgstr "未優化圖片將會自動優化"
+
+#: classes/resmushitUI.class.php:123
+msgid "Optimize unsmushed pictures"
+msgstr "優化未壓縮圖片"
+
+#: classes/resmushitUI.class.php:102
+msgid "Will perform image optimization process through CRON tasks"
+msgstr "我們將透過 CRON 排程工作來執行圖片優化"
+
+#: classes/resmushitUI.class.php:102
+msgid "Process optimize on CRON"
+msgstr "用 CRON 處理優化"
+
+#: classes/resmushitUI.class.php:101
+msgid "Enable file logging (for developers)"
+msgstr "啟用記錄檔 (開發人員用)"
+
+#: classes/resmushitUI.class.php:101
+msgid "Enable logs"
+msgstr "啟用記錄"
+
+#: classes/resmushitUI.class.php:100
+msgid "Generates statistics about optimized pictures"
+msgstr "產生優化圖片的統計報表"
+
+#: classes/resmushitUI.class.php:100
+msgid "Enable statistics"
+msgstr "啟用統計"
+
+#: classes/resmushitUI.class.php:99
+msgid "All future images uploaded will be automatically optimized"
+msgstr "以後所有上傳的圖片將會自動優化"
+
+#: classes/resmushitUI.class.php:99
+msgid "Optimize on upload"
+msgstr "上傳時優化"
+
+#: classes/resmushitUI.class.php:98
+msgid "Default value is 92. The quality factor must be between 0 (very weak) and 100 (best quality)"
+msgstr "預設值為 92. 品質系數必須要介於 0 (非常差) 到 100 (最佳品質)"
+
+#: classes/resmushitUI.class.php:98
+msgid "Image quality"
+msgstr "圖片品質"
+
+#: classes/resmushitUI.class.php:91
+msgid "New!"
+msgstr "新功能！"
+
+#: classes/resmushitUI.class.php:90 resmushit.php:311
+msgid "Settings"
+msgstr "設定"
+
+#. Author URI of the plugin
+msgid "https://resmush.it"
+msgstr "https://resmush.it"
+
+#. Author of the plugin
+msgid "reSmush.it"
+msgstr "reSmush.it"
+
+#. Description of the plugin
+msgid "Image Optimization API. Provides image size optimization"
+msgstr "圖片優化 API 供圖片大小優化用"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/resmushit-image-optimizer/"
+msgstr "https://wordpress.org/plugins/resmushit-image-optimizer/"
+
+#. Plugin Name of the plugin
+msgid "reSmush.it Image Optimizer"
+msgstr "reSmush.it Image Optimizer"

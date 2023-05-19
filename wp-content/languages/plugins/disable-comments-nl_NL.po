@@ -1,0 +1,507 @@
+# Translation of Plugins - Disable Comments &#8211; Remove Comments &amp; Stop Spam [Multi-Site Support] - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Disable Comments &#8211; Remove Comments &amp; Stop Spam [Multi-Site Support] - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-08-19 10:38:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Disable Comments &#8211; Remove Comments &amp; Stop Spam [Multi-Site Support] - Stable (latest release)\n"
+
+#: views/partials/_sites.php:39
+msgid "200"
+msgstr "200"
+
+#: views/partials/_sites.php:38
+msgid "100"
+msgstr "100"
+
+#: views/partials/_sites.php:37
+msgid "50"
+msgstr "50"
+
+#: views/partials/_sites.php:36
+msgid "20"
+msgstr "20"
+
+#: views/partials/_sites.php:30
+msgid "Show Items:"
+msgstr "Toon items:"
+
+#: views/partials/_sites.php:26
+msgid "No subsite found"
+msgstr "Geen subsite gevonden"
+
+#: views/partials/_sites.php:21
+msgid "Search by domain name..."
+msgstr "Zoeken op domeinnaam..."
+
+#: views/partials/_sites.php:13
+msgid "0 selected"
+msgstr "0 geselecteerd"
+
+#: views/partials/_disable.php:76
+msgid "Exclude Disable Comments Settings Based On User Roles"
+msgstr "Instellingen voor het uitschakelen van reacties op basis van gebruikersrollen uitsluiten"
+
+#: views/partials/_disable.php:23
+msgid "Disable comments in the following sites:"
+msgstr "Schakel reacties uit in de volgende sites:"
+
+#: views/partials/_disable.php:17
+msgid "Enable Site Wise settings."
+msgstr "Sitebrede instellingen inschakelen."
+
+#: views/partials/_delete.php:10
+msgid "Delete comments in the following sites:"
+msgstr "Reacties verwijderen in de volgende sites:"
+
+#: views/partials/_disable.php:91
+msgid "This will exclude all the above settings for the selected user roles."
+msgstr "Dit zal alle bovenstaande instellingen uitsluiten voor de geselecteerde gebruikersrollen."
+
+#: disable-comments.php:856
+msgid "Logged out users"
+msgstr "Uitgelogde gebruikers"
+
+#: includes/cli.php:188
+msgid "Enabled Avatar on your entire site. "
+msgstr "Avatar op je hele site ingeschakeld. "
+
+#: includes/cli.php:185
+msgid "Disabled Avatar on your entire site. "
+msgstr "Avatar op je hele site uitgeschakeld. "
+
+#: includes/cli.php:179
+msgid "Enabled Comments via REST API. "
+msgstr "Reacties via REST API ingeschakeld. "
+
+#: includes/cli.php:170
+msgid "Enabled Comments via XML-RPC. "
+msgstr "Reacties via XML-RPC ingeschakeld. "
+
+#: views/partials/_disable.php:132
+msgid "This will change Avatar state from your entire network. If you want to change the Avatar setting specifically on your subsites by enabling site-wise settings, select \"Don't change\" from here."
+msgstr "Dit zal de Avatar status van je hele netwerk veranderen. Als je de Avatar instelling specifiek op je subsites wilt wijzigen door site afhankelijke instellingen in te schakelen, selecteer dan hier \"Niet wijzigen\"."
+
+#: views/partials/_disable.php:122
+msgid "Enable Avatar"
+msgstr "Avatar inschakelen"
+
+#: views/partials/_disable.php:116
+msgid "Don't Change"
+msgstr "Niet wijzigen"
+
+#: views/partials/_disable.php:111
+msgid "Avatar settings:"
+msgstr "Avatar instellingen:"
+
+#: views/partials/_disable.php:107
+msgid "This will change Avatar state from your entire site."
+msgstr "Dit zal de avatar status van je hele site wijzigen."
+
+#: views/partials/_disable.php:103 views/partials/_disable.php:128
+msgid "Disable Avatar"
+msgstr "Avatar uitschakelen"
+
+#: views/partials/_disable.php:28
+msgid "All the underneath settings (except Avatar settings) will be applied for these selected sub sites."
+msgstr "Alle onderstaande instellingen (behalve avatar instellingen) zullen worden toegepast voor deze geselecteerde sub sites."
+
+#: views/partials/_delete.php:64
+msgid "This will permanently delete spam comments everywhere on your website."
+msgstr "Hiermee worden spam reacties overal op je site permanent verwijderd."
+
+#: views/partials/_delete.php:63
+msgid "Permanently delete all spam comments on your WordPress website"
+msgstr "Verwijder permanent alle spam reacties op je WordPress site"
+
+#: views/partials/_delete.php:63
+msgid "Spam:"
+msgstr "Spam:"
+
+#: disable-comments.php:1179
+msgid "All spam comments have been deleted."
+msgstr "Alle spam reacties zijn verwijderd."
+
+#: views/partials/_sites.php:12
+msgid "Select All"
+msgstr "Selecteer alles"
+
+#: views/partials/_delete.php:15
+msgid "Select your sub-sites where you want to delete comments."
+msgstr "Selecteer je subsites waar je reacties wilt verwijderen."
+
+#: views/settings.php:12
+msgctxt "Tab Name"
+msgid "Delete Comments"
+msgstr "Reacties verwijderen"
+
+#: views/settings.php:9
+msgctxt "Tab Name"
+msgid "Disable Comments"
+msgstr "Reacties uitschakelen"
+
+#: views/partials/_disable.php:33
+msgid "This site will be controlled by the network admin until you click the \"Save Changes\" button."
+msgstr "Deze site wordt beheerd door de netwerkbeheerder totdat je op de knop \"Opslaan wijzigingen\" klikt."
+
+#: views/partials/_disable.php:19
+msgid "If you enable Site Wise settings, you need to configure your “Disable Comments” settings individually on every website in the network."
+msgstr "Als je per site instellingen inschakelt, moet je je instellingen voor \"Reacties uitschakelen\" afzonderlijk configureren op elke site in het netwerk."
+
+#: views/settings.php:6
+msgid "Version"
+msgstr "Versie"
+
+#: views/partials/_disable.php:162
+msgid "Turning on these settings will disable any comments made on your website via XML-RPC or REST API specifications."
+msgstr "Als je deze instellingen inschakelt, worden alle reacties op je site via XML-RPC of REST API specificaties uitgeschakeld."
+
+#: views/partials/_disable.php:158
+msgid "Disable Comments via REST API"
+msgstr "Schakel reacties uit via REST API"
+
+#: views/partials/_disable.php:149
+msgid "Disable Comments via XML-RPC"
+msgstr "Schakel reacties uit via XML-RPC"
+
+#: views/partials/_disable.php:15 views/partials/_disable.php:74
+#: views/partials/_disable.php:102 views/partials/_disable.php:147
+#: views/partials/_disable.php:157
+msgid "Off"
+msgstr "Uit"
+
+#: views/partials/_disable.php:14 views/partials/_disable.php:73
+#: views/partials/_disable.php:101 views/partials/_disable.php:146
+#: views/partials/_disable.php:156
+msgid "On"
+msgstr "Aan"
+
+#: views/partials/_disable.php:139
+msgid "You can disable comments made on your website using WordPress specifications."
+msgstr "Je kunt reacties op je site uitschakelen met behulp van WordPress specificaties."
+
+#: views/partials/_disable.php:138
+msgid "Disable Comments With API"
+msgstr "Schakel reacties uit met API"
+
+#: views/partials/_disable.php:64
+msgid "Disabling comments will also disable trackbacks and pingbacks. All comment-related fields will also be hidden from the edit/quick-edit screens of the affected posts. These settings cannot be overridden for individual posts. Comments will be visible on all other post types."
+msgstr "Als je reacties uitschakelt, worden trackbacks en pingbacks ook uitgeschakeld. Alle reactiegerelateerde velden worden ook verborgen in de bewerken/snel bewerking schermen van de betreffende berichten. Deze instellingen kunnen niet worden overschreven voor individuele berichten. Reacties zijn zichtbaar op alle andere berichttypen."
+
+#: views/partials/_disable.php:45
+msgid "On Specific Post Types:"
+msgstr "Op specifieke berichttypen:"
+
+#: views/partials/_disable.php:41
+msgid "This will disable comments from every page and post on your website. Use this setting if you do not want to show comments anywhere."
+msgstr "Hiermee worden reacties van elke pagina uitgeschakeld en op je site geplaatst. Gebruik deze instelling als je nergens reactie wil geven."
+
+#: views/partials/_disable.php:40
+msgid "Disable comments globally on your entire website"
+msgstr "Schakel reacties globaal uit op je hele site"
+
+#: views/partials/_disable.php:4
+msgid "Configure the settings below to disable comments globally or on specific types of posts."
+msgstr "Configureer de onderstaande instellingen om reacties globaal of op specifieke soorten berichten uit te schakelen."
+
+#: views/partials/_sidebar.php:128
+msgid "Disable Comments For WordPress Pages"
+msgstr "Schakel reacties voor WordPress pagina's uit"
+
+#: views/partials/_sidebar.php:118
+msgid "Disable Comment For WordPress Media Files"
+msgstr "Schakel reactie uit voor WordPress mediabestanden"
+
+#: views/partials/_sidebar.php:95
+msgid "Disable Comments For Some Particular Post"
+msgstr "Schakel reacties uit voor een bepaald bericht"
+
+#: views/partials/_sidebar.php:72
+msgid "How to Disable Comments on Specific Types Of Posts"
+msgstr "Reacties op specifieke soorten berichten uitschakelen"
+
+#: views/partials/_sidebar.php:49
+msgid "How To Use Disable Comments Plugin With WP-CLI"
+msgstr "Gebruik de plugin voor het uitschakelen van reacties met WP-CLI"
+
+#: views/partials/_sidebar.php:26
+msgid "What Does This Disable Comments Plugin Do"
+msgstr "Wat doet deze Disable Comments plugin"
+
+#: views/partials/_sidebar.php:3
+msgid "Read Our Tutorials"
+msgstr "Lees onze tutorials"
+
+#: views/partials/_delete.php:50
+msgid "Delete Certain Comment Types:"
+msgstr "Verwijder bepaalde soorten reacties:"
+
+#: views/partials/_delete.php:46
+msgid "This will remove existing comment entries for the selected post type(s) in the database and cannot be reverted without a database backups."
+msgstr "Dit verwijdert bestaande reactievermeldingen voor de geselecteerde berichttype(s) in de database en kan niet worden teruggedraaid zonder een databaseback-up."
+
+#: views/partials/_delete.php:23
+msgid "This will permanently delete comments everywhere on your website."
+msgstr "Hiermee worden reacties overal op je site definitief verwijderd."
+
+#: views/partials/_delete.php:23 views/partials/_delete.php:46
+#: views/partials/_delete.php:59 views/partials/_delete.php:64
+#: views/partials/_disable.php:41
+msgid "Warnings:"
+msgstr "Waarschuwingen:"
+
+#: views/partials/_delete.php:22
+msgid "Permanently delete all comments on your WordPress website"
+msgstr "Verwijder definitief alle reacties op je WordPress site"
+
+#: views/partials/_delete.php:19
+msgid "These settings will permanently delete comments for your entire website, or for specific posts and comment types."
+msgstr "Met deze instellingen worden reacties permanent verwijderd voor je hele site of voor specifieke berichten en typen reacties."
+
+#: views/partials/_delete.php:15 views/partials/_delete.php:19
+#: views/partials/_disable.php:19 views/partials/_disable.php:28
+#: views/partials/_disable.php:33 views/partials/_disable.php:64
+#: views/partials/_disable.php:91 views/partials/_disable.php:107
+#: views/partials/_disable.php:132
+msgid "Note:"
+msgstr "Notitie:"
+
+#: views/partials/_menu.php:8
+msgid "Privacy"
+msgstr "Privacy"
+
+#: views/partials/_menu.php:7
+msgid "Terms Of Service"
+msgstr "Servicevoorwaarden"
+
+#: views/partials/_menu.php:6
+msgid "Docs"
+msgstr "Docs"
+
+#: views/partials/_menu.php:5
+msgid "Support Forum"
+msgstr "Ondersteuningsforum"
+
+#: views/partials/_menu.php:4
+msgid "All Plugins"
+msgstr "Alle plugins"
+
+#: views/partials/_menu.php:3
+msgid "About Us"
+msgstr "Over ons"
+
+#: includes/class-plugin-usage-tracker.php:860
+msgid "Just Deactivate"
+msgstr "Gewoon deactiveren"
+
+#: includes/class-plugin-usage-tracker.php:860
+msgid "Submit and Deactivate"
+msgstr "Verzenden en deactiveren"
+
+#: includes/class-plugin-usage-tracker.php:802
+msgid "Submitting form"
+msgstr "Formulier indienen"
+
+#: includes/class-plugin-usage-tracker.php:760
+msgid "Please share the reason"
+msgstr "Deel de reden"
+
+#: includes/class-plugin-usage-tracker.php:759
+msgid "Other"
+msgstr "Andere"
+
+#: includes/class-plugin-usage-tracker.php:757
+msgid "It's a temporary deactivation"
+msgstr "Het is een tijdelijke deactivering"
+
+#: includes/class-plugin-usage-tracker.php:756
+msgid "I couldn't get the plugin to work"
+msgstr "Ik kon de plugin niet laten werken"
+
+#: includes/class-plugin-usage-tracker.php:754
+msgid "Please share which plugin"
+msgstr "Deel welke plugin"
+
+#: includes/class-plugin-usage-tracker.php:753
+msgid "I found a better plugin"
+msgstr "Ik heb een betere plugin gevonden"
+
+#: includes/class-plugin-usage-tracker.php:751
+msgid "I no longer need the plugin"
+msgstr "Ik heb de plugin niet meer nodig"
+
+#: includes/class-plugin-usage-tracker.php:748
+msgid "Before you deactivate the plugin, would you quickly give us your reason for doing so?"
+msgstr "Wil je ons, voordat je de plugin deactiveert, snel je reden geven om dit te doen?"
+
+#: includes/class-plugin-usage-tracker.php:747
+msgid "Sorry to see you go"
+msgstr "Spijtig om je te zien gaan"
+
+#: includes/class-plugin-usage-tracker.php:654
+msgid "No Thanks."
+msgstr "Nee, dank je wel."
+
+#: includes/class-plugin-usage-tracker.php:653
+msgid "Sure, I'd like to help"
+msgstr "Tuurlijk, ik zou graag willen helpen"
+
+#: includes/class-plugin-usage-tracker.php:652
+msgid "What we collect."
+msgstr "Wat we verzamelen."
+
+#: includes/class-plugin-usage-tracker.php:378
+msgid "We can't detect any plugin information. This is most probably because you have not included the code in the plugin main file."
+msgstr "We kunnen geen plugin informatie detecteren. Dit komt waarschijnlijk doordat je de code niet in het hoofdbestand van de plugin hebt opgenomen."
+
+#: includes/cli.php:176
+msgid "Disable Comments via REST API. "
+msgstr "Schakel reacties uit via REST API. "
+
+#: includes/cli.php:167
+msgid "Disable Comments via XML-RPC. "
+msgstr "Schakel reacties uit via XML-RPC. "
+
+#. translators: %s: post types to be disabled in network
+#: includes/cli.php:161
+msgid "Custom post types: %s. "
+msgstr "Aangepaste berichttypen: %s. "
+
+#. translators: %s: post types to be enabled
+#: includes/cli.php:150
+msgid "Comments enabled for %s. "
+msgstr "Reacties ingeschakeld voor %s. "
+
+#. translators: %s: post types to be disabled
+#: includes/cli.php:141 includes/cli.php:145
+msgid "Comments disabled for %s. "
+msgstr "Reacties uitgeschakeld voor %s. "
+
+#: includes/cli.php:135
+msgid "Comments is disabled everywhere. "
+msgstr "Reacties zijn overal uitgeschakeld. "
+
+#: disable-comments.php:1036
+msgid "Saved"
+msgstr "Opgeslagen"
+
+#: disable-comments.php:156
+msgid "We collect non-sensitive diagnostic data and plugin usage information. Your site URL, WordPress & PHP version, plugins & themes and email address to send you the discount coupon. This data lets us make sure this plugin always stays compatible with the most popular plugins and themes. No spam, I promise."
+msgstr "We verzamelen niet-gevoelige diagnostische gegevens en gebruiksinformatie van plugins. Je site URL, WordPress & PHP versie, plugins & thema's en e-mailadres om je de kortingwaardebon te sturen. Met deze gegevens kunnen we ervoor zorgen dat deze plugin altijd compatibel blijft met de meest populaire plugins en thema's. Geen spam, dat beloof ik."
+
+#: disable-comments.php:155
+msgid "Want to help make Disable Comments even better?"
+msgstr "Wil je helpen om het uitschakelen van reacties nog beter te maken?"
+
+#: views/partials/_delete.php:59
+msgid "Deleting comments by comment type will remove existing comment entries of the selected comment type(s) in the database and cannot be reverted without a database backup."
+msgstr "Als je reacties verwijdert op type reactie, worden bestaande reacties van het geselecteerde type reactie in de database verwijderd en kan deze niet worden teruggedraaid zonder een database back-up."
+
+#: disable-comments.php:827
+msgid "Default (no type)"
+msgstr "Standaard (geen type)"
+
+#. Description of the plugin
+msgid "Allows administrators to globally disable comments on their site. Comments can be disabled according to post type. You could bulk delete comments using Tools."
+msgstr "Hiermee kunnen beheerders reacties op hun site globaal uitschakelen. Reacties kunnen worden uitgeschakeld op basis van het berichttype. Je zou reacties bulksgewijs kunnen verwijderen met behulp van Tools."
+
+#: disable-comments.php:752
+msgctxt "settings menu title"
+msgid "Disable Comments"
+msgstr "Reacties uitschakelen"
+
+#: disable-comments.php:743
+msgid "Tools"
+msgstr "Gereedschap"
+
+#: disable-comments.php:742 views/partials/_disable.php:3
+msgid "Settings"
+msgstr "Instellingen"
+
+#. translators: %s: URL to Disabled Comment settings page.
+#: disable-comments.php:653
+msgid "The <strong>Disable Comments</strong> plugin is active, but isn't configured to do anything yet. Visit the <a href=\"%s\">configuration page</a> to choose which post types to disable comments on."
+msgstr "De <strong>Disable Comments</strong> plugin is actief, maar nog niet geconfigureerd om iets te doen. Bezoek de <a href=\"%s\">configuratiepagina</a> om te selecteren welke berichttypes geen reacties mogen hebben."
+
+#. translators: %s: disabled post types.
+#: disable-comments.php:618
+msgid ", "
+msgstr ", "
+
+#. translators: %s: disabled post types.
+#: disable-comments.php:618
+msgid "Note: The <em>Disable Comments</em> plugin is currently active, and comments are completely disabled on: %s. Many of the settings below will not be applicable for those post types."
+msgstr "Let op: De <em>Disable Comments</em> plugin is momenteel actief en reacties zijn volledig uitgeschakeld op: %s. Veel van de onderstaande instellingen zullen niet toegepast worden voor deze post types."
+
+#: disable-comments.php:511 disable-comments.php:662 disable-comments.php:669
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#. translators: %s: WordPress version no.
+#: disable-comments.php:168
+msgid "Disable Comments requires WordPress version %s or greater."
+msgstr "De \"Disable Comments\" plugin vereist WordPress versie %s of hoger."
+
+#: views/partials/_disable.php:167
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: views/partials/_delete.php:27
+msgid "On Certain Post Types:"
+msgstr "Op bepaalde berichttypes:"
+
+#: views/partials/_delete.php:66
+msgid "Total Comments:"
+msgstr "Totaal aantal reacties:"
+
+#: views/partials/_delete.php:43 views/partials/_disable.php:61
+msgid "Custom post types:"
+msgstr "Aangepaste berichttypes:"
+
+#: views/partials/_delete.php:42 views/partials/_disable.php:60
+msgid "Only the built-in post types appear above. If you want to disable comments on other custom post types on the entire network, you can supply a comma-separated list of post types below (use the slug that identifies the post type)."
+msgstr "Alleen de ingebouwde berichttypen verschijnen hierboven. Als je opmerkingen over andere aangepaste berichttypen op het gehele netwerk wilt uitschakelen, kun je een door komma's gescheiden lijst met onderstaande berichttypen opgeven (gebruik de slug die het berichttype identificeert)."
+
+#: views/partials/_delete.php:22 views/partials/_disable.php:40
+msgid "Everywhere:"
+msgstr "Overal:"
+
+#: disable-comments.php:1113 disable-comments.php:1117
+msgid "Internal error occured. Please try again later."
+msgstr "Interne fout opgetreden. Probeer het later opnieuw."
+
+#: disable-comments.php:1111 disable-comments.php:1145
+#: disable-comments.php:1168
+msgid "All comments have been deleted"
+msgstr "Alle reacties zijn verwijderd"
+
+#: views/partials/_delete.php:210
+msgid "No comments are available for deletion."
+msgstr "Geen reacties beschikbaar voor verwijdering."
+
+#: disable-comments.php:762 views/partials/_delete.php:72
+#: assets/js/disable-comments-settings-scripts.js:336
+msgid "Delete Comments"
+msgstr "Verwijder reacties"
+
+#. Author URI of the plugin
+msgid "https://wpdeveloper.com"
+msgstr "https://wpdeveloper.com"
+
+#. Author of the plugin
+msgid "WPDeveloper"
+msgstr "WPDeveloper"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/disable-comments/"
+msgstr "https://wordpress.org/plugins/disable-comments/"
+
+#. Plugin Name of the plugin
+#: disable-comments.php:363
+msgid "Disable Comments"
+msgstr "Disable Comments"

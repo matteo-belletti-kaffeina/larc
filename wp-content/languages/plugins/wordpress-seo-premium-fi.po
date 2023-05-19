@@ -1,0 +1,1341 @@
+# Translation of Yoast - Yoast SEO Premium (for WordPress) in Finnish
+# This file is distributed under the same license as the Yoast - Yoast SEO Premium (for WordPress) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-11-02 14:56:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-rc.4\n"
+"Language: fi\n"
+"Project-Id-Version: Yoast - Yoast SEO Premium (for WordPress)\n"
+
+#: src/integrations/admin/crawl-settings-integration.php:193
+msgid "Disabled"
+msgstr "Estetty"
+
+#: src/integrations/admin/crawl-settings-integration.php:269
+msgid "Keep"
+msgstr "Säilytä"
+
+#: src/schema-templates/job-salary.block.php:12
+msgid "Job base salary"
+msgstr "Työpaikan peruspalkka"
+
+#: src/schema-templates/job-requirements.block.php:12
+msgid "Job requirements"
+msgstr "Työpaikan vaatimukset"
+
+#: src/schema-templates/job-location.block.php:12
+msgid "Job location"
+msgstr "Työpaikan sijainti"
+
+#: src/schema-templates/job-location-region.block.php:12
+msgid "Job state/province/region"
+msgstr "Työpaikan osavaltio/maakunta/alue"
+
+#: src/schema-templates/job-location-postal-code.block.php:12
+msgid "Job postal code"
+msgstr "Työpaikan postinumero"
+
+#: src/schema-templates/job-location-country.block.php:12
+msgid "Job country"
+msgstr "Työpaikan maa"
+
+#: src/schema-templates/job-location-city.block.php:12
+msgid "Job city"
+msgstr "Työpaikan paikkakunta"
+
+#: src/schema-templates/job-location-address.block.php:12
+msgid "Job address"
+msgstr "Työpaikan osoite"
+
+#: src/schema-templates/job-employment-type.block.php:32
+msgid "Job employment type"
+msgstr "Työsuhteen muoto"
+
+#: src/schema-templates/job-benefits.block.php:12
+msgid "Job benefits"
+msgstr "Työpaikan edut"
+
+#: src/schema-templates/job-apply-button.block.php:12
+msgid "Job apply button"
+msgstr "Työpaikan hakupainike"
+
+#: src/schema-templates/job-application-closing-date.block.php:14
+msgid "Apply before"
+msgstr "Hae ennen"
+
+#: src/schema-templates/job-application-closing-date.block.php:12
+msgid "Job application closing date"
+msgstr "Hakemusten viimeinen jättöpäivä"
+
+#: src/integrations/admin/thank-you-page-integration.php:80
+msgid "Installation Successful"
+msgstr "Asennus onnistui"
+
+#: classes/views/thank-you.php:104
+msgid "Browse our courses"
+msgstr "Selaa kurssejamme"
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: <strong>, %3$s: Yoast SEO, %4$s:
+#. </strong>
+#: classes/views/thank-you.php:91
+msgid "%1$s grants you direct access to %2$sall premium %3$s academy courses%4$s. Learn all the ins and outs of holistic SEO from industry experts."
+msgstr "%1$s antaa sinulle pääsyn %2$skaikille %3$s -akatemian kursseille%4$s. Opi holistinen SEO juurta jaksain alan asiantuntijoiden avulla."
+
+#: classes/views/thank-you.php:84
+msgid "Master vital SEO skills with our online courses"
+msgstr "Ota elintärkeät SEO-taidot haltuun verkkokurssiemme avulla"
+
+#: classes/views/thank-you.php:79
+msgid "Check out the Redirect Manager"
+msgstr "Tarkista uudelleenohjauksien hallinta"
+
+#. translators: %1$s: Yoast SEO, %2$s: <strong>, %3$s: </strong>
+#: classes/views/thank-you.php:68
+msgid "The %1$s %2$sRedirect Manager%3$s automatically prevents visitors from reaching a dead end whenever you move or delete content. It also makes managing your existing redirects easy."
+msgstr "%1$s:n %2$suudelleenohjauksien hallinta%3$s estää automaattisesti vierailijoitasi ajautumasta umpikujaan kun siirrät tai poistat sisältöjä. Se tekee myös olemmassaolevien ohjausten hallinnasta helppoa."
+
+#: classes/views/thank-you.php:61
+msgid "Keep your site well-organised so people won't get lost"
+msgstr "Pidä sivustosi hyvässä järjestyksessä, jotta ihmiset eivät eksy"
+
+#: classes/views/thank-you.php:56
+msgid "Score some more green bullets"
+msgstr "Voita lisää vihreitä palloja"
+
+#. translators: %1$s: <strong>, %2$s: </strong>
+#: classes/views/thank-you.php:46
+msgid "Different people search with different search terms. With our %1$spremium analysis%2$s, you are free to use variations and synonyms of your keywords in your content, which will make your writing style far more natural."
+msgstr "Eri ihmiset käyttävät erilaisia hakutermejä. %1$sEnsiluokkaisen analyysimme%2$s avulla voit vapaasti käyttää sisällöissäsi erilaisia variaatioita ja synonyymejä avainsanoistasi, joka tekee kirjoitustyylistäsi luonnollisemman."
+
+#: classes/views/thank-you.php:39
+msgid "Optimize your content further with our smart analysis"
+msgstr "Optimoi edelleen sisältöäsi analyysimme avulla"
+
+#: classes/views/thank-you.php:34
+msgid "Do the cornerstone workout!"
+msgstr "Tee kulmakivi-harjoitteet!"
+
+#. translators: %1$s: <strong>, %2$s: </strong>
+#: classes/views/thank-you.php:24
+msgid "%1$sCornerstone content%2$s is the content on your site that’s most important. You want to rank highest in Google with these articles. Make sure your internal linking structure reflects what pages are most important. Want to know how?"
+msgstr "%1$sKulmakivisisältö%2$s on sivustosi tärkeintä sisältöä. Haluat sen löytyvän korkeimmalta Googlen hakutuloksissa. Varmista, että sisäisen linkirysrakenteesi osoittaa mitkä sisällöt ovat kaikkein tärkeimpiä. Haluatko oppia kuinka se tehdään?"
+
+#: classes/views/thank-you.php:17
+#: assets/js/src/workouts/components/CornerstoneWorkout.js:106
+msgid "Rank with articles you want to rank with"
+msgstr "Erotu artikkeleilla, joilla haluat erottua"
+
+#: classes/views/thank-you.php:12
+msgid "So, what's next?"
+msgstr "Mitäköhän seuraavaksi?"
+
+#: classes/views/thank-you.php:10
+msgid "Installation successful!"
+msgstr "Asennus onnistui!"
+
+#: src/schema-templates/job-location-city.block.php:12
+msgid "The city in which the street address is, and which is in the region. For example, Los Angeles."
+msgstr "Paikkakunta, jolla katuosoite sijaitsee, sekä joka löytyy annetulta alueelta. Esimerkiksi Loimaa."
+
+#: src/schema-templates/job-location-region.block.php:14
+msgid "Enter state/province/region"
+msgstr "Anna alue"
+
+#: src/schema-templates/job-location-region.block.php:12
+msgid "The state, province or region in which the city is, and which is in the country. For example, California."
+msgstr "Osavaltio, maakunta tai alue, jolla kaupunki sijaitsee, sekä joka on annetussa maassa. Esim. Kymenlaakso."
+
+#: src/schema-templates/job-location-country.block.php:12
+msgid "The country. For example, USA."
+msgstr "Näytä maa ponnahdusikkunassa"
+
+#: src/schema-templates/job-location-address.block.php:12
+msgid "The street address. For example, 111 South Grand Avenue."
+msgstr "Katuosoite. Esimerkiksi, Nollakatu 0"
+
+#: src/schema-templates/job-location-postal-code.block.php:12
+msgid "The postal code. For example, 90012."
+msgstr "Postinumero. Esimerkiksi, 00100."
+
+#: src/schema-templates/job-office-location.block.php:30
+msgid "Add additional information to your location details..."
+msgstr "Anna lisätietoa sijainnistasi..."
+
+#: src/integrations/blocks/block-patterns.php:71
+msgid "Yoast Job Posting"
+msgstr "Yoast-työpaikkailmoitus"
+
+#: src/schema-templates/job-salary-range.block.php:36
+msgid "The salary range of the job, depending on a variety of factors (e.g. education level or level of experience)."
+msgstr "Työpaikan palkkahaarukka, eri tekijöiden mukaan (esim. koulutustaso ja kokemus) "
+
+#: src/schema-templates/job-apply-button.block.php:14
+msgid "Apply button (add a link)"
+msgstr "Hakupainike (lisää linkki)"
+
+#: src/schema-templates/job-apply-button.block.php:12
+msgid "A button through which visitors can apply for the job. (Make sure to add a link.)"
+msgstr "Painike, jonka kautta työpaikkaa voi hakea. (Muista lisätä linkki.)"
+
+#: src/integrations/admin/user-profile-integration.php:144
+msgid "The info you add below is added to the data Yoast SEO outputs in its schema.org output, for instance when you're the author of a page. Please only add the info you feel good sharing publicly."
+msgstr "Alla lisäämäsi tiedot lisätään tietoihin, jonka Yoast SEO sisällyttää schema.org-tulosteeseen, esim. sen kun olet sivun kirjoittaja. Ole hyvä ja varmista, että lisäät ainoastaan tietoja, jotka olet halukas jakamaan julkisesti."
+
+#: src/integrations/admin/user-profile-integration.php:143
+msgid "Yoast SEO Schema enhancements"
+msgstr "Yoast SEO -skeemaparannukset"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:127
+msgid "E.g. %1$sAcme inc%2$s"
+msgstr "Esim. %1$sYritys Oy%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:125
+msgid "Employer name"
+msgstr "Työnantajan nimi"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:121
+msgid "E.g. %1$ssoftware engineer%2$s"
+msgstr "Esimerkiksi %1$sOhjelmistokehittäjä%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:115
+msgid "Employer information"
+msgstr "Työnantajan tiedot"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:111
+msgid "Comma separated, e.g. %1$sEnglish, French, Dutch%2$s"
+msgstr "Pilkulla eroteltu, esimerkiksi %1$senglanti, ranska, hollanti%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:109
+msgid "Language(s) spoken"
+msgstr "Puhutut kielet"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:105
+msgid "Comma separated, e.g. %1$sPHP, JavaScript, 90's rock music%2$s"
+msgstr "Pilkulla eroteltu, esimerkiksi, %1$sPHP, JavaScript, 90-luvun musiikki%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:103
+msgid "Expertise in"
+msgstr "Erityisosaamisalue"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:99
+msgid "Comma separated, e.g. %1$sMost likely to succeed - 1991, Smartest in class - 1990%2$s"
+msgstr "Erotetaan pilkulla, esim %1$sLuokan priimus - 1990, Hymypoika-palkinto - 1991%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:97
+msgid "Awards"
+msgstr "Palkinnot"
+
+#: src/integrations/admin/user-profile-integration.php:93
+msgid "Extra information"
+msgstr "Lisätietoja"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:89
+msgid "E.g. %1$sfemale%2$s, %1$smale%2$s, %1$snon-binary%2$s"
+msgstr "Esimerkiksi, %1$snainen%2$s, %1$smies%2$s, %1$sei-binääriarvo%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:87
+msgid "Gender"
+msgstr "Sukupuoli"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:83
+msgid "Use format: %1$sYYYY-MM-DD%2$s"
+msgstr "Käytä muotoa %1$sYYYY-MM-DD%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:81
+msgid "Birth date"
+msgstr "Syntymäpäivä"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:77
+msgid "E.g. %1$sMD%2$s, %1$sPhD%2$s"
+msgstr "Esim. %1$sFM%2$s, %1$sFT%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:75
+msgid "Honorific suffix"
+msgstr "Loppuliite"
+
+#. translators: %1$s is replaced by `<code>`, %2$s by `</code>`.
+#: src/integrations/admin/user-profile-integration.php:71
+msgid "E.g. %1$sDr%2$s, %1$sMs%2$s, %1$sMr%2$s"
+msgstr "E.g. %1$sTri%2$s, %1$sHra%2$s, %1$sRva%2$s"
+
+#: src/integrations/admin/user-profile-integration.php:69
+msgid "Honorific prefix"
+msgstr "Etuliite"
+
+#: src/integrations/admin/user-profile-integration.php:65
+msgid "Basic information"
+msgstr "Lisätietoja"
+
+#: premium.php:312
+msgid "Custom fields to include in page analysis"
+msgstr "Sivuanalyysiin sisällytettävät mukautetut kentät"
+
+#: premium.php:305
+msgid "Learn more about including custom fields in the page analysis"
+msgstr "Opi lisää kuinka lisäät mukautettuja kenttiä sivuanalyysiin"
+
+#: src/schema-templates/job-benefits.block.php:12
+msgid "The description of benefits associated with the job."
+msgstr "Kuvaus toimeen liittyvistä etuuksista."
+
+#: src/schema-templates/job-description.block.php:12
+msgid "The description of the job."
+msgstr "Työn kuvaus"
+
+#: src/schema-templates/job-employment-type.block.php:32
+msgid "The type of employment (e.g. full-time, part-time, contract, temporary, seasonal, internship)."
+msgstr "Työsuhteen muoto (esim. kokopäiväinen, osa-aikainen, sopimus, tilapäinen, kausityö, työharjoittelu)"
+
+#: src/schema-templates/job-application-closing-date.block.php:12
+msgid "The date after which the job posting is not valid anymore."
+msgstr "Päivämäärä, jonka jälkeen työpaikkailmoitus ei ole enää auki."
+
+#: src/schema-templates/job-location.block.php:12
+msgid "The (typically single) geographic location associated with the job."
+msgstr "Työpaikan maantieteellinen sijainti (tavallisesti yksi)"
+
+#: src/schema-templates/job-location-address.block.php:12
+#: src/schema-templates/job-office-location.block.php:28
+msgid "The address where the office is located."
+msgstr "Osoite, jossa toimisto sijaitsee"
+
+#: src/schema-templates/job-requirements.block.php:12
+msgid "The description of skills and experience needed for the position."
+msgstr "Kuvaus toimessa vaadittavasta osaamisesta ja kokemuksesta."
+
+#: src/schema-templates/job-base-salary.block.php:17
+#: src/schema-templates/job-salary-range.block.php:17
+msgid "day"
+msgstr "päivä"
+
+#: src/schema-templates/job-base-salary.block.php:13
+#: src/schema-templates/job-salary-range.block.php:13
+msgid "hour"
+msgstr "tunti"
+
+#: src/schema-templates/job-base-salary.block.php:21
+#: src/schema-templates/job-salary-range.block.php:21
+msgid "week"
+msgstr "viikko"
+
+#: src/schema-templates/job-base-salary.block.php:25
+#: src/schema-templates/job-salary-range.block.php:25
+msgid "month"
+msgstr "kuukausi"
+
+#: src/schema-templates/job-base-salary.block.php:29
+#: src/schema-templates/job-salary-range.block.php:29
+msgid "year"
+msgstr "vuosi"
+
+#: src/schema-templates/job-base-salary.block.php:36
+#: src/schema-templates/job-salary.block.php:14
+msgid "Base salary"
+msgstr "Peruspalkka"
+
+#: src/schema-templates/job-base-salary.block.php:39
+#: src/schema-templates/job-salary-range.block.php:39
+msgid "Currency"
+msgstr "Valuutta"
+
+#: src/schema-templates/job-base-salary.block.php:40
+#: src/schema-templates/job-salary-range.block.php:40
+#: src/schema-templates/job-salary-range.block.php:42
+msgid "Enter amount"
+msgstr "Anna määrä"
+
+#: src/schema-templates/job-base-salary.block.php:40
+msgid "Value"
+msgstr "Arvo"
+
+#: src/schema-templates/job-base-salary.block.php:41
+#: src/schema-templates/job-salary-range.block.php:44
+msgid "Unit"
+msgstr "Yksikkö"
+
+#: src/schema-templates/job-benefits.block.php:13
+msgid "Benefits"
+msgstr "Edut"
+
+#: src/schema-templates/job-benefits.block.php:15
+msgid "Enter benefit"
+msgstr "Anna etu"
+
+#: src/schema-templates/job-description.block.php:12
+msgid "Job description"
+msgstr "Työn kuvaus"
+
+#: src/schema-templates/job-description.block.php:14
+msgid "Enter a job description..."
+msgstr "Anna työn kuvaus..."
+
+#: src/schema-templates/job-employment-type.block.php:13
+msgid "Full time"
+msgstr "Kokoaikainen"
+
+#: src/schema-templates/job-employment-type.block.php:17
+msgid "Part time"
+msgstr "Osa-aikainen"
+
+#: src/schema-templates/job-employment-type.block.php:21
+msgid "Contractor"
+msgstr "Alihankkija"
+
+#: src/schema-templates/job-employment-type.block.php:25
+msgid "Temporary"
+msgstr "Sijainen"
+
+#: src/schema-templates/job-employment-type.block.php:35
+msgid "Employment"
+msgstr "Työ"
+
+#: src/schema-templates/job-employment-type.block.php:36
+msgid "This is an internship"
+msgstr "Tämä on harjoittelupaikka"
+
+#: src/schema-templates/job-employment-type.block.php:36
+msgid "this is an internship"
+msgstr "tämä on harjoittelupaikka"
+
+#: src/schema-templates/job-employment-type.block.php:37
+msgid "This is a volunteer role"
+msgstr "Tämä on vapaaehtoispaikka"
+
+#: src/schema-templates/job-employment-type.block.php:37
+msgid "this is a volunteer role"
+msgstr "tämä on vapaaehtoispaikka"
+
+#: src/schema-templates/job-location.block.php:14
+#: src/schema-templates/job-office-location.block.php:28
+msgid "Office location"
+msgstr "Toimiston sijainti"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "Address where the office is located"
+msgstr "Osoite, jossa toimisto sijaitsee"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "Address"
+msgstr "Osoite"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "Postal code"
+msgstr "Postinumero"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "City"
+msgstr "Kaupunki"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "Region"
+msgstr "Alue"
+
+#: src/schema-templates/job-location.block.php:14
+msgid "Country"
+msgstr "Maa"
+
+#: src/schema-templates/job-location.block.php:15
+#: src/schema-templates/job-remote-location.block.php:12
+msgid "Remote job"
+msgstr "Etätyö"
+
+#: src/schema-templates/job-location.block.php:15
+msgid "This job is 100% remote"
+msgstr "Tämä työ suoritetaan 100% etänä"
+
+#: src/schema-templates/job-location-address.block.php:14
+msgid "Enter street address"
+msgstr "Anna katuosoite"
+
+#: src/schema-templates/job-location-postal-code.block.php:14
+msgid "Enter postal code"
+msgstr "Anna postinumero"
+
+#: src/schema-templates/job-location-city.block.php:14
+msgid "Enter city"
+msgstr "Anna kaupunki"
+
+#: src/schema-templates/job-location-country.block.php:14
+msgid "Enter country"
+msgstr "Anna maa"
+
+#: src/schema-templates/job-remote-location.block.php:12
+#: src/schema-templates/job-remote-location.block.php:14
+msgid "This job is 100% remote."
+msgstr "Tämä työ suoritetaan 100% etänä."
+
+#: src/schema-templates/job-requirements.block.php:13
+msgid "Requirements"
+msgstr "Vaatimukset"
+
+#: src/schema-templates/job-requirements.block.php:15
+msgid "Enter requirement"
+msgstr "Anna vaatimus"
+
+#: src/schema-templates/job-salary-range.block.php:36
+#: src/schema-templates/job-salary.block.php:15
+msgid "Salary range"
+msgstr "Palkkahaitari"
+
+#: src/schema-templates/job-salary-range.block.php:40
+msgid "Min value"
+msgstr "Vähimmäisarvo"
+
+#: src/schema-templates/job-salary-range.block.php:42
+msgid "Max value"
+msgstr "Enimmäisarvo"
+
+#: src/schema-templates/job-base-salary.block.php:36
+#: src/schema-templates/job-salary.block.php:12
+#: src/schema-templates/job-salary.block.php:14
+msgid "The base salary of the job."
+msgstr "Työpaikan peruspalkka."
+
+#: src/schema-templates/job-salary.block.php:15
+msgid "The salary range of the job, depending on a variety of factors (e.g. a candidate's education level or level of experience)."
+msgstr "Työpaikan palkkahaitari, joka riippuu erilaisista tekijöistä (kuten hakijan koulutustaustasta ja kokemustasosta)."
+
+#: src/integrations/admin/user-profile-integration.php:119
+msgid "Job title"
+msgstr "Titteli"
+
+#. translators: %1$s: Yoast SEO, %2$s: Link start tag, %3$s: Link end tag.
+#: src/addon-installer.php:163
+msgid "%2$sActivate %1$s now%3$s"
+msgstr "%2$sAktivoi %1$s nyt%3$s"
+
+#. translators: %1$s: Yoast SEO, %2$s: Link start tag, %3$s: Link end tag.
+#: src/addon-installer.php:170
+msgid "%2$sUpgrade %1$s now%3$s"
+msgstr "%2$sPäivitä %1$s nyt%3$s"
+
+#. translators: %1$s: Yoast SEO, %2$s: Link start tag, %3$s: Link end tag.
+#: src/addon-installer.php:175
+msgid "%2$sInstall %1$s now%3$s"
+msgstr "%2$sAsenna %1$s nyt%3$s"
+
+#. translators: %1$s: Yoast SEO, %2$s: The minimum Yoast SEO version required,
+#. %3$s: Yoast SEO Premium.
+#: src/addon-installer.php:114
+msgid "%1$s %2$s must be installed and activated in order to use %3$s."
+msgstr "%1$s:n versio %2$s pitää olla asennettuna ja aktivoituna, jotta %3$s voidaan ottaa käyttöön."
+
+#. translators: %1$s: Yoast SEO, %2$s: Link start tag, %3$s: Link end tag.
+#: src/addon-installer.php:158
+msgid "%2$sNetwork Activate %1$s now%3$s"
+msgstr "%2$sVerkostoaktivoi %1$s nyt%3$s"
+
+#. translators: %1$s: Yoast SEO, %2$s: The minimum Yoast SEO version required.
+#: src/addon-installer.php:188
+msgid "Please contact a network administrator to install %1$s %2$s."
+msgstr "Ota yhteys verkoston ylläpitäjään asentaaksesi %1$s:n version %2$s."
+
+#. translators: %1$s: Yoast SEO, %2$s: The minimum Yoast SEO version required.
+#: src/addon-installer.php:192
+msgid "Please contact an administrator to install %1$s %2$s."
+msgstr "Ota yhteys ylläpitäjään asentaaksesi %1$s:n version %2$s."
+
+#: src/integrations/blocks/job-posting-block.php:68
+msgid "Required Job Posting Blocks"
+msgstr "Vaaditut työpaikkailmoituslohkot"
+
+#: src/integrations/blocks/job-posting-block.php:73
+msgid "Recommended Job Posting Blocks"
+msgstr "Suositellut työpaikkailmoituslohkot"
+
+#: src/integrations/blocks/estimated-reading-time-block.php:57
+#: assets/js/src/blocks/estimated-reading-time/block.js:179
+msgid "Estimated reading time:"
+msgstr "Arvioitu lukuaika:"
+
+#: src/integrations/blocks/estimated-reading-time-block.php:84
+#: assets/js/src/blocks/estimated-reading-time/block.js:64
+#: assets/js/src/blocks/estimated-reading-time/legacy/15.6.js:58
+#: assets/js/src/blocks/estimated-reading-time/legacy/15.6.non-admin.js:28
+#: assets/js/src/blocks/estimated-reading-time/legacy/15.8.js:22
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "minuutti"
+msgstr[1] "minuuttia"
+
+#: classes/redirect/presenters/redirect-page-presenter.php:69
+msgid "Settings"
+msgstr "Asetukset"
+
+#: classes/redirect/redirect-table.php:100
+msgid "Filter"
+msgstr "Suodata"
+
+#: classes/premium-javascript-strings.php:61
+#: classes/redirect/redirect-table.php:411
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: classes/premium-javascript-strings.php:53
+#: assets/js/src/components/RedirectNotification.js:123
+#: assets/js/src/elementor/components/RedirectNotification.js:127
+#: assets/js/src/frontend-inspector/components/frontend-inspector.js:61
+msgid "OK"
+msgstr "OK"
+
+#: classes/export/export-keywords-csv.php:67
+msgid "title"
+msgstr "otsikko"
+
+#: classes/export/export-keywords-csv.php:73
+msgid "meta description"
+msgstr "metakuvaus"
+
+#: premium.php:272
+msgid "Create Redirect"
+msgstr "Luo uudelleenohjaus"
+
+#: classes/redirect/redirect-formats.php:23 premium.php:336
+msgid "Redirects"
+msgstr "Uudelleenohjaukset"
+
+#: classes/redirect/views/redirects-form.php:59
+msgid "URL"
+msgstr "URL"
+
+#: classes/premium-import-manager.php:241
+msgid "Redirect import failed: the Redirection plugin is not installed or activated."
+msgstr "Uudelleenohjausten tuonti epäonnistui: Redirection-lisäosaa ei ole asennettu tai aktivoitu."
+
+#: classes/premium-import-manager.php:317
+msgid "Redirect import failed: no redirects found."
+msgstr "Uudelleenohjausten tuonti epäonnistui: uudelleenohjauksia ei löytynyt."
+
+#: classes/premium-javascript-strings.php:31
+msgid "You have unsaved redirects, are you sure you want to leave?"
+msgstr "Sinulla on tallentamattomia uudelleenohjauksia. Oletko varma, että haluat poistua?"
+
+#: classes/redirect/redirect-table.php:115
+msgid "New URL"
+msgstr "Uusi URL"
+
+#: classes/premium-javascript-strings.php:62
+#: classes/redirect/redirect-table.php:308
+#: classes/redirect/redirect-table.php:412
+msgid "Delete"
+msgstr "Poista"
+
+#: classes/redirect/views/redirects-tab-plain.php:61
+#: classes/redirect/views/redirects-tab-regex.php:72
+msgid "Search"
+msgstr "Hae"
+
+#: classes/redirect/views/redirects-tab-settings.php:122
+msgid "Save Changes"
+msgstr "Tallenna muutokset"
+
+#: classes/redirect/redirect-formats.php:24
+msgid "Regex Redirects"
+msgstr "Regex-uudelleenohjaukset"
+
+#: classes/redirect/presenters/redirect-table-presenter.php:68
+msgid "Old URL"
+msgstr "Vanha URL"
+
+#: classes/redirect/views/redirects-tab-plain.php:41
+#: classes/redirect/views/redirects-tab-regex.php:52
+msgid "Add Redirect"
+msgstr "Lisää uudelleenohjaus"
+
+#: classes/redirect/views/redirects-tab-settings.php:50
+msgid "As you're on Nginx, you should add the following include to the Nginx config file:"
+msgstr "Koska sinulla on Nginx käytössä, sinun tulee sisällyttää seuraava Nginxin asetustiedostoon:"
+
+#: classes/redirect/views/redirects-tab-settings.php:24
+msgid "As you're on Apache, you should add the following include to the website httpd config file:"
+msgstr "Koska sinulla on Apache käytössä, sinun tulee sisällyttää seuraava sivuston httpd-asetustiedostoon:"
+
+#. Description of the plugin
+msgid "The first true all-in-one SEO solution for WordPress, including on-page content analysis, XML sitemaps and much more."
+msgstr "Ensimmäinen all-in-one SEO-ratkaisu WordPressiin, sisältäe sisältöanalyysin suoraan sivulla, XML-sitemapit ja paljon muuta."
+
+#: classes/redirect/exporters/redirect-csv-exporter.php:76
+#: assets/js/src/workouts/components/CornerstoneWorkout/MostLinked.js:98
+msgid "Type"
+msgstr "Tyyppi"
+
+#. translators: %s: '.htaccess' file name.
+#: classes/redirect/views/redirects-tab-settings.php:37
+msgid "We're unable to save the redirects to your %s file. Please make the file writable."
+msgstr "Emme pysty tallentaamaan uudelleenohjauksia %s-tiedostoosi. Ole hyvä ja tee tiedostosta kirjoitettava."
+
+#: classes/redirect/views/redirects-tab-settings.php:111
+msgid "Generate a separate redirect file"
+msgstr "Luo erillinen tiedosto uudellenohjauksille"
+
+#: classes/redirect/redirect-page.php:140
+msgid "Redirects per page"
+msgstr "Uudelleenohjauksia sivua kohti"
+
+#: classes/views/import-redirects.php:74
+msgid "Import .htaccess"
+msgstr "Tuo .htaccess"
+
+#: classes/premium-javascript-strings.php:26
+msgid "The old URL field can't be empty."
+msgstr "Vanhan URL:n kenttää ei voi jättää tyhjäksi."
+
+#: classes/premium-javascript-strings.php:28
+msgid "The new URL field can't be empty."
+msgstr "Uuden URL:n kenttää ei voi jättää tyhjäksi."
+
+#: classes/premium-javascript-strings.php:29
+msgid "Error while saving this redirect"
+msgstr "Virhe uudelleenohjausta tallennettaessa"
+
+#: classes/premium-javascript-strings.php:30
+msgid "New type can't be empty."
+msgstr "Uutta tyyppiä ei voi jättää tyhjäksi."
+
+#. Author of the plugin
+msgid "Team Yoast"
+msgstr "Yoast -tiimi"
+
+#: classes/premium-javascript-strings.php:25
+msgid "You can't redirect a URL to itself."
+msgstr "Et voi ohjata URLia itseensä."
+
+#. translators: %s: '.htaccess' file name
+#: classes/redirect/views/redirects-tab-settings.php:114
+msgid "By default we write the redirects to your %s file, check this if you want the redirects written to a separate file. Only check this option if you know what you are doing!"
+msgstr "Oletusarvoisesti kirjoitamme uudelleenohjaukset %s-tiedostoosi. Valitse tämä mikäli tahdot tallentaa ne erillliseen tiedostoon. Valitse tämä ainoastaan mikäli tiedät mitä olet tekemässä!"
+
+#: classes/redirect/presenters/redirect-table-presenter.php:65
+msgid "Regular Expression"
+msgstr "Säännöllinen lauseke"
+
+#. translators: 1: '.htaccess' file name
+#: classes/redirect/views/redirects-tab-settings.php:109
+msgid "Write redirects to the %1$s file. Make sure the %1$s file is writable."
+msgstr "Kirjoita uudelleenohjaukset %1$s-tiedostoon. Varmista, että %1$s on kirjoituskelpoinen."
+
+#. translators: %s: '.htaccess' file name
+#: classes/views/import-redirects.php:12
+msgid "Import redirects from %s"
+msgstr "Tuo uudelleenohjaukset %s-tiedostosta"
+
+#: classes/premium-javascript-strings.php:27
+msgid "The Regular Expression field can't be empty."
+msgstr "Säännöllisen lausekkeen kenttä ei voi olla tyhjä."
+
+#. translators: %s is replaced with the URL that will be deleted.
+#: classes/premium-javascript-strings.php:34
+msgid "Please enter the new URL for %s"
+msgstr "Anna uusi URL %s:lle"
+
+#. translators: variables will be replaced with from and to URLs.
+#: classes/premium-javascript-strings.php:36
+msgid "Redirect created from %1$s to %2$s!"
+msgstr "Uudelleenohjaus luotu osoitteesta %1$s osoitteeseen %2$s!"
+
+#: classes/redirect/redirect-table.php:113
+#: classes/redirect/views/redirects-form.php:22
+msgctxt "noun"
+msgid "Type"
+msgstr "Tyyppi"
+
+#. translators: %1$s: '.htaccess' file name, %2$s: plugin name
+#: classes/views/import-redirects.php:18
+msgid "You can copy the contents of any %1$s file in here, and it will import the redirects into %2$s."
+msgstr "Voit kopioida minkä tahansa %1$s-tiedoston sisällön tähän ja sen uudelleenohjaukset viedään lisäosaan %2$s."
+
+#: classes/premium-javascript-strings.php:41
+msgid "Redirect added."
+msgstr "Uudelleenohjaus lisätty."
+
+#: classes/premium-javascript-strings.php:42
+msgid "The redirect was added successfully."
+msgstr "Uudelleenohjauksen lisäys onnistui."
+
+#: classes/premium-javascript-strings.php:45
+msgid "Redirect updated."
+msgstr "Uudelleenohjaus päivitetty."
+
+#: classes/premium-javascript-strings.php:46
+msgid "The redirect was updated successfully."
+msgstr "Uudelleenohjauksen päivitys onnistui."
+
+#: classes/premium-javascript-strings.php:49
+#: classes/premium-redirect-service.php:51
+#: classes/redirect-undo-endpoint.php:94
+msgid "Redirect deleted."
+msgstr "Uudelleenohjaus poistettu."
+
+#: classes/premium-javascript-strings.php:50
+#: classes/premium-redirect-service.php:52
+#: classes/redirect-undo-endpoint.php:95
+msgid "The redirect was deleted successfully."
+msgstr "Uudelleenohjauksen poisto onnistui."
+
+#: classes/premium-javascript-strings.php:54
+#: classes/redirect/views/redirects-quick-edit.php:43
+msgid "Cancel"
+msgstr "Peruuta"
+
+#: classes/premium-javascript-strings.php:55
+msgid "Save"
+msgstr "Tallenna"
+
+#: classes/premium-javascript-strings.php:56
+msgid "Save anyway"
+msgstr "Talleta joka tapauksessa"
+
+#: classes/premium-javascript-strings.php:58
+#: classes/redirect/views/redirects-quick-edit.php:22
+msgid "Edit redirect"
+msgstr "Muokkaa uudelleenohjausta"
+
+#: classes/premium-javascript-strings.php:59
+msgid "You are already editing a redirect, please finish this one first"
+msgstr "Olet jo muokkaamassa uudelleenohjausta. Viimeistele ensin jo aloittamasi uudelleenohjaus."
+
+#: classes/redirect/validation/redirect-accessible-validation.php:29
+msgid "The URL you entered could not be resolved."
+msgstr "Antamaasi URLia ei voitu selvittää."
+
+#. translators: %1$s expands to the returned http code
+#: classes/redirect/validation/redirect-accessible-validation.php:40
+msgid "The URL you are redirecting to seems to return a %1$s status. You might want to check if the target can be reached manually before saving."
+msgstr "Kohteen URL palauttaa HTTP-tilakoodin %1$s. Sinun kannattaa tarkistaa löytyykö kohde käsipelillä ennen tallentamista."
+
+#: classes/redirect/validation/redirect-accessible-validation.php:49
+msgid "You're redirecting to a target that returns a 301 HTTP code (permanently moved). Make sure the target you specify is directly reachable."
+msgstr "Kohteen URL palauttaa HTTP-tilakoodin 301 (siirretty pysyvästi). Sinun kannattaa tarkistaa, että kohde on suoraan tavoitettavissa."
+
+#. translators: %1$s expands to the returned http code
+#: classes/redirect/validation/redirect-accessible-validation.php:57
+msgid "The URL you entered returned a HTTP code different than 200(OK). The received HTTP code is %1$s."
+msgstr "Kohteen URL palauttaa jonkun muun HTTP-tilakoodin kuin 200 (OK). Vastaanotettu HTTP-tilakoodi on %1$s."
+
+#: classes/redirect/redirect-ajax.php:65
+msgid "Unknown error. Failed to create redirect."
+msgstr "Tuntematon virhe. Uudelleenohjauksen luominen epäonnistui."
+
+#: classes/redirect/redirect-ajax.php:99
+msgid "Unknown error. Failed to update redirect."
+msgstr "Tuntematon virhe. Uudelleenohjauksen päivitys epäonnistui."
+
+#: classes/redirect/validation/redirect-endpoint-validation.php:40
+msgid "The redirect you are trying to save will create a redirect loop. This means there probably already exists a redirect that points to the origin of the redirect you are trying to save"
+msgstr "Uudelleenohjaus jota yrität tallentaa tulee luomaan uudelleenohjaussilmukan. Tämä tarkoittaa, että todennäköisesti on jo olemassa uudelleenohjaus, joka osoittaa sen uudelleenohjauksen alkuperään, jota yrität tallentaa."
+
+#. translators: %1$s: will be the target, %2$s: will be the found endpoint.
+#: classes/redirect/validation/redirect-endpoint-validation.php:48
+msgid "%1$s will be redirected to %2$s. Maybe it's worth considering to create a direct redirect to %2$s."
+msgstr "%1$s tullaan uudelleenohjaamaan kohteeseen %2$s. Saattaa olla harkinnan arvoista luoda suora ohjaus kohteeseen %2$s."
+
+#. translators: %s expands to the file path that we tried to write to
+#: classes/redirect/redirect-file-util.php:86
+msgid "We're unable to write data to the file %s"
+msgstr "Emme pysty kirjoittamaan tiedostoon %s"
+
+#: classes/redirect/redirect-types.php:26
+msgid "301 Moved Permanently"
+msgstr "301 Siirretty pysyvästi"
+
+#: classes/redirect/redirect-types.php:27
+msgid "302 Found"
+msgstr "302 Löydetty"
+
+#: classes/redirect/redirect-types.php:28
+msgid "307 Temporary Redirect"
+msgstr "307 Tilapäinen edelleenohjaus"
+
+#: classes/redirect/redirect-types.php:29
+msgid "410 Content Deleted"
+msgstr "410 Sisältö poistettu"
+
+#: classes/redirect/redirect-types.php:30
+msgid "451 Unavailable For Legal Reasons"
+msgstr "451 Ei saatavilla lakiteknisistä syistä"
+
+#: classes/redirect/validation/redirect-presence-validation.php:34
+msgid "Not all the required fields are filled."
+msgstr "Kaikkia vaadittuja kenttiä ei ole täytetty."
+
+#: classes/redirect/validation/redirect-uniqueness-validation.php:32
+msgid "The old URL already exists as a redirect."
+msgstr "Vanha URL on jo olemassa uudellenohjauksena."
+
+#: classes/redirect/views/redirects-quick-edit.php:42
+msgid "Update Redirect"
+msgstr "Päivitä uudelleenohjaus"
+
+#. translators: %s expands to the folder location where the redirects fill will
+#. be saved.
+#: classes/redirect/views/redirects-tab-settings.php:63
+msgid "We're unable to save the redirect file to %s"
+msgstr "Emme pysty kirjoittamaan uudelleenohjaustiedostoa hakemistoon %s"
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: List with actions, %3$s: <a
+#. href=''>, %4$s: </a>, %5$s: Slug to post
+#: classes/post-watcher.php:268
+msgid "%1$s detected that you moved a post (%5$s) to the trash. You can either: %2$s Don't know what to do? %3$sRead this post%4$s."
+msgstr "%1$s havaitsi, että siirsit artikkelin (%5$s) roskakoriin. Voit joko: %2$s Etkö tiedä mitä tehdä? %3$sLue tämä artikkeli%4$s."
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: List with actions, %3$s: <a
+#. href='{post_with_explaination.}'>, %4$s: </a>, %5%s: The removed url.
+#: classes/post-watcher.php:484
+msgid "%1$s detected that you deleted a post (%5$s). You can either: %2$s Don't know what to do? %3$sRead this post %4$s."
+msgstr "%1$s havaitsi, että poistit artikkelin (%5$s). Voit joko: %2$s Etkö tiedä mitä tehdä? %3$sLue tämä artikkeli%4$s."
+
+#. translators: %1$s will be replaced with the from URL.
+#: classes/premium-javascript-strings.php:38
+msgid "410 Redirect created from %1$s!"
+msgstr "410-uudelleenohjaus luotu osoitteesta %1$s!"
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: List with actions, %3$s: <a
+#. href='{post_with_explaination.}'>, %4$s: </a>, %5%s: The removed url.
+#: classes/term-watcher.php:288
+msgid "%1$s detected that you deleted a term (%5$s). You can either: %2$s Don't know what to do? %3$sRead this post %4$s."
+msgstr "%1$s havaitsi, että poistit termin (%5$s). Voit joko: %2$s Etkö tiedä mitä tehdä? %3$sLue tämä artikkeli%4$s."
+
+#: classes/watcher.php:265
+msgid "Redirect it to another URL"
+msgstr "Ohjaa se toiseen URLiin"
+
+#: classes/watcher.php:266
+msgid "Make it serve a 410 Content Deleted header"
+msgstr "Laita se tarjoamaan otsake \"410 Sisältö poistettu\""
+
+#: classes/redirect/views/redirects-tab-settings.php:101
+msgid "Web server"
+msgstr "Webbipalvelin"
+
+#: classes/redirect/views/redirects-tab-settings.php:103
+msgid "Redirect method"
+msgstr "Uudelleenohjaustapa"
+
+#. translators: %s: 'Yoast SEO Premium'
+#: classes/redirect/views/redirects-tab-settings.php:118
+msgid "%s can generate redirect files that can be included in your website web server configuration. If you choose this option the PHP redirects will be disabled. Only check this option if you know what you are doing!"
+msgstr "%s voi luoda uudellenohjaustiedostoja, jotka sisällytetään sivustosi palvelimen asetuksiin. Jos valitset tämän vaihtoehdon, PHP-uudelleenohjaukset tullaan ottamaan pois käytöstä. Valitse tämä vaihtoehto ainoastaan jos tiedät mitä olet tekemässä! "
+
+#. translators: %s expands to the file path that we tried to write to
+#: classes/redirect/redirect-file-util.php:44
+msgid "We're unable to create the directory %s"
+msgstr "Emme pystyneet luomaan hakemistoa %s"
+
+#: classes/redirect/validation/redirect-self-redirect-validation.php:25
+msgid "You are attempting to redirect to the same URL as the origin. Please choose a different URL to redirect to."
+msgstr "Yrität ohjata alkuperäisen kohteen kanssa samaan URLiin. Ole hyvä ja valitse jokin muu URL johon ohjataan."
+
+#. translators: 1: opens a link to a related help center article. 2: closes the
+#. link.
+#: classes/redirect/views/redirects-form.php:42
+msgid "The redirect type is the HTTP response code sent to the browser telling the browser what type of redirect is served. %1$sLearn more about redirect types%2$s."
+msgstr "Uudelleenohjauksen tyyppi on HTTP-vastauskoodi, joka lähetetään selaimelle kertomaan minkälaisesta uudelleenohjauksesta on kyse. %1$sLue lisää uudellenohjausten tyypeistä%2$s."
+
+#. translators: 1: opens a link to a related help center article. 2: closes the
+#. link.
+#: classes/redirect/views/redirects-tab-regex.php:30
+msgid "Regular Expression (regex) Redirects are extremely powerful redirects. You should only use them if you know what you are doing. %1$sRead more about regex redirects on our help center%2$s."
+msgstr "Säännöllisiä lausekkeita (regex) käyttävät uudelleenohjaukset ovat erittäin tehokkaita. Sinun kannattaa käyttää niitä ainoastaan, jos tiedät mitä olet tekemässä. %1$sLue lisää regex-ohjauksista tietopankistamme%2$s."
+
+#: premium.php:372 src/integrations/admin/crawl-settings-integration.php:194
+msgid "Enabled"
+msgstr "Sallittu"
+
+#: classes/views/import-redirects.php:72
+msgid "Enter redirects to import"
+msgstr "Anna tuotavat uudelleenohjaukset"
+
+#. translators: %1$s expands to the subdirectory WordPress is installed.
+#: classes/redirect/validation/redirect-subdirectory-validation.php:37
+msgid "Your redirect is missing the subdirectory where WordPress is installed in. This will result in a redirect that won't work. Make sure the redirect starts with %1$s"
+msgstr "Uudelleenohjauksestasi puuttuu alihakemisto, johon WordPress on asennettu. Tästä syntyy uudelleenohjaus, joka ei voi toimia. Varmista että uudelleenohjauksesi alussa on %1$s"
+
+#: classes/redirect/redirect-table.php:249
+msgid "Select this redirect"
+msgstr "Valitse tämä uudelleenohjaus"
+
+#. translators: %s expands to Yoast
+#: classes/metabox-link-suggestions.php:101
+msgid "%s internal linking"
+msgstr "%s sisäiset linkit"
+
+#. translators: %s: '.htaccess' file name
+#: classes/premium-import-manager.php:67 classes/views/import-redirects.php:45
+msgid "Import redirects"
+msgstr "Tuo uudelleenohjauksia"
+
+#: classes/views/import-redirects.php:25
+msgid "Redirection"
+msgstr "Uudelleenohjaus"
+
+#: classes/views/import-redirects.php:26
+msgid "Safe Redirect Manager"
+msgstr "Turvallinen uudelleenohjauksien hallinta"
+
+#: classes/views/import-redirects.php:27
+msgid "Simple 301 Redirects"
+msgstr "Yksinkertaiset 301-uudelleenohjaukset"
+
+#: classes/views/import-redirects.php:38
+msgid "Import from other redirect plugins"
+msgstr "Tuo muista uudelleenohjauslisäosista"
+
+#: classes/views/import-redirects.php:42
+msgid "Import from:"
+msgstr "Tuo kohteesta:"
+
+#: classes/watcher.php:236
+msgid "New URL:"
+msgstr "Uusi URL:"
+
+#: classes/watcher.php:234
+msgid "Old URL:"
+msgstr "Vanha URL:"
+
+#: classes/premium-redirect-export-manager.php:31
+#: classes/views/export-redirects.php:15
+msgid "Export redirects"
+msgstr "Vie uudelleenohjaukset"
+
+#: classes/redirect/exporters/redirect-csv-exporter.php:74
+msgid "Origin"
+msgstr "Alkuperä"
+
+#: classes/redirect/exporters/redirect-csv-exporter.php:75
+msgid "Target"
+msgstr "Kohde"
+
+#: classes/redirect/exporters/redirect-csv-exporter.php:77
+msgid "Format"
+msgstr "Oma tyyli"
+
+#: classes/views/export-redirects.php:10
+msgid "Export redirects to a CSV file"
+msgstr "Vie uudelleenohjaukset CSV-tiedostoon"
+
+#: classes/views/export-redirects.php:11
+msgid "If you need to have a list of all redirects, you can generate a CSV file using the button below."
+msgstr "Mikäli tarvitset listan kaikista uudelleenohjauksistasi, voit luoda CSV-tiedoston alta löytyvän painikkeen avulla."
+
+#: classes/views/export-redirects.php:12
+msgid "Please note that the first row in this file is a header. This row should be ignored when parsing or importing the data from the export."
+msgstr "Huomaa, että ensimmäinen rivi tässä tiedostossa on otsakerivi. Älä kiinnitä huomiota tähän, kun seulot tai tuot tietoa tiedostosta. "
+
+#: classes/premium-import-manager.php:275
+msgid "CSV import failed: the provided file could not be parsed using a CSV parser."
+msgstr "CSV:n tuonti epäonnistui: annettua tiedostoa ei voitu tulkita CSV-tulkilla."
+
+#: classes/views/import-redirects.php:52
+msgid "Import from a CSV file"
+msgstr "Tuo CVS-tiedostosta"
+
+#: classes/views/import-redirects.php:59
+msgid "Import CSV file"
+msgstr "Tuo CSV-tiedosto"
+
+#. translators: %1$s: Yoast SEO Premium, %2$s: <a href='{undo_redirect_url}'>,
+#. %3$s: </a>, %4$s: Slug to post
+#: classes/post-watcher.php:295
+msgid "%1$s detected that you restored a post (%4$s) from the trash, for which a redirect was created. %2$sClick here to remove the redirect%3$s"
+msgstr "%1$s havaitsi, että palautit roskakorista artikkelin (%4$s), jolle on luotu uudelleenohjaus. %2$sNapsauta tästä poistaaksesi uudelleenohjauksen%3$s"
+
+#. translators: %1$s expands to the link to an article to read more about
+#. orphaned content, %2$s expands to </a>
+#: classes/premium-orphaned-post-filter.php:54
+msgid "%1$sLearn more about orphaned content%2$s."
+msgstr "%1$sLue lisää hylätyistä sisällöistä%2$s."
+
+#. translators: %1$s: plural form of the current post type, %2$s: a Learn more
+#. about link
+#: classes/premium-orphaned-post-filter.php:62
+msgid "Ask your SEO Manager or Site Administrator to count links in all texts, so we can identify orphaned %1$s. %2$s"
+msgstr "Pyydä SEO-manageriasi tai sivuston ylläpitäjää laskemaan linkit kaikissa teksteissä, jotta voimme tunnistaa hylätyt sisällöt tyyppiä %1$s. %2$s"
+
+#. translators: %1$s expands to link to the recalculation option, %2$s: anchor
+#. closing, %3$s: plural form of the current post type, %4$s: a Learn more
+#. about link
+#: classes/premium-orphaned-post-filter.php:71
+msgid "%1$sClick here%2$s to index your links, so we can identify orphaned %3$s. %4$s"
+msgstr "%1$sNapsauta tästä%2$s indeksoidaksesi linkkisi, jjotta voimme tunnistaa hylätyt sisällöt tyyppiä %3$s. %4$s"
+
+#. translators: %1$s: plural form of the current post type, %2$s: a Learn more
+#. about link
+#: classes/premium-orphaned-post-filter.php:81
+msgid "'Orphaned content' refers to %1$s that have no inbound links, consider adding links towards these %1$s. %2$s"
+msgstr "\"Hylätty sisältö\" viittaa sisältötyyppiin %1$s joihin ei ole kohdistettu linkkejä. Harkitse linkkien lisäämistä näihin  %1$s -kohteisiin. %2$s"
+
+#: classes/premium-orphaned-post-filter.php:140
+#: assets/js/src/workouts/components/OrphanedWorkout.js:88
+msgid "Orphaned content"
+msgstr "Hylätty sisältö"
+
+#: classes/export/export-keywords-csv.php:68
+msgid "url"
+msgstr "URL"
+
+#: classes/export/export-keywords-csv.php:69
+msgid "readability score"
+msgstr "luettavuuden pisteet"
+
+#: classes/export/export-keywords-csv.php:76
+msgid "ID"
+msgstr "Tunniste"
+
+#: classes/redirect/redirect-table.php:84
+msgid "Filter by redirect type"
+msgstr "Suodata uudelleenohjaukset tyypin mukaan"
+
+#: classes/redirect/redirect-table.php:86
+msgid "All redirect types"
+msgstr "Kaikki uudelleenohjaustyypit"
+
+#. translators: %s resolves to the button label translation.
+#: classes/views/export-keywords.php:12
+msgid "If you need a list of all public posts, terms and related keyphrases, you can generate a CSV file using the %s button below."
+msgstr "Jos tarvitset listauksen kaikista postauksista, termeistä ja liittyvistä hakulauseista, voit luoda CSV-tiedoston käyttämällä %s näppäintä alapuolella."
+
+#: classes/views/export-keywords.php:21
+msgid "Export keyphrases to a CSV file"
+msgstr "Vie hakulauseet CSV-tiedostoon"
+
+#: classes/views/export-keywords.php:23
+msgid "You can add or remove columns to be included in the export using the checkboxes below."
+msgstr "Voit lisätä tai poistaa sarakkeita, jotka sisällytetään tiedostoon, käyttämällä alapuolella olevia ruksilaatikoita."
+
+#: classes/views/export-keywords.php:31
+msgid "Export URL"
+msgstr "Viennin osoite"
+
+#: classes/views/export-keywords.php:32
+msgid "Export title"
+msgstr "Viennin otsikko"
+
+#: classes/views/export-keywords.php:35
+msgid "Export readability score"
+msgstr "Vie luettavuuden pisteet"
+
+#: classes/views/export-keywords.php:49
+msgid "Please note:"
+msgstr "Huomioi:"
+
+#: classes/views/export-keywords.php:51
+msgid "The first row in this file is the header row. This row should be ignored when parsing or importing the data from the export."
+msgstr "Ensimmäinen rivi tässä tiedostossa on otsakerivi. Älä kiinnitä huomiota tähän, kun seulot tai tuot tietoa tiedostosta. "
+
+#: classes/views/export-keywords.php:52
+msgid "Exporting data can take a long time when there are many posts, pages, public custom post types or terms."
+msgstr "Tiedon vieminen saattaa viedä pitkän ajan, jos postauksia, sivuja, yleisiä customoituja postaustyyppejä tai termejä on paljon. "
+
+#: classes/redirect/views/redirects-tab-plain.php:25
+msgid "Plain redirects"
+msgstr "Tavalliset uudelleenohjaukset"
+
+#: classes/redirect/views/redirects-tab-regex.php:25
+msgid "Regular Expression redirects"
+msgstr "Tavallisen lausekkeen uudelleenohjaukset"
+
+#: classes/redirect/views/redirects-tab-settings.php:76
+msgid "Redirects settings"
+msgstr "Uudelleenohjausten asetukset"
+
+#: classes/export/export-keywords-csv.php:77
+msgctxt "post_type of a post or the taxonomy of a term"
+msgid "type"
+msgstr "tyyppi"
+
+#: classes/export/export-keywords-csv.php:72
+msgid "seo title"
+msgstr "SEO-otsikko"
+
+#: classes/views/export-keywords.php:33
+msgid "Export SEO title"
+msgstr "Vie SEO-otsikko"
+
+#: classes/views/export-keywords.php:34
+msgid "Export meta description"
+msgstr "Vie metakuvaus"
+
+#: classes/export/export-keywords-csv.php:70
+msgid "keyphrase"
+msgstr "Hakulause"
+
+#: classes/export/export-keywords-csv.php:71
+msgid "keyphrase score"
+msgstr "Hakulauseen pisteytys"
+
+#: classes/premium-keyword-export-manager.php:40
+#: classes/views/export-keywords.php:8
+msgid "Export keyphrases"
+msgstr "Vie hakulauseet"
+
+#: classes/views/export-keywords.php:30
+msgid "Export keyphrase scores"
+msgstr "Vie hakulauseen tulokset"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://yoa.st/2jc"
+msgstr "https://yoa.st/2jc"
+
+#. Plugin Name of the plugin
+msgid "Yoast SEO Premium"
+msgstr "Yoast SEO Premium"
+
+#. translators: 1: link to redirects overview, 2: closing link tag
+#: classes/premium-import-manager.php:192
+msgid "All redirects have been imported successfully. Go to the %1$sredirects overview%2$s to see the imported redirects."
+msgstr "Kaikki uudelleenohjaukset on tuotu onnistuneesti. Mene %1$suudelleenohjaukset yhteenvetoon%2$s nähdäksesi tuodut uudelleenohjaukset."
+
+#. translators: 1: link to redirects overview, 2: closing link tag
+#: classes/premium-import-manager.php:201
+msgid "No redirects have been imported. Probably they already exist as a redirect. Go to the %1$sredirects overview%2$s to see the existing redirects."
+msgstr "Yhtäkään uudelleenohjausta ei ole tuotu. Ne ovat ehkä jo olemassa. Mene %1$suudelleenohjausten yhteenvetoon%2$s nähdäksesi olemassa olevat uudelleenohjaukset."
+
+#. translators: 1: amount of imported redirects, 2: total amount of redirects,
+#. 3: link to redirects overview, 4: closing link tag
+#: classes/premium-import-manager.php:209
+msgid "Imported %1$s/%2$s redirects successfully. Go to the %3$sredirects overview%4$s to see the imported redirect."
+msgid_plural "Imported %1$s/%2$s redirects successfully. Go to the %3$sredirects overview%4$s to see the imported redirects."
+msgstr[0] "Tuotu %1$s/%2$s uudelleenohjaukset onnistuneesti. Mene %3$suudelleenohjaukset yhteenvetoon%4$s nähdäksesi tuodun uudelleenohjauksen. "
+msgstr[1] "Tuotu %1$s/%2$s uudelleenohjaukset onnistuneesti. Mene %3$suudelleenohjaukset yhteenvetoon%4$s nähdäksesi tuodun uudelleenohjauksen. "
+
+#: classes/premium-import-manager.php:251
+msgid "Redirect import failed: the selected redirect plugin is not installed or activated."
+msgstr "Uudelleenohjaus epäonnistui: valittu uudelleenohjauksen lisäosa ei ole asennettu tai aktivoitu."
+
+#: classes/premium-import-manager.php:269
+msgid "CSV import failed: No file selected."
+msgstr "CSV tuonti epäonnistui: Tiedostoa ei ole valittu."
+
+#. translators: 1: The maximum file size
+#: classes/premium-import-manager.php:283
+msgid "CSV import failed: the provided file is larger than %1$s."
+msgstr "CSV tuonti epäonnistui: ladattu tiedosto on suurempi kuin %1$s."
+
+#: classes/premium-import-manager.php:290
+msgid "CSV import failed: the provided file is not a CSV file."
+msgstr "CSV-tiedoston tuominen epäonnistui: ladattu tiedosto ei ole CSV-tiedosto."
+
+#: classes/premium-import-manager.php:309
+msgid "Redirect import failed: we can't recognize this type of import."
+msgstr "Uudelleenohjaus epäonnistui: tunnistamaton tuontityyppi."
+
+#: classes/premium-stale-cornerstone-content-filter.php:51
+msgid "Stale cornerstone content"
+msgstr "Vanhentunut oleellinen sisältö"
+
+#. translators: %s expands to the posttype label, %2$s expands anchor to blog
+#. post about cornerstone content, %3$s expands to </a>
+#: classes/premium-stale-cornerstone-content-filter.php:68
+msgid "Stale cornerstone content refers to cornerstone content that hasn’t been updated in the last 6 months. Make sure to keep these %1$s up-to-date. %2$sLearn more about cornerstone content%3$s."
+msgstr "Vanhentunut oleellinen sisältö viittaa sisältöön, jota ei ole päivitetty viimeiseen kuuteen kuukauteen. Varmista, että pidät sisällön %1$s päivitettynä. %2$sOpiskele lisää oleellisesta sisällöstä%3$s."
+
+#: classes/views/import-redirects.php:56
+msgid "Choose a CSV file from your computer:"
+msgstr "Valitse CSV-tiedosto koneeltasi:"
+
+#: classes/watcher.php:247 assets/js/src/components/RedirectNotification.js:133
+#: assets/js/src/elementor/components/RedirectNotification.js:133
+msgid "Undo"
+msgstr "Kumoa"
+
+#: classes/premium-redirect-service.php:60
+#: classes/redirect-undo-endpoint.php:83 classes/redirect-undo-endpoint.php:103
+msgid "Redirect not deleted."
+msgstr "Uudelleenohjausta ei poistettu."
+
+#: classes/premium-redirect-service.php:61
+#: classes/redirect-undo-endpoint.php:84 classes/redirect-undo-endpoint.php:104
+msgid "Something went wrong when deleting this redirect."
+msgstr "Jotain meni vikaan poistaessa tätä uudelleenohjausta."
+
+#: classes/redirect/validation/redirect-relative-origin-validation.php:27
+msgid "The old URL for your redirect is not relative. Only the new URL is allowed to be absolute. Make sure to provide a relative old URL."
+msgstr "Uudelleenohjauksesi vanha osoite ei ole aiheeseen suhteellinen. Vain uusi osoite voi olla täydellinen. Varmista, että antamasi osoite on suhteellisen vanha."
+
+#. translators: %1$s: Yoast SEO Premium, %2$s and %3$s expand to a link to the
+#. admin page.
+#: classes/post-watcher.php:471
+msgid "%1$s created a %2$sredirect%3$s from the old post URL to the new post URL."
+msgstr "%1$s loi %2$suudelleenohjauksen%3$s vanhasta postauksesta uuteen postaukseen."
+
+#. translators: %1$s: Yoast SEO Premium, %2$s and %3$s expand to a link to the
+#. admin page.
+#: classes/term-watcher.php:275
+msgid "%1$s created a %2$sredirect%3$s from the old term URL to the new term URL."
+msgstr "%1$s loi %2$suudelleenohjauksen%3$s vanhasta osoitteesta uuteen osoitteeseen. "
+
+#: classes/watcher.php:241
+msgid "Ok"
+msgstr "Ok"
+
+#: src/integrations/admin/crawl-settings-integration.php:270
+#: assets/js/src/components/semrush/SEMrushRemoveRelatedKeyphraseLink.js:19
+#: assets/js/src/workouts/components/OrphanedWorkout/RedirectModal.js:87
+msgid "Remove"
+msgstr "Poista"
+
+#. translators: %s: Zapier.
+#: src/integrations/third-party/zapier.php:128
+msgid "Go to your %s Dashboard"
+msgstr "Siirry %s-ohjauspaneeliisi"
+
+#. translators: 1: Zapier, 2: The Zapier API Key.
+#: src/integrations/third-party/zapier.php:133
+msgid "%1$s uses this API Key: %2$s"
+msgstr "%1$s käyttää tätä API-avainta: %2$s"
+
+#: src/integrations/third-party/zapier.php:137
+msgid "Reset API Key"
+msgstr "Nollaa API-avain"
+
+#. translators: %s: Zapier.
+#: src/integrations/third-party/zapier.php:176
+msgid "%s will ask for an API key. Use this one:"
+msgstr "%s tulee pyytämään API-avainta. Käytä tätä:"
+
+#: src/integrations/third-party/zapier.php:182
+msgid "Copy to clipboard"
+msgstr "Kopioi leikepöydälle"
+
+#. translators: 1: Link start tag, 2: Yoast SEO, 3: Zapier, 4: Link closing
+#. tag.
+#: src/integrations/third-party/zapier-classic-editor.php:86
+#: assets/js/src/components/ZapierPostPublishContent.js:23
+msgid "%1$sConnect %2$s with %3$s%4$s to instantly share your published posts with 2000+ destinations such as Twitter, Facebook and more."
+msgstr " %1$sLiitä %2$s %3$siin%4$s voidaksesi jakaa hetkessä julkaistut artikkelisi yli 2000 kohteeseen, kuten Twitteriin, Facebookiin jne."
+
+#. translators: 1: Yoast SEO, 2: Zapier.
+#: src/integrations/third-party/zapier.php:117
+msgid "%1$s is successfully connected to %2$s!"
+msgstr "%1$s on menestyksekkäästi liitetty %2$siin!"
+
+#. translators: 1: Yoast SEO, 2: Zapier, 3: Emphasis open tag, 4: Emphasis
+#. close tag.
+#: src/integrations/third-party/zapier.php:151
+msgid "%1$s is not connected to %2$s. To set up a connection, make sure you click %3$sSave changes%4$s first, then copy the given API key below and use it to %3$screate%4$s and %3$sturn on%4$s a Zap within your %2$s account."
+msgstr "%1$s ei ole yhdistetty %2$siin. Luodakseksi yhteyden, napsuta ensin %3$sTallenna muutokset%4$s, kopioi alapuolella annettu API-avain ja käytä sitä %3$sluomaan%4$s ja %3$skäynnistämään%4$s Zapin %2$s-tililläsi."
+
+#. translators: 1: Yoast SEO.
+#: src/integrations/third-party/zapier.php:161
+msgid "Please note that you can only create 1 Zap with a trigger event from %1$s. Within this Zap you can choose one or more actions."
+msgstr "Huomaa, että voi luoda ainoastaan yhden Zapin %1$s:n käynnistämällä tapahtumalla. Tämän Zapin puitteissa voit valita yhden tai useamman toiminnon."
+
+#. translators: %s: Zapier.
+#. translators: 1: Zapier
+#: src/integrations/third-party/zapier.php:187
+#: assets/js/src/components/ZapierModal.js:217
+msgid "Create a Zap in %s"
+msgstr "Luo Zap %sissa."

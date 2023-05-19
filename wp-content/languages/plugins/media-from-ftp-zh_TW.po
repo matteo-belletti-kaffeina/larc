@@ -1,0 +1,727 @@
+# Translation of Plugins - Media from FTP - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Media from FTP - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-03-11 07:44:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Media from FTP - Stable (latest release)\n"
+
+#: req/class-mediafromftpregist.php:439
+msgid "This plugin will be closed eventually with no more maintenance. The next plugin is its successor. Please switch."
+msgstr "這個外掛最後會關閉並且不再維護。下列的外掛是這個外掛的後續外掛，請改用這些外掛。"
+
+#: req/class-mediafromftpregist.php:435
+msgid "Supports the transfer of Media Library between servers."
+msgstr "支援伺服器間的媒體庫傳輸"
+
+#: req/class-mediafromftpregist.php:434
+msgid "Bulk register files on the server to the Media Library."
+msgstr "在伺服器上批次將媒體檔案註冊至媒體庫"
+
+#. translators: Search option
+#: req/class-mediafromftpadmin.php:287
+msgid "\"%1$s\" sets searching options."
+msgstr "[%1$s] 分頁可設定搜尋選項。"
+
+#. translators: %1$s Plugin link
+#: req/class-mediafromftpregist.php:425
+msgid "%1$s is the successor to \"Media from FTP\". It has the same functions and greatly improved the search speed. Please switch to it."
+msgstr "%1$s 是 Media from FTP 的接續外掛。這個外掛有著相同的功能，並在搜尋速度上有大幅改進。請改用這個外掛。"
+
+#: req/class-mediafromftpadmin.php:360
+msgid "Stopping now.."
+msgstr "正在停止..."
+
+#: req/class-mediafromftpadmin.php:359
+msgid "Stop"
+msgstr "停止"
+
+#. translators: %1$s Plugin link %2$s Search & Register link
+#: req/class-mediafromftpregist.php:409
+msgid "Created a plugin %1$s to bulk register files on the server. You can do it with your current %2$s, but it is faster and more accurate."
+msgstr "%1$s 外掛能讓網站管理員在伺服器上批次註冊媒體檔案。網站管理員可以使用目前的%2$s，但這個外掛能完成的更快、更精確。"
+
+#. translators: %1$s New plugin link
+#: req/class-mediafromftpregist.php:391
+msgid "The import feature has been deprecated. Please use a new plugin %1$s to replace it."
+msgstr "匯入功能已淘汰不用。請改用新外掛 %1$s 取代這項功能。"
+
+#. translators: %1$s: admin-ajax.php
+#: req/class-mediafromftpadmin.php:1967
+msgid "In this condition, cannot update the media. \"%1$s\" is not available. It is possible that some security measures have restricted \"%1$s\". Please fix your server settings."
+msgstr "無法在這種狀況下更新媒體檔案。%1$s無法使用。這可能是某些安全措施限制了 %1$s。請修正這個網站的伺服器設定。"
+
+#. translators: %1$s Plugin link %2$s Import link
+#: req/class-mediafromftpregist.php:374
+msgid "Created a plugin %1$s to move your media library. You can do it with your current %2$s, but it is faster and more accurate."
+msgstr "%1$s 外掛能讓網站管理員移動網站的媒體庫。網站管理員可以使用目前的%2$s，但這個外掛能完成的更快、更精確。"
+
+#: req/class-mediafromftpregist.php:344
+msgid "Dismiss"
+msgstr "關閉"
+
+#: inc/class-mediafromftp.php:1160
+msgid "Original File name"
+msgstr "原始檔案名稱"
+
+#: inc/class-mediafromftp.php:1159
+msgid "Original URL"
+msgstr "原始網址"
+
+#. translators: FAQ Link & Slug
+#: req/class-mediafromftpadmin.php:494
+msgid "https://wordpress.org/plugins/%s/faq"
+msgstr "https://tw.wordpress.org/plugins/%s/faq"
+
+#: req/class-mediafromftpadmin.php:501
+msgid "https://shop.riverforest-wp.info/donate/"
+msgstr "https://shop.riverforest-wp.info/donate/"
+
+#: req/class-mediafromftpadmin.php:788
+msgid "extension"
+msgstr "副檔名"
+
+#: req/class-mediafromftpadmin.php:788
+msgid "type"
+msgstr "類型"
+
+#. translators: %1$s: plugin %2$s: message %3$s: plugin menu
+#: req/class-mediafromftpadmin.php:1981
+msgid "\"%1$s\" is activate. When \"%2$s\", it will be overwritten with \"%1$s\" setting. Please deactivate.(%3$s)"
+msgstr "%1$s 已啟用。%2$s時，會由 %1$s 覆寫其設定。請停用。(%3$s)"
+
+#: req/class-mediafromftpadmin.php:1979
+msgid "Plugins"
+msgstr "外掛"
+
+#: req/class-mediafromftpadmin.php:788
+msgid "directory"
+msgstr "目錄"
+
+#: req/class-mediafromftpadmin.php:257
+msgid "https://riverforest-wp.info/donate/"
+msgstr "https://riverforest-wp.info/donate/"
+
+#: inc/class-mediafromftp.php:670
+msgid "Search files only for specified directories."
+msgstr "僅在指定目錄中搜尋檔案"
+
+#: inc/class-mediafromftp.php:662
+msgid "Recursively search files below specified directory."
+msgstr "在指定目錄中遞迴搜尋檔案"
+
+#: inc/class-mediafromftp.php:655
+msgid "Search method of files"
+msgstr "檔案的搜尋方法"
+
+#. translators: %1$s: message %2$s: media settings %3$s: settings
+#: req/class-mediafromftpadmin.php:1961
+msgid "\"%1$s\" is checked. This is the default setting for the WordPress Media Library. In this setting, the file is moved to month- and year-based folders. If you do not want to move, please uncheck.(%2$s,%3$s)"
+msgstr "[%1$s] 已啟用，這是 WordPress 媒體庫預設設定。這項設定會將媒體檔案移至以年份及月份命名的資料夾。如果不想移動檔案，請停用這項設定。(可於核心程式的 [%2$s] 或外掛%3$s中進行設定)"
+
+#: req/class-mediafromftpadmin.php:1956
+msgid "Media Settings"
+msgstr "媒體設定"
+
+#: req/class-mediafromftpadmin.php:1526
+msgid "https://shop.riverforest-wp.info/media-from-ftp-add-on-cli/"
+msgstr "https://shop.riverforest-wp.info/media-from-ftp-add-on-cli/"
+
+#: req/class-mediafromftpadmin.php:1501
+msgid "This add-on can use \"Media from FTP\" on the command-line."
+msgstr "這個附加元件能讓使用者在命令列使用 Media from FTP。"
+
+#: req/class-mediafromftpadmin.php:1631
+msgid "https://shop.riverforest-wp.info/media-from-ftp-add-on-exif/"
+msgstr "https://shop.riverforest-wp.info/media-from-ftp-add-on-exif/"
+
+#: req/class-mediafromftpadmin.php:1606
+msgid "Sort each Exif data to an arbitrary position and insert it into the caption as text."
+msgstr "能以任意順序將 EXIF 資料進行排序，並將資料插入媒體說明文字中。"
+
+#: req/class-mediafromftpadmin.php:1604
+msgid "This Add-on When registering by \"Media from FTP\", add Exif to Media Library Caption."
+msgstr "這個附加元件能讓 Media from FTP 在註冊媒體檔案時，將 EXIF 資訊加入至媒體說明文字中。"
+
+#. translators: %1$s: add on url
+#: req/class-mediafromftpadmin.php:700 req/class-mediafromftpadmin.php:740
+#: req/class-mediafromftpadmin.php:761
+msgid "This function requires %1$s."
+msgstr "這項功能的必要元件: %1$s"
+
+#: req/class-mediafromftpadmin.php:1561
+msgid "https://shop.riverforest-wp.info/media-from-ftp-add-on-wpcron/"
+msgstr "https://shop.riverforest-wp.info/media-from-ftp-add-on-wpcron/"
+
+#: req/class-mediafromftpadmin.php:1595
+msgid "https://shop.riverforest-wp.info/media-from-ftp-add-on-category/"
+msgstr "https://shop.riverforest-wp.info/media-from-ftp-add-on-category/"
+
+#: req/class-mediafromftpadmin.php:1503
+msgid "The execution of the command line is supported.(lib/mediafromftpcmd.php)"
+msgstr "支援使用命令列執行 (lib/mediafromftpcmd.php)。"
+
+#: req/class-mediafromftpadmin.php:1538
+msgid "Can add intervals of schedule."
+msgstr "能新增排程間隔。"
+
+#: req/class-mediafromftpadmin.php:1537
+msgid "Can start multiple Cron Events with multiple settings."
+msgstr "能以多項設定執行 Cron 事件。"
+
+#: req/class-mediafromftpadmin.php:1535
+msgid "This add-on can register and execute Cron Event with multiple settings by \"Media from FTP\"."
+msgstr "這個附加元件能讓 Media from FTP 以多項設定執行 Cron 事件。"
+
+#. translators: %1$s: limit max execution time
+#: req/class-mediafromftpadmin.php:867
+msgid "Execution time for this server is fixed at %1$s. If this limit is exceeded, the search times out&#40;%2$s, %3$s&#41;."
+msgstr "這台伺服器的執行時間上限為 %1$s。如果超過這項時間限制，搜尋會發生逾時 (%2$s、%3$s)。"
+
+#: req/class-mediafromftpadmin.php:690
+msgid "Cron Event"
+msgstr "Cron 事件"
+
+#: req/class-mediafromftpadmin.php:307
+msgid "You can check whether it is installed or activated."
+msgstr "網站管理員可以在這裡檢查這些附加元件是否安裝或啟用。"
+
+#: req/class-mediafromftpadmin.php:306
+msgid "This page shows paid add-ons and their summaries."
+msgstr "這是顯示付費附加元件及其簡介的頁面。"
+
+#: req/class-mediafromftpadmin.php:1526 req/class-mediafromftpadmin.php:1561
+#: req/class-mediafromftpadmin.php:1595 req/class-mediafromftpadmin.php:1631
+msgid "BUY"
+msgstr "購買授權"
+
+#: req/class-mediafromftpadmin.php:1518 req/class-mediafromftpadmin.php:1553
+#: req/class-mediafromftpadmin.php:1587 req/class-mediafromftpadmin.php:1623
+msgid "Deactivated"
+msgstr "已停用"
+
+#: req/class-mediafromftpadmin.php:1516 req/class-mediafromftpadmin.php:1551
+#: req/class-mediafromftpadmin.php:1585 req/class-mediafromftpadmin.php:1621
+msgid "Activated"
+msgstr "已啟用"
+
+#: req/class-mediafromftpadmin.php:1511 req/class-mediafromftpadmin.php:1546
+#: req/class-mediafromftpadmin.php:1580 req/class-mediafromftpadmin.php:1616
+msgid "Installed"
+msgstr "已安裝"
+
+#: req/class-mediafromftpadmin.php:1572
+msgid "Works with next plugin."
+msgstr "能與所列外掛搭配執行:"
+
+#: req/class-mediafromftpadmin.php:1570
+msgid "This Add-on When registering by \"Media from FTP\", add Category to Media Library."
+msgstr "這個附加元件能讓 Media from FTP 在註冊媒體檔案時，將媒體分類加入至媒體庫。"
+
+#: req/class-mediafromftpadmin.php:179 req/class-mediafromftpadmin.php:229
+#: req/class-mediafromftpadmin.php:230 req/class-mediafromftpadmin.php:443
+#: req/class-mediafromftpadmin.php:587 req/class-mediafromftpadmin.php:698
+#: req/class-mediafromftpadmin.php:738 req/class-mediafromftpadmin.php:759
+#: req/class-mediafromftpadmin.php:1007 req/class-mediafromftpadmin.php:1126
+#: req/class-mediafromftpadmin.php:1240 req/class-mediafromftpadmin.php:1485
+msgid "Add-Ons"
+msgstr "附加元件"
+
+#: req/class-mediafromftpadmin.php:713
+msgid "Specify categories to register at the same time when registering."
+msgstr "註冊媒體檔案時同時指定要註冊的媒體分類。"
+
+#: req/class-mediafromftpadmin.php:711 req/class-mediafromftpadmin.php:1309
+#: req/class-mediafromftpadmin.php:1322 req/class-mediafromftpadmin.php:1335
+#: req/class-mediafromftpadmin.php:1378 req/class-mediafromftpadmin.php:1381
+#: req/class-mediafromftpadmin.php:1384
+#: req/class-tt-mediafromftp-list-table.php:256
+#: req/class-tt-mediafromftp-list-table.php:257
+#: req/class-tt-mediafromftp-list-table.php:258
+msgid "Categories"
+msgstr "媒體分類"
+
+#: req/class-mediafromftpadmin.php:1071
+msgid "Bulk Change"
+msgstr "批次變更"
+
+#: req/class-mediafromftpadmin.php:649
+msgid "Update to use of fixed the date/time."
+msgstr "更新以使用指定的日期時間"
+
+#: req/class-mediafromftpadmin.php:672
+msgid "Plugin"
+msgstr "外掛名稱"
+
+#: req/class-mediafromftpadmin.php:673
+msgid "Date and time input assistance"
+msgstr "日期及時間輸入輔助功能"
+
+#: req/class-mediafromftpadmin.php:851
+msgid "If you can not search because there are too many files, please reduce this number."
+msgstr "如果因為太多檔案導致無法搜尋，請降低這項設定值。"
+
+#: req/class-mediafromftpadmin.php:849
+msgid "Limit number of search files"
+msgstr "搜尋檔案數量上限"
+
+#: req/class-mediafromftpadmin.php:257 req/class-mediafromftpadmin.php:522
+msgid "Donate to this plugin &#187;"
+msgstr "贊助這個外掛 &#187;"
+
+#. translators: Translator
+#. translators: Plugin translation link
+#: req/class-mediafromftpadmin.php:255 req/class-mediafromftpadmin.php:513
+msgid "Translations for %s"
+msgstr "%s 的語言套件"
+
+#. translators: %1$s: default max execution time
+#: req/class-mediafromftpadmin.php:1224
+msgid "Execution time for this server is fixed at %1$s. If this limit is exceeded, times out. Please run the frequently \"Delete log\" and \"Export to CSV\" so as not to exceed this limit."
+msgstr "這台伺服器的執行時間上限為 %1$s。如果超過這項時間限制，則會發生逾時。請定期執行 [刪除記錄] 及 [匯出為 CSV 檔案]，以避免超過這項限制。"
+
+#. translators: %1$s: limit max execution time
+#: req/class-mediafromftpadmin.php:990
+msgid "Execution time for this server is fixed at %1$s. If this limit is exceeded, times out&#40;%2$s&#41;. Please note the \"Number of items per page\" so as not to exceed this limit."
+msgstr "這台伺服器的執行時間上限為 %1$s。如果超過這項時間限制，則會發生逾時 (%2$s)。請注意 [每頁顯示項目數量] 設定，以避免超過這項限制。"
+
+#: req/class-mediafromftpadmin.php:313
+msgid "Overview"
+msgstr "概觀"
+
+#: req/class-mediafromftpadmin.php:303
+msgid "You can export to CSV format."
+msgstr "網站管理員能在這個頁面將記錄匯出成 CSV 格式檔案。"
+
+#: req/class-mediafromftpadmin.php:302
+msgid "Display history of registration."
+msgstr "顯示媒體檔案註冊記錄。"
+
+#. translators: Other option
+#: req/class-mediafromftpadmin.php:289
+msgid "\"%1$s\" sets other options."
+msgstr "[%1$s] 分頁可設定其他選項。"
+
+#. translators: Register
+#: req/class-mediafromftpadmin.php:285
+msgid "\"%1$s\" sets options for %2$s registration."
+msgstr "[%1$s] 分頁可設定 [%2$s] 註冊選項。"
+
+#. translators: Update media
+#: req/class-mediafromftpadmin.php:281
+msgid "Please check and press the \"%1$s\" button."
+msgstr "請先選取要進行註冊的媒體檔案，然後點擊 [%1$s] 按鈕。"
+
+#. translators: Upload directory
+#: req/class-mediafromftpadmin.php:279
+msgid "Search the upload directory(%1$s) and display files that do not exist in the media library."
+msgstr "這個外掛會搜尋檔案上傳目錄 (%1$s)，並顯示目前不存在於媒體庫的媒體檔案。"
+
+#: req/class-mediafromftpadmin.php:251 req/class-mediafromftpadmin.php:507
+msgid "FAQ"
+msgstr "常見問題集"
+
+#: req/class-mediafromftpadmin.php:250
+msgid "For more information:"
+msgstr "進一步了解相關資訊:"
+
+#. translators: Other option
+#: req/class-mediafromftpadmin.php:289 req/class-mediafromftpadmin.php:595
+msgid "Other"
+msgstr "其他"
+
+#. translators: Register
+#: req/class-mediafromftpadmin.php:285 req/class-mediafromftpadmin.php:593
+msgid "Register"
+msgstr "註冊"
+
+#: inc/class-mediafromftp.php:621
+msgid "Pagination"
+msgstr "分頁"
+
+#: req/class-mediafromftpadmin.php:874
+msgid "It does not matter on the registration screen."
+msgstr "這對註冊畫面並不重要。"
+
+#: req/class-mediafromftpadmin.php:873
+msgid "This is to suppress the timeout when retrieving a large amount of data when displaying the search screen and log screen."
+msgstr "接收大量資料以顯示搜尋畫面及記錄畫面時，外掛會嘗試抑制逾時狀況。"
+
+#: req/class-mediafromftpregist.php:367 req/class-mediafromftpregist.php:384
+msgid "Import"
+msgstr "匯入"
+
+#. translators: success message
+#: req/class-mediafromftpajax.php:254
+msgid "Succeeded to the registration of %1$d files."
+msgstr "%1$d 個媒體檔案已完成註冊。"
+
+#. translators: error message
+#: req/class-mediafromftpajax.php:250
+msgid "Errored to the registration of %1$d files."
+msgstr "%1$d 個媒體檔案註冊時發生錯誤。"
+
+#: req/class-mediafromftpajax.php:172
+msgid "This file could not be registered in the database."
+msgstr "無法在資料庫中註冊這個檔案。"
+
+#: inc/class-mediafromftp.php:642
+msgid "Unusual selection. Only the file name and output. It is suitable for the search of large amounts of data. It is hi speed."
+msgstr "僅顯示縮圖及輸出的不常用項目，適合大量資料的搜尋 (顯示速度較快)"
+
+#: inc/class-mediafromftp.php:634
+msgid "Usual selection. It is user-friendly. It displays a thumbnail and metadata. It is low speed."
+msgstr "方便易用的常用項目，會顯示縮圖及中繼資料 (顯示速度較慢)"
+
+#: inc/class-mediafromftp.php:627
+msgid "Display of search results"
+msgstr "搜尋結果顯示方式"
+
+#: req/class-mediafromftpadmin.php:865 req/class-mediafromftpadmin.php:986
+#: req/class-mediafromftpadmin.php:1221
+msgid "seconds"
+msgstr "秒"
+
+#: inc/class-mediafromftp.php:690
+msgid "Unusual selection. if you want to search for filename that contains such -0x0. It is low speed."
+msgstr "不常用項目。需要搜尋的檔案名稱中包含類似 -0x0 字元時使用 (顯示速度較慢)"
+
+#: inc/class-mediafromftp.php:682
+msgid "Usual selection. It is hi speed."
+msgstr "常用項目 (顯示速度較快)"
+
+#: inc/class-mediafromftp.php:675
+msgid "Search method for the exclusion of the thumbnail"
+msgstr "排除縮圖的搜尋方法"
+
+#: req/class-mediafromftpadmin.php:1455
+msgid "There is no log."
+msgstr "目前尚無記錄。"
+
+#: req/class-mediafromftpadmin.php:1430
+msgid "Download CSV"
+msgstr "下載 CSV 檔案"
+
+#: req/class-mediafromftpadmin.php:1420
+msgid "Export to CSV"
+msgstr "匯出為 CSV 檔案"
+
+#: req/class-mediafromftpadmin.php:1413
+msgid "Delete log"
+msgstr "刪除記錄"
+
+#: req/class-mediafromftpadmin.php:1356 req/class-mediafromftpadmin.php:1373
+msgid "Author"
+msgstr "作者"
+
+#. translators: %1$s: username
+#: req/class-mediafromftpadmin.php:1266
+msgid "%1$s do not have a possible deletion log."
+msgstr "使用者「%1$s」沒有刪除記錄的權限。"
+
+#. translators: %1$s: username %2$d: delete count
+#: req/class-mediafromftpadmin.php:1263
+msgid "%1$s of the log has been deleted %2$d."
+msgstr "「%1$s」的記錄已刪除 (%2$d)。"
+
+#: req/class-mediafromftpadmin.php:1258
+msgid "Removed all of the log."
+msgstr "全部記錄已移除。"
+
+#: req/class-mediafromftpadmin.php:1216
+msgid "Current, log is not created. If you want to create a log, please put a check in the [Create log] in the settings."
+msgstr "尚未建立記錄。如果需要建立記錄，請在 [設定] 中啟用 [建立記錄] 功能。"
+
+#: req/class-mediafromftpadmin.php:685
+msgid "Create log"
+msgstr "建立記錄"
+
+#: req/class-mediafromftpadmin.php:681
+msgid "Record the registration result."
+msgstr "建立記錄註冊結果的檔案。"
+
+#. translators: %1$s: limit max execution time
+#: req/class-mediafromftpadmin.php:178 req/class-mediafromftpadmin.php:221
+#: req/class-mediafromftpadmin.php:222 req/class-mediafromftpadmin.php:442
+#: req/class-mediafromftpadmin.php:586 req/class-mediafromftpadmin.php:679
+#: req/class-mediafromftpadmin.php:867 req/class-mediafromftpadmin.php:1006
+#: req/class-mediafromftpadmin.php:1125 req/class-mediafromftpadmin.php:1230
+#: req/class-mediafromftpadmin.php:1495
+msgid "Log"
+msgstr "記錄"
+
+#: inc/class-mediafromftp.php:1164
+msgid "Could not retrieve."
+msgstr "無法擷取。"
+
+#. translators: %1$s: URL of Variable-width_encoding
+#: req/class-mediafromftpadmin.php:894
+msgid "If you do not use the filename or directory name of %1$s, please choose \"%2$s\"."
+msgstr "如果沒有使用%1$s的檔案名稱或資料夾名稱，請選取 [%2$s]。"
+
+#: req/class-mediafromftpadmin.php:892
+msgid "variable-width encoding"
+msgstr "變動寬度編碼"
+
+#: req/class-mediafromftpadmin.php:892
+msgid "https://en.wikipedia.org/wiki/Variable-width_encoding"
+msgstr "https://en.wikipedia.org/wiki/Variable-width_encoding"
+
+#: req/class-mediafromftpadmin.php:251
+msgid "https://wordpress.org/plugins/media-from-ftp/faq"
+msgstr "https://tw.wordpress.org/plugins/media-from-ftp/faq"
+
+#. Author URI of the plugin
+msgid "https://riverforest-wp.info/"
+msgstr "https://riverforest-wp.info/"
+
+#. Author of the plugin
+msgid "Katsushi Kawamori"
+msgstr "Katsushi Kawamori"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/media-from-ftp/"
+msgstr "https://tw.wordpress.org/plugins/media-from-ftp/"
+
+#. Plugin Name of the plugin
+msgid "Media from FTP"
+msgstr "Media from FTP"
+
+#: req/class-mediafromftpadmin.php:1830
+msgid "No Thumbnails Cache"
+msgstr "沒有縮圖快取"
+
+#: req/class-mediafromftpadmin.php:1828
+msgid "Delete"
+msgstr "刪除"
+
+#: req/class-mediafromftpadmin.php:1828
+msgid "Thumbnails Cache"
+msgstr "縮圖快取"
+
+#: req/class-mediafromftpadmin.php:1762 req/class-mediafromftpadmin.php:1817
+msgid "Changes saved."
+msgstr "設定已儲存。"
+
+#: req/class-mediafromftpadmin.php:1295 req/class-mediafromftpadmin.php:1375
+#: inc/class-mediafromftp.php:1171
+msgid "Images"
+msgstr "圖片"
+
+#: req/class-mediafromftpadmin.php:1361 req/class-mediafromftpadmin.php:1373
+#: inc/class-mediafromftp.php:1162
+msgid "Date/Time"
+msgstr "日期/時間"
+
+#: req/class-mediafromftpadmin.php:1358 req/class-mediafromftpadmin.php:1373
+#: inc/class-mediafromftp.php:1155
+msgid "Permalink:"
+msgstr "永久連結:"
+
+#: req/class-mediafromftpadmin.php:1357 req/class-mediafromftpadmin.php:1373
+#: req/class-mediafromftpajax.php:172 inc/class-mediafromftp.php:1154
+msgid "Title"
+msgstr "標題"
+
+#. translators: error message
+#: req/class-mediafromftpajax.php:170
+msgid "<div>You need to make this directory writable before you can register this file. See <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">the Codex</a> for more information.</div><div>Or, filename or directoryname must be changed of illegal. Please change Character Encodings for Server of <a href=\"%2$s\">Settings</a>.</div>"
+msgstr "<div>在註冊這個檔案前，必須將這個目錄設定為可寫入。請參考 <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">Codex</a> 以進一步了解相關資訊。</div><div>也可以將檔案名稱或目錄名稱修改為合法字元。請在 [<a href=\"%2$s\">設定</a>] 中變更伺服器字元編碼。</div>"
+
+#. translators: error message
+#: req/class-mediafromftpajax.php:170
+msgid "Directory name:"
+msgstr "目錄名稱:"
+
+#. translators: error message
+#: req/class-mediafromftpadmin.php:1360 req/class-mediafromftpadmin.php:1373
+#: req/class-mediafromftpajax.php:170 inc/class-mediafromftp.php:1157
+msgid "File name:"
+msgstr "檔案名稱:"
+
+#. translators: Register
+#: req/class-mediafromftpadmin.php:285
+msgid "Media Library"
+msgstr "媒體庫"
+
+#: req/class-tt-mediafromftp-list-table.php:255
+msgid "Edit date and time"
+msgstr "編輯日期及時間"
+
+#: req/class-mediafromftpadmin.php:1368 req/class-mediafromftpadmin.php:1373
+#: inc/class-mediafromftp.php:594 inc/class-mediafromftp.php:1189
+msgid "Length:"
+msgstr "播放長度:"
+
+#: req/class-mediafromftpadmin.php:1363 req/class-mediafromftpadmin.php:1373
+#: inc/class-mediafromftp.php:592 inc/class-mediafromftp.php:1169
+msgid "File size:"
+msgstr "檔案大小:"
+
+#. translators: Update media
+#: req/class-mediafromftpadmin.php:281 req/class-mediafromftpadmin.php:1017
+#: req/class-mediafromftpadmin.php:1973
+msgid "Update Media"
+msgstr "更新媒體檔案"
+
+#: inc/class-mediafromftp.php:885
+msgid "Filter"
+msgstr "篩選"
+
+#: inc/class-mediafromftp.php:806
+msgid "All extensions"
+msgstr "全部副檔名"
+
+#: inc/class-mediafromftp.php:754
+msgid "All types"
+msgstr "全部類型"
+
+#. translators: Search option
+#. translators: %1$s: limit max execution time
+#: req/class-mediafromftpadmin.php:287 req/class-mediafromftpadmin.php:594
+#: req/class-mediafromftpadmin.php:788 req/class-mediafromftpadmin.php:867
+#: req/class-mediafromftpadmin.php:990 inc/class-mediafromftp.php:872
+#: inc/class-mediafromftp.php:878
+msgid "Search"
+msgstr "搜尋"
+
+#: req/class-mediafromftpadmin.php:1362 req/class-mediafromftpadmin.php:1373
+#: inc/class-mediafromftp.php:591 inc/class-mediafromftp.php:1168
+msgid "File type:"
+msgstr "檔案類型:"
+
+#: req/class-mediafromftpadmin.php:776 req/class-mediafromftpadmin.php:839
+#: req/class-mediafromftpadmin.php:946
+msgid "Save Changes"
+msgstr "儲存設定"
+
+#: req/class-mediafromftpadmin.php:932
+msgid "Remove the cache of thumbnail used in the search screen. Please try out if trouble occurs in the search screen. It might become normal."
+msgstr "移除使用於搜尋畫面的縮圖快取。如果搜尋畫面發生問題，請使用這項功能，有可能會恢復正常。"
+
+#: req/class-mediafromftpadmin.php:930 req/class-mediafromftpadmin.php:938
+msgid "Remove Thumbnails Cache"
+msgstr "移除縮圖快取"
+
+#: inc/class-mediafromftp.php:622
+msgid "Number of items per page:"
+msgstr "每頁顯示項目數量:"
+
+#: req/class-mediafromftpadmin.php:692
+msgid "Set the schedule."
+msgstr "設定排程。"
+
+#: req/class-mediafromftpadmin.php:690
+msgid "Schedule"
+msgstr "排程 "
+
+#: inc/class-mediafromftp.php:649
+msgid "Regular expression is possible."
+msgstr "可以使用規則運算式。"
+
+#: inc/class-mediafromftp.php:647
+msgid "Exclude file"
+msgstr "排除檔案"
+
+#: req/class-mediafromftpadmin.php:1348 req/class-mediafromftpadmin.php:1387
+#: req/class-tt-mediafromftp-list-table.php:258
+msgid "Tags"
+msgstr "標籤"
+
+#: req/class-mediafromftpadmin.php:753
+msgid "Register the Exif data to the caption."
+msgstr "將 EXIF 資料註冊至媒體說明文字中。"
+
+#: req/class-mediafromftpadmin.php:751 req/class-mediafromftpadmin.php:1365
+#: req/class-mediafromftpadmin.php:1373 inc/class-mediafromftp.php:1185
+msgid "Caption"
+msgstr "媒體說明文字"
+
+#: req/class-mediafromftpadmin.php:666 req/class-mediafromftpadmin.php:1954
+msgid "Organize my uploads into month- and year-based folders"
+msgstr "為上傳的檔案建立以年份及月份命名的資料夾"
+
+#: req/class-mediafromftpadmin.php:638
+msgid "Get by priority if there is date and time of the Exif information."
+msgstr " (優先使用 EXIF 資訊中的日期時間)"
+
+#: req/class-mediafromftpadmin.php:626 req/class-mediafromftpadmin.php:637
+msgid "Get the date/time of the file, and updated based on it. Change it if necessary."
+msgstr "取得檔案的日期時間，並依據這項資料更新 (請依需求使用這項設定)"
+
+#: req/class-mediafromftpadmin.php:616
+msgid "Update to use of the current date/time."
+msgstr "更新以使用目前的日期時間"
+
+#: req/class-mediafromftpadmin.php:607
+msgid "Date"
+msgstr "日期"
+
+#: req/class-mediafromftpadmin.php:891
+msgid "It may fail to register if you are using a multi-byte name in the file name or folder name. In that case, please change."
+msgstr "如果檔案名稱或資料名稱使用多位元組字元，檔案可能會無法註冊。如果遇到這種狀況，請變更檔案或資料夾名稱。"
+
+#: req/class-mediafromftpadmin.php:888
+msgid "Character Encodings for Server"
+msgstr "伺服器使用的字元編碼"
+
+#: req/class-mediafromftpadmin.php:872
+msgid "The max_execution_time value defined in the php.ini."
+msgstr "max_execution_time 的值定義於 php.ini 中"
+
+#: req/class-mediafromftpadmin.php:872
+msgid "The number of seconds a script is allowed to run."
+msgstr "允許執行指令碼的時間限制，以秒為單位。"
+
+#: req/class-mediafromftpadmin.php:860
+msgid "Execution time"
+msgstr "執行時間"
+
+#: req/class-mediafromftpadmin.php:520
+msgid "Please make a donation if you like my work or would like to further the development of this plugin."
+msgstr "如果這個外掛對網站確有幫助，或想支持這個外掛的持續開發，請贊助外掛開發工作。"
+
+#: req/class-mediafromftpadmin.php:253 req/class-mediafromftpadmin.php:507
+msgid "Reviews"
+msgstr "使用者評論"
+
+#: req/class-mediafromftpadmin.php:252 req/class-mediafromftpadmin.php:507
+msgid "Support Forums"
+msgstr "技術支援論壇"
+
+#. Description of the plugin
+#: req/class-mediafromftpadmin.php:447
+msgid "Register to media library from files that have been uploaded by FTP."
+msgstr "這個外掛能將透過 FTP 上傳的檔案註冊至媒體庫。"
+
+#: req/class-mediafromftpadmin.php:492
+msgid "Version:"
+msgstr "版本:"
+
+#: req/class-mediafromftpadmin.php:423 req/class-mediafromftpadmin.php:537
+#: req/class-mediafromftpadmin.php:974 req/class-mediafromftpadmin.php:1112
+#: req/class-mediafromftpadmin.php:1209 req/class-mediafromftpadmin.php:1475
+msgid "You do not have sufficient permissions to access this page."
+msgstr "目前的登入身分沒有存取這個頁面的權限。"
+
+#: req/class-mediafromftpadmin.php:171 req/class-mediafromftpadmin.php:200
+#: req/class-mediafromftpadmin.php:201 req/class-mediafromftpadmin.php:433
+#: req/class-mediafromftpadmin.php:580 req/class-mediafromftpadmin.php:996
+#: req/class-mediafromftpadmin.php:1123 req/class-mediafromftpadmin.php:1231
+#: req/class-mediafromftpadmin.php:1486 req/class-mediafromftpregist.php:402
+msgid "Search & Register"
+msgstr "搜尋及註冊"
+
+#: req/class-mediafromftpadmin.php:172 req/class-mediafromftpadmin.php:208
+#: req/class-mediafromftpadmin.php:209 req/class-mediafromftpadmin.php:434
+#: req/class-mediafromftpadmin.php:579 req/class-mediafromftpadmin.php:997
+#: req/class-mediafromftpadmin.php:1124 req/class-mediafromftpadmin.php:1232
+#: req/class-mediafromftpadmin.php:1487 req/class-mediafromftpadmin.php:1762
+#: req/class-mediafromftpadmin.php:1817 req/class-mediafromftpadmin.php:1958
+msgid "Settings"
+msgstr "設定"

@@ -1,0 +1,736 @@
+# Translation of Plugins - PublishPress Future: Automatically Unpublish WordPress Posts - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - PublishPress Future: Automatically Unpublish WordPress Posts - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-03-27 19:15:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - PublishPress Future: Automatically Unpublish WordPress Posts - Stable (latest release)\n"
+
+#: src/Views/menu-general.php:78 src/Views/menu-general.php:95
+msgid "PHP Date Function"
+msgstr "PHP date 函式"
+
+#: src/Modules/VersionNotices/Module.php:46
+msgid "You're using PublishPress Future Free. The Pro version has more features and support. %sUpgrade to Pro%s"
+msgstr "這個網站目前使用的是 PublishPress Future 免費版本。Pro 版提供更多功能及技術支援。%s升級至 Pro 版%s"
+
+#: src/Views/tabs.php:41
+msgid "Debug"
+msgstr "偵錯"
+
+#: src/Views/ad-banner-right-sidebar.php:68
+msgid "View Knowledge Base"
+msgstr "查看知識庫"
+
+#: src/Views/ad-banner-right-sidebar.php:61
+msgid "Detailed documentation is also available on the plugin website."
+msgstr "外掛官方網站上同時提供內容豐富的線上說明。"
+
+#: src/Views/ad-banner-right-sidebar.php:50
+msgid "Request Support"
+msgstr "要求技術支援"
+
+#: src/Views/ad-banner-right-sidebar.php:44
+msgid "If you need help or have a new feature request, let us know."
+msgstr "如果使用上需要協助或有新功能要求，請與我們聯絡。"
+
+#: src/Views/ad-banner-right-sidebar.php:38
+msgid "Need PublishPress Future Support?"
+msgstr "需要 PublishPress Future 提供技術支援"
+
+#: src/Modules/VersionNotices/Module.php:65
+#: src/Views/ad-banner-right-sidebar.php:30
+msgid "Upgrade to Pro"
+msgstr "升級至 Pro 版"
+
+#: src/Views/ad-banner-right-sidebar.php:26
+msgid "Fast, professional support"
+msgstr "快速、專業的技術支援"
+
+#: src/Views/ad-banner-right-sidebar.php:24
+msgid "Remove PublishPress ads and branding"
+msgstr "移除 PublishPress 廣告及品牌"
+
+#: src/Views/ad-banner-right-sidebar.php:22
+msgid "Detailed post expiration log"
+msgstr "詳細的內容到期日期記錄"
+
+#: src/Views/ad-banner-right-sidebar.php:20
+msgid "Support for expiry to custom statuses"
+msgstr "支援到期日期的自訂狀態"
+
+#: src/Views/ad-banner-right-sidebar.php:13
+msgid "Enhance the power of PublishPress Future with the Pro version:"
+msgstr "使用 PublishPress Future 的 Pro 版即可使用更多功能:"
+
+#: src/Views/ad-banner-right-sidebar.php:7
+msgid "Upgrade to PublishPress Future Pro"
+msgstr "升級至 PublishPress Future Pro"
+
+#: src/Modules/Settings/Controllers/Controller.php:273
+msgid "Form Validation Failure: Sorry, your nonce did not verify."
+msgstr "表單驗證失敗: 很抱歉，使用者的單次有效驗證碼未驗證。"
+
+#: src/Modules/Settings/Controllers/Controller.php:213
+msgid "Save changes"
+msgstr "儲存設定"
+
+#: src/Modules/Settings/Controllers/Controller.php:212
+msgid "Default terms:"
+msgstr "預設分類法詞彙:"
+
+#: src/Modules/Settings/Controllers/Controller.php:201
+#: src/Views/menu-general.php:113
+msgid "PHP strtotime function"
+msgstr "PHP strtotime 函式"
+
+#: src/Modules/Settings/Controllers/Controller.php:186
+msgid "Select the hierarchical taxonomy and terms to be used for taxonomy based expiration."
+msgstr "選取要設定到期日期的分類法 (階層式分類法及分類法詞彙)。"
+
+#: src/Modules/Expirator/Models/ExpirablePostModel.php:380
+msgid "Email not sent"
+msgstr "電子郵件未傳送"
+
+#: src/Modules/Expirator/Models/ExpirablePostModel.php:380
+msgid "Email sent"
+msgstr "電子郵件已傳送"
+
+#: src/Modules/Expirator/Models/ExpirablePostModel.php:376
+msgid "Email is disabled"
+msgstr "傳送電子郵件功能已停用"
+
+#: src/Modules/Expirator/ExpirationActions/StickPost.php:42
+#: src/Modules/Expirator/ExpirationActions/UnstickPost.php:42
+msgid "Post didn't change."
+msgstr "沒有變更文章。"
+
+#: src/Modules/Expirator/ExpirationActions/PostStatusToDraft.php:42
+#: src/Modules/Expirator/ExpirationActions/PostStatusToPrivate.php:42
+#: src/Modules/Expirator/ExpirationActions/PostStatusToTrash.php:42
+msgid "Post status didn't change."
+msgstr "沒有變更文章狀態。"
+
+#: src/Modules/Expirator/ExpirationActions/PostCategorySet.php:50
+msgid "No terms were changed on the post."
+msgstr "沒有在文章中變更任何分類法詞彙。"
+
+#: src/Modules/Expirator/ExpirationActions/PostCategoryRemove.php:50
+msgid "No terms were removed from the post."
+msgstr "沒有從文章中移除任何分類法詞彙。"
+
+#: src/Modules/Expirator/ExpirationActions/PostCategoryAdd.php:50
+msgid "No terms were added to the post."
+msgstr "沒有新增任何分類法詞彙至文章中。"
+
+#: src/Modules/Expirator/ExpirationActions/DeletePost.php:43
+msgid "Post was not deleted."
+msgstr "文章未刪除。"
+
+#: src/Modules/Settings/Controllers/Controller.php:195
+#: src/Views/menu-general.php:101
+msgid "Default date/time offset"
+msgstr "預設日期/時間期間"
+
+#: src/Modules/Expirator/Models/ExpirablePostModel.php:432
+msgid "%1$s (%2$s) has expired at %3$s. %4$s"
+msgstr "〈%1$s〉(%2$s) 已於 %3$s 到期。%4$s"
+
+#: src/Modules/Expirator/ExpirationActions/UnstickPost.php:45
+msgid "Post has been removed from stickies list."
+msgstr "文章已從置頂清單中移除。"
+
+#: src/Modules/Expirator/ExpirationActions/StickPost.php:45
+msgid "Post has been added to stickies list."
+msgstr "文章已新增至置頂清單。"
+
+#: src/Modules/Expirator/ExpirationActions/PostStatusToDraft.php:46
+#: src/Modules/Expirator/ExpirationActions/PostStatusToPrivate.php:46
+#: src/Modules/Expirator/ExpirationActions/PostStatusToTrash.php:46
+msgid "Post status has been successfully changed to \"%s\"."
+msgstr "內容狀態已成功變更為 [%s]。"
+
+#: src/Modules/Expirator/ExpirationActions/PostCategorySet.php:58
+msgid "The following terms (%s) were set to the post: \"%s\". The old list of terms on the post was: %s."
+msgstr "以下分類法詞彙 (%s) 已設定至文章: %s。文章的分類法詞彙舊清單: %s。"
+
+#: src/Modules/Expirator/ExpirationActions/PostCategoryRemove.php:58
+msgid "The following terms (%s) were removed from the post: \"%s\". The new list of terms on the post is: %s."
+msgstr "以下分類法詞彙 (%s) 已從文章移除: %s。文章的分類法詞彙新清單: %s。"
+
+#: src/Modules/Expirator/ExpirationActions/PostCategoryAdd.php:58
+msgid "The following terms (%s) were added to the post: \"%s\". The full list of terms on the post is: %s."
+msgstr "以下分類法詞彙 (%s) 已新增至文章: %s。文章的分類法詞彙完整清單: %s。"
+
+#: src/Modules/Expirator/ExpirationActions/DeletePost.php:46
+msgid "Post has been successfully deleted."
+msgstr "文章已成功刪除。"
+
+#: legacy/classes/Facade.class.php:384 src/Views/bulk-edit.php:133
+#: src/Views/classic-metabox.php:134 src/Views/quick-edit.php:100
+msgid "Expiration Taxonomies"
+msgstr "到期日期截止後的指定分類法"
+
+#: src/Modules/Expirator/Models/ExpirationActionsModel.php:53
+msgid "Taxonomy: Remove"
+msgstr "分類法: 移除"
+
+#: src/Modules/Expirator/Models/ExpirationActionsModel.php:52
+msgid "Taxonomy: Add"
+msgstr "分類法: 新增"
+
+#: src/Modules/Expirator/Models/ExpirationActionsModel.php:51
+msgid "Taxonomy: Replace"
+msgstr "分類法: 取代"
+
+#: legacy/classes/Facade.class.php:379
+msgid "Taxonomy"
+msgstr "分類法"
+
+#: src/Views/menu-diagnostics.php:110
+msgid "Posts and expiration settings"
+msgstr "內容及到期設定"
+
+#: src/Views/expire-column.php:25
+msgid "Cron event not found!"
+msgstr "找不到 Cron 事件。"
+
+#: src/Views/expire-column.php:22
+msgid "Cron event scheduled."
+msgstr "Cron 事件已排程。"
+
+#: legacy/classes/Display.class.php:89
+msgid "You do not have permission to configure PublishPress Future."
+msgstr "目前的登入身分沒有設定 PublishPress Future 的權限。"
+
+#: src/Views/tabs.php:28
+msgid "Advanced"
+msgstr "進階設定"
+
+#: src/Views/tabs.php:18
+msgid "Display"
+msgstr "顯示方式"
+
+#: src/Views/menu-editor.php:15
+msgid "Editor"
+msgstr "編輯器"
+
+#: src/Modules/Settings/Controllers/Controller.php:180
+msgid "Select whether the PublishPress Future is enabled for all new posts."
+msgstr "設定是否要為全部內容啟用 PublishPress Future 功能。"
+
+#: src/Views/menu-advanced.php:55
+msgid "Choose which user roles can use PublishPress Future"
+msgstr "能使用 PublishPress Future 的使用者角色"
+
+#: legacy/classes/Display.class.php:488
+msgid "Contact"
+msgstr "聯絡我們"
+
+#: legacy/classes/Display.class.php:486
+msgid "Contact the PublishPress team"
+msgstr "聯絡 PublishPress 團隊"
+
+#: legacy/classes/Display.class.php:480
+msgid "Documentation"
+msgstr "線上說明"
+
+#: legacy/classes/Display.class.php:478
+msgid "Future Documentation"
+msgstr "Future 線上說明"
+
+#: legacy/classes/Display.class.php:472
+msgid "About"
+msgstr "關於"
+
+#: legacy/classes/Display.class.php:470
+msgid "About PublishPress Future"
+msgstr "關於 PublishPress Future"
+
+#: legacy/classes/Display.class.php:455
+msgid "If you like %s, please leave us a %s rating. Thank you!"
+msgstr "如果 %s 對網站確有幫助，請給我們 %s 評分，開發團隊在此先行致謝。"
+
+#: legacy/classes/Display.class.php:58
+msgid "Future"
+msgstr "Future"
+
+#: legacy/classes/Display.class.php:57
+msgid "PublishPress Future Options"
+msgstr "PublishPress Future 設定"
+
+#. Plugin Name of the plugin
+#: legacy/classes/Facade.class.php:380 legacy/functions.php:356
+#: src/Views/bulk-edit.php:23 src/Views/tabs.php:53
+msgid "PublishPress Future"
+msgstr "PublishPress Future"
+
+#: src/Views/menu-advanced.php:108
+msgid "Toggle between preserving or deleting data after the plugin is deactivated."
+msgstr "設定外掛停用後，要保留資料或刪除資料。"
+
+#: src/Views/menu-advanced.php:104
+msgid "Delete data"
+msgstr "刪除資料"
+
+#: src/Views/menu-advanced.php:95
+msgid "Preserve data"
+msgstr "保留資料"
+
+#: src/Views/menu-advanced.php:86
+msgid "Preserve data after deactivating the plugin"
+msgstr "在停用外掛後保留資料"
+
+#: src/Views/menu-diagnostics.php:83
+msgid "No cron events found for the plugin."
+msgstr "找不到這個外掛的 Cron 事件。"
+
+#: legacy/classes/Facade.class.php:383
+msgid "Loading"
+msgstr "正在載入..."
+
+#: src/Views/tabs.php:23
+msgid "Post Types"
+msgstr "內容類型"
+
+#: src/Views/menu-advanced.php:46 src/Views/menu-editor.php:34
+msgid "Toggle between native support for the Block Editor or the backward compatible Classic Editor style metabox."
+msgstr "設定要使用區塊編輯器或回溯相容傳統編輯器樣式中繼資料區塊的原生支援。"
+
+#: src/Views/menu-advanced.php:44 src/Views/menu-editor.php:32
+msgid "Show Classic Editor style box"
+msgstr "顯示傳統編輯器樣式區塊"
+
+#: src/Views/menu-advanced.php:38 src/Views/menu-editor.php:27
+msgid "Show Gutenberg style box"
+msgstr "顯示區塊編輯器樣式區塊"
+
+#: src/Views/menu-advanced.php:32 src/Views/menu-editor.php:22
+msgid "Block Editor Support"
+msgstr "區塊編輯器支援"
+
+#: src/Views/menu-advanced.php:22
+msgid "Please do not update anything here unless you know what it entails. For advanced users only."
+msgstr "在了解相關設定的影響前，請不要變更這個頁面的任何設定。僅供進階使用者使用。"
+
+#: src/Views/menu-advanced.php:20
+msgid "Advanced Options"
+msgstr "進階設定"
+
+#: src/Views/menu-general.php:91
+msgid "The default format to use when displaying the expiration time within a post using the shortcode or within the footer.  For information on valid formatting options, see: %s."
+msgstr "請在這裡設定在內容中使用短代碼或在頁尾中顯示的預設到期時間格式。如需進一步了解有效格式的選項，請參閱〈%s〉。"
+
+#: src/Views/menu-general.php:74
+msgid "The default format to use when displaying the expiration date within a post using the shortcode or within the footer.  For information on valid formatting options, see: %s."
+msgstr "請在這裡設定在短代碼或內容頁尾中，用於顯示到期日期的預設格式。如需進一步了解有效格式的選項，請參閱〈%s〉。"
+
+#: src/Views/menu-display.php:40
+msgid "%1$s - valid options are %2$sfull%3$s (default), %4$sdate%5$s, %6$stime%7$s"
+msgstr "%1$s - 有效的屬性值為 %2$sfull%3$s (預設)、%4$sdate%5$s 及 %6$stime%7$s"
+
+#: src/Views/menu-display.php:36
+msgid "Valid %s attributes:"
+msgstr "有效的 %s 短代碼屬性值:"
+
+#: src/Views/menu-display.php:34
+msgid "Shortcode"
+msgstr "短代碼"
+
+#: src/Views/menu-diagnostics.php:22
+msgid "Debug Logging"
+msgstr "偵錯記錄"
+
+#: src/Views/bulk-edit.php:114 src/Views/quick-edit.php:78
+msgid "Type"
+msgstr "類型"
+
+#: legacy/functions.php:1168
+#: src/Modules/Settings/Controllers/Controller.php:185
+msgid "No taxonomies found"
+msgstr "找不到符合條件的分類法"
+
+#. Author URI of the plugin
+msgid "http://publishpress.com"
+msgstr "https://publishpress.com/"
+
+#. Author of the plugin
+msgid "PublishPress"
+msgstr "PublishPress"
+
+#: src/Modules/Settings/Controllers/Controller.php:197
+#: src/Views/menu-general.php:109
+msgid "Set the offset to use for the default expiration date and time. For information on formatting, see %1$s. For example, you could enter %2$s+1 month%3$s or %4$s+1 week 2 days 4 hours 2 seconds%5$s or %6$snext Thursday%7$s."
+msgstr "設定用於內容預設到期日期及時間的自訂值。如需進一步了解日期格式，請參考〈%1$s〉。舉例來說，使用者可以輸入類似 %2$s+1 month%3$s、%4$s+1 week 2 days 4 hours 2 seconds%5$s 或 %6$snext Thursday%7$s 的自訂值。"
+
+#: src/Views/bulk-edit.php:51
+msgid "Remove from posts"
+msgstr "從內容中移除"
+
+#: src/Views/bulk-edit.php:48
+msgid "Change & Add"
+msgstr "變更並新增"
+
+#: src/Views/bulk-edit.php:44
+msgid "Add to posts"
+msgstr "新增至內容"
+
+#: src/Views/bulk-edit.php:43
+msgid "Add expiry date if not enabled on posts"
+msgstr "如果在內容中未啟用功能，則新增到期日期"
+
+#: src/Views/bulk-edit.php:40
+msgid "Change on posts"
+msgstr "在內容中變更"
+
+#: src/Views/bulk-edit.php:39
+msgid "Change expiry date if enabled on p  osts"
+msgstr "如果在內容中已啟用功能，則可以變更到期日期"
+
+#: src/Views/bulk-edit.php:35
+msgid "No Change"
+msgstr "不變更"
+
+#: src/Modules/Expirator/Models/ExpirablePostModel.php:452
+msgid "[%1$s] %2$s"
+msgstr "《%1$s》通知：%2$s"
+
+#: src/Modules/Expirator/Models/ExpirationActionsModel.php:50
+msgid "Unstick"
+msgstr "取消置頂"
+
+#: src/Modules/Expirator/Models/ExpirationActionsModel.php:49
+msgid "Stick"
+msgstr "置頂"
+
+#: src/Modules/Expirator/Models/ExpirationActionsModel.php:47
+msgid "Trash"
+msgstr "回收桶"
+
+#: src/Modules/Settings/Controllers/Controller.php:191
+msgid "Enter a comma separate list of emails that you would like to be notified when the post expires."
+msgstr "請輸入要接收內容到期日期通知的電子郵件地址，並以逗號分隔多個電子郵件地址。"
+
+#: src/Views/menu-general.php:194
+msgid "Enter a comma separate list of emails that you would like to be notified when the post expires.  This will be applied to ALL post types.  You can set post type specific emails on the Defaults tab."
+msgstr "請輸入要接收內容到期日期通知的電子郵件地址，並以逗號分隔多個電子郵件地址。這項設定會套用至全部內容類型。網站管理員可以在 [預設設定] 分頁為個別內容類型設定指定電子郵件地址。"
+
+#: src/Modules/Settings/Controllers/Controller.php:190
+#: src/Views/menu-general.php:187
+msgid "Who to notify"
+msgstr "通知對象"
+
+#: src/Views/menu-general.php:178
+msgid "This will include all users with the role of \"Administrator\" in the post expiration email."
+msgstr "啟用這項設定後，內容到期通知電子郵件會傳送至包含「網站管理員」使用者角色的全部使用者。"
+
+#: src/Views/menu-general.php:160
+msgid "Include Blog Administrators?"
+msgstr "是否包含網站管理員"
+
+#: src/Views/menu-general.php:152
+msgid "This will enable or disable the send of email notification on post expiration."
+msgstr "請設定內容到期日期後要啟用或停用傳送電子郵件通知。"
+
+#: src/Views/menu-general.php:136
+msgid "Enable Email Notification?"
+msgstr "是否啟用電子郵件通知"
+
+#: src/Views/menu-general.php:129
+msgid "Whenever a post expires, an email can be sent to alert users of the expiration."
+msgstr "內容到期後，傳送電子郵件通知使用者內容已到期。"
+
+#: src/Views/menu-general.php:127
+msgid "Expiration Email Notification"
+msgstr "到期日期電子郵件通知"
+
+#: src/Modules/Expirator/Models/ExpirablePostModel.php:449
+msgid "Post Expiration Complete \"%s\""
+msgstr "〈%s〉已超過預定到期日期"
+
+#. Description of the plugin
+msgid "Allows you to add an expiration date (minute) to posts which you can configure to either delete the post, change it to a draft, or update the post categories at expiration time."
+msgstr "讓使用者能將到期日期 (最小單位為分鐘) 加入至文章發佈設定中，並可設定在到期日期後，將文章刪除、變更為草稿或更新文章分類。"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/extend/plugins/post-expirator/"
+msgstr "https://tw.wordpress.org/plugins/post-expirator/"
+
+#: src/Modules/Expirator/Models/ExpirationActionsModel.php:46
+msgid "Private"
+msgstr "私密"
+
+#: src/Modules/Expirator/Models/ExpirationActionsModel.php:48
+msgid "Delete"
+msgstr "刪除"
+
+#: src/Modules/Expirator/Models/ExpirationActionsModel.php:45
+msgid "Draft"
+msgstr "草稿"
+
+#: src/Views/menu-debug-log.php:7
+msgid "Below is a dump of the debugging table, this should be useful for troubleshooting."
+msgstr "以下是偵錯資料表的傾印，對疑難排解應該會有幫助。"
+
+#: src/Views/menu-diagnostics.php:107
+msgid "Event"
+msgstr "事件"
+
+#: src/Views/bulk-edit.php:28 src/Views/menu-diagnostics.php:104
+#: src/Views/quick-edit.php:22
+msgid "Date"
+msgstr "日期"
+
+#: src/Views/menu-diagnostics.php:92
+msgid "The below table will show all currently scheduled cron events for the plugin with the next run time."
+msgstr "下方的表格顯示目前已排程的外掛全部 Cron 事件及下次的執行時間。"
+
+#: src/Views/menu-diagnostics.php:75
+msgid "Current Cron Schedule"
+msgstr "目前的 Cron 排程"
+
+#: src/Views/menu-diagnostics.php:62
+msgid "WP-Cron Status"
+msgstr "WP-Cron 狀態"
+
+#: src/Views/menu-diagnostics.php:54 src/Views/menu-diagnostics.php:57
+msgid "Purge Debug Log"
+msgstr "清除偵錯記錄"
+
+#: src/Views/menu-diagnostics.php:44
+msgid "Enable Debugging"
+msgstr "啟用偵錯模式"
+
+#: src/Views/menu-diagnostics.php:29
+msgid "Disable Debugging"
+msgstr "停用偵錯模式"
+
+#: src/Views/menu-diagnostics.php:18
+msgid "Advanced Diagnostics"
+msgstr "進階診斷資料"
+
+#: legacy/classes/Display.class.php:224
+msgid "Debugging Table Emptied"
+msgstr "偵錯資料表已清空。"
+
+#: legacy/classes/Display.class.php:216
+msgid "Debugging Enabled"
+msgstr "偵錯模式已啟用。"
+
+#: legacy/classes/Display.class.php:211
+msgid "Debugging Disabled"
+msgstr "偵錯模式已停用。"
+
+#: src/Views/taxonomy-field.php:10
+msgid "Select the hierarchical taxonomy to be used for \"category\" based expiration."
+msgstr "選取要設定到期日期的分類 (階層式分類法)。"
+
+#: src/Modules/Settings/Controllers/Controller.php:184
+msgid "Taxonomy (hierarchical)"
+msgstr "分類法 (階層式)"
+
+#: src/Modules/Settings/Controllers/Controller.php:177
+msgid "Auto-enable?"
+msgstr "是否自動啟用"
+
+#: src/Modules/Settings/Controllers/Controller.php:173
+msgid "Select the default expire action for the post type."
+msgstr "選取這個內容類型在到期日期後的預設動作。"
+
+#: src/Modules/Settings/Controllers/Controller.php:168
+msgid "Select whether the PublishPress Future meta box is active for this post type."
+msgstr "設定是否要在這個內容類型啟用 [PublishPress Future] 中繼資料區塊。"
+
+#: src/Modules/Settings/Controllers/Controller.php:167
+msgid "Inactive"
+msgstr "不啟用"
+
+#: src/Modules/Settings/Controllers/Controller.php:165
+#: src/Modules/Settings/Controllers/Controller.php:166
+msgid "Active"
+msgstr "啟用"
+
+#: src/Modules/Settings/Controllers/Controller.php:161
+msgid "Use the values below to set the default actions/values to be used for each for the corresponding post types.  These values can all be overwritten when creating/editing the post/page."
+msgstr "使用下方設定控制用於對應的內容類型的單篇內容的預設動作/設定值。在這裡的設定值會套用至單篇內容，但可在單篇內容中重新設定。"
+
+#: src/Modules/Settings/Controllers/Controller.php:160
+msgid "Default Expiration Values"
+msgstr "預設到期日期設定"
+
+#: src/Views/menu-advanced.php:120 src/Views/menu-display.php:135
+#: src/Views/menu-editor.php:44 src/Views/menu-general.php:205
+msgid "Save Changes"
+msgstr "儲存設定"
+
+#: src/Views/menu-display.php:128
+msgid "The inline css which will be used to style the footer text."
+msgstr "在這裡設定的內嵌 CSS，能樣式化頁尾文字。"
+
+#: src/Views/menu-display.php:125
+msgid "This post will expire on"
+msgstr "這篇文章的到期日期為 "
+
+#: src/Views/menu-display.php:119
+msgid "Footer Style"
+msgstr "頁尾樣式"
+
+#: src/Views/menu-display.php:101
+msgid "Enter the text you would like to appear at the bottom of every post that will expire.  The following placeholders will be replaced with the post expiration date in the following format:"
+msgstr "請輸入要在每篇內容尾端顯示的內容到期日期資訊。使用外掛指定的參數便能以以下格式顯示內容到期日期:"
+
+#: src/Views/menu-display.php:96
+msgid "Footer Contents"
+msgstr "頁尾內容"
+
+#: src/Views/menu-display.php:88
+msgid "This will enable or disable displaying the post expiration date in the post footer."
+msgstr "請設定在內容頁尾要啟用或停用顯示內容到期日期資訊。"
+
+#: src/Modules/Settings/Controllers/Controller.php:179
+#: src/Views/menu-diagnostics.php:41 src/Views/menu-diagnostics.php:69
+#: src/Views/menu-display.php:86 src/Views/menu-general.php:150
+#: src/Views/menu-general.php:176
+msgid "Disabled"
+msgstr "停用"
+
+#: src/Modules/Settings/Controllers/Controller.php:178
+#: src/Views/menu-diagnostics.php:26 src/Views/menu-diagnostics.php:66
+#: src/Views/menu-display.php:81 src/Views/menu-general.php:143
+#: src/Views/menu-general.php:168
+msgid "Enabled"
+msgstr "啟用"
+
+#: src/Views/menu-display.php:76
+msgid "Show in post footer?"
+msgstr "是否顯示於文章頁尾"
+
+#: src/Views/menu-display.php:69
+msgid "Enabling this below will display the expiration date automatically at the end of any post which is set to expire."
+msgstr "啟用這項功能後，便會依照下方設定，自動於內容尾端顯示內容到期日期資訊。"
+
+#: src/Views/menu-display.php:67
+msgid "Post Footer Display"
+msgstr "文章頁尾顯示方式"
+
+#: src/Views/menu-general.php:84
+msgid "Time Format"
+msgstr "時間格式"
+
+#: src/Views/menu-general.php:67
+msgid "Date Format"
+msgstr "日期格式"
+
+#: src/Views/menu-display.php:54 src/Views/menu-display.php:59
+msgid "%s - format set here will override the value set on the settings page"
+msgstr "%s - 在這裡設定的格式會覆寫在 [預設設定] 分頁的設定值"
+
+#: legacy/classes/Display.class.php:311 legacy/classes/Display.class.php:370
+msgid "Saved Options!"
+msgstr "設定已儲存。"
+
+#: src/Views/menu-diagnostics.php:38
+msgid "View Debug Logs"
+msgstr "檢視偵錯記錄"
+
+#: src/Views/tabs.php:33
+msgid "Diagnostics"
+msgstr "診斷資料"
+
+#: src/Views/menu-general.php:63 src/Views/tabs.php:13
+msgid "Defaults"
+msgstr "預設設定"
+
+#: src/Views/classic-metabox.php:171
+msgid "Taxonomy Name"
+msgstr "分類法名稱"
+
+#: src/Views/classic-metabox.php:153
+msgid "More than 1 heirachical taxonomy detected.  You must assign a default taxonomy on the settings screen."
+msgstr "偵測到超過 1 個階層式分類法。必須再設定畫面指派一個預設分類法。"
+
+#: src/Views/classic-metabox.php:148
+msgid "You must assign a hierarchical taxonomy to this post type to use this feature."
+msgstr "必須將階層式分類法指派至這個內容類型以使用這項功能。"
+
+#: legacy/classes/Facade.class.php:382
+#: src/Modules/Settings/Controllers/Controller.php:172
+#: src/Views/bulk-edit.php:116 src/Views/classic-metabox.php:117
+#: src/Views/quick-edit.php:80
+msgid "How to expire"
+msgstr "到期日期後的處理方式"
+
+#: src/Views/bulk-edit.php:102 src/Views/classic-metabox.php:110
+#: src/Views/quick-edit.php:67
+msgid "Minute"
+msgstr "分鐘"
+
+#: src/Views/bulk-edit.php:95 src/Views/classic-metabox.php:85
+#: src/Views/quick-edit.php:61
+msgid "Hour"
+msgstr "小時"
+
+#: src/Views/bulk-edit.php:81 src/Views/classic-metabox.php:78
+#: src/Views/quick-edit.php:47
+msgid "Day"
+msgstr "日數"
+
+#: src/Views/bulk-edit.php:57 src/Views/classic-metabox.php:56
+#: src/Views/quick-edit.php:25
+msgid "Month"
+msgstr "月份"
+
+#: src/Views/bulk-edit.php:88 src/Views/classic-metabox.php:27
+#: src/Views/quick-edit.php:54
+msgid "Year"
+msgstr "年份"
+
+#: src/Views/classic-metabox.php:18
+msgid "The published date/time will be used as the expiration value"
+msgstr "發佈日期/時間會用於成為到期日期的值"
+
+#: legacy/classes/Facade.class.php:381 src/Views/bulk-edit.php:31
+#: src/Views/classic-metabox.php:11 src/Views/quick-edit.php:16
+msgid "Enable Post Expiration"
+msgstr "啟用內容到期日期"
+
+#: src/Views/expire-column.php:28
+msgid "Never"
+msgstr "無到期日期"
+
+#: legacy/functions.php:77 legacy/functions.php:167
+msgid "Expires"
+msgstr "到期日期"
+
+#: legacy/functions.php:24
+msgid "Settings"
+msgstr "設定"
+
+#: services.php:62
+msgid "Post expires at EXPIRATIONTIME on EXPIRATIONDATE"
+msgstr "這篇內容將於 EXPIRATIONDATE EXPIRATIONTIME 到期。"
+
+#: services.php:61
+msgid "g:ia"
+msgstr "a g:i"
+
+#: services.php:60
+msgid "l F jS, Y"
+msgstr "Y 年 n 月 j 日 (l)"
+
+#: src/Views/menu-debug-log.php:32
+msgid "Message"
+msgstr "訊息"
+
+#: src/Views/menu-debug-log.php:31
+msgid "Timestamp"
+msgstr "時間戳記"
+
+#: src/Views/menu-debug-log.php:24
+msgid "Debugging table is currently empty."
+msgstr "偵錯資料表目前為空。"

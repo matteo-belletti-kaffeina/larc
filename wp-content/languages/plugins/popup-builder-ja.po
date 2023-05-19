@@ -1,0 +1,2339 @@
+# Translation of Plugins - Popup Builder &#8211; Create highly converting, mobile friendly marketing popups. - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Popup Builder &#8211; Create highly converting, mobile friendly marketing popups. - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-19 22:35:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Popup Builder &#8211; Create highly converting, mobile friendly marketing popups. - Stable (latest release)\n"
+
+#: public/views/floatingButton.php:50
+msgid "Font size"
+msgstr "フォントサイズ"
+
+#: public/views/floatingButton.php:31
+msgid "Position"
+msgstr "位置"
+
+#: public/views/floatingButton.php:22
+msgid "Style"
+msgstr "スタイル"
+
+#: public/views/floatingButton.php:11
+msgid "Enable"
+msgstr "有効化"
+
+#: com/helpers/ConfigDataHelper.php:867 public/views/floatingButton.php:25
+msgid "Basic"
+msgstr "基本"
+
+#: com/helpers/ConfigDataHelper.php:851 com/helpers/ConfigDataHelper.php:858
+msgid "Bottom right"
+msgstr "右下"
+
+#: com/classes/Filters.php:212
+msgid "Upgrade"
+msgstr "アップグレード"
+
+#: com/classes/Filters.php:205
+msgid "Docs"
+msgstr "ドキュメント"
+
+#: com/classes/Filters.php:180
+msgid "Rate us"
+msgstr "評価してください"
+
+#: com/classes/Feedback.php:76
+msgid "Having troubles? You can always count on us. Please try to contact us via <a href=\"https://popup-builder.com/\">Live chat</a> or send a message to <a href=\"mailto:support@popup-builder.com\">support@popup-builder.com</a>"
+msgstr "お困りですか ? いつでもお手伝いします。<a href=\"https://popup-builder.com/\">ライブチャット</a>でお問い合わせいただくか、<a href=\"mailto:support@popup-builder.com\">support@popup-builder.com</a> にメッセージをお送りください"
+
+#: com/classes/Feedback.php:135
+msgid "Skip & Deactivate"
+msgstr "スキップして無効化"
+
+#: com/classes/Feedback.php:132
+msgid "Submit & Deactivate"
+msgstr "送信して無効化"
+
+#: com/classes/Feedback.php:108
+msgid "Please, select an option."
+msgstr "オプションを選択してください。"
+
+#: com/classes/Feedback.php:106
+msgid "If you have a moment, please share why you are deactivating <b>Popup Builder</b>"
+msgstr "時間があれば、<b>ポップアップビルダー</b>を無効にする理由をお聞かせください"
+
+#: com/classes/Feedback.php:95
+msgid "Quick Feedback"
+msgstr "迅速なフィードバック"
+
+#: com/classes/Feedback.php:84
+msgid "Please share the reason"
+msgstr "理由を教えてください"
+
+#: com/classes/Feedback.php:83
+msgid "Other"
+msgstr "その他"
+
+#: com/classes/Feedback.php:79
+msgid "It's a temporary deactivation"
+msgstr "一時的な無効化です"
+
+#: com/classes/Feedback.php:74
+msgid "I couldn't get the plugin to work"
+msgstr "プラグインを機能させることができませんでした"
+
+#: com/classes/Feedback.php:71
+msgid "Please share which plugin"
+msgstr "プラグインを共有してください"
+
+#: com/classes/Feedback.php:70
+msgid "I found a better plugin"
+msgstr "もっと良いプラグインを見つけた"
+
+#: com/classes/Feedback.php:66
+msgid "I no longer need the plugin"
+msgstr "プラグインが必要がなくなった"
+
+#: com/helpers/AdminHelper.php:979
+msgid "<h1 class=\"sgpb-review-h1\"><strong class=\"sgrb-review-strong\">This is great!</strong> We have noticed that you are using Popup Builder plugin on your site for "
+msgstr "<h1 class=\"sgpb-review-h1\"><strong class=\"sgrb-review-strong\">すばらしいです !</strong>サイトで Popup Builder をしばらくご利用中のようです。"
+
+#: com/helpers/AdminHelper.php:971
+msgid "and we will not show it again!"
+msgstr "今後、二度と表示しません。"
+
+#: com/helpers/AdminHelper.php:971
+msgid " Press here "
+msgstr "ここを押してください"
+
+#: com/helpers/AdminHelper.php:971
+msgid "Bored of this?"
+msgstr "飽きましたか ?"
+
+#: com/helpers/AdminHelper.php:969
+msgid "LIVE chat"
+msgstr "ライブチャット"
+
+#: com/helpers/AdminHelper.php:968
+msgid "Support Forum"
+msgstr "サポートフォーラム"
+
+#: com/helpers/AdminHelper.php:967
+msgid "Support Potal"
+msgstr "サポート窓口"
+
+#: com/helpers/AdminHelper.php:965
+msgid "Let us know what you think."
+msgstr "ご意見をお聞かせください。"
+
+#: com/helpers/AdminHelper.php:964
+msgid "Need some help?"
+msgstr "ヘルプが必要ですか ?"
+
+#: com/helpers/AdminHelper.php:1700
+msgid "No license"
+msgstr "ライセンスなし"
+
+#: com/classes/Actions.php:704
+msgid "Once Every Week"
+msgstr "週1回"
+
+#: public/views/settings.php:82
+msgid "Download"
+msgstr "ダウンロード"
+
+#: public/views/settings.php:77
+msgid "System information"
+msgstr "システム情報"
+
+#: public/views/settings.php:75
+msgid "Debug tools"
+msgstr "デバッグツール"
+
+#: public/views/dimensionsView.php:48
+msgid "Min height"
+msgstr "最小高"
+
+#: public/views/dimensionsView.php:44
+msgid "Min width"
+msgstr "最小幅"
+
+#: public/views/dimensionsView.php:38
+msgid "Max height"
+msgstr "最大高"
+
+#: public/views/dimensionsView.php:34
+msgid "Max width"
+msgstr "最大幅"
+
+#: public/views/dimensionsView.php:18
+msgid "Size"
+msgstr "サイズ"
+
+#: public/views/dimensionsView.php:25 public/views/dimensionsView.php:29
+#: public/views/dimensionsView.php:35 public/views/dimensionsView.php:39
+#: public/views/dimensionsView.php:45 public/views/dimensionsView.php:49
+msgid "It must be number  + px or %"
+msgstr "この値は数字の後に px または % を追加した形式にしてください"
+
+#: public/views/dimensionsView.php:25 public/views/dimensionsView.php:29
+#: public/views/dimensionsView.php:35 public/views/dimensionsView.php:39
+#: public/views/dimensionsView.php:45 public/views/dimensionsView.php:49
+msgid "Ex: 100, 100px or 100%"
+msgstr "例: 100、100px、100%"
+
+#: public/views/popupTypes.php:43
+msgid "More Ideas?"
+msgstr "その他のアイデア:"
+
+#: public/views/popupTypes.php:19
+msgid "Get More Extensions"
+msgstr "拡張機能をさらに入手する"
+
+#: public/views/mainActionButtons.php:5
+msgid "Popups"
+msgstr "ポップアップ"
+
+#: public/views/options/subscription.php:326
+msgid "Get the <a href=\""
+msgstr "取得 <a href=\""
+
+#: public/views/options/subscription.php:314
+msgid "Live Preview"
+msgstr "ライブプレビュー"
+
+#: public/views/options/subscription.php:272
+msgid "After successful subscription"
+msgstr "サブスクリプションが成功した後"
+
+#: public/views/options/subscription.php:262
+msgid "Hide for already subscribed users"
+msgstr "すでに購読しているユーザーに対して非表示"
+
+#: public/views/options/subscription.php:252
+msgid "Show form on the Top"
+msgstr "上部にフォームを表示"
+
+#: public/views/options/subscription.php:248
+msgid "Invalid email message"
+msgstr "無効なメールのメッセージ"
+
+#: public/views/options/subscription.php:244
+msgid "Error message"
+msgstr "エラーメッセージ"
+
+#: public/views/options/subscription.php:226
+msgid "Title (in progress)"
+msgstr "タイトル (進行中)"
+
+#: public/views/options/subscription.php:194
+msgid "Submit button styles"
+msgstr "送信ボタンのスタイル"
+
+#: public/views/options/subscription.php:184
+msgid "Placeholder color"
+msgstr "プレースホルダーの文字色"
+
+#: public/views/options/subscription.php:148
+msgid "Inputs' style"
+msgstr "入力のスタイル"
+
+#: public/views/options/subscription.php:143
+msgid "Required field message"
+msgstr "必須フィールドメッセージ"
+
+#: public/views/options/subscription.php:106
+#: public/views/options/subscription.php:132
+msgid "Required field"
+msgstr "必須フィールド"
+
+#: public/views/options/subscription.php:102
+#: public/views/options/subscription.php:128
+msgid "Placeholder"
+msgstr "プレースホルダー"
+
+#: public/views/options/subscription.php:86
+msgid "Confirmation text"
+msgstr "確認テキスト"
+
+#: public/views/options/subscription.php:82
+msgid "Label"
+msgstr "ラベル"
+
+#: public/views/options/subscription.php:71
+msgid "Enable GDPR"
+msgstr "GDPR (EU 一般データ保護規則) を有効化"
+
+#: public/views/options/subscription.php:67
+msgid "Email placeholder"
+msgstr "メールのプレースホルダー"
+
+#: public/views/options/subscription.php:60
+msgid "Form padding"
+msgstr "フォームの余白"
+
+#: public/views/options/subscription.php:48
+msgid "Form background opacity"
+msgstr "フォームの背景の不透明度"
+
+#: public/views/options/subscription.php:40
+msgid "Form background color"
+msgstr "フォームの背景色"
+
+#: public/views/options/subscription.php:36
+msgid "Form background options"
+msgstr "フォームの背景オプション"
+
+#: public/views/options/facebook.php:17
+msgid "Don't show share button"
+msgstr "共有ボタンを表示しない"
+
+#: public/views/options/facebook.php:13
+msgid "Layout"
+msgstr "レイアウト"
+
+#: public/views/customEditor.php:15
+msgid "You may use your custom codes for extra actions connected to the popup opening (before, after, etc.) in the fields below"
+msgstr "以下のフィールドのポップアップを開く動作 (その前、後など) に関連する以下の追加の操作にカスタムコードを使用できます"
+
+#: public/views/customEditor.php:14
+msgid "This section is for adding custom codes (CSS or JS) for the popup, it requires some coding knowledge"
+msgstr "このセクションは、ポップアップ用のカスタムコード (CSS または JS) を追加するためのものであり、コーディングの知識が必要です"
+
+#: com/helpers/ConfigDataHelper.php:312 com/helpers/ConfigDataHelper.php:339
+msgid "If you need the popup id number in the custom code, you may use the following variable to get the ID:"
+msgstr "カスタムコードでポップアップの ID 番号が必要な場合は、以下の変数を使用して ID を取得できます:"
+
+#: public/views/optionsView.php:340
+msgid ""
+"You can add an opening delay for the popup, in seconds. This will refer to custom events, like:\n"
+"\t\t\t\t\t\t\t\t\t\tShortcodes, custom CSS classes, HTML attributes, or JS called custom events."
+msgstr ""
+"ポップアップの開始遅延を秒単位で追加できます。これは、次のようなカスタムイベントを参照します:\n"
+"\t\t\t\t\t\t\t\t\t\tショートコード、カスタム CSS クラス、HTML 属性、または JS が呼び出したカスタムイベント。"
+
+#: public/views/optionsView.php:335
+msgid "Custom event delay"
+msgstr "イベントの遅延設定"
+
+#: public/views/optionsView.php:328
+msgid "Select the priority number for your popup to appear on the page, along with other popups. The popup with a lower order number will be behind the others with a higher order number."
+msgstr "他のポップアップとともにページに表示するポップアップの優先順位番号を選択します。 注文番号が小さいポップアップは、注文番号が大きい他のポップアップの後ろに表示されます。"
+
+#: public/views/optionsView.php:323
+msgid "Popup order"
+msgstr "ポップアップの選択"
+
+#: public/views/optionsView.php:316
+msgid "If this option is enabled, the popup will reopen after the form submission."
+msgstr "このオプションを有効化すると、フォームの送信後にポップアップが再び開きます。"
+
+#: public/views/optionsView.php:305
+msgid "Reopen after form submission"
+msgstr "フォーム送信後に再度開く"
+
+#: public/views/closeSettingsView.php:336
+#: public/views/closeSettingsView.php:347
+msgid "Close popup after the page scroll"
+msgstr "ページのスクロール後にポップアップを閉じる"
+
+#: public/views/closeSettingsView.php:301
+#: public/views/closeSettingsView.php:312
+msgid "Auto close popup"
+msgstr "自動終了ポップアップ"
+
+#: public/views/optionsView.php:297
+msgid "If the content is larger than the specified dimensions, then the content will be scrollable."
+msgstr "コンテンツが指定された寸法より大きい場合、コンテンツはスクロール可能になります。"
+
+#: public/views/optionsView.php:286
+msgid "Enable content scrolling"
+msgstr "コンテンツのスクロールを有効にする"
+
+#: public/views/optionsView.php:279
+msgid "If this option is checked, the page won't scroll until the popup is open."
+msgstr "このオプションをチェックすると、ポップアップが開くまでページはスクロールしません。"
+
+#: public/views/optionsView.php:268
+msgid "Disable page scrolling"
+msgstr "ページのスクロールを無効にする"
+
+#: public/views/optionsView.php:241
+msgid "Popup location"
+msgstr "ポップアップの場所"
+
+#: public/views/optionsView.php:211
+msgid "Popup closing animation"
+msgstr "ポップアップの終了アニメーション"
+
+#: public/views/optionsView.php:204 public/views/optionsView.php:235
+msgid "Second(s)"
+msgstr "秒"
+
+#: public/views/optionsView.php:198 public/views/optionsView.php:229
+msgid "Speed"
+msgstr "スピード"
+
+#: public/views/optionsView.php:180
+msgid "Popup opening animation"
+msgstr "ポップアップの開始アニメーション"
+
+#: public/views/popupOpeningCounter.php:23
+msgid "Reset"
+msgstr "リセット"
+
+#: public/views/optionsView.php:163
+msgid "If this option is enabled the popup will appear with a sound. The sound option is not available on mobile devices, as there are restrictions on sound auto-play options for mobile devices."
+msgstr "このオプションを有効にすると、ポップアップが音とともに表示されます。 モバイルデバイスのサウンド自動再生オプションには制限があるため、サウンドオプションはモバイルデバイスでは使用できません。"
+
+#: public/views/optionsView.php:151
+msgid "Popup opening sound"
+msgstr "ポップアップの開始音"
+
+#: public/views/optionsView.php:142
+msgid "If this option is checked the popup showing limitation will be saved for the current page. Otherwise, the limitation will refer site wide, and the popup will be shown for specific times on each page selected.The previously specified count of days will be reset every time you check/uncheck this option."
+msgstr "このオプションをチェックすると、制限を示すポップアップが現在のページに保存されます。 それ以外の場合、制限はサイト全体を参照し、選択した各ページの特定の時間にポップアップが表示されます。以前に指定した日数は、このオプションをオン/オフするたびにリセットされます。"
+
+#: public/views/optionsView.php:134
+msgid "Apply option on each page"
+msgstr "各ページにオプションを適用"
+
+#: public/views/optionsView.php:129
+msgid "Select the count of the days after which the popup will be shown to the same user, or set the value \"0\" if you want to save cookies by session."
+msgstr "同じユーザーに対してポップアップを表示する日数を選択します。または、セッションごとにクッキーを保存する場合は「0」を設定してください。"
+
+#: public/views/optionsView.php:124
+msgid "Popup showing expiry"
+msgstr "有効期限を示すポップアップ"
+
+#: public/views/optionsView.php:119
+msgid "Select how many times the popup will be shown for the same user."
+msgstr "同じユーザーに対してポップアップを表示する回数を選択します。"
+
+#: public/views/optionsView.php:114
+msgid "Popup showing count"
+msgstr "カウントを表示するポップアップ"
+
+#: public/views/optionsView.php:107
+msgid "Estimate the popup showing frequency to the same user."
+msgstr "同じユーザーに対する頻度を示すポップアップを推定します。"
+
+#: public/views/optionsView.php:96
+msgid "Popup showing limitation"
+msgstr "表示を制限するポップアップ"
+
+#: public/views/optionsView.php:29
+msgid "Action on popup content click"
+msgstr "コンテンツのクリックに対するポップアップのアクション"
+
+#: public/views/importPopupsView.php:15
+msgid "Import popups"
+msgstr "ポップアップをインポート"
+
+#: public/views/jsVariableView.php:42
+msgid "Ex. value or data-name"
+msgstr "例: 値またはデータ名"
+
+#: public/views/jsVariableView.php:36
+msgid "Attribute"
+msgstr "属性"
+
+#: public/views/jsVariableView.php:24
+msgid "Ex. #myselector or .myselector"
+msgstr "例: #myselector または .myselector"
+
+#: public/views/jsVariableView.php:18
+msgid "Selector"
+msgstr "セレクタ"
+
+#: public/views/jsVariableView.php:9
+msgid "Insert JS variable inside the popup"
+msgstr "ポップアップ内にJS変数を挿入する"
+
+#: public/views/closeSettingsView.php:269
+#: public/views/closeSettingsView.php:286
+msgid "The users will not be able to close the popup, if this option is checked."
+msgstr "このオプションがチェックされている場合、ユーザーはポップアップを閉じることができません。"
+
+#: public/views/closeSettingsView.php:258
+#: public/views/closeSettingsView.php:275
+msgid "Disable popup closing"
+msgstr "ポップアップの「閉じる」を無効にする"
+
+#: public/views/closeSettingsView.php:249
+msgid "The popup will close when clicked on the overlay of the popup."
+msgstr "ポップアップのオーバーレイをクリックすると、ポップアップが閉じます。"
+
+#: public/views/closeSettingsView.php:237
+msgid "Dismiss on overlay click"
+msgstr "オーバーレイをクリックした際に非表示にする"
+
+#: com/helpers/ConfigDataHelper.php:1207 public/views/closeSettingsView.php:229
+msgid "Close"
+msgstr "閉じる"
+
+#: public/views/closeSettingsView.php:227
+msgid "Button text"
+msgstr "ボタンのテキスト"
+
+#: public/views/closeSettingsView.php:218
+msgid "Popup border radius"
+msgstr "ポップアップ枠の角半径"
+
+#: public/views/closeSettingsView.php:211
+msgid "Popup border color"
+msgstr "ポップアップ枠の境界線色"
+
+#: public/views/closeSettingsView.php:159
+msgid "Button image"
+msgstr "ボタン画像"
+
+#: public/views/closeSettingsView.php:138
+msgid "Bottom"
+msgstr "下"
+
+#: public/views/closeSettingsView.php:129
+msgid "Right"
+msgstr "右"
+
+#: public/views/closeSettingsView.php:112
+msgid "Button position"
+msgstr "ボタンの位置"
+
+#: public/views/closeSettingsView.php:105
+msgid "Specify the time (in seconds) after which the close button will appear. The close button will be shown by default without any delay if no time is specified."
+msgstr "閉じるボタンを表示するまでの時間 (秒) を指定します。時間を指定しない場合、デフォルトでは閉じるボタンが遅延なく表示されます。"
+
+#: public/views/closeSettingsView.php:97
+msgid "Button delay"
+msgstr "ボタンの遅延"
+
+#: public/views/closeSettingsView.php:89
+msgid "Uncheck this option if you don't want to show a \"close\" button on your popup."
+msgstr "ポップアップに「閉じる」ボタンを表示したくない場合は、このオプションをオフにします。"
+
+#: public/views/closeSettingsView.php:77
+msgid "Show \"close\" button"
+msgstr "「閉じる」ボタンを表示"
+
+#: public/views/closeSettingsView.php:69
+msgid "The popup will close if the \"Esc\" key of your keyboard is clicked."
+msgstr "キーボードの「Esc」キーをクリックすると、ポップアップが閉じます。"
+
+#: public/views/closeSettingsView.php:57
+msgid "Dismiss on \"esc\" key"
+msgstr "「esc」キーで閉じる"
+
+#: public/views/main/image.php:3
+msgid "Please choose your picture"
+msgstr "画像を選んでください"
+
+#: public/views/subscribers.php:107
+msgid "Add to list"
+msgstr "リストに追加"
+
+#: public/views/subscribers.php:98
+msgid "Invalid email address"
+msgstr "無効なメールアドレス"
+
+#: public/views/subscribers.php:94
+msgid "Subscription is not selected"
+msgstr "サブスクリプションが選択されていません"
+
+#: public/views/subscribers.php:84
+msgid "Error occurred: could not add subscriber."
+msgstr "エラーが発生しました: 購読者を追加できませんでした。"
+
+#: public/views/subscribers.php:129
+msgid "Select file"
+msgstr "ファイルを選択"
+
+#: public/views/subscribers.php:122
+msgid "Import Subscribers from file:"
+msgstr "ファイルから購読者をインポートします。"
+
+#: public/views/subscribers.php:18 public/views/subscribers.php:116
+msgid "Select subscription(s):"
+msgstr "購読者を選択:"
+
+#: com/classes/dataTable/Subscribers.php:200
+msgid "Delete subscriber(s)"
+msgstr "購読者を削除"
+
+#: public/views/subscribers.php:51
+msgid "Add new"
+msgstr "新規追加"
+
+#: public/views/mainActionButtons.php:12 public/views/subscribers.php:55
+msgid "Export"
+msgstr "エクスポート"
+
+#: public/views/mainActionButtons.php:17 public/views/subscribers.php:60
+#: public/views/subscribers.php:135
+msgid "Import"
+msgstr "インポート"
+
+#: public/views/subscribers.php:44
+msgid "Subscribers"
+msgstr "購読者"
+
+#: public/views/newsletter.php:109
+msgid "Custom fields' shortcodes"
+msgstr "カスタムフィールドのショートコード"
+
+#: public/views/newsletter.php:104
+msgid "Your user name"
+msgstr "ユーザー名"
+
+#: public/views/newsletter.php:103
+msgid "Your blog name"
+msgstr "ブログ名"
+
+#: public/views/newsletter.php:102
+msgid "Subscriber Last name"
+msgstr "購読者の苗字"
+
+#: public/views/newsletter.php:101
+msgid "Subscriber First name"
+msgstr "購読者の名前"
+
+#: public/views/newsletter.php:99
+msgid "Default shortcodes"
+msgstr "デフォルトのショートコード"
+
+#: public/views/newsletter.php:97
+msgid "Newsletter Shortcodes"
+msgstr "ニュースレターのショートコード"
+
+#: public/views/newsletter.php:89
+msgid "Send newsletter"
+msgstr "ニュースレターを送信する"
+
+#: public/views/newsletter.php:57
+msgid "Edit newsletter email template below"
+msgstr "以下でニュースレターのメールテンプレートを編集してください"
+
+#: public/views/newsletter.php:52
+msgid "Your subject here"
+msgstr "ここに件名を入力"
+
+#: public/views/newsletter.php:51
+msgid "Email's subject"
+msgstr "メール件名"
+
+#: public/views/newsletter.php:47
+msgid "From email"
+msgstr "送信者メールアドレス"
+
+#: public/views/newsletter.php:43
+msgid "Emails to send in one flow per 1 minute"
+msgstr "1分ごとに1つのフローでメールを送信する"
+
+#: public/views/newsletter.php:38
+msgid "Choose the popup"
+msgstr "ポップアップをお選びください"
+
+#: public/views/newsletter.php:29
+msgid "You will receive an email notification after all emails are sent"
+msgstr "すべてのメールが送信された後、メール通知を受け取ります"
+
+#: public/views/newsletter.php:33
+msgid "Newsletter settings"
+msgstr "メールマガジン設定"
+
+#: public/views/mediaButton.php:17
+msgid "Insert the [shortcode]"
+msgstr "[ショートコード] を挿入"
+
+#: com/helpers/AdminHelper.php:966
+msgid "Rate Us"
+msgstr "評価してください"
+
+#: com/classes/Filters.php:790
+msgid "Status"
+msgstr "ステータス"
+
+#: public/views/license.php:40
+msgid "Activate"
+msgstr "有効化"
+
+#: public/views/license.php:35
+msgid "Deactivate"
+msgstr "無効化"
+
+#: public/views/license.php:26
+msgid "License Key"
+msgstr "ライセンスキー"
+
+#: public/views/otherConditionsView.php:27
+msgid "Show popup in date range"
+msgstr "日付範囲にポップアップを表示"
+
+#: public/views/otherConditionsView.php:16
+msgid "Schedule"
+msgstr "予約投稿"
+
+#: public/views/settings.php:71
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: public/views/settings.php:67
+msgid "In spite of user roles the administrator always has access to the plugin."
+msgstr "ユーザー権限グループに関わらず、管理者は常にプラグインにアクセスできます。"
+
+#: public/views/settings.php:62
+msgid "User role to access the plugin"
+msgstr "プラグインにアクセスするためのユーザー権限"
+
+#: public/views/settings.php:46
+msgid "All the popup data will be deleted after removing the plugin if this option is checked."
+msgstr "このオプションがチェックされている場合、プラグインを削除した後にすべてのポップアップデータが削除されます。"
+
+#: public/views/settings.php:35
+msgid "Delete popup data"
+msgstr "ポップアップデータを削除"
+
+#: public/views/settings.php:22
+msgid "General Settings"
+msgstr "一般設定"
+
+#: public/views/htmlCustomButtonElement.php:185
+#: public/views/jsVariableView.php:54 public/views/mediaButton.php:44
+msgid "Insert"
+msgstr "挿入"
+
+#: public/views/htmlCustomButtonElement.php:165
+#: public/views/options/subscription.php:293 public/views/optionsView.php:49
+msgid "Redirect to new tab"
+msgstr "新しいタブにリダイレクト"
+
+#: public/views/htmlCustomButtonElement.php:159
+#: public/views/options/subscription.php:289
+msgid "Redirect URL"
+msgstr "転送 URL"
+
+#: public/views/htmlCustomButtonElement.php:148 public/views/optionsView.php:87
+msgid "Message"
+msgstr "メッセージ"
+
+#: public/views/htmlCustomButtonElement.php:139 public/views/optionsView.php:76
+msgid "Show alert"
+msgstr "アラートを表示"
+
+#: public/views/htmlCustomButtonElement.php:133 public/views/optionsView.php:66
+msgid "Close popup"
+msgstr "ポップアップを閉じる"
+
+#: public/views/floatingButton.php:95
+#: public/views/htmlCustomButtonElement.php:127 public/views/optionsView.php:62
+msgid "Text"
+msgstr "テキスト"
+
+#: public/views/htmlCustomButtonElement.php:117
+msgid "Button events"
+msgstr "ボタンイベント"
+
+#: public/views/floatingButton.php:89
+#: public/views/htmlCustomButtonElement.php:105
+#: public/views/options/subscription.php:178
+#: public/views/options/subscription.php:236
+msgid "Text color"
+msgstr "テキスト色"
+
+#: public/views/htmlCustomButtonElement.php:95
+msgid "Hover background color"
+msgstr "背景をホバー"
+
+#: public/views/floatingButton.php:83
+#: public/views/htmlCustomButtonElement.php:85
+#: public/views/options/subscription.php:166
+#: public/views/options/subscription.php:230
+msgid "Background color"
+msgstr "背景色"
+
+#: public/views/floatingButton.php:76
+#: public/views/htmlCustomButtonElement.php:75
+#: public/views/options/subscription.php:172
+#: public/views/options/subscription.php:216
+msgid "Border color"
+msgstr "枠線の色"
+
+#: public/views/floatingButton.php:71
+#: public/views/htmlCustomButtonElement.php:67
+#: public/views/options/subscription.php:212
+msgid "Border radius"
+msgstr "角丸半径"
+
+#: public/views/htmlCustomButtonElement.php:59
+#: public/views/options/subscription.php:162
+#: public/views/options/subscription.php:208
+msgid "Border width"
+msgstr "ボーダー幅"
+
+#: public/views/closeSettingsView.php:197 public/views/dimensionsView.php:28
+#: public/views/htmlCustomButtonElement.php:51
+#: public/views/options/subscription.php:157
+#: public/views/options/subscription.php:203
+msgid "Height"
+msgstr "高さ"
+
+#: public/views/dimensionsView.php:24
+#: public/views/htmlCustomButtonElement.php:43
+#: public/views/options/subscription.php:153
+#: public/views/options/subscription.php:199
+msgid "Width"
+msgstr "幅"
+
+#: public/views/htmlCustomButtonElement.php:38
+msgid "Custom Button Styles"
+msgstr "カスタムボタンスタイル"
+
+#: public/views/htmlCustomButtonElement.php:28
+#: public/views/options/subscription.php:222
+msgid "Title"
+msgstr "タイトル"
+
+#: public/views/popupDesignView.php:229
+msgid "Choose how the background image will be displayed with your content"
+msgstr "コンテンツと一緒に背景画像をどう表示するかを選択してください"
+
+#: public/views/popupDesignView.php:224
+msgid "Mode"
+msgstr "モード"
+
+#: public/views/closeSettingsView.php:175
+msgid "Remove"
+msgstr "削除"
+
+#: public/views/closeSettingsView.php:170 public/views/popupDesignView.php:214
+msgid "Change image"
+msgstr "画像を変更"
+
+#: public/views/popupDesignView.php:176
+msgid "Color"
+msgstr "色"
+
+#: public/views/popupDesignView.php:163
+msgid "Show background"
+msgstr "背景を表示"
+
+#: public/views/popupDesignView.php:160
+msgid "Background options"
+msgstr "背景設定"
+
+#: public/views/popupDesignView.php:154
+msgid "Add a custom class to the content for additional customization"
+msgstr "追加のカスタマイズのためにコンテンツにカスタムクラスを追加する"
+
+#: public/views/popupDesignView.php:149
+msgid "Content custom css class"
+msgstr "コンテンツのカスタム CSS クラス"
+
+#: public/views/popupDesignView.php:133 public/views/popupDesignView.php:182
+msgid "Opacity"
+msgstr "不透明度"
+
+#: public/views/popupDesignView.php:126
+msgid "Change color"
+msgstr "色を変える"
+
+#: public/views/popupDesignView.php:121
+msgid "Add a custom class to the overlay for additional customization."
+msgstr "追加のカスタマイズのために、カスタムクラスをオーバーレイに追加します。"
+
+#: public/views/popupDesignView.php:116
+msgid "Overlay custom css class"
+msgstr "カスタム CSS クラスをオーバーレイする"
+
+#: public/views/popupDesignView.php:85 public/views/popupDesignView.php:108
+msgid "If this option is checked, the popup will appear with an overlay."
+msgstr "このオプションをオンにすると、ポップアップにオーバーレイが表示されます。"
+
+#: public/views/popupDesignView.php:74 public/views/popupDesignView.php:97
+msgid "Enable popup overlay"
+msgstr "ポップアップのオーバーレイ効果を有効にする"
+
+#: public/views/popupDesignView.php:61
+msgid "Disable popup border"
+msgstr "ポップアップの境界線を無効にする"
+
+#: public/views/popupDesignView.php:57
+msgid "Themes"
+msgstr "テーマ"
+
+#: public/views/popupDesignView.php:50
+msgid "Increase or dicrease the value to set the priority of displaying the popup content in comparison of other elements on the page. The highest value of z-index is 2147483647."
+msgstr "値を増減することで、ページ上の他の要素と比較して、ポップアップの内容を表示する優先順位を設定します。z-index の最高値は 2147483647 です。"
+
+#: public/views/popupDesignView.php:45
+msgid "Popup z-index"
+msgstr "ポップアップ Z-Index"
+
+#: public/views/popupDesignView.php:38
+msgid "Add some space, in pixels, around your popup content."
+msgstr "ポップアップコンテンツの周囲にスペースをピクセル単位で追加します。"
+
+#: public/views/popupDesignView.php:32
+msgid "Padding"
+msgstr "パディング"
+
+#: public/views/popupDesignView.php:19
+msgid "Force RTL"
+msgstr "RTL を強制"
+
+#: public/views/importConfigView.php:24
+msgid "Our list fields"
+msgstr "リストフィールド"
+
+#: public/views/importConfigView.php:21
+msgid "Available fields"
+msgstr "利用可能なフィールド"
+
+#: public/views/importConfigView.php:17
+msgid "Match Your Fields"
+msgstr "分野に合わせて"
+
+#: com/classes/dataTable/Subscribers.php:193 com/libs/Table.php:225
+msgid "Filter"
+msgstr "絞り込み"
+
+#: com/classes/dataTable/Subscribers.php:189 com/libs/Table.php:219
+msgid "Filter by popup"
+msgstr "タイプで絞り込み"
+
+#: com/libs/Importer.php:1169
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr "アップロードする XML 形式の WXR ファイルを選択し、インポートしてください。"
+
+#: com/libs/Importer.php:1168
+msgid "Howdy!Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr "こんにちは ! WordPress eXtended RSS (WXR) ファイルをアップロードしてください。投稿、ページ、コメント、カスタムフィールド、カテゴリー、タグをこのサイトにインポートします。"
+
+#: com/libs/Importer.php:1151
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr "このインポーターの新バージョンが利用可能です。新しいエクスポートファイルとの互換性を確保するためにバージョン%sにアップデートしてください。"
+
+#: com/libs/Importer.php:1144
+msgid "Import WordPress"
+msgstr "WordPress のインポート"
+
+#: com/libs/Importer.php:1034
+msgid "Remote file is too large, limit is %s"
+msgstr "リモートファイルが大きすぎます。制限は %s です"
+
+#: com/libs/Importer.php:1028
+msgid "Zero size file downloaded"
+msgstr "サイズが 0 のファイルがダウンロードされました"
+
+#: com/libs/Importer.php:1023
+msgid "Remote file is incorrect size"
+msgstr "リモートファイルのサイズが不正です"
+
+#: com/libs/Importer.php:1016
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "リモートファイルがエラーを返しました: %1$d %2$s"
+
+#: com/libs/Importer.php:1008
+msgid "Remote server did not respond"
+msgstr "リモートサーバーからの返答がありません"
+
+#: com/libs/Importer.php:955
+msgid "Invalid file type"
+msgstr "無効なファイル形式"
+
+#: com/libs/Importer.php:939
+msgid "Fetching attachments is not enabled"
+msgstr "添付ファイルの取り込みが有効化されていません"
+
+#: com/libs/Importer.php:869
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr "不正なメニュースラッグのため、メニュー項目をスキップしました: %s"
+
+#: com/libs/Importer.php:862
+msgid "Menu item skipped due to missing menu slug"
+msgstr "メニュースラッグが存在しないため、メニュー項目をスキップしました"
+
+#: com/libs/Importer.php:694
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "%s &#8220;%s&#8221; をインポートできませんでした。"
+
+#: com/libs/Importer.php:630
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s「%s」はすでに存在します。"
+
+#: com/libs/Importer.php:591
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "「%s」をインポートできませんでした。無効な投稿タイプ「%s」です。"
+
+#: com/libs/Importer.php:500 com/libs/Importer.php:729
+msgid "Failed to import %s %s"
+msgstr "%s %s のインポートに失敗しました。"
+
+#: com/libs/Importer.php:450
+msgid "Failed to import post tag %s"
+msgstr "投稿タグ「%s」をインポートできませんでした。"
+
+#: com/libs/Importer.php:406
+msgid "Failed to import category %s"
+msgstr "カテゴリー「%s」のインポートに失敗しました。"
+
+#: com/libs/Importer.php:353
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr "新規ユーザー「%s」を作成できませんでした。現在のユーザーが投稿者となります。"
+
+#: com/libs/Importer.php:301
+msgid "- Select -"
+msgstr "- 選択 -"
+
+#: com/libs/Importer.php:300
+msgid "or assign posts to an existing user:"
+msgstr "既存のユーザーに投稿を割り当てる:"
+
+#: com/libs/Importer.php:298
+msgid "assign posts to an existing user:"
+msgstr "既存のユーザーに投稿を割り当てる:"
+
+#: com/libs/Importer.php:290
+msgid "as a new user:"
+msgstr "新規ユーザーとして:"
+
+#: com/libs/Importer.php:287
+msgid "or create new user with login name:"
+msgstr "またはこのログイン名で新しいユーザーを作成:"
+
+#: com/libs/Importer.php:276
+msgid "Import author:"
+msgstr "インポートする投稿者:"
+
+#: com/libs/Importer.php:262
+msgid "Submit"
+msgstr "送信"
+
+#: com/libs/Importer.php:253
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr "WordPress が新規ユーザーを作成した場合、新しいパスワードがランダムに生成され、新規ユーザーの権限グループは「%s」に設定されます。新規ユーザーの詳細を手動で変更する必要があります。"
+
+#: com/libs/Importer.php:251
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr "インポートした投稿や下書きの編集/保存を簡単にするために、投稿者を既存のユーザーに変更できます。例えば、すべての投稿を <code>admin</code> の投稿としてインポートすることができます。"
+
+#: com/libs/Importer.php:250
+msgid "Assign Authors"
+msgstr "投稿者の割り当て"
+
+#: com/libs/Importer.php:222
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr "投稿者「%s」をインポートできませんでした。現在のユーザーが投稿の執筆者となります。"
+
+#: com/libs/Importer.php:195
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr "この WXR ファイル (バージョン %s) は、このバージョンのインポートツールではサポートされていません。更新を検討してください。"
+
+#: com/libs/Importer.php:179
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr "このテンプレートは、あなたのテーマによって上書きされており、こちらにあります<code>%s</code> 。"
+
+#: com/libs/Importer.php:157
+msgid "Have fun!"
+msgstr "ではお楽しみください !"
+
+#: com/libs/Importer.php:157
+msgid "All done."
+msgstr "完了しました。"
+
+#: com/libs/Importer.php:113
+msgid "The file does not exist, please try again."
+msgstr "ファイルが存在しません。もう一度お試しください。"
+
+#: com/libs/Importer.php:112 com/libs/Importer.php:121
+#: com/libs/Importer.php:173 com/libs/Importer.php:178
+#: com/libs/Importer.php:187
+msgid "Sorry, there has been an error."
+msgstr "エラーが発生しました。"
+
+#: com/libs/ListTable.php:1015
+msgid "Select All"
+msgstr "すべて選択"
+
+#: com/libs/ListTable.php:804
+msgid "Last page"
+msgstr "最後のページ"
+
+#: com/libs/ListTable.php:794
+msgid "Next page"
+msgstr "次のページ"
+
+#: com/libs/ListTable.php:787
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr "%1$s / %2$s"
+
+#: com/libs/ListTable.php:778 com/libs/ListTable.php:781
+msgid "Current Page"
+msgstr "現在のページ"
+
+#: com/libs/ListTable.php:771
+msgid "Previous page"
+msgstr "前のページ"
+
+#: com/libs/ListTable.php:761
+msgid "First page"
+msgstr "最初の固定ページ"
+
+#: com/libs/ListTable.php:725 com/libs/ListTable.php:1291
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "%s個の項目"
+
+#: com/libs/ListTable.php:644
+msgid "No approved comments"
+msgstr "承認済みのコメントはありません"
+
+#: com/libs/ListTable.php:632 com/libs/ListTable.php:644
+msgid "No comments"
+msgstr "コメントはありません"
+
+#: com/libs/ListTable.php:627
+msgid "%s pending comment"
+msgid_plural "%s pending comments"
+msgstr[0] "%s件の承認待ちコメント"
+
+#: com/libs/ListTable.php:626
+msgid "%s approved comment"
+msgid_plural "%s approved comments"
+msgstr[0] "%s件の承認済みコメント"
+
+#: com/libs/ListTable.php:625
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s件のコメント"
+
+#. translators: 1: month name, 2: 4-digit year
+#: com/libs/ListTable.php:573
+msgid "%1$s %2$d"
+msgstr "%2$d年%1$s"
+
+#: com/classes/dataTable/Subscribers.php:191 com/libs/ListTable.php:558
+#: com/libs/Table.php:222
+msgid "Filter by date"
+msgstr "日付で絞り込み"
+
+#: com/libs/ListTable.php:503 com/libs/ListTable.php:1266
+msgid "Show more details"
+msgstr "詳細を追加表示"
+
+#: com/libs/ListTable.php:453
+msgid "Apply"
+msgstr "適用"
+
+#: com/libs/ListTable.php:443
+msgid "Bulk Actions"
+msgstr "一括操作"
+
+#: com/libs/ListTable.php:441
+msgid "Select bulk action"
+msgstr "一括操作を選択"
+
+#: com/libs/ListTable.php:316 com/libs/Table.php:291
+msgid "No items found."
+msgstr "項目は見つかりませんでした。"
+
+#: com/libs/ListTable.php:147
+msgid "Excerpt View"
+msgstr "抜粋表示"
+
+#: com/libs/ListTable.php:146
+msgid "List View"
+msgstr "リスト表示"
+
+#: com/libs/parsers.php:86 com/libs/parsers.php:91 com/libs/parsers.php:308
+#: com/libs/parsers.php:504
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "これは WXR ファイルではないようです。WXR のバージョン番号がない、または無効です"
+
+#: com/libs/parsers.php:45
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr "詳細は上記をご覧ください。インポートツールは別のパーサーを使って最試行します。"
+
+#: com/libs/parsers.php:44 com/libs/parsers.php:74 com/libs/parsers.php:82
+msgid "There was an error when reading this WXR file"
+msgstr "WXR ファイルを読み込む際にエラーが発生しました。"
+
+#: com/classes/extension/SgpbPopupExtension.php:90
+msgid "Click me"
+msgstr "クリック"
+
+#: com/classes/extension/SgpbPopupExtension.php:86
+msgid "Show Description"
+msgstr "説明を表示"
+
+#: com/classes/extension/SgpbPopupExtension.php:85
+msgid "Show Title"
+msgstr "タイトルを表示"
+
+#: com/classes/extension/SgpbPopupExtension.php:84
+msgid "Form"
+msgstr "フォーム"
+
+#: com/classes/extension/SgpbPopupExtension.php:83
+msgid "Form Settings"
+msgstr "フォーム設定"
+
+#: com/classes/extension/SgpbPopupExtension.php:82
+msgid "Select Popup"
+msgstr "ポップアップを選択"
+
+#: com/classes/extension/SgpbPopupExtension.php:81
+msgid "form"
+msgstr "フォーム"
+
+#: com/classes/extension/SgpbPopupExtension.php:80
+msgid "Select and display one of your forms."
+msgstr "フォームの1つを選択して表示します。"
+
+#: com/classes/extension/SgpbPopupExtension.php:79
+msgid "WPForms"
+msgstr "WPForms"
+
+#: com/classes/extension/SgpbPopupExtension.php:77
+msgid "This block will help you to add Popup Builder’s shortcode inside the page content"
+msgstr "このブロックは、ページコンテンツ内にポップアップビルダーのショートコードを追加するのに役立ちます"
+
+#: com/classes/dataTable/Subscribers.php:153 com/libs/ListTable.php:560
+msgid "All dates"
+msgstr "すべての日付"
+
+#: com/classes/dataTable/Subscribers.php:110
+msgid "All"
+msgstr "すべて"
+
+#: com/classes/dataTable/Subscribers.php:41
+msgid "Popup"
+msgstr "ポップアップ"
+
+#: com/classes/dataTable/Subscribers.php:40
+#: com/classes/dataTable/Subscribers.php:164
+msgid "Date"
+msgstr "日付"
+
+#: com/classes/dataTable/Subscribers.php:39 com/helpers/AdminHelper.php:970
+#: public/views/subscribers.php:96
+msgid "Email"
+msgstr "メール"
+
+#: com/classes/MediaButton.php:104
+msgid "Insert popup"
+msgstr "ポップアップを挿入"
+
+#: com/classes/MediaButton.php:65
+msgid "Insert custom JS variable"
+msgstr "カスタム JS を挿入する"
+
+#: com/classes/ConditionCreator.php:527 public/views/importConfigView.php:48
+msgid "Save"
+msgstr "保存"
+
+#: com/classes/ConditionCreator.php:526
+#: public/views/htmlCustomButtonElement.php:188
+#: public/views/jsVariableView.php:57 public/views/mediaButton.php:47
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: com/classes/ConditionCreator.php:497
+msgid "No Data"
+msgstr "データがありません。"
+
+#: com/classes/ConditionCreator.php:77
+msgid "OR"
+msgstr "OR"
+
+#: com/classes/Updates.php:129 com/classes/Updates.php:141
+msgid "An error occurred, please try again."
+msgstr "エラーが発生しました。もう一度やり直してください。"
+
+#: com/classes/Updates.php:42
+msgid "License"
+msgstr "ライセンス"
+
+#: com/classes/Installer.php:323
+msgid "Popup Builder License"
+msgstr "Popup Builder ライセンス"
+
+#: com/classes/popups/SubscriptionPopup.php:665
+msgid "no title"
+msgstr "タイトルはありません"
+
+#: com/classes/Actions.php:1358
+msgid "Popup published."
+msgstr "ポップアップが公開されました。"
+
+#: com/classes/Actions.php:1354
+msgid "Popup updated."
+msgstr "ポップアップが更新されました。"
+
+#: com/classes/Actions.php:1183
+msgid "(clone)"
+msgstr "(コピー)"
+
+#: com/classes/Actions.php:1180
+msgid "(no title) (clone)"
+msgstr "(タイトルなし) (コピー)"
+
+#: com/classes/Actions.php:1165
+msgid "Copy creation failed, could not find original: "
+msgstr "複製の作成に失敗しました。複製元が見つかりません:"
+
+#: com/classes/Actions.php:1122
+msgid "No post to duplicate has been supplied!"
+msgstr "コピーする投稿がみつかりません !"
+
+#: com/classes/Actions.php:1072
+msgid "reset"
+msgstr "リセット"
+
+#: com/classes/Actions.php:892
+msgid "<span>Popup Builder plugin has been successfully updated. Please <a href=\""
+msgstr "<span>ポップアップビルダープラグインが更新されました。 お願いします<a href=\""
+
+#: com/classes/Actions.php:776
+msgid ""
+"Your mail list %s delivered successfully!\n"
+"\t\t\t\t\t\t%d of the %d emails succeeded, %d failed.\n"
+"\t\t\t\t\t\tFor more details, please download log file inside the plugin.\n"
+"\t\t\t\t\t\tThis email was generated via Popup Builder plugin."
+msgstr ""
+"メールリスト %s の配信に成功しました !\n"
+"\t\t\t\t\t\t%d件 (全%d件中) のメール送信に成功し、%d件に失敗しました。\n"
+"\t\t\t\t\t\tさらに詳細しくはこのプラグイン内のログファイルをダウンロードしてください。\n"
+"\t\t\t\t\t\tこのメールは Popup Builder プラグインが生成しました。"
+
+#: com/classes/Actions.php:736 com/helpers/AdminHelper.php:2086
+#: public/views/newsletter.php:105
+msgid "Unsubscribe"
+msgstr "登録を解除"
+
+#: com/classes/Actions.php:699
+msgid "Once Every Minute"
+msgstr "毎分"
+
+#: com/classes/Actions.php:457
+msgid "Importer"
+msgstr "インポーター"
+
+#: com/classes/Actions.php:238
+msgid "Don't show again."
+msgstr "今後表示しない"
+
+#: com/classes/Actions.php:237
+msgid "Dismiss this notice."
+msgstr "この通知を非表示にする。"
+
+#: com/classes/Filters.php:823
+msgid "Clone"
+msgstr "コピー"
+
+#: com/classes/Filters.php:822
+msgid "Clone this item"
+msgstr "このアイテムをコピー"
+
+#: com/classes/Filters.php:799
+msgid "Class"
+msgstr "クラス"
+
+#: com/classes/Filters.php:798
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: com/classes/Filters.php:797 public/views/optionsView.php:192
+#: public/views/optionsView.php:223
+msgid "Type"
+msgstr "タイプ"
+
+#: com/classes/Filters.php:789 public/views/popupOpeningCounter.php:19
+msgid "Views"
+msgstr "表示回数"
+
+#: com/classes/Filters.php:414
+msgid "UNLOCK OPTION"
+msgstr "ロック解除オプション"
+
+#: com/classes/Actions.php:234 com/classes/Filters.php:333
+msgid "You have activated Popup Builder extension(s). Please, don't forget to activate the license key(s) as well."
+msgstr "ポップアップビルダー拡張を有効化しました。 ライセンスキーもアクティベートすることを忘れないでください。"
+
+#: com/classes/Actions.php:231 com/classes/Filters.php:330
+msgid "Thank you for choosing our plugin!"
+msgstr "このプラグインを選んでいただき、ありがとうございます。"
+
+#: com/classes/Filters.php:329
+msgid "<a href=\""
+msgstr "<a href=\""
+
+#: com/classes/Ajax.php:610
+msgid "Congrats! You have already 1 subscriber!"
+msgstr "おめでとうございます。すでに1人の購読者がいます !"
+
+#: com/classes/Filters.php:204 com/classes/RegisterPostType.php:318
+#: com/classes/RegisterPostType.php:319
+msgid "Settings"
+msgstr "設定"
+
+#: com/classes/RegisterPostType.php:366 com/classes/RegisterPostType.php:367
+#: public/views/newsletter.php:25
+msgid "Newsletter"
+msgstr "メールマガジン"
+
+#: com/classes/RegisterPostType.php:357 com/classes/RegisterPostType.php:358
+msgid "All Subscribers"
+msgstr "すべての購読者"
+
+#: com/classes/RegisterPostType.php:348 com/classes/RegisterPostType.php:349
+#: public/views/mainActionButtons.php:9
+msgid "Add New"
+msgstr "新規追加"
+
+#: com/classes/Filters.php:181 com/classes/RegisterPostType.php:336
+#: com/classes/RegisterPostType.php:337
+msgid "Support"
+msgstr "サポート"
+
+#: com/classes/RegisterPostType.php:327 com/classes/RegisterPostType.php:328
+msgid "Extend"
+msgstr "延長"
+
+#: com/classes/RegisterPostType.php:241
+msgid "News"
+msgstr "ニュース"
+
+#: com/classes/popups/SGPopup.php:1483 com/classes/RegisterPostType.php:206
+msgid "Popup class does not exist"
+msgstr "ポップアップクラスが存在しません"
+
+#: com/classes/RegisterPostType.php:103
+msgid "No popups found in Trash."
+msgstr "ゴミ箱内には見つかりませんでした。"
+
+#: com/classes/RegisterPostType.php:102
+msgid "No popups found."
+msgstr "ポップアップが見つかりません"
+
+#: com/classes/RegisterPostType.php:101
+msgid "Parent Popups:"
+msgstr "親ポップアップ:"
+
+#: com/classes/RegisterPostType.php:99
+msgid "All Popups"
+msgstr "すべてのポップアップ"
+
+#: com/classes/RegisterPostType.php:98
+msgid "View Popup"
+msgstr "ポップアップを表示"
+
+#: com/classes/RegisterPostType.php:97
+msgid "Edit Popup"
+msgstr "ポップアップを編集"
+
+#: com/classes/RegisterPostType.php:96
+msgid "New Popup"
+msgstr "新規ポップアップ"
+
+#: com/classes/RegisterPostType.php:95 public/views/popupTypes.php:11
+msgid "Add New Popup"
+msgstr "ポップアップを新規追加"
+
+#: com/classes/RegisterPostType.php:94
+msgctxt "Popup"
+msgid "Add New"
+msgstr "新規追加"
+
+#: com/classes/RegisterPostType.php:93
+msgctxt "add new on admin bar"
+msgid "Popup"
+msgstr "ポップアップ"
+
+#: com/classes/RegisterPostType.php:92
+msgctxt "admin menu"
+msgid "Popup Builder"
+msgstr "Popup Builder"
+
+#: com/classes/RegisterPostType.php:91
+msgctxt "post type singular name"
+msgid "Popup"
+msgstr "ポップアップ"
+
+#: com/classes/RegisterPostType.php:61
+msgid "Description."
+msgstr "説明"
+
+#: com/helpers/ConfigDataHelper.php:1206
+msgid "Please, publish the popup before starting to use Divi Builder with it!"
+msgstr "Divi Builder を使用する前に、ポップアップを公開してください。"
+
+#: com/helpers/ConfigDataHelper.php:1205
+msgid "Please, publish the popup before starting to use Elementor with it!"
+msgstr "Elementor を使い始める前に、ポップアップを公開してください。"
+
+#: com/helpers/ConfigDataHelper.php:1204
+msgid "Only audio files supported (e.g.: mp3, wav, m4a, ogg)"
+msgstr "サポートされる音声ファイルのみ (例: mp3, wav, m4a, ogg)"
+
+#: com/helpers/ConfigDataHelper.php:1202
+msgid "Are you sure?"
+msgstr "本当に実行しますか ?"
+
+#: com/helpers/ConfigDataHelper.php:1201
+msgid "Only image files supported"
+msgstr "サポートされている画像ファイルのみ"
+
+#: com/helpers/ConfigDataHelper.php:897 com/helpers/ConfigDataHelper.php:907
+msgid "Custom class"
+msgstr "カスタムクラス"
+
+#: com/helpers/ConfigDataHelper.php:896 com/helpers/ConfigDataHelper.php:906
+msgid "Default"
+msgstr "デフォルト"
+
+#: com/helpers/ConfigDataHelper.php:844
+msgid "FadeOut"
+msgstr "フェードアウト"
+
+#: com/helpers/ConfigDataHelper.php:843
+msgid "RotateOut"
+msgstr "回転しながらアウト"
+
+#: com/helpers/ConfigDataHelper.php:841
+msgid "SlideOutUp"
+msgstr "上にスライドアウト"
+
+#: com/helpers/ConfigDataHelper.php:837
+msgid "BounceOut"
+msgstr "跳ねながらアウト"
+
+#: com/helpers/ConfigDataHelper.php:836
+msgid "BounceOutLeft"
+msgstr "左に跳ねながらアウト"
+
+#: com/helpers/ConfigDataHelper.php:825
+msgid "FadeIn"
+msgstr "フェードイン"
+
+#: com/helpers/ConfigDataHelper.php:824
+msgid "RotateIn"
+msgstr "回転しながらイン"
+
+#: com/helpers/ConfigDataHelper.php:823 com/helpers/ConfigDataHelper.php:842
+msgid "Jello"
+msgstr "ゼリー"
+
+#: com/helpers/ConfigDataHelper.php:822
+msgid "SlideInUp"
+msgstr "上にスライドイン"
+
+#: com/helpers/ConfigDataHelper.php:821 com/helpers/ConfigDataHelper.php:840
+msgid "Tada"
+msgstr "ジャーン"
+
+#: com/helpers/ConfigDataHelper.php:820 com/helpers/ConfigDataHelper.php:839
+msgid "RubberBand"
+msgstr "輪ゴム"
+
+#: com/helpers/ConfigDataHelper.php:819 com/helpers/ConfigDataHelper.php:838
+msgid "Pulse"
+msgstr "パルス"
+
+#: com/helpers/ConfigDataHelper.php:818
+msgid "BounceIn"
+msgstr "跳ねながらイン"
+
+#: com/helpers/ConfigDataHelper.php:817
+msgid "BounceInRight"
+msgstr "右へ跳ねながらイン"
+
+#: com/helpers/ConfigDataHelper.php:816 com/helpers/ConfigDataHelper.php:835
+msgid "Bounce"
+msgstr "バウンス"
+
+#: com/helpers/ConfigDataHelper.php:815 com/helpers/ConfigDataHelper.php:834
+msgid "Flash"
+msgstr "フラッシュ"
+
+#: com/helpers/ConfigDataHelper.php:814 com/helpers/ConfigDataHelper.php:833
+msgid "Swing"
+msgstr "揺れる"
+
+#: com/helpers/ConfigDataHelper.php:813 com/helpers/ConfigDataHelper.php:832
+msgid "Wobble"
+msgstr "グラグラ"
+
+#: com/helpers/ConfigDataHelper.php:812 com/helpers/ConfigDataHelper.php:831
+msgid "Shake"
+msgstr "シェイク"
+
+#: com/helpers/ConfigDataHelper.php:811 com/helpers/ConfigDataHelper.php:830
+msgid "Flip"
+msgstr "反転"
+
+#: com/helpers/ConfigDataHelper.php:806
+msgid "Repeat"
+msgstr "繰り返し"
+
+#: com/helpers/ConfigDataHelper.php:805
+msgid "Contain"
+msgstr "含む"
+
+#: com/helpers/ConfigDataHelper.php:804
+msgid "Cover"
+msgstr "カバー"
+
+#: com/helpers/ConfigDataHelper.php:799
+#: public/views/htmlCustomButtonElement.php:13
+msgid "Button"
+msgstr "ボタン"
+
+#: com/helpers/ConfigDataHelper.php:798
+msgid "Button with count"
+msgstr "カウント付きボタン"
+
+#: com/helpers/ConfigDataHelper.php:797
+msgid "Box with count"
+msgstr "カウント付きボックス"
+
+#: com/helpers/ConfigDataHelper.php:796
+msgid "Standard"
+msgstr "標準"
+
+#: com/helpers/ConfigDataHelper.php:720
+msgid "Inside"
+msgstr "内部"
+
+#: com/helpers/ConfigDataHelper.php:719
+msgid "False"
+msgstr "偽"
+
+#: com/helpers/ConfigDataHelper.php:718
+msgid "True"
+msgstr "真"
+
+#: com/helpers/ConfigDataHelper.php:754
+#: public/views/options/subscription.php:283
+msgid "Success message"
+msgstr "成功メッセージ"
+
+#: com/helpers/ConfigDataHelper.php:669
+msgid "Timer"
+msgstr "タイマー"
+
+#: com/helpers/ConfigDataHelper.php:657
+msgid "Due Date"
+msgstr "締切日"
+
+#: com/helpers/ConfigDataHelper.php:627
+msgid "Share URL"
+msgstr "URL を共有"
+
+#: com/helpers/ConfigDataHelper.php:615
+msgid "Use active URL"
+msgstr "有効な URL を使用"
+
+#: com/helpers/ConfigDataHelper.php:587 com/helpers/ConfigDataHelper.php:803
+#: com/helpers/ConfigDataHelper.php:810 com/helpers/ConfigDataHelper.php:829
+msgid "None"
+msgstr "なし"
+
+#: com/helpers/ConfigDataHelper.php:586
+msgid "Vertical"
+msgstr "垂直"
+
+#: com/helpers/ConfigDataHelper.php:585
+msgid "Horizontal"
+msgstr "水平"
+
+#: com/helpers/ConfigDataHelper.php:584
+msgid "Both"
+msgstr "両方"
+
+#: com/helpers/ConfigDataHelper.php:580
+msgid "Sunday"
+msgstr "日曜日"
+
+#: com/helpers/ConfigDataHelper.php:579
+msgid "Saturday"
+msgstr "土曜日"
+
+#: com/helpers/ConfigDataHelper.php:578
+msgid "Friday"
+msgstr "金曜日"
+
+#: com/helpers/ConfigDataHelper.php:577
+msgid "Thursday"
+msgstr "木曜日"
+
+#: com/helpers/ConfigDataHelper.php:576
+msgid "Wednesday"
+msgstr "水曜日"
+
+#: com/helpers/ConfigDataHelper.php:575
+msgid "Tuesday"
+msgstr "火曜日"
+
+#: com/helpers/ConfigDataHelper.php:574
+msgid "Monday"
+msgstr "月曜日"
+
+#: com/helpers/ConfigDataHelper.php:538 com/helpers/ConfigDataHelper.php:543
+msgid "bottom-right"
+msgstr "右下"
+
+#: com/helpers/ConfigDataHelper.php:537 com/helpers/ConfigDataHelper.php:542
+msgid "bottom-left"
+msgstr "左下"
+
+#: com/helpers/ConfigDataHelper.php:536
+msgid "top-right"
+msgstr "右上"
+
+#: com/helpers/ConfigDataHelper.php:535
+msgid "top-left"
+msgstr "左上"
+
+#: com/helpers/ConfigDataHelper.php:522
+msgid "Operating System"
+msgstr "OS"
+
+#: com/helpers/ConfigDataHelper.php:521
+msgid "Cookie Detection"
+msgstr "Cookie 検出"
+
+#: com/helpers/ConfigDataHelper.php:528
+msgid "Countries"
+msgstr "国"
+
+#: com/helpers/ConfigDataHelper.php:519
+msgid "User Role"
+msgstr "ユーザー権限グループ"
+
+#: com/helpers/ConfigDataHelper.php:518
+msgid "After x pages visit"
+msgstr "ページを訪問した後"
+
+#: com/helpers/ConfigDataHelper.php:517
+msgid "User Status"
+msgstr "ユーザーの状態"
+
+#: com/helpers/ConfigDataHelper.php:516
+msgid "Devices"
+msgstr "デバイス"
+
+#: com/helpers/ConfigDataHelper.php:512
+msgid "Full screen"
+msgstr "全画面"
+
+#: com/helpers/ConfigDataHelper.php:501
+msgid "Auto"
+msgstr "自動"
+
+#: com/helpers/ConfigDataHelper.php:449
+msgid "Add your own custom dimensions for the popup to get the exact sizing for your popup"
+msgstr "ポップアップに独自のカスタムディメンションを追加して、ポップアップの正確なサイズを取得します"
+
+#: com/helpers/ConfigDataHelper.php:448
+msgid "Custom mode"
+msgstr "カスタムモード"
+
+#: com/helpers/ConfigDataHelper.php:436
+msgid "The sizes of the popup will be counted automatically, according to the content size of the popup. You can select the size in percentages, with this mode, to specify the size on the screen"
+msgstr "ポップアップのサイズは、ポップアップのコンテンツサイズに応じて自動的にカウントされます。 このモードでは、サイズをパーセンテージで選択して、画面上のサイズを指定できます"
+
+#: com/helpers/ConfigDataHelper.php:435
+msgid "Responsive mode"
+msgstr "レスポンシブレイアウト"
+
+#: com/helpers/ConfigDataHelper.php:405 com/helpers/ConfigDataHelper.php:789
+msgid "Hide popup"
+msgstr "ポップアップを非表示"
+
+#: com/helpers/ConfigDataHelper.php:394 com/helpers/ConfigDataHelper.php:778
+msgid "Open popup"
+msgstr "ポップアップを開く"
+
+#: com/helpers/ConfigDataHelper.php:294 com/helpers/ConfigDataHelper.php:370
+msgid "Copy to clipboard"
+msgstr "クリップボードにコピー"
+
+#: com/helpers/ConfigDataHelper.php:283
+msgid "Redirect"
+msgstr "リダイレクト"
+
+#: com/helpers/ConfigDataHelper.php:272
+msgid "Close Popup"
+msgstr "ポップアップを閉じる"
+
+#: com/helpers/ConfigDataHelper.php:217
+msgid "Default Template"
+msgstr "デフォルトテンプレート"
+
+#: com/helpers/ConfigDataHelper.php:208
+msgid "Archive Page"
+msgstr "アーカイブページ"
+
+#: com/helpers/ConfigDataHelper.php:205
+msgid "Shop Page"
+msgstr "ショップページ"
+
+#: com/helpers/ConfigDataHelper.php:203
+msgid "404 Pages"
+msgstr "404 エラーページ"
+
+#: com/helpers/ConfigDataHelper.php:202
+msgid "Search Pages"
+msgstr "固定ページを検索"
+
+#: com/helpers/ConfigDataHelper.php:201
+msgid "Posts Page"
+msgstr "投稿ページ"
+
+#: com/helpers/ConfigDataHelper.php:200
+msgid "Home Page"
+msgstr "ホームページ"
+
+#: com/helpers/ConfigDataHelper.php:127 com/helpers/ConfigDataHelper.php:130
+msgid "Select "
+msgstr "選択"
+
+#: com/helpers/AdminHelper.php:1290 com/helpers/ConfigDataHelper.php:727
+msgid "On hover"
+msgstr "ホバー時"
+
+#: com/helpers/AdminHelper.php:1289 com/helpers/ConfigDataHelper.php:726
+msgid "On click"
+msgstr "クリック時"
+
+#: com/helpers/AdminHelper.php:1288 com/helpers/ConfigDataHelper.php:725
+msgid "On load"
+msgstr "読込時"
+
+#: com/helpers/AdminHelper.php:1287 com/helpers/ConfigDataHelper.php:588
+#: com/helpers/ConfigDataHelper.php:724
+msgid "Inherit"
+msgstr "継承"
+
+#: com/helpers/AdminHelper.php:1286
+msgid "Select Event"
+msgstr "イベントを選択"
+
+#: com/helpers/AdminHelper.php:1179
+msgid "<h1 class=\"sgpb-review-h1\"><strong class=\"sgrb-review-strong\">Awesome news!</strong> <b>Popup Builder</b> plugin helped you to share your message via <strong class=\"sgrb-review-strong\">"
+msgstr "<h1 class=\"sgpb-review-h1\"><strong class=\"sgrb-review-strong\">素晴らしいニュースです。</strong><b>ポップアップビルダー</b>プラグインを使用すると、<strong class=\"sgrb-review-strong\">"
+
+#: com/helpers/AdminHelper.php:1060
+msgid "Maybe later"
+msgstr "後で確認"
+
+#: com/helpers/AdminHelper.php:1059
+msgid "You worth it!"
+msgstr "もちろんです !"
+
+#: com/helpers/AdminHelper.php:1058
+msgid "I already did"
+msgstr "すでにしました"
+
+#: com/helpers/AdminHelper.php:1055
+msgid "Have your input in the development of our plugin, and we’ll provide better conversions for your site!<br /> Leave your 5-star positive review and help us go further to the perfection!"
+msgstr "プラグインの開発にご意見をお寄せくだされば、サイトのコンバージョンを改善します。<br />5つ星の肯定的なレビューを残して、さらに完璧に近づくためにご協力ください。"
+
+#: com/helpers/AdminHelper.php:1054
+msgid "This is really great for your website score."
+msgstr "これはサイトのスコアにとって、とても良いことです。"
+
+#: com/helpers/AdminHelper.php:929
+msgid "User with "
+msgstr "ユーザー"
+
+#: com/helpers/AdminHelper.php:925
+msgid "Unsubscription"
+msgstr "登録解除時 "
+
+#: com/helpers/AdminHelper.php:912
+msgid "<span>You have successfully unsubscribed. <a href=\""
+msgstr "<span>登録解除しました。 <a href=\""
+
+#: com/helpers/AdminHelper.php:879
+msgid "<span>Oops, something went wrong, please try again or contact the administrator to check more info.</span>"
+msgstr "<span>エラーが発生しました。もう一度試すか、管理者に連絡して詳細を確認してください。</span>"
+
+#: com/helpers/AdminHelper.php:758
+msgid "In case of any issues, please contact us <a href=\"<?php echo SG_POPUP_TICKET_URL; ?>\" target=\"_blank\">here</a>."
+msgstr "問題が発生した場合は、<a href=\"<?php echo SG_POPUP_TICKET_URL; ?>\" target=\"_ blank\">こちら</a>までご連絡ください。"
+
+#: com/helpers/AdminHelper.php:757
+msgid "A lot of changes and improvements have been made."
+msgstr "多くの変更と改善が行われました。"
+
+#: com/helpers/AdminHelper.php:756
+msgid "Popup Builder plugin has been updated to the new version 3."
+msgstr "ポップアップビルダープラグインが新しいバージョン3に更新されました。"
+
+#: com/helpers/AdminHelper.php:680 com/helpers/AdminHelper.php:760
+msgid "Don't show again"
+msgstr "今後表示しない"
+
+#: com/helpers/AdminHelper.php:672
+msgid "The following extensions need to be updated manually"
+msgstr "次の拡張機能は手動で更新する必要があります"
+
+#: com/helpers/AdminHelper.php:671
+msgid "Popup Builder plugin has been successfully updated"
+msgstr "Popup Builder プラグインが更新されました"
+
+#: com/config/config.php:172
+msgid "Subscription"
+msgstr "定期購入"
+
+#: com/config/config.php:171
+msgid "Facebook"
+msgstr "Facebook"
+
+#: com/config/config.php:170
+msgid "HTML"
+msgstr "HTML"
+
+#: com/config/config.php:169 public/views/popupDesignView.php:194
+msgid "Image"
+msgstr "画像"
+
+#: com/config/config.php:134 public/views/jsVariableView.php:30
+#: public/views/jsVariableView.php:48
+msgid "This field is required"
+msgstr "このフィールドは必須です"
+
+#: com/config/config.php:133
+msgid "There was an error while trying to send your request. Please try again"
+msgstr "要求する際にエラーが発生しました。もう一度お試しください。"
+
+#: com/config/dataConfig.php:1001
+msgid "Exit intent"
+msgstr "出口の意図"
+
+#: com/config/dataConfig.php:959
+msgid "Accept Terms"
+msgstr "利用規約に同意する"
+
+#: com/config/dataConfig.php:954
+msgid "You have successfully subscribed to the newsletter"
+msgstr "現在メールマガジンを購読中です。"
+
+#: com/config/config.php:135 com/config/dataConfig.php:952
+msgid "Please enter a valid email address"
+msgstr "有効なメールアドレスを入力してください"
+
+#: com/config/dataConfig.php:948
+msgid "Please wait..."
+msgstr "お待ちください…"
+
+#: com/config/dataConfig.php:947
+msgid "Subscribe"
+msgstr "購読"
+
+#: com/config/dataConfig.php:934
+msgid "This field is required."
+msgstr "この欄は入力必須です。"
+
+#: com/classes/dataTable/Subscribers.php:38 com/config/dataConfig.php:932
+#: public/views/options/subscription.php:117 public/views/subscribers.php:103
+msgid "Last name"
+msgstr "姓"
+
+#: com/classes/dataTable/Subscribers.php:37 com/config/dataConfig.php:929
+#: public/views/options/subscription.php:91 public/views/subscribers.php:100
+msgid "First name"
+msgstr "名"
+
+#: com/config/dataConfig.php:927
+msgid "Email *"
+msgstr "メールアドレス *"
+
+#: com/config/dataConfig.php:873
+msgid "Copied to Clipboard!"
+msgstr "クリップボードにコピー"
+
+#: com/config/dataConfig.php:825
+msgid "After how many seconds the popup should close."
+msgstr "何秒後にポップアップが閉じます。"
+
+#: com/config/dataConfig.php:824
+msgid "Delay"
+msgstr "遅延"
+
+#: com/config/dataConfig.php:813
+msgid "Select the popup that should be opened."
+msgstr "開くポップアップを選択します。"
+
+#: com/config/dataConfig.php:812 public/views/htmlCustomButtonElement.php:173
+#: public/views/mediaButton.php:26 public/views/options/subscription.php:305
+msgid "Select popup"
+msgstr "ポップアップを選択"
+
+#: com/config/dataConfig.php:800
+msgid "Enter the URL of the page should be redirected to."
+msgstr "リダイレクト先のページのURLを入力してください。"
+
+#: com/config/dataConfig.php:799 public/views/options/facebook.php:9
+#: public/views/optionsView.php:45
+msgid "URL"
+msgstr "URL"
+
+#: com/config/dataConfig.php:789
+msgid "Select what should happen after the special event."
+msgstr "特別イベントの後に何をするかを選択します。"
+
+#: com/config/dataConfig.php:788
+msgid "Behavior"
+msgstr "動作"
+
+#: com/config/dataConfig.php:778
+msgid "Select the special event you want to catch."
+msgstr "キャッチしたい特別イベントを選択します。"
+
+#: com/config/dataConfig.php:777
+msgid "Event"
+msgstr "イベント"
+
+#: com/config/dataConfig.php:752
+msgid "Close current popup"
+msgstr "現在のポップアップを閉じる"
+
+#: com/config/dataConfig.php:751
+msgid "Open another popup"
+msgstr "別のポップアップを開く"
+
+#: com/config/dataConfig.php:750 com/helpers/ConfigDataHelper.php:382
+#: com/helpers/ConfigDataHelper.php:766
+msgid "Redirect to URL"
+msgstr "リダイレクト URL"
+
+#: com/config/dataConfig.php:749
+msgid "Behaviors"
+msgstr "動作"
+
+#: com/config/dataConfig.php:748
+msgid "Select behavior"
+msgstr "動作を選択"
+
+#: com/config/dataConfig.php:744
+msgid "Contact Form 7 submission"
+msgstr "Contact Form 7 へ送信"
+
+#: com/config/dataConfig.php:743
+msgid "Special events"
+msgstr "特別イベント"
+
+#: com/config/dataConfig.php:742 public/views/mediaButton.php:35
+msgid "Select event"
+msgstr "イベントを選択"
+
+#: com/config/dataConfig.php:694
+msgid "Subscription Plus"
+msgstr "定期購入"
+
+#: com/config/dataConfig.php:654
+msgid "Registration"
+msgstr "登録"
+
+#: com/config/dataConfig.php:606
+msgid "Log In"
+msgstr "ログイン"
+
+#: com/config/dataConfig.php:510 public/views/conditionsView.php:40
+msgid "Advanced Targeting"
+msgstr "高度なターゲティング"
+
+#: com/config/dataConfig.php:646
+msgid "Recent Sales"
+msgstr "最近の売上"
+
+#: com/config/dataConfig.php:710
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: com/config/dataConfig.php:638
+msgid "Random"
+msgstr "ランダム"
+
+#: com/config/dataConfig.php:534 com/config/dataConfig.php:1009
+msgid "AWeber"
+msgstr "AWeber"
+
+#: com/config/dataConfig.php:614 com/config/dataConfig.php:1005
+msgid "Mailchimp"
+msgstr "Mailchimp"
+
+#: com/config/dataConfig.php:566
+msgid "Exit Intent"
+msgstr "出口の意図"
+
+#: com/config/dataConfig.php:526 com/config/dataConfig.php:997
+msgid "Analytics"
+msgstr "アナリティクス"
+
+#: com/config/dataConfig.php:502
+msgid "Advanced Closing"
+msgstr "高度なクロージング"
+
+#: com/config/dataConfig.php:678
+msgid "Scroll"
+msgstr "スクロール"
+
+#: com/config/dataConfig.php:494 com/config/dataConfig.php:993
+msgid "AdBlock"
+msgstr "アドブロック"
+
+#: com/config/dataConfig.php:542
+msgid "Contact Form"
+msgstr "お問い合わせフォーム"
+
+#: com/config/dataConfig.php:662
+msgid "Restriction"
+msgstr "制限"
+
+#: com/config/dataConfig.php:550
+msgid "Countdown"
+msgstr "カウントダウン"
+
+#: com/config/dataConfig.php:702
+msgid "Video"
+msgstr "動画"
+
+#: com/config/dataConfig.php:686
+msgid "Social"
+msgstr "ソーシャル"
+
+#: com/config/dataConfig.php:590
+msgid "Iframe"
+msgstr "Iframe"
+
+#: com/config/dataConfig.php:582 public/views/conditionsView.php:13
+msgid "Geo Targeting"
+msgstr "地域の限定"
+
+#: com/config/dataConfig.php:670
+msgid "Scheduling"
+msgstr "予約"
+
+#: com/config/dataConfig.php:558
+msgid "EDD"
+msgstr "EDD"
+
+#: com/config/dataConfig.php:630
+msgid "Push Notification"
+msgstr "プッシュ通知"
+
+#: com/config/dataConfig.php:574
+msgid "Gamification"
+msgstr "ソーシャルゲーム"
+
+#: com/config/dataConfig.php:518
+msgid "Age Restriction"
+msgstr "IP 制限"
+
+#: com/config/dataConfig.php:622
+msgid "PDF"
+msgstr "PDF"
+
+#: com/config/dataConfig.php:461
+msgid "Allow or Disallow popup showing for the selected conditions."
+msgstr "選択した条件のポップアップ表示を許可または禁止します。"
+
+#: com/config/dataConfig.php:450
+msgid "Target visitors to show the popup by different conditions."
+msgstr "さまざまな条件でポップアップを表示するように訪問者をターゲットにします。"
+
+#: com/config/dataConfig.php:418
+msgid "Select role"
+msgstr "権限選択"
+
+#: com/config/dataConfig.php:390
+msgid "This is info"
+msgstr "この情報"
+
+#: com/config/dataConfig.php:379
+msgid "If this option is enabled the same popup will open up after every X seconds you have defined (after closing it)."
+msgstr "このオプションを有効にすると、設定した毎秒ごとに同じポップアップが開きます"
+
+#: com/config/dataConfig.php:355 com/config/dataConfig.php:368
+msgid "Add the following CSS class into your HTML element."
+msgstr "次の CSS クラスを HTML 要素に追加します。"
+
+#: com/config/dataConfig.php:351 com/config/dataConfig.php:364
+msgid "Please save popup to generate class name."
+msgstr "ポップアップを保存してクラス名を生成してください。"
+
+#: com/config/dataConfig.php:335 com/config/dataConfig.php:342
+msgid "Add the CSS class name of your HTML element which will trigger this popup after click."
+msgstr "クリック後にこのポップアップをトリガーする HTML 要素の CSS クラス名を追加してください。"
+
+#: com/config/dataConfig.php:317 com/config/dataConfig.php:328
+msgid "Specify the part of the page, in percentages, where the popup should appear after scrolling."
+msgstr "スクロール後にポップアップが表示されるページの部分をパーセンテージで指定します。"
+
+#: com/config/dataConfig.php:306
+msgid "Specify how long the popup appearance should be delayed after loading the page (in sec)."
+msgstr "ページのロード後、ポップアップの外観を遅延させる時間を秒単位で指定します。"
+
+#: com/config/dataConfig.php:303
+msgid "default custom delay will be used"
+msgstr "デフォルトのカスタム遅延が使用されます"
+
+#: com/config/dataConfig.php:299
+msgid "Select the condition for the current event."
+msgstr "現在のイベントの条件を選択します。"
+
+#: com/config/dataConfig.php:288
+msgid "Select when the popup should appear on the page."
+msgstr "ページにポップアップを表示するタイミングを選択します。"
+
+#: com/config/dataConfig.php:244
+msgid "On Scroll"
+msgstr "スクロール時"
+
+#: com/config/dataConfig.php:243 com/config/dataConfig.php:598
+msgid "Inactivity"
+msgstr "非活動"
+
+#: com/config/dataConfig.php:242
+msgid "On Hover"
+msgstr "ホバー時"
+
+#: com/config/dataConfig.php:241
+msgid "On Click"
+msgstr "クリック時"
+
+#: com/config/dataConfig.php:240
+msgid "Set by CSS class"
+msgstr "CSS クラスで設定"
+
+#: com/config/dataConfig.php:200
+msgid "Select the tags on your site for popup showing"
+msgstr "ポップアップ表示するサイト上のタグを選択します"
+
+#: com/config/dataConfig.php:186
+msgid "Select the page templates on which the popup will be shown."
+msgstr "ポップアップが表示されるページテンプレートを選択します。"
+
+#: com/config/dataConfig.php:172
+msgid "Specify the page types where the popup will be shown."
+msgstr "ポップアップが表示されるページの種類を指定します。"
+
+#: com/config/dataConfig.php:158
+msgid "Select the post categories on which the popup should be shown."
+msgstr "ポップアップを表示する投稿カテゴリーを選択してください。"
+
+#: com/config/dataConfig.php:144
+msgid "Specify the post types on your site to show the popup."
+msgstr "ポップアップを表示するには、サイトの投稿タイプを指定します。"
+
+#: com/config/dataConfig.php:130
+msgid "Select the pages on your site where the specific popup will be shown."
+msgstr "特定のポップアップが表示されるサイトのページを選択します。"
+
+#: com/config/dataConfig.php:117
+msgid "Select your specific posts where the popup should be shown."
+msgstr "ポップアップを表示する特定の投稿を選択します。"
+
+#: com/config/dataConfig.php:104
+msgid "Allow or Disallow popup showing for the selected rule."
+msgstr "選択したルールのポップアップ表示を許可または禁止します。"
+
+#: com/config/dataConfig.php:92
+msgid "Specify where the popup should be shown on your site."
+msgstr "サイトのどこにポップアップを表示するかを指定します。"
+
+#: com/config/dataConfig.php:61 com/config/dataConfig.php:428
+msgid "Is not"
+msgstr "ではない"
+
+#: com/config/dataConfig.php:60 com/config/dataConfig.php:427
+msgid "Is"
+msgstr "である"
+
+#: com/config/dataConfig.php:56 com/config/dataConfig.php:423
+msgid "Delete"
+msgstr "削除"
+
+#: com/config/dataConfig.php:55 com/config/dataConfig.php:422
+msgid "Add"
+msgstr "追加"
+
+#: com/config/dataConfig.php:50
+msgid "Selected tags"
+msgstr "選択したタグ"
+
+#: com/config/dataConfig.php:49
+msgid "All tags"
+msgstr "すべてのタグ"
+
+#: com/config/dataConfig.php:46
+msgid "Page template"
+msgstr "固定ページテンプレート"
+
+#: com/config/dataConfig.php:45
+msgid "Page type"
+msgstr "ページタイプ"
+
+#: com/config/dataConfig.php:44
+msgid "Selected pages"
+msgstr "選択したページ"
+
+#: com/config/dataConfig.php:43
+msgid "All pages"
+msgstr "すべてのページ"
+
+#: com/config/dataConfig.php:40
+msgid "Post category"
+msgstr "投稿カテゴリー"
+
+#: com/config/dataConfig.php:39
+msgid "Post type"
+msgstr "投稿タイプ"
+
+#: com/config/dataConfig.php:38
+msgid "Selected posts"
+msgstr "選択した投稿"
+
+#: com/config/dataConfig.php:37
+msgid "All posts"
+msgstr "すべての投稿"
+
+#: com/config/dataConfig.php:35
+msgid "Everywhere"
+msgstr "どこにでも"
+
+#: com/config/dataConfig.php:34
+msgid "Select rule"
+msgstr "ルールの選択"
+
+#. Author URI of the plugin
+msgid "https://sygnoos.com"
+msgstr "https://sygnoos.com"
+
+#. Author of the plugin
+msgid "Sygnoos"
+msgstr "Sygnoos"
+
+#. Description of the plugin
+msgid "The most complete popup plugin. Html, image, iframe, shortcode, video and many other popup types. Manage popup dimensions, effects, themes and more."
+msgstr "最も完全なポップアッププラグイン。 HTML、画像、iframe、ショートコード、ビデオ、その他多くのポップアップタイプ。 ポップアップの寸法、効果、テーマなどを管理します。"
+
+#. Plugin URI of the plugin
+msgid "https://popup-builder.com"
+msgstr "https://popup-builder.com"
+
+#. Plugin Name of the plugin
+#: com/classes/extension/SgpbPopupExtension.php:76
+#: com/classes/Installer.php:321
+msgid "Popup Builder"
+msgstr "Popup Builder"

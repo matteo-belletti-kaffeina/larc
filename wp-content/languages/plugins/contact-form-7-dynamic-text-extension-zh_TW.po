@@ -1,0 +1,120 @@
+# Translation of Plugins - Contact Form 7 &#8211; Dynamic Text Extension - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Contact Form 7 &#8211; Dynamic Text Extension - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-02-17 18:26:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Contact Form 7 &#8211; Dynamic Text Extension - Stable (latest release)\n"
+
+#. Author of the plugin
+msgid "SevenSpark, AuRise Creative"
+msgstr "SevenSpark 及 AuRise Creative"
+
+#. Plugin URI of the plugin
+msgid "https://sevenspark.com/goods/contact-form-7-dynamic-text-extension"
+msgstr "https://sevenspark.com/goods/contact-form-7-dynamic-text-extension"
+
+#: includes/utilities.php:83
+msgid "%1$s is <strong>deprecated</strong> since version %2$s with no alternative currently available."
+msgstr "從 %2$s 版開始，%1$s <strong>已淘汰不用</strong>，並且不提供其他替代使用項目。"
+
+#: includes/utilities.php:75
+msgid "%1$s is <strong>deprecated</strong> since version %2$s! Use Contact Form 7's built-in attribute \"%3$s\" instead."
+msgstr "從 %2$s 版開始，%1$s <strong>已淘汰不用</strong>，請改用 Contact Form 7 內建的屬性 %3$s。"
+
+#: includes/utilities.php:67
+msgid "%1$s is <strong>deprecated</strong> since version %2$s! Use Contact Form 7's built-in attribute \"%3$s\" instead. Contact Form 7 Documentation: %4$s"
+msgstr "從 %2$s 版開始，%1$s <strong>已淘汰不用</strong>，請改用 Contact Form 7 內建的屬性 %3$s。Contact Form 7 官方線上說明: %4$s"
+
+#: includes/admin.php:211
+msgid "Do not let users edit this field"
+msgstr "使用者無法編輯這個欄位"
+
+#: includes/admin.php:204
+msgid "Read only attribute"
+msgstr "唯讀屬性"
+
+#: includes/admin.php:169
+msgid "View DTX placeholder documentation"
+msgstr "查看 DTX 預留位置線上說明"
+
+#: includes/admin.php:153
+msgid "Dynamic placeholder"
+msgstr "動態預留位置"
+
+#: includes/admin.php:145
+msgid "View DTX shortcode syntax documentation"
+msgstr "查看 DTX 短代碼語法線上說明"
+
+#: includes/admin.php:142 includes/admin.php:166
+msgid "Can be static text or a shortcode."
+msgstr "請使用靜態文字或短代碼。"
+
+#: includes/admin.php:93
+msgid "DTX knowledge base"
+msgstr "DTX 知識庫"
+
+#: includes/admin.php:90
+msgid "For more details, see"
+msgstr "如需進一步了解，請參閱"
+
+#. Description of the plugin
+msgid "This plugin extends Contact Form 7 by adding dynamic form fields that accept any shortcode to generate default values and placeholder text. Requires Contact Form 7."
+msgstr "這個外掛透過加入動態表單欄位擴充 Contact Form 7 的功能，這種動態表單欄位接受任何短代碼以產生預設值及預留位置文字。必須先安裝 Contact Form 7 才能使用。"
+
+#. Plugin Name of the plugin
+msgid "Contact Form 7 - Dynamic Text Extension"
+msgstr "Contact Form 7 - Dynamic Text Extension"
+
+#. Author URI of the plugin
+msgid "https://sevenspark.com"
+msgstr "https://sevenspark.com"
+
+#: includes/admin.php:219
+msgid "Insert Tag"
+msgstr "插入標籤"
+
+#: includes/admin.php:190
+msgid "Class attribute"
+msgstr "類別屬性"
+
+#: includes/admin.php:177
+msgid "Id attribute"
+msgstr "ID 屬性"
+
+#: includes/admin.php:134
+msgid "Dynamic value"
+msgstr "動態值"
+
+#: includes/admin.php:121
+msgid "Name"
+msgstr "欄位名稱"
+
+#: includes/admin.php:113
+msgid "Required field"
+msgstr "必填欄位"
+
+#: includes/admin.php:107
+msgid "Field type"
+msgstr "欄位類型"
+
+#: includes/admin.php:81
+msgid "Generate a form-tag for a hidden input field, with a dynamically generated default value."
+msgstr "為隱藏輸入欄位產生能動態產生預設值的表單標籤。"
+
+#: includes/admin.php:84
+msgid "Generate a form-tag for a single-line plain text input field, with a dynamically generated default value."
+msgstr "為單行純文字輸入欄位產生能動態產生預設值的表單標籤。"
+
+#: includes/admin.php:62
+msgid "dynamic hidden"
+msgstr "動態隱藏"
+
+#: includes/admin.php:54
+msgid "dynamic text"
+msgstr "動態文字"

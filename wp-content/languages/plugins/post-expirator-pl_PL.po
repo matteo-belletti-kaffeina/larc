@@ -1,0 +1,542 @@
+# Translation of Plugins - PublishPress Future: Automatically Unpublish WordPress Posts - Stable (latest release) in Polish
+# This file is distributed under the same license as the Plugins - PublishPress Future: Automatically Unpublish WordPress Posts - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-02-23 18:48:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: pl\n"
+"Project-Id-Version: Plugins - PublishPress Future: Automatically Unpublish WordPress Posts - Stable (latest release)\n"
+
+#: src/Views/menu-diagnostics.php:110
+msgid "Posts and expiration settings"
+msgstr "Ustawienia wygasania wpisów"
+
+#: src/Views/expire-column.php:25
+msgid "Cron event not found!"
+msgstr "Nie znaleziono zadania w cronie!"
+
+#: src/Views/expire-column.php:22
+msgid "Cron event scheduled."
+msgstr "Ustawiono zadanie w cronie."
+
+#: legacy/classes/Display.class.php:89
+msgid "You do not have permission to configure PublishPress Future."
+msgstr "Brak uprawnień do konfiguracji PublishPress Future."
+
+#: legacy/classes/Display.class.php:472
+msgid "About"
+msgstr "Informacje"
+
+#: src/Views/tabs.php:28
+msgid "Advanced"
+msgstr "Zaawansowane"
+
+#: legacy/classes/Display.class.php:488
+msgid "Contact"
+msgstr "Kontakt"
+
+#: src/Views/tabs.php:18
+msgid "Display"
+msgstr "Wyświetl"
+
+#: src/Views/menu-editor.php:15
+msgid "Editor"
+msgstr "Redaktor"
+
+#: src/Modules/Settings/Controllers/Controller.php:180
+msgid "Select whether the PublishPress Future is enabled for all new posts."
+msgstr "Wybierz czy PublishPress Future będzie dostępne dla nowych wpisów."
+
+#: src/Views/menu-advanced.php:55
+msgid "Choose which user roles can use PublishPress Future"
+msgstr "Wybierz kto może używać PublishPress Future"
+
+#: legacy/classes/Display.class.php:486
+msgid "Contact the PublishPress team"
+msgstr "Skontaktuj się z zespołem PublishPress"
+
+#: legacy/classes/Display.class.php:480
+msgid "Documentation"
+msgstr "Dokumentacja"
+
+#: legacy/classes/Display.class.php:478
+msgid "Future Documentation"
+msgstr "Dokumentacja Future"
+
+#: legacy/classes/Display.class.php:470
+msgid "About PublishPress Future"
+msgstr "O PublishPress Future"
+
+#: legacy/classes/Display.class.php:455
+msgid "If you like %s, please leave us a %s rating. Thank you!"
+msgstr "Jeżeli lubisz %s, proszę zostaw opinię %s. Z góry dziękujemy!"
+
+#: legacy/classes/Display.class.php:57
+msgid "PublishPress Future Options"
+msgstr "Opcje PublishPress Future"
+
+#. Plugin Name of the plugin
+#: legacy/classes/Facade.class.php:380 legacy/functions.php:356
+#: src/Views/bulk-edit.php:23 src/Views/tabs.php:53
+msgid "PublishPress Future"
+msgstr "PublishPress Future"
+
+#: legacy/classes/Display.class.php:58
+msgid "Future"
+msgstr "Zaplanowane"
+
+#: src/Views/menu-advanced.php:104
+msgid "Delete data"
+msgstr "Usuwanie danych"
+
+#: src/Views/menu-advanced.php:108
+msgid "Toggle between preserving or deleting data after the plugin is deactivated."
+msgstr "Przełącz między zachowywaniem lub usuwaniem danych po wyłączeniu wtyczki."
+
+#: src/Views/menu-advanced.php:95
+msgid "Preserve data"
+msgstr "Zachowaj dane"
+
+#: src/Views/menu-advanced.php:86
+msgid "Preserve data after deactivating the plugin"
+msgstr "Zachowaj dane po wyłączeniu wtyczki"
+
+#: src/Views/menu-diagnostics.php:83
+msgid "No cron events found for the plugin."
+msgstr "Brak zadań wtyczki w cronie."
+
+#: legacy/classes/Facade.class.php:383
+msgid "Loading"
+msgstr "Wczytywanie"
+
+#: src/Views/menu-advanced.php:20
+msgid "Advanced Options"
+msgstr "Opcje zaawansowane"
+
+#: src/Views/bulk-edit.php:114 src/Views/quick-edit.php:78
+msgid "Type"
+msgstr "Typ"
+
+#: src/Views/tabs.php:23
+msgid "Post Types"
+msgstr "Typy treści"
+
+#: src/Views/menu-advanced.php:46 src/Views/menu-editor.php:34
+msgid "Toggle between native support for the Block Editor or the backward compatible Classic Editor style metabox."
+msgstr "Przełącz między natywną obsługą edytora blokowego a zgodnym wstecznie klasycznego."
+
+#: src/Views/menu-advanced.php:44 src/Views/menu-editor.php:32
+msgid "Show Classic Editor style box"
+msgstr "Pokaż element klasycznego edytora"
+
+#: src/Views/menu-advanced.php:38 src/Views/menu-editor.php:27
+msgid "Show Gutenberg style box"
+msgstr "Pokaż element w stylu Gutenberga"
+
+#: src/Views/menu-advanced.php:32 src/Views/menu-editor.php:22
+msgid "Block Editor Support"
+msgstr "Wsparcie edytora blokowego"
+
+#: src/Views/menu-advanced.php:22
+msgid "Please do not update anything here unless you know what it entails. For advanced users only."
+msgstr "Proszę niczego tutaj nie aktualizować, chyba że wiesz, co robisz. Tylko dla zaawansowanych użytkowników."
+
+#: src/Views/menu-general.php:91
+msgid "The default format to use when displaying the expiration time within a post using the shortcode or within the footer.  For information on valid formatting options, see: %s."
+msgstr "Domyślny format używany podczas wyświetlania czasu wygaśnięcia we wpisie za pomocą skrótu lub w stopce. Aby uzyskać informacje o prawidłowych opcjach formatowania, zobacz: %s."
+
+#: src/Views/menu-general.php:74
+msgid "The default format to use when displaying the expiration date within a post using the shortcode or within the footer.  For information on valid formatting options, see: %s."
+msgstr "Domyślny format używany podczas wyświetlania daty wygaśnięcia we wpisie za pomocą skrótu lub w stopce. Aby uzyskać informacje o prawidłowych opcjach formatowania, zobacz: %s."
+
+#: src/Views/menu-display.php:40
+msgid "%1$s - valid options are %2$sfull%3$s (default), %4$sdate%5$s, %6$stime%7$s"
+msgstr "%1$s - poprawne opcje to %2$sfull%3$s (domyślnie), %4$sdate%5$s, %6$stime%7$s"
+
+#: src/Views/menu-display.php:36
+msgid "Valid %s attributes:"
+msgstr "Poprawne atrybuty %s:"
+
+#: src/Views/menu-display.php:34
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: src/Views/menu-diagnostics.php:22
+msgid "Debug Logging"
+msgstr "Logowanie debug"
+
+#: legacy/functions.php:1168
+#: src/Modules/Settings/Controllers/Controller.php:185
+msgid "No taxonomies found"
+msgstr "Brak taksonomii"
+
+#. Author URI of the plugin
+msgid "http://publishpress.com"
+msgstr "http://publishpress.com"
+
+#. Author of the plugin
+msgid "PublishPress"
+msgstr "PublishPress"
+
+#: src/Views/bulk-edit.php:35
+msgid "No Change"
+msgstr "Bez zmian"
+
+#: src/Views/bulk-edit.php:51
+msgid "Remove from posts"
+msgstr "Usuń z wpisów"
+
+#: src/Views/bulk-edit.php:48
+msgid "Change & Add"
+msgstr "Zmień i dodaj"
+
+#: src/Views/bulk-edit.php:44
+msgid "Add to posts"
+msgstr "Dodaj do wpisów"
+
+#: src/Views/bulk-edit.php:43
+msgid "Add expiry date if not enabled on posts"
+msgstr "Dodaj datę wygaśnięcia, jeśli nie jest włączona we wpisach"
+
+#: src/Views/bulk-edit.php:40
+msgid "Change on posts"
+msgstr "Zmień we wpisach"
+
+#: src/Modules/Expirator/Models/ExpirablePostModel.php:452
+msgid "[%1$s] %2$s"
+msgstr "[%1$s] %2$s"
+
+#: src/Modules/Expirator/Models/ExpirationActionsModel.php:47
+msgid "Trash"
+msgstr "Kosz"
+
+#: src/Modules/Expirator/Models/ExpirationActionsModel.php:49
+msgid "Stick"
+msgstr "Przyklej"
+
+#: src/Modules/Settings/Controllers/Controller.php:191
+msgid "Enter a comma separate list of emails that you would like to be notified when the post expires."
+msgstr "Wpisz rozdzielone przecinkami adresy e-mail, które mają być powiadamiane, gdy wpis wygasa."
+
+#: src/Views/menu-general.php:178
+msgid "This will include all users with the role of \"Administrator\" in the post expiration email."
+msgstr "Doda wszystkich użytkowników z rolą \"Administrator\" do wiadomości e-mail o przeterminowaniu wpisu."
+
+#: src/Views/menu-general.php:136
+msgid "Enable Email Notification?"
+msgstr "Włączyć powiadomienie e-mail?"
+
+#: src/Views/menu-general.php:129
+msgid "Whenever a post expires, an email can be sent to alert users of the expiration."
+msgstr "Zawsze, gdy minie termin ważności wpisu, można wysłać wiadomość e-mail, aby poinformować użytkowników o tym fakcie."
+
+#: src/Views/menu-general.php:160
+msgid "Include Blog Administrators?"
+msgstr "Uwzględnić administratorów blogów?"
+
+#: src/Views/menu-general.php:152
+msgid "This will enable or disable the send of email notification on post expiration."
+msgstr "Spowoduje włączenie lub wyłączenie wysyłania powiadomień e-mail po upływie terminu ważności wpisu."
+
+#: src/Modules/Expirator/Models/ExpirationActionsModel.php:50
+msgid "Unstick"
+msgstr "Odklej"
+
+#: src/Views/menu-general.php:194
+msgid "Enter a comma separate list of emails that you would like to be notified when the post expires.  This will be applied to ALL post types.  You can set post type specific emails on the Defaults tab."
+msgstr "Wpisz rozdzielone przecinkami adresy e-mail, które mają być powiadamiane, gdy wpis wygasa. Ustawienie będzie dotyczyć WSZYSTKICH typów treści. Można ustawić osobne listy e-maili dla poszczególnych typów treści w zakładce domyślne."
+
+#: src/Views/menu-general.php:127
+msgid "Expiration Email Notification"
+msgstr "Powiadomienie e-mail o wygasaniu"
+
+#: src/Modules/Expirator/Models/ExpirablePostModel.php:449
+msgid "Post Expiration Complete \"%s\""
+msgstr "Wpis %s” wygasł"
+
+#: src/Modules/Settings/Controllers/Controller.php:190
+#: src/Views/menu-general.php:187
+msgid "Who to notify"
+msgstr "Kogo powiadamiać"
+
+#: src/Views/bulk-edit.php:28 src/Views/menu-diagnostics.php:104
+#: src/Views/quick-edit.php:22
+msgid "Date"
+msgstr "Data"
+
+#: src/Views/menu-advanced.php:120 src/Views/menu-display.php:135
+#: src/Views/menu-editor.php:44 src/Views/menu-general.php:205
+msgid "Save Changes"
+msgstr "Zapisz zmiany"
+
+#: src/Modules/Expirator/Models/ExpirationActionsModel.php:46
+msgid "Private"
+msgstr "Prywatne"
+
+#: src/Views/menu-diagnostics.php:107
+msgid "Event"
+msgstr "Wydarzenie"
+
+#: src/Views/menu-diagnostics.php:44
+msgid "Enable Debugging"
+msgstr "Włącz debugowanie"
+
+#: src/Views/menu-diagnostics.php:29
+msgid "Disable Debugging"
+msgstr "Wyłącz debugowanie"
+
+#: src/Views/menu-diagnostics.php:18
+msgid "Advanced Diagnostics"
+msgstr "Zaawansowana diagnostyka"
+
+#: legacy/classes/Display.class.php:224
+msgid "Debugging Table Emptied"
+msgstr "Tabela debugowania wyczyszczona"
+
+#: legacy/classes/Display.class.php:216
+msgid "Debugging Enabled"
+msgstr "Debugowanie włączone"
+
+#: legacy/classes/Display.class.php:211
+msgid "Debugging Disabled"
+msgstr "Debugowanie wyłączone"
+
+#: src/Views/menu-display.php:101
+msgid "Enter the text you would like to appear at the bottom of every post that will expire.  The following placeholders will be replaced with the post expiration date in the following format:"
+msgstr "Wprowadź tekst, który ma się pojawiać na dole każdego wpisu, który ma termin ważności.  Następujące symbole zastępcze zostaną zastąpione terminem ważności wpisu w następującym formacie:"
+
+#: src/Views/menu-display.php:128
+msgid "The inline css which will be used to style the footer text."
+msgstr "Inline CSS, który będzie używany do stylu tekstu stopki."
+
+#: src/Modules/Settings/Controllers/Controller.php:173
+msgid "Select the default expire action for the post type."
+msgstr "Wybierz domyślną akcję dla tego typu wpisów, wykonywaną gdy termin ich ważności upłynie."
+
+#: src/Views/menu-diagnostics.php:92
+msgid "The below table will show all currently scheduled cron events for the plugin with the next run time."
+msgstr "Poniższa tabela pokaże wszystkie aktualnie zaplanowane wydarzenia cykliczne z następnym czasem wykonania."
+
+#: src/Modules/Settings/Controllers/Controller.php:161
+msgid "Use the values below to set the default actions/values to be used for each for the corresponding post types.  These values can all be overwritten when creating/editing the post/page."
+msgstr "Użyj poniższych wartości, aby ustawić domyślne akcje/wartości, które mają być używane dla każdego z odpowiednich typów wpisów.  Wszystkie te wartości mogą zostać nadpisane podczas tworzenia/edycji postów/strony."
+
+#: src/Modules/Settings/Controllers/Controller.php:167
+msgid "Inactive"
+msgstr "Nieaktywne"
+
+#: src/Modules/Expirator/Models/ExpirationActionsModel.php:48
+msgid "Delete"
+msgstr "Usuń"
+
+#: src/Modules/Expirator/Models/ExpirationActionsModel.php:45
+msgid "Draft"
+msgstr "Szkic"
+
+#: src/Modules/Settings/Controllers/Controller.php:165
+#: src/Modules/Settings/Controllers/Controller.php:166
+msgid "Active"
+msgstr "Włączono"
+
+#: src/Views/menu-debug-log.php:7
+msgid "Below is a dump of the debugging table, this should be useful for troubleshooting."
+msgstr "Poniżej znajduje się zrzut tabeli debugowania. Może być przydatne do rozwiązywania problemów."
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/extend/plugins/post-expirator/"
+msgstr "https://pl.wordpress.org/plugins/post-expirator/"
+
+#. Description of the plugin
+msgid "Allows you to add an expiration date (minute) to posts which you can configure to either delete the post, change it to a draft, or update the post categories at expiration time."
+msgstr "Pozwala nadać wpisom termin ważności. Można skonfigurować akcje wykonane po terminie: skasować wpis, zmienić w szkic lub zmienić kategorie wpisu."
+
+#: src/Modules/Settings/Controllers/Controller.php:168
+msgid "Select whether the PublishPress Future meta box is active for this post type."
+msgstr "Wybierz, czy pole ustawień terminu ważności wpisów jest aktywne dla tego typu wpisów."
+
+#: src/Views/menu-diagnostics.php:75
+msgid "Current Cron Schedule"
+msgstr "Aktualne zadania crona"
+
+#: src/Views/menu-diagnostics.php:62
+msgid "WP-Cron Status"
+msgstr "Status WP-Crona"
+
+#: src/Views/menu-diagnostics.php:54 src/Views/menu-diagnostics.php:57
+msgid "Purge Debug Log"
+msgstr "Wyczyść log debugowania"
+
+#: src/Modules/Settings/Controllers/Controller.php:184
+msgid "Taxonomy (hierarchical)"
+msgstr "Taksonomia (hierarchiczna)"
+
+#: src/Modules/Settings/Controllers/Controller.php:177
+msgid "Auto-enable?"
+msgstr "Włączyć automatycznie?"
+
+#: src/Modules/Settings/Controllers/Controller.php:160
+msgid "Default Expiration Values"
+msgstr "Domyślne wartości daty wygaśnięcia"
+
+#: src/Views/menu-display.php:125
+msgid "This post will expire on"
+msgstr "Wpis wygaśnie"
+
+#: src/Views/menu-display.php:119
+msgid "Footer Style"
+msgstr "Styl stopki"
+
+#: src/Views/menu-display.php:96
+msgid "Footer Contents"
+msgstr "Zawartość stopki"
+
+#: src/Views/taxonomy-field.php:10
+msgid "Select the hierarchical taxonomy to be used for \"category\" based expiration."
+msgstr "Wybierz hierarchiczną taksonomię do wykorzystania dla wygasania bazującego na kategoriach."
+
+#: legacy/functions.php:24
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: src/Views/bulk-edit.php:95 src/Views/classic-metabox.php:85
+#: src/Views/quick-edit.php:61
+msgid "Hour"
+msgstr "Godzina"
+
+#: src/Views/menu-general.php:63 src/Views/tabs.php:13
+msgid "Defaults"
+msgstr "Domyślne"
+
+#: legacy/functions.php:77 legacy/functions.php:167
+msgid "Expires"
+msgstr "Wygasa"
+
+#: src/Views/menu-debug-log.php:24
+msgid "Debugging table is currently empty."
+msgstr "Tabela debugowania jest obecnie pusta."
+
+#: services.php:62
+msgid "Post expires at EXPIRATIONTIME on EXPIRATIONDATE"
+msgstr "Wpis wygasa o EXPIRATIONTIME dnia EXPIRATIONDATE"
+
+#: src/Views/classic-metabox.php:18
+msgid "The published date/time will be used as the expiration value"
+msgstr "Data opublikowania będzie użyta jako wartość wygaszenia"
+
+#: legacy/classes/Facade.class.php:382
+#: src/Modules/Settings/Controllers/Controller.php:172
+#: src/Views/bulk-edit.php:116 src/Views/classic-metabox.php:117
+#: src/Views/quick-edit.php:80
+msgid "How to expire"
+msgstr "W jaki sposób ma wygasać"
+
+#: src/Views/menu-diagnostics.php:38
+msgid "View Debug Logs"
+msgstr "Zobacz logi"
+
+#: src/Views/menu-display.php:67
+msgid "Post Footer Display"
+msgstr "Wyświetlanie stopki wpisu"
+
+#: src/Views/menu-display.php:76
+msgid "Show in post footer?"
+msgstr "Pokazać w stopce wpisu?"
+
+#: src/Views/menu-display.php:88
+msgid "This will enable or disable displaying the post expiration date in the post footer."
+msgstr "Spowoduje to włączenie lub wyłączenie wyświetlania terminu ważności wpisu w jego stopce."
+
+#: src/Views/classic-metabox.php:171
+msgid "Taxonomy Name"
+msgstr "Nazwa taksonomii"
+
+#: src/Views/classic-metabox.php:153
+msgid "More than 1 heirachical taxonomy detected.  You must assign a default taxonomy on the settings screen."
+msgstr "Wykryto więcej niż 1 hierarchiczną taksonomię.  Należy przypisać domyślną taksonomię na ekranie ustawień."
+
+#: src/Modules/Settings/Controllers/Controller.php:179
+#: src/Views/menu-diagnostics.php:41 src/Views/menu-diagnostics.php:69
+#: src/Views/menu-display.php:86 src/Views/menu-general.php:150
+#: src/Views/menu-general.php:176
+msgid "Disabled"
+msgstr "Wyłączono"
+
+#: src/Views/bulk-edit.php:102 src/Views/classic-metabox.php:110
+#: src/Views/quick-edit.php:67
+msgid "Minute"
+msgstr "Minuta"
+
+#: services.php:61
+msgid "g:ia"
+msgstr "H:i"
+
+#: src/Views/expire-column.php:28
+msgid "Never"
+msgstr "Nigdy"
+
+#: src/Views/menu-debug-log.php:32
+msgid "Message"
+msgstr "Wiadomość"
+
+#: src/Views/tabs.php:33
+msgid "Diagnostics"
+msgstr "Diagnostyka"
+
+#: src/Modules/Settings/Controllers/Controller.php:178
+#: src/Views/menu-diagnostics.php:26 src/Views/menu-diagnostics.php:66
+#: src/Views/menu-display.php:81 src/Views/menu-general.php:143
+#: src/Views/menu-general.php:168
+msgid "Enabled"
+msgstr "Włączono"
+
+#: src/Views/menu-general.php:84
+msgid "Time Format"
+msgstr "Format godziny"
+
+#: src/Views/bulk-edit.php:88 src/Views/classic-metabox.php:27
+#: src/Views/quick-edit.php:54
+msgid "Year"
+msgstr "Rok"
+
+#: src/Views/menu-general.php:67
+msgid "Date Format"
+msgstr "Format daty"
+
+#: src/Views/bulk-edit.php:81 src/Views/classic-metabox.php:78
+#: src/Views/quick-edit.php:47
+msgid "Day"
+msgstr "Dzień"
+
+#: src/Views/bulk-edit.php:57 src/Views/classic-metabox.php:56
+#: src/Views/quick-edit.php:25
+msgid "Month"
+msgstr "Miesiąc"
+
+#: legacy/classes/Display.class.php:311 legacy/classes/Display.class.php:370
+msgid "Saved Options!"
+msgstr "Opcje zostały zapisane!"
+
+#: legacy/classes/Facade.class.php:381 src/Views/bulk-edit.php:31
+#: src/Views/classic-metabox.php:11 src/Views/quick-edit.php:16
+msgid "Enable Post Expiration"
+msgstr "Włącz wygasanie wpisów"
+
+#: src/Views/menu-display.php:54 src/Views/menu-display.php:59
+msgid "%s - format set here will override the value set on the settings page"
+msgstr "%s - format ustawiony tutaj spowoduje zastąpienie wartości ustawionej w witrynie"
+
+#: src/Views/menu-display.php:69
+msgid "Enabling this below will display the expiration date automatically at the end of any post which is set to expire."
+msgstr "Włączenie poniższej opcji, spowoduje wyświetlenie terminu ważności na końcu każdego wpisu, który ma go ustawionego."
+
+#: services.php:60
+msgid "l F jS, Y"
+msgstr "d F Y"
+
+#: src/Views/menu-debug-log.php:31
+msgid "Timestamp"
+msgstr "Znacznik czasu"
